@@ -1,0 +1,99 @@
+<GI> CP060530:1 <COORDINATES> 475700-498426 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.175101; n0_4mer:D = 29.812135; n0_4mer:PS = 10.098672
+	[475700:476248:dir] homoserine kinase
+	[476276:476722:dir] homoserine kinase
+	[476696:477880:rev] drug resistance MFS transporter, drug:H+ antiporter-2 (14 Spanner) (DHA2) family
+	[477926:478711:rev] hypothetical protein
+	[478708:479331:rev] hypothetical protein
+	[479515:480390:rev] dTDP-glucose 4,6 dehydratase
+	[480391:481470:rev] UDP-D-galactose:(glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase
+	[481534:483819:rev] hypothetical protein
+	[483833:484609:rev] Cephalosporin hydroxylase
+	[484679:485647:dir] N-glycosyltransferase
+	[485649:486506:dir] aglG; Glycosyltransferase AglG
+	[486503:486955:rev] hypothetical protein
+	[486982:487299:rev] N-glycosyltransferase
+	[487346:488416:dir] colanic acid biosynthesis glycosyltransferase WcaL
+	[488434:489423:rev] methyltransferase, FkbM family
+	[489586:490182:dir] hypothetical protein
+	[490319:491143:dir] tellurite resistance protein TehB
+	[491225:492052:dir] rsmA_3; putative ribosomal RNA small subunit methyltransferase A
+	[492395:492853:rev] nudF_3; ADP-ribose pyrophosphatase
+	[493166:493954:dir] Glycosyl transferase family 2
+	[494056:494820:rev] Purine nucleoside phosphorylase
+	[495006:495881:rev] hypothetical protein
+	[496063:496362:dir] hypothetical protein
+	[496394:496846:rev] hypothetical protein
+	[497053:497667:dir] hypothetical protein
+	[497722:498426:dir] putative cytidylate kinase
+<END>
+<GI> CP060530:2 <COORDINATES> 683697-706472 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.682861; n0_4mer:D = 32.779061; n0_4mer:PS = 55.564015
+	[683697:684194:rev] adenine phosphoribosyltransferase
+	[684241:685926:rev] B12-binding domain/radical SAM domain protein, family
+	[686297:686473:dir] hypothetical protein
+	[686563:686880:rev] Dinitrogenase iron-molybdenum cofactor
+	[687088:688500:rev] hypothetical protein
+	[688699:688773:rev] tRNA-Phe(gaa); tRNA-Phe
+	[688909:690501:dir] Putative ski2-type helicase
+	[690503:691801:dir] potassium/proton antiporter
+	[691801:692259:dir] Archaeal holliday junction resolvase (hjc)
+	[692500:693918:dir] DNA primase
+	[694078:694434:dir] Transcriptional regulator PadR-like family protein
+	[694443:695435:dir] malK_16; Trehalose/maltose import ATP-binding protein MalK
+	[695432:696592:dir] inner membrane transport permease
+	[696589:698247:dir] NPCBM-associated, NEW3 domain of alpha-galactosidase
+	[698307:699203:dir] hypothetical protein
+	[699264:699584:dir] albA2; Af1
+	[699722:701011:dir] aspS_3; Aspartate--tRNA ligase
+	[701013:701387:rev] FeS assembly SUF system protein
+	[701398:702378:rev] putative phosphohydrolase (DHH superfamily)
+	[702447:703058:rev] hypothetical protein
+	[703158:703709:dir] hypothetical protein
+	[703834:704343:dir] nucleoside triphosphate pyrophosphohydrolase
+	[704499:705218:dir] CRISPR locus-related DNA-binding protein
+	[705267:706472:rev] mat_2; S-adenosylmethionine synthase
+<END>
+<GI> CP060530:3 <COORDINATES> 765890-802277 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.948246; n0_4mer:D = 34.263095; n0_4mer:PS = 39.646883
+	[765890:766357:rev] hypothetical protein
+	[766370:766588:rev] hypothetical protein
+	[766611:766763:rev] 50S ribosomal protein L40e
+	[767292:767696:dir] Arginine decarboxylase proenzyme precursor
+	[767903:768367:dir] hypothetical protein
+	[768399:768689:dir] putative conserved protein; hypothetical protein
+	[768785:769159:dir] hypothetical protein
+	[769243:770805:dir] Polysaccharide biosynthesis protein
+	[771243:773075:dir] mjaVM; Modification methylase MjaV
+	[773075:775087:dir] type I restriction enzyme EcoKI subunit R
+	[775080:775415:dir] head completion protein
+	[775657:777693:dir] DGQHR domain protein
+	[777850:778008:rev] hypothetical protein
+	[778170:778616:dir] hypothetical protein
+	[778893:779309:rev] hypothetical protein
+	[779565:780251:rev] hypothetical protein
+	[780494:780751:dir] CRISPR locus-related DNA-binding protein
+	[780849:781487:dir] hypothetical protein
+	[781484:781798:dir] CRISPR locus-related DNA-binding protein
+	[781894:782370:rev] hypothetical protein
+	[782652:783248:rev] putative adenylyl cyclase CyaB
+	[783391:783990:dir] hypothetical protein
+	[784125:784601:dir] 4-hydroxybenzoate synthetase (chorismate lyase)
+	[784656:785030:rev] lineage-specific thermal regulator protein
+	[785023:785316:rev] hypothetical protein
+	[785354:785788:rev] iron-sulfur cluster repair di-iron protein
+	[785772:786254:rev] hypothetical protein
+	[786259:786648:rev] msrB_2; Peptide methionine sulfoxide reductase MsrB
+	[786658:786990:rev] tbp; TATA-box factor
+	[787097:787381:dir] 50S ribosomal protein L21e
+	[787473:788060:rev] hypothetical protein
+	[788096:788431:rev] DNA-directed RNA polymerase subunit F
+	[788672:788896:rev] Putative snRNP Sm-like protein
+	[788938:790068:rev] colanic acid biosynthesis glycosyltransferase WcaL
+	[790078:791151:rev] rpoA2_2; DNA-directed RNA polymerase subunit A''
+	[791161:793698:rev] rpoA1_2; DNA-directed RNA polymerase subunit A'
+	[793708:795531:rev] rpoB1_2; DNA-directed RNA polymerase subunit B'
+	[795547:797013:rev] rpoB2; DNA-directed RNA polymerase subunit B''
+	[797059:797307:rev] rpoH_2; DNA-directed RNA polymerase subunit H
+	[797515:798435:dir] regulatory ATPase RavA
+	[798516:799187:rev] hypothetical protein
+	[799273:801162:rev] molybdenum cofactor biosynthesis protein A
+	[801396:802277:rev] hypothetical protein
+<END>

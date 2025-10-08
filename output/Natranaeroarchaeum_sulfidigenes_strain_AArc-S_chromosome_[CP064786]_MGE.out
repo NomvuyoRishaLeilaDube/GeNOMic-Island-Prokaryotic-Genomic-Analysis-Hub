@@ -1,0 +1,415 @@
+<GI> CP064786:1 <COORDINATES> 187923-211709 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.813710; n0_4mer:D = 26.857369; n0_4mer:PS = 37.775612
+	[187923:189008:rev] mrp; Mrp family protein, ATPase, contains iron-sulfurcluster
+	[189178:189342:dir] hypothetical protein
+	[189356:190867:dir] pheS; Phenylalanyl-tRNA synthetase alpha subunit
+	[190867:192594:dir] pheT; Phenylalanyl-tRNA synthetase beta subunit
+	[192717:193772:rev] pyrD; Dihydroorotate dehydrogenase
+	[193838:194035:rev] SymE toxin family protein
+	[194283:194591:dir] Helicase associated uncharacterized terminal domain
+	[195449:196919:dir] 16S ribosomal RNA
+	[197054:197125:dir] tRNA-Ala
+	[197373:200281:dir] 23S ribosomal RNA
+	[200434:200553:dir] 5S ribosomal RNA
+	[200802:202640:dir] aprE; Subtilisin-like serine protease
+	[202650:202982:dir] Intracellular proteinase inhibitor related protein, contains CARDB domain
+	[203192:203267:dir] tRNA-Cys
+	[203464:204396:dir] lipA; Lipoate synthase
+	[204719:206311:dir] norM3; Na+-driven multidrug efflux pump
+	[206354:207451:dir] ampS; Leucyl aminopeptidase (aminopeptidase T)
+	[207448:207867:rev] iscU; involved in Fe-S cluter formation; NifU-like protein
+	[207955:208323:rev] putative RNA-binding protein, contains TRAM domain
+	[208475:209725:rev] csdA; Selenocysteine lyase/Cysteine desulfurase
+	[209869:210822:dir] ccmA2; ABC-type multidrug transport system, ATPase component
+	[210819:211709:dir] nosY2; ABC-type transport system involved in multi-copper enzyme maturation, permease component
+<END>
+<GI> CP064786:2 <COORDINATES> 214579-235599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.138626; n0_4mer:D = 30.531800; n0_4mer:PS = 37.794822
+	[214579:215718:dir] fruA; Phosphotransferase system, fructose-specific IICcomponent
+	[215760:216227:dir] ptsN; Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+	[216224:216496:dir] fruB; Phosphotransferase system HPr-related protein
+	[216516:218177:dir] ptsA; Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria)
+	[218225:218638:dir] fruB2; Phosphotransferase system fructose-specific component IIB
+	[218784:219344:dir] ligT; 2'-5' RNA ligase
+	[220591:221475:rev] dapA; Dihydrodipicolinate synthase/N-acetylneuraminatelyase
+	[221979:222251:dir] hypothetical protein
+	[222526:222969:dir] uspA4; Nucleotide-binding protein, UspA family
+	[223123:224151:rev] Extracellular solute binding protein
+	[224684:225226:dir] hypothetical protein
+	[225217:226512:dir] TRAP-type uncharacterized transport system, fused permease component
+	[226682:228868:rev] lutB; L-lactate utilization protein LutB, contains ferredoxin domain
+	[228861:229361:rev] lutC; L-lactate utilization protein LutC, contains LUDdomain
+	[230494:231276:rev] iclR; DNA-binding transcriptional regulator, IclR family
+	[232102:232851:rev] sir2; NAD-dependent protein deacetylase, SIR2 family
+	[233004:234245:dir] cypX2; Cytochrome P450
+	[234360:234971:dir] msrA2; Peptide methionine sulfoxide reductase
+	[235042:235599:dir] hemG; Protoporphyrinogen IX oxidase, menaquinone-dependent (flavodoxin domain)
+<END>
+<GI> CP064786:3 <COORDINATES> 313416-336099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.529298; n0_4mer:D = 28.094601; n0_4mer:PS = 25.429407
+	[313416:314018:dir] DUF4382 family
+	[314352:314424:rev] tRNA-Arg
+	[314676:316124:dir] rpa1; Single-stranded DNA-binding replication protein A (RPA), large (70 kD) subunit or related ssDNA-binding protein
+	[316214:316618:dir] hht1; Histones H3 and H4
+	[316620:317639:dir] acuC; including yeast histone deacetylase and acetoin utilization protein; Deacetylase
+	[317636:318997:rev] cCA1; tRNA nucleotidyltransferase (CCA-adding enzyme)
+	[319097:319169:dir] tRNA-Asn
+	[319270:319344:dir] tRNA-Ile2; tRNA-Ile
+	[320082:320486:dir] Uncharacterized protein
+	[320899:321876:rev] hypothetical protein
+	[322088:322912:dir] Restriction endonuclease, HNH family
+	[322906:323283:rev] hypothetical protein
+	[323387:323638:dir] Uncharacterized protein
+	[323635:324024:dir] PIN domain containing protein
+	[324026:324463:rev] PD-(DE)xK superfamily endonuclease
+	[324513:324923:dir] hypothetical protein
+	[325337:326134:dir] putative membrane protein
+	[326546:326619:rev] tRNA-Lys
+	[326671:327384:rev] Uncharacterized protein
+	[327582:327734:rev] hypothetical protein
+	[327738:327992:rev] hypothetical protein
+	[328033:328257:dir] Uncharacterized protein
+	[328384:330126:dir] cysI; Sulfite reductase, beta subunit (hemoprotein)
+	[330198:331784:dir] putA; Lactaldehyde dehydrogenase, Succinate semialdehyde dehydrogenase or other NAD-dependent aldehyde dehydrogenase
+	[331781:332854:dir] wcaG; Nucleoside-diphosphate-sugar epimerase
+	[332948:333628:dir] KaiC-like protein ATPase
+	[333690:334097:dir] Uncharacterized protein
+	[334142:334429:rev] putative acyltransferase
+	[334426:335619:rev] putative ATP-grasp enzyme
+<END>
+<GI> CP064786:4 <COORDINATES> 355935-377467 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.902222; n0_4mer:D = 28.221060; n0_4mer:PS = 26.746559
+	[355935:356834:rev] contains NAD(P)-binding and DUF2867 domains; YbjT
+	[357033:357506:dir] Cupin domain containing protein
+	[357507:358589:rev] tyw2; Wybutosine (yW) biosynthesis enzyme, TYW2 transferase
+	[358582:359715:rev] nmd3; NMD protein affecting ribosome stability and mRNA decay
+	[359880:360050:dir] vapB32; RHH/copG family antitoxin
+	[360097:360342:dir] vapC2; PIN domain containing protein
+	[360352:360570:dir] IS6 family transposase
+	[361627:362670:rev] hypothetical protein
+	[362674:364497:rev] hypothetical protein
+	[364834:365106:rev] hypothetical protein
+	[365906:366781:dir] htpX; Zn-dependent protease with chaperone function
+	[366830:367381:dir] coaE; Dephospho-CoA kinase
+	[367378:367794:dir] putative RNA binding protein with dsRBD fold
+	[367791:368753:rev] putative membrane protein
+	[368805:369599:rev] putative acyltransferase
+	[369690:370220:rev] putative trancriptional regulator, ArsR family
+	[370503:370925:rev] Nucleoside 2-deoxyribosyltransferase
+	[371041:371547:rev] DUF1102 family
+	[372010:372573:dir] Uncharacterized protein
+	[372653:373756:dir] DUF1102 family
+	[373854:375011:dir] lepB2; Signal peptidase I
+	[375138:376298:dir] putative membrane protein
+	[376295:377467:rev] Uncharacterized protein
+<END>
+<GI> CP064786:5 <COORDINATES> 445884-478779 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.756419; n0_4mer:D = 49.737731; n0_4mer:PS = 28.615985
+	[445884:446573:rev] Minimal nucleotidyltransferase
+	[446989:447714:rev] Uncharacterized protein
+	[447721:448857:rev] Uncharacterized protein
+	[449113:449427:dir] Uncharacterized protein
+	[449465:449884:dir] Transcriptional regulator, contains HTH domain
+	[449930:450403:rev] Uncharacterized protein
+	[450403:451083:rev] arsR3; Transcriptional regulator containing HTH domain,ArsR family
+	[451224:453644:dir] aglS; Dolichol phosphate-mannose mannosyltransferase
+	[453748:453957:dir] cDC6-4; Cdc6-related protein, AAA superfamily ATPase
+	[454381:455886:rev] aglR2; MATE family membrane protein, Rfbx family
+	[456086:457048:rev] wcaG2; Nucleoside-diphosphate-sugar epimerase
+	[457176:458192:rev] WD40/PQQ-like beta propeller repeat containing protein
+	[458189:459502:rev] TPR repeats containing protein
+	[459958:460836:rev] SAM-dependent methyltransferase
+	[460849:461970:rev] rfaG2; Glycosyltransferase
+	[462163:463257:rev] rfaG3; Glycosyltransferase
+	[463467:464987:dir] hypothetical protein
+	[465345:465704:dir] tmk; Thymidylate kinase
+	[465815:466945:rev] rfaG4; Glycosyltransferase
+	[467002:467811:rev] cDA1; Peptidoglycan/xylan/chitin deacetylase, PgdA/CDA1 family
+	[467808:468575:rev] purN; Folate-dependent phosphoribosylglycinamide formyltransferase PurN
+	[469004:469975:dir] wcaG3; Nucleoside-diphosphate-sugar epimerase
+	[469976:471337:dir] wecC; UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+	[471395:472321:dir] wcaG4; Nucleoside-diphosphate-sugar epimerase
+	[472324:473745:rev] wcaJ; Sugar transferase involved in lipopolysaccharidesynthesis
+	[473884:474870:rev] wcaG5; Nucleoside-diphosphate-sugar epimerase
+	[474931:475311:rev] hypothetical protein
+	[475578:475988:dir] VanZ like family protein
+	[476100:476843:dir] elaC; Metal-dependent hydrolase of the beta-lactamase superfamily
+	[477042:477578:dir] HTH-domain containing transcriptional regulator
+	[477586:478032:dir] Uncharacterized protein
+	[478054:478779:rev] aglF; Glucose-1-phosphate uridyltransferase
+<END>
+<GI> CP064786:6 <COORDINATES> 1455698-1555174 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.423225; n0_4mer:D = 34.536340; n0_4mer:PS = 29.577254
+	[1455698:1456651:dir] Peptidase MA (zincin) superfamily, DUF2342 family
+	[1456664:1456870:rev] putative membrane protein
+	[1456870:1457244:rev] Ketosteroid isomerase-like protein
+	[1457307:1457858:rev] Uncharacterized protein
+	[1457934:1458974:rev] purM; Phosphoribosylaminoimidazole (AIR) synthetase
+	[1459026:1460180:dir] paaJ3; Acetyl-CoA acetyltransferase
+	[1460177:1460554:dir] OB-fold domain and Zn-ribbon containing protein,possible acyl-CoA-binding protein
+	[1460655:1460729:dir] tRNA-Glu
+	[1460977:1462077:dir] xerC4; XerD/XerC family integrase
+	[1462186:1462713:rev] Uncharacterized protein
+	[1462779:1463891:rev] xerC5; XerD/XerC family integrase
+	[1464247:1465536:rev] PD-(DE)xK superfamily endonuclease
+	[1465612:1465770:rev] hypothetical protein
+	[1465750:1466067:dir] hypothetical protein
+	[1466788:1467225:rev] Uncharacterized protein
+	[1467222:1468064:rev] soj; ATPase involved in chromosome partitioning, ParAfamily
+	[1468564:1469958:rev] hypothetical protein
+	[1470311:1470715:rev] uspA21; Nucleotide-binding protein, UspA family
+	[1470779:1471930:rev] pitA2; Phosphate/sulfate permease
+	[1472218:1472559:rev] Uncharacterized protein
+	[1472959:1473231:dir] HicB family component of toxin-antitoxin system,antitoxin, predicted inactivated nuclease of the RNAse Hfold
+	[1473265:1473459:dir] Toxic component of toxin-antitoxin system, dsRBD-like fold, HicA family
+	[1473705:1473863:dir] hypothetical protein
+	[1473856:1474287:dir] putative membrane protein YckC, RDD family
+	[1474660:1475175:dir] hypothetical protein
+	[1475325:1476080:dir] putative transcriptional regulator
+	[1476664:1477233:dir] arsR7; Transcriptional regulator containing HTH domain,ArsR family
+	[1477226:1477663:dir] Uncharacterized protein
+	[1477901:1482340:rev] Transglutaminase-like cysteine protease
+	[1482770:1483117:dir] hypothetical protein
+	[1483129:1483572:rev] PIN domain containing protein
+	[1483569:1483865:rev] abrB6; AbrB family transcriptional regulator
+	[1484104:1485174:rev] IS605 OrfB family, contains RNAse H fold nuclease and Zn finger domains; Transposable element
+	[1485449:1485607:rev] PIN domain containing protein
+	[1486095:1487954:rev] Glycosyl hydrolase family 18, contains cellulosebinding domain
+	[1488187:1488651:dir] hypothetical protein
+	[1489067:1489942:dir] hypothetical protein
+	[1489942:1490712:dir] Uncharacterized protein
+	[1491135:1492910:dir] dnaJ5; DnaJ-class molecular chaperone
+	[1493359:1494426:rev] hxlR; DNA-binding transcriptional regulator, HxlR family
+	[1494559:1495227:rev] Uncharacterized protein
+	[1495227:1496210:rev] Uncharacterized protein
+	[1496667:1497509:rev] Uncharacterized protein
+	[1497490:1497810:rev] hypothetical protein
+	[1497807:1498775:rev] Uncharacterized protein
+	[1498778:1499359:rev] Uncharacterized protein
+	[1500250:1502256:dir] Queuine tRNA-ribosyltransferase, containing PUA domain
+	[1502279:1503838:rev] mutL; DNA mismatch repair enzyme (predicted ATPase)
+	[1503838:1505079:rev] tgt2; Queuine/archaeosine tRNA-ribosyltransferase
+	[1505094:1505555:rev] Uncharacterized protein
+	[1505925:1510631:dir] Distinct helicase family with a unique C-terminal domain including a metal-binding cysteine cluster
+	[1510628:1511545:dir] hypothetical protein
+	[1511542:1512375:dir] arsR8; Transcriptional regulator containing HTH domain,ArsR family
+	[1512372:1515269:dir] hypothetical protein
+	[1515259:1515954:dir] hypothetical protein
+	[1516103:1520188:dir] Distinct helicase family with a unique C-terminal domain including a metal-binding cysteine cluster
+	[1520316:1520603:dir] hepA; Superfamily II DNA/RNA helicase, SNF2 family
+	[1520830:1523862:dir] ParB-like nuclease domain containing protein fused to HNH nuclease
+	[1524346:1524909:dir] hypothetical protein
+	[1525107:1525658:dir] Transposase
+	[1525685:1526326:dir] Von Willebrand factor type A (vWA) domain
+	[1526597:1527487:dir] hypothetical protein
+	[1527484:1528212:dir] Uncharacterized protein
+	[1528388:1528813:rev] hypothetical protein
+	[1528829:1529503:rev] hypothetical protein
+	[1529493:1530707:rev] hypothetical protein
+	[1530842:1531918:rev] sua73; Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+	[1532192:1532581:dir] putative trancriptional regulator, ArsR family
+	[1532908:1533420:dir] queD2; 6-pyruvoyl-tetrahydropterin synthase
+	[1533420:1534196:dir] nrdG; Organic radical activating enzyme
+	[1534308:1534997:dir] queC; 7-cyano-7-deazaguanine synthase (queuosine biosynthesis)
+	[1535066:1536265:rev] hypothetical protein
+	[1536504:1536812:dir] Von Willebrand factor type A (vWA) domain
+	[1536943:1537245:dir] RHH-fold DNA-binding protein
+	[1537246:1537758:dir] PIN domain containing protein
+	[1538224:1539600:dir] xseA; Exonuclease VII, large subunit
+	[1539648:1539863:dir] hypothetical protein
+	[1539919:1540836:dir] apaH2; Serine/threonine protein phosphatase PP2A family
+	[1541056:1541421:dir] RHH-fold DNA-binding protein
+	[1541418:1541990:dir] PIN domain containing protein
+	[1542526:1542861:dir] hypothetical protein
+	[1542943:1545207:dir] hsdM; Type I restriction-modification system methyltransferase subunit
+	[1545492:1546127:rev] mcrA2; Restriction endonuclease, McrA/HNH family
+	[1546566:1547945:dir] xerC6; XerD/XerC family integrase
+	[1547942:1548106:rev] xerC7; XerD/XerC family integrase
+	[1548103:1549068:rev] xerC8; XerD/XerC family integrase
+	[1549288:1549360:rev] tRNA-Glu
+	[1549786:1549959:dir] Uncharacterized protein
+	[1550302:1550538:dir] Uncharacterized protein
+	[1550541:1551149:dir] Uncharacterized protein
+	[1551174:1551587:rev] putative RNA-binding protein, contains TRAM domain
+	[1551642:1551794:rev] Zn finger protein, C2C2 type
+	[1552684:1553025:dir] Uncharacterized protein
+	[1553213:1553620:rev] putative trancriptional regulator, ArsR family
+	[1553688:1554344:rev] Transcriptional regulator, contains HTH domain
+	[1554533:1555174:dir] Transcriptional regulator, contains HTH domain
+<END>
+<GI> CP064786:7 <COORDINATES> 1563807-1665347 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.257169; n0_4mer:D = 33.406316; n0_4mer:PS = 33.535478
+	[1563807:1567289:rev] Chromosome segregation ATPase, Smc family
+	[1567286:1568581:rev] sbcD; DNA repair exonuclease, SbcD
+	[1569202:1569696:dir] hypothetical protein
+	[1569710:1574515:rev] Superfamily I DNA/RNA helicase fused to RecB family endonuclease
+	[1574789:1575115:dir] hypothetical protein
+	[1575324:1577207:rev] hypothetical protein
+	[1578019:1580580:rev] ySH12; putative exonuclease of the beta-lactamase foldinvolved in RNA processing
+	[1581184:1581441:rev] Uncharacterized protein
+	[1581669:1582916:rev] PD-(DE)xK superfamily endonuclease
+	[1583229:1584581:rev] hypothetical protein
+	[1585642:1587930:dir] cdc482; ATPase of the AAA+ class, CDC48 family
+	[1587920:1588621:dir] Uncharacterized protein
+	[1588626:1588979:dir] Transposase, IS5 family
+	[1589070:1589447:dir] Transposase, IS5 family
+	[1589601:1591247:dir] Signal transduction histidine kinase, contains PAS domain
+	[1591427:1591672:dir] hypothetical protein
+	[1591669:1592043:dir] Uncharacterized protein
+	[1592106:1592570:dir] hypothetical protein
+	[1592981:1593934:rev] HNH family endonuclease
+	[1594091:1595176:dir] putative nuclease of the RecB family
+	[1595432:1596442:rev] hypothetical protein
+	[1597026:1598381:dir] Uncharacterized protein
+	[1598383:1599120:dir] DnaQ-like (or DEDD) 3'-5' exonuclease domain
+	[1599305:1601734:rev] Distinct helicase family with a unique C-terminal domain including a metal-binding cysteine cluster
+	[1601734:1603152:rev] putative DNA repair protein, contains HHH and RNaseH-like domain
+	[1604543:1605067:rev] HNH family endonuclease
+	[1605377:1605706:dir] hypothetical protein
+	[1605838:1606188:rev] Uncharacterized protein
+	[1606241:1609747:rev] hepA2; Superfamily II DNA/RNA helicase, SNF2 family
+	[1609754:1613635:rev] Type II restriction enzyme, methylase subunit
+	[1613793:1614026:rev] putative transcriptional regulator, contains HTH domain
+	[1614224:1614664:dir] Uncharacterized protein
+	[1614661:1615635:dir] Uncharacterized protein
+	[1615632:1616006:dir] hypothetical protein
+	[1615999:1616841:dir] Uncharacterized protein
+	[1616838:1617167:dir] hypothetical protein
+	[1617314:1618099:dir] Uncharacterized protein
+	[1618099:1618764:dir] Uncharacterized protein
+	[1618887:1620005:dir] hxlR2; DNA-binding transcriptional regulator, HxlR family
+	[1620028:1621290:rev] Uncharacterized protein
+	[1621713:1622678:rev] hypothetical protein
+	[1622857:1623438:dir] hypothetical protein
+	[1623488:1623703:rev] Toxic component of toxin-antitoxin system, dsRBD-like fold, HicA family
+	[1623758:1624030:rev] HicB family component of toxin-antitoxin system,antitoxin, predicted inactivated nuclease of the RNAse Hfold
+	[1624027:1624266:rev] DNA-binding transcriptional regulator, IclR family
+	[1624404:1624751:rev] hypothetical protein
+	[1625419:1625730:rev] RHH-fold DNA-binding protein
+	[1625915:1627108:dir] putative membrane protein
+	[1627105:1627746:dir] putative membrane protein
+	[1627743:1629056:dir] putative membrane anchored protein with extracellular vWF domain and Ig-like domain
+	[1629098:1630705:dir] putative membrane protein
+	[1630908:1631402:rev] hypothetical protein
+	[1631399:1631668:rev] abrB7; AbrB family transcriptional regulator
+	[1631933:1632889:rev] AAA+ ATPase of MoxR-like family, a component of a putative secretion system
+	[1632954:1633142:rev] hypothetical protein
+	[1633311:1634195:dir] Transposase
+	[1634431:1636968:dir] hypothetical protein
+	[1637137:1637991:dir] hypothetical protein
+	[1638029:1639591:rev] hypothetical protein
+	[1639681:1640325:rev] hypothetical protein
+	[1640347:1640958:rev] putative secereted protein, contains kinase-interacting SIMPL domain
+	[1641208:1642362:rev] putative surface protease of transglutaminase family
+	[1642829:1643713:dir] hypothetical protein
+	[1644031:1645212:dir] vWFA domain containing protein
+	[1645263:1646084:dir] grpE; Molecular chaperone GrpE (heat shock protein)
+	[1646090:1647673:rev] dnaK; Chaperone DnaK (HSP70)
+	[1648088:1649029:dir] hypothetical protein
+	[1649195:1650010:dir] dppA; D-aminopeptidase
+	[1650169:1651704:dir] SAM-dependent methyltransferase
+	[1651701:1652249:dir] rimI4; Acetyltransferase (GNAT) family
+	[1652435:1653496:dir] draG; ADP-ribosylglycohydrolase
+	[1653588:1654181:dir] hypothetical protein
+	[1654282:1656522:dir] sua74; Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+	[1656540:1657307:rev] cpdA; 3',5'-cyclic AMP phosphodiesterase CpdA
+	[1657304:1657924:rev] hypothetical protein
+	[1658119:1658388:dir] Uncharacterized protein
+	[1658431:1659339:dir] draG2; ADP-ribosylglycohydrolase
+	[1659339:1661060:dir] HEAT repeats containing protein
+	[1661144:1662187:rev] HNH family endonuclease
+	[1662562:1662729:rev] Uncharacterized protein
+	[1662802:1663572:rev] dnaN; DNA polymerase sliding clamp subunit (PCNA-like protein)
+	[1663572:1665347:rev] IS4 transposase
+<END>
+<GI> CP064786:8 <COORDINATES> 1865906-1889205 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.711672; n0_4mer:D = 29.170720; n0_4mer:PS = 35.121005
+	[1865906:1867876:rev] fadB2; 3-hydroxyacyl-CoA dehydrogenase, some fused to Enoyl-CoA hydratase
+	[1867992:1869143:dir] caiA6; Acyl-CoA dehydrogenase
+	[1869213:1869806:dir] alkA2; 3-methyladenine DNA glycosylase/8-oxoguanine DNAglycosylase
+	[1869807:1871141:rev] rimK2; Glutathione synthase/glutaminyl transferase/alpha-L-glutamate ligase
+	[1871235:1872320:dir] putative deacylase
+	[1872399:1872737:dir] hypothetical protein
+	[1872781:1872900:rev] 5S ribosomal RNA
+	[1873053:1875961:rev] 23S ribosomal RNA
+	[1876209:1876280:rev] tRNA-Ala
+	[1876415:1877885:rev] 16S ribosomal RNA
+	[1878110:1878346:rev] hypothetical protein
+	[1878494:1879078:dir] sua76; Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+	[1879221:1879613:dir] sdhC; Succinate dehydrogenase/fumarate reductase, cytochrome b subunit
+	[1879613:1879984:dir] sdhD; Succinate dehydrogenase, hydrophobic anchor subunit
+	[1879981:1880859:dir] sdhB; Succinate dehydrogenase/fumarate reductase, Fe-Sprotein subunit
+	[1880863:1882701:dir] sdhA; Succinate dehydrogenase/fumarate reductase, flavoprotein subunit
+	[1882717:1882914:rev] Xanthosine utilization system component, XapX domain
+	[1883003:1883107:dir] tRNA-Cys
+	[1883494:1883739:dir] Transcriptional regulator, contains HTH domain
+	[1884021:1884800:rev] HD supefamily hydrolase
+	[1884869:1885363:rev] bcp5; Peroxiredoxin
+	[1885499:1885795:dir] tatA; Sec-independent protein secretion pathway component
+	[1885823:1885895:dir] tRNA-Arg
+	[1886401:1889205:dir] putative membrane protein
+<END>
+<GI> CP064786:9 <COORDINATES> 2105943-2132249 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.261782; n0_4mer:D = 33.446666; n0_4mer:PS = 30.962967
+	[2105943:2108144:dir] bglX; Bifunctional b-D-xylosidase/a-L-arabinosidase orrelated glycosidase
+	[2108204:2109280:rev] Sugar-specific transcriptional regulator TrmB
+	[2109407:2109646:rev] hypothetical protein
+	[2109886:2112231:dir] hypothetical protein
+	[2112937:2113728:rev] ara12; Aldo/keto reductase, related to diketogulonate reductase
+	[2113943:2114908:rev] serA3; Phosphoglycerate dehydrogenase or related dehydrogenase
+	[2115067:2115852:rev] ABC-type uncharacterized transport system, ATPase component
+	[2115849:2116823:rev] araH; Ribose/xylose/arabinose/galactoside ABC-type transport system, permease component
+	[2116917:2118038:rev] rbsB; ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain
+	[2118446:2119228:dir] iclR3; DNA-binding transcriptional regulator, IclR family
+	[2120580:2122928:dir] virB113; ATPase involved in archaellum/pili biosynthesis
+	[2122921:2124813:dir] flaJ; Archaellum assembly protein J, TadC family
+	[2124810:2125553:dir] putative pilin/flagellin
+	[2125546:2125995:dir] putative pilin/flagellin
+	[2126034:2126690:dir] putative pilin/flagellin
+	[2126683:2127093:dir] putative pilin/flagellin
+	[2127090:2127620:dir] putative pilin/flagellin
+	[2127792:2128208:dir] fabG9; Short-chain alcohol dehydrogenase
+	[2128330:2129559:dir] Lignostilbene-alpha,beta-dioxygenase or related enzyme
+	[2129560:2130225:rev] contains NAD(P)-binding and DUF2867 domains; YbjT
+	[2130268:2130660:rev] yedY2; Periplasmic DMSO/TMAO reductase YedYZ, molybdopterin-dependent catalytic subunit
+	[2130816:2132249:rev] phrB3; Deoxyribodipyrimidine photolyase
+<END>
+<GI> CP064786:10 <COORDINATES> 2725870-2790099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.011949; n0_4mer:D = 33.569083; n0_4mer:PS = 32.665406
+	[2725870:2726823:rev] erg92; Phytoene/squalene synthetase
+	[2726979:2727803:dir] nadF2; NAD kinase
+	[2727894:2728820:dir] mptA; Fe(2+)-dependent GTP cyclohydrolase
+	[2728829:2729518:rev] Sugar-specific transcriptional regulator TrmB
+	[2729714:2731357:rev] Prenyltransferase family protein containing thioredoxin domain
+	[2731440:2732063:dir] fxsA; Protein affecting phage T7 exclusion by the F plasmid
+	[2732154:2732227:dir] tRNA-Ile
+	[2732737:2734125:dir] xerC10; XerD/XerC family integrase
+	[2737477:2738130:rev] csa3-2; CRISPR-Cas associated transcriptional regulator,contains CARF and HTH domain
+	[2738255:2739121:dir] cas6; CRISPR-Cas system related protein, RAMP superfamily Cas6 group
+	[2739118:2741559:dir] cas10d; CRISPR associated protein Cas10d, large subunit of Type I-D system effector complex, contains HD family nuclease
+	[2741556:2742497:dir] csc2g7; CRISPR-Cas system related protein, RAMP superfamily Cas7 group
+	[2742490:2743194:dir] csc1g5; CRISPR associated protein, RAMP family Cas5 group
+	[2743191:2745089:dir] cas3d; CRISPR-Cas system related heleicase, Cas3 (C-terminal HD nuclease domain)
+	[2745086:2745679:dir] cas4; CRISPR-associated protein Cas4, RecB family exonuclease
+	[2745676:2746671:dir] cas1; CRISPR-associated protein Cas1
+	[2746725:2746946:dir] cas2; CRISPR-associated protein Cas2
+	[2753511:2754473:rev] mcrA3; Restriction endonuclease, McrA/HNH family
+	[2754749:2754985:dir] arsR17; Transcriptional regulator containing HTH domain,ArsR family
+	[2755717:2756556:dir] sua79; Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+	[2756546:2757787:dir] HNH family endonuclease
+	[2758022:2758597:rev] xerC11; XerD/XerC family integrase
+	[2758780:2760873:rev] IS4 transposase
+	[2761180:2761902:dir] Transposase, IS5 family
+	[2762351:2763073:rev] hypothetical protein
+	[2763205:2763489:rev] Uncharacterized protein
+	[2763674:2763889:dir] hypothetical protein
+	[2763934:2764722:rev] Uncharacterized protein
+	[2764877:2768614:rev] atoS12; Bacterio-opsin activator protein (contains PAS, GAF and HTH domains)
+	[2768900:2770174:dir] IS4 transposase
+	[2770335:2770550:dir] hypothetical protein
+	[2771127:2773316:rev] Pentapeptide repeats containing protein
+	[2773376:2774137:dir] cpdA2; 3',5'-cyclic AMP phosphodiesterase CpdA
+	[2774505:2775506:rev] xerC12; XerD/XerC family integrase
+	[2775802:2776008:dir] hypothetical protein
+	[2776018:2776935:dir] putative permease
+	[2777003:2777434:rev] Peptidoglycan/xylan/chitin deacetylase, PgdA/CDA1 family
+	[2777983:2780913:dir] mgtA; Cation transport ATPase
+	[2781019:2781411:dir] DUF2267 family
+	[2781761:2782507:rev] iolE4; Sugar phosphate isomerase/epimerase
+	[2782541:2782963:rev] CBS domain
+	[2783040:2783507:rev] nimA4; Nitroimidazol reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily
+	[2783727:2784719:rev] with probable glycosyl-binding activity; BNR repeat-containing protein
+	[2784780:2785457:rev] putative membrane protein
+	[2785578:2788616:rev] uvrA; Excinuclease ABC subunit A, ATPase
+	[2788635:2790002:dir] Cell surface protein
+<END>

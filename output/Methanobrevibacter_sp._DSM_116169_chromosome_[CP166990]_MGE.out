@@ -1,0 +1,260 @@
+<GI> CP166990:1 <COORDINATES> 373101-403676 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.921325; n0_4mer:D = 18.027724; n0_4mer:PS = 33.659398
+	[373101:374111:dir] purM; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004641 - phosphoribosylformylglycinamidine cyclo-ligase activity [Evidence IEA]; GO_process: GO:0006189 - 'de novo' IMP biosynthetic process [Evidence IEA]; phosphoribosylformylglycinamidine cyclo-ligase
+	[374124:375152:dir] comC; Derived by automated computational analysis using gene prediction method: Protein Homology.; L-sulfolactate dehydrogenase
+	[375184:376104:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_process: GO:0015948 - methanogenesis [Evidence IEA]; methanogenesis marker 7 protein
+	[376101:377348:rev] mmp10; Mmp10 (methanogenesis marker protein 10) is a cobalamin-requiring radical SAM methyltransferase that creates the methylarginine modification to methyl coenzyme M reductase; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0051539 - 4 iron, 4 sulfur cluster binding [Evidence IEA]; GO_function: GO:1904047 - S-adenosyl-L-methionine binding [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; GO_process: GO:0046500 - S-adenosylmethionine metabolic process [Evidence IEA]; methyl coenzyme M reductase-arginine methyltransferase Mmp10
+	[377975:379306:dir] mcrB; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0050524 - coenzyme-B sulfoethylthiotransferase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; coenzyme-B sulfoethylthiotransferase subunit beta
+	[379347:379799:dir] mcrD; Derived by automated computational analysis using gene prediction method: Protein Homology.; methyl-coenzyme M reductase operon protein D
+	[379801:380397:dir] mcrC; Derived by automated computational analysis using gene prediction method: Protein Homology.; methyl-coenzyme M reductase I operon protein C
+	[380400:381158:dir] mcrG; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0050524 - coenzyme-B sulfoethylthiotransferase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; coenzyme-B sulfoethylthiotransferase subunit gamma
+	[381163:382818:dir] mcrA; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0050524 - coenzyme-B sulfoethylthiotransferase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; coenzyme-B sulfoethylthiotransferase subunit alpha
+	[383093:383971:dir] mtrE; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0030269 - tetrahydromethanopterin S-methyltransferase activity [Evidence IEA]; GO_process: GO:0006810 - transport [Evidence IEA]; GO_process: GO:0019386 - methanogenesis, from carbon dioxide [Evidence IEA]; tetrahydromethanopterin S-methyltransferase subunit E
+	[383984:384685:dir] mtrD; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0030269 - tetrahydromethanopterin S-methyltransferase activity [Evidence IEA]; GO_process: GO:0006810 - transport [Evidence IEA]; GO_process: GO:0019386 - methanogenesis, from carbon dioxide [Evidence IEA]; tetrahydromethanopterin S-methyltransferase subunit D
+	[384687:385508:dir] mtrC; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0030269 - tetrahydromethanopterin S-methyltransferase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; tetrahydromethanopterin S-methyltransferase subunit MtrC
+	[385511:385840:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; tetrahydromethanopterin S-methyltransferase subunit B
+	[385841:386557:dir] mtrA; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0030269 - tetrahydromethanopterin S-methyltransferase activity [Evidence IEA]; GO_function: GO:0050897 - cobalt ion binding [Evidence IEA]; GO_process: GO:0006814 - sodium ion transport [Evidence IEA]; tetrahydromethanopterin S-methyltransferase subunit A
+	[386572:386778:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; tetrahydromethanopterin S-methyltransferase subunit F
+	[386790:387029:dir] mtrG; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0030269 - tetrahydromethanopterin S-methyltransferase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; tetrahydromethanopterin S-methyltransferase subunit MtrG
+	[387049:387981:dir] mtrH; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0030269 - tetrahydromethanopterin S-methyltransferase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; tetrahydromethanopterin S-methyltransferase subunit H
+	[388125:389597:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_process: GO:0015948 - methanogenesis [Evidence IEA]; methanogenesis marker 14 protein
+	[389612:390208:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; NTP transferase domain-containing protein
+	[390312:390578:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; PRC-barrel domain-containing protein
+	[390722:391480:dir] sufC; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_process: GO:0016226 - iron-sulfur cluster assembly [Evidence IEA]; Fe-S cluster assembly ATPase SufC
+	[391452:392693:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; SufD family Fe-S cluster assembly protein
+	[393107:393532:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hydrogenase iron-sulfur subunit
+	[393547:394473:dir] mvhG; Derived by automated computational analysis using gene prediction method: Protein Homology.; F420-non-reducing hydrogenase subunit MvhG
+	[394475:395899:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; Ni/Fe hydrogenase subunit alpha
+	[395914:397152:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S binding protein
+	[397198:398448:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; dihydroorotase family protein
+	[398512:399615:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; nucleotidyltransferase family protein
+	[399653:400702:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[400862:402424:rev] serS; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005737 - cytoplasm [Evidence IEA]; GO_function: GO:0000166 - nucleotide binding [Evidence IEA]; GO_function: GO:0004828 - serine-tRNA ligase activity [Evidence IEA]; GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_process: GO:0006434 - seryl-tRNA aminoacylation [Evidence IEA]; serine--tRNA ligase
+	[402426:402671:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; KEOPS complex subunit Pcc1
+	[403194:403676:dir] rplJ; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005840 - ribosome [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 50S ribosomal protein L16
+<END>
+<GI> CP166990:2 <COORDINATES> 488152-561099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.812726; n0_4mer:D = 16.563139; n0_4mer:PS = 25.833800
+	[488152:489555:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; MFS transporter
+	[489682:489939:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; zinc ribbon domain-containing protein
+	[489941:490555:rev] thiE; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004789 - thiamine-phosphate diphosphorylase activity [Evidence IEA]; GO_process: GO:0009228 - thiamine biosynthetic process [Evidence IEA]; thiamine phosphate synthase
+	[490542:491402:rev] thiM; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004417 - hydroxyethylthiazole kinase activity [Evidence IEA]; GO_process: GO:0009228 - thiamine biosynthetic process [Evidence IEA]; hydroxyethylthiazole kinase
+	[491525:491598:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Thr
+	[491738:491812:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Pro
+	[491821:491894:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Tyr
+	[492055:492126:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Asp
+	[492172:492245:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Lys
+	[492290:492523:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-directed RNA polymerase subunit H
+	[492643:494187:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-directed RNA polymerase subunit B''
+	[494203:496014:dir] rpoB; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003677 - DNA binding [Evidence IEA]; GO_function: GO:0003899 - DNA-directed 5'-3' RNA polymerase activity [Evidence IEA]; GO_function: GO:0008270 - zinc ion binding [Evidence IEA]; GO_process: GO:0006351 - DNA-templated transcription [Evidence IEA]; DNA-directed RNA polymerase subunit B
+	[496055:498637:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-directed RNA polymerase subunit A'
+	[498646:499797:dir] rpoA2; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003677 - DNA binding [Evidence IEA]; GO_function: GO:0003899 - DNA-directed 5'-3' RNA polymerase activity [Evidence IEA]; GO_process: GO:0006351 - DNA-templated transcription [Evidence IEA]; DNA-directed RNA polymerase subunit A''
+	[499809:500108:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L30e
+	[500115:500546:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; NusA-like transcription termination signal-binding factor
+	[501047:501472:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015935 - small ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 30S ribosomal protein S12
+	[501482:502042:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S7
+	[502059:504251:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003746 - translation elongation factor activity [Evidence IEA]; GO_function: GO:0005525 - GTP binding [Evidence IEA]; GO_process: GO:0006414 - translational elongation [Evidence IEA]; elongation factor EF-2
+	[504386:505627:dir] tuf; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003746 - translation elongation factor activity [Evidence IEA]; GO_function: GO:0005525 - GTP binding [Evidence IEA]; GO_process: GO:0006414 - translational elongation [Evidence IEA]; translation elongation factor EF-1 subunit alpha
+	[505701:506009:dir] rpsJ; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015935 - small ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 30S ribosomal protein S10
+	[506049:506133:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ser
+	[506255:507049:rev] cobK; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016994 - precorrin-6A reductase activity [Evidence IEA]; GO_process: GO:0009236 - cobalamin biosynthetic process [Evidence IEA]; precorrin-6A reductase
+	[507059:509623:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; cation-translocating P-type ATPase
+	[509619:510026:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; UPF0146 family protein
+	[510210:510659:dir] rimI; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008999 - peptide-alanine-alpha-N-acetyltransferase activity [Evidence IEA]; GO_process: GO:0036211 - protein modification process [Evidence IEA]; GO_process: GO:0042254 - ribosome biogenesis [Evidence IEA]; ribosomal protein S18-alanine N-acetyltransferase
+	[510637:511164:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; zinc-ribbon domain-containing protein
+	[511210:511896:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0015267 - channel activity [Evidence IEA]; GO_process: GO:0055085 - transmembrane transport [Evidence IEA]; MIP/aquaporin family protein
+	[511977:513086:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; adhesin
+	[513171:513722:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016407 - acetyltransferase activity [Evidence IEA]; sugar O-acetyltransferase
+	[514347:515132:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[515204:517204:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[517207:519903:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[519918:520208:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[520679:521242:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[521232:522767:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; Ig-like domain-containing protein
+	[522790:526827:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; Ig-like domain-containing protein
+	[526850:527308:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[527321:532051:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[532082:532465:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[532465:532776:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[532739:533335:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[533512:534597:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[534600:534824:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[534849:535304:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[535279:536100:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[536277:537149:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[537184:537684:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[537720:538556:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[538556:539284:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[539289:540524:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[540532:541746:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; PBSX family phage terminase large subunit
+	[541753:542355:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[542367:542702:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[542713:543000:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[544689:545081:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[545114:545344:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[545565:545810:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[545833:546162:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[546195:546545:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[546752:547186:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[547374:547757:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[547759:547962:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[547959:548087:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[548515:549201:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008270 - zinc ion binding [Evidence IEA]; zinc ribbon domain-containing protein
+	[549538:549714:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[549704:549913:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[550081:550374:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[550367:550693:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[550687:550863:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[550860:551093:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[551100:551558:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; pentapeptide repeat-containing protein
+	[551555:552127:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[552175:552765:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[552812:554782:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005524 - ATP binding [Evidence IEA]; ATP-binding protein
+	[554950:555423:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[555436:555630:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[555637:555984:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[555990:556676:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; phage terminase large subunit
+	[556685:557362:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003677 - DNA binding [Evidence IEA]; GO_function: GO:0004518 - nuclease activity [Evidence IEA]; ERCC4 domain-containing protein
+	[557380:557661:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[557658:557861:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[557858:558055:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[558055:558216:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[558236:558688:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[558685:558867:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[558875:559168:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[559165:559365:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[559362:559532:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[559537:559680:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[559667:559834:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[559831:559989:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[559992:561026:dir] dcm; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003886 - DNA (cytosine-5-)-methyltransferase activity [Evidence IEA]; GO_process: GO:0006304 - DNA modification [Evidence IEA]; DNA (cytosine-5-)-methyltransferase
+<END>
+<GI> CP166990:3 <COORDINATES> 1230559-1266515 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.672643; n0_4mer:D = 16.344270; n0_4mer:PS = 29.199283
+	[1230559:1231821:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1231964:1232497:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003824 - catalytic activity [Evidence IEA]; GO_function: GO:0030976 - thiamine pyrophosphate binding [Evidence IEA]; thiamine pyrophosphate-dependent enzyme
+	[1232507:1233007:rev] comD; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0030976 - thiamine pyrophosphate binding [Evidence IEA]; sulfopyruvate decarboxylase subunit alpha
+	[1233018:1234004:rev] idsA; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016740 - transferase activity [Evidence IEA]; GO_process: GO:0008299 - isoprenoid biosynthetic process [Evidence IEA]; short chain isoprenyl diphosphate synthase IdsA
+	[1234039:1235385:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003723 - RNA binding [Evidence IEA]; GO_function: GO:0008270 - zinc ion binding [Evidence IEA]; GO_function: GO:0046872 - metal ion binding [Evidence IEA]; RNase J family beta-CASP ribonuclease
+	[1235382:1236440:rev] fni; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004452 - isopentenyl-diphosphate delta-isomerase activity [Evidence IEA]; GO_function: GO:0010181 - FMN binding [Evidence IEA]; GO_process: GO:0008299 - isoprenoid biosynthetic process [Evidence IEA]; type 2 isopentenyl-diphosphate Delta-isomerase
+	[1236463:1237260:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016301 - kinase activity [Evidence IEA]; GO_process: GO:0008299 - isoprenoid biosynthetic process [Evidence IEA]; isopentenyl phosphate kinase
+	[1237268:1238230:rev] mvk; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005737 - cytoplasm [Evidence IEA]; GO_function: GO:0004496 - mevalonate kinase activity [Evidence IEA]; GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_process: GO:0016126 - sterol biosynthetic process [Evidence IEA]; GO_process: GO:0019287 - isopentenyl diphosphate biosynthetic process, mevalonate pathway [Evidence IEA]; mevalonate kinase
+	[1238287:1238883:rev] rpsB; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015935 - small ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 30S ribosomal protein S2
+	[1238893:1239081:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S binding protein
+	[1239100:1240344:rev] eno; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0000015 - phosphopyruvate hydratase complex [Evidence IEA]; GO_function: GO:0000287 - magnesium ion binding [Evidence IEA]; GO_function: GO:0004634 - phosphopyruvate hydratase activity [Evidence IEA]; GO_process: GO:0006096 - glycolytic process [Evidence IEA]; phosphopyruvate hydratase
+	[1240465:1240647:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-directed RNA polymerase subunit K
+	[1240713:1240883:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-directed RNA polymerase subunit N
+	[1240925:1241323:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005840 - ribosome [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 30S ribosomal protein S9
+	[1241339:1241761:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L13
+	[1241771:1242136:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L18e
+	[1242136:1242954:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-directed RNA polymerase subunit D
+	[1242966:1243358:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S11
+	[1243367:1243912:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S4
+	[1243985:1244434:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S13
+	[1244629:1244713:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ser
+	[1244809:1246326:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; MFS transporter
+	[1246345:1247310:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_process: GO:0006396 - RNA processing [Evidence IEA]; RNA-guided pseudouridylation complex pseudouridine synthase subunit Cbf5
+	[1247399:1247620:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L14e
+	[1247621:1248139:rev] cmk; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004127 - (d)CMP kinase activity [Evidence IEA]; GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_process: GO:0006139 - nucleobase-containing compound metabolic process [Evidence IEA]; (d)CMP kinase
+	[1248139:1248405:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L34e
+	[1248492:1249091:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; DUF106 domain-containing protein
+	[1249108:1249665:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; adenylate kinase
+	[1249690:1251051:rev] secY; Derived by automated computational analysis using gene prediction method: Protein Homology.; preprotein translocase subunit SecY
+	[1251077:1251514:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; uL15 family ribosomal protein
+	[1251524:1251982:rev] rpmD; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015934 - large ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 50S ribosomal protein L30
+	[1251994:1252638:rev] rpsE; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015935 - small ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 30S ribosomal protein S5
+	[1252641:1253222:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L18
+	[1253234:1253680:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L19e
+	[1253802:1254128:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L32e
+	[1254157:1254690:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L6
+	[1254699:1255091:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S8
+	[1255103:1255246:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S14
+	[1255255:1255764:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L5
+	[1255761:1256489:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S4e
+	[1256491:1256844:rev] rplX; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015934 - large ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 50S ribosomal protein L24
+	[1256853:1257251:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L14
+	[1257255:1257572:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S17
+	[1257581:1257871:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ribonuclease P protein component 1
+	[1257932:1258273:rev] yciH; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003743 - translation initiation factor activity [Evidence IEA]; stress response translation initiation inhibitor YciH
+	[1258274:1258480:rev] rpmC; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005840 - ribosome [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 50S ribosomal protein L29
+	[1258537:1259331:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S3
+	[1259336:1259797:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L22
+	[1259810:1260220:rev] rpsS; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0015935 - small ribosomal subunit [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 30S ribosomal protein S19
+	[1260235:1260960:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L2
+	[1260972:1261232:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L23
+	[1261254:1262018:rev] rpl4p; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005840 - ribosome [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_function: GO:0019843 - rRNA binding [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 50S ribosomal protein L4
+	[1262021:1263028:rev] rpl3p; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005840 - ribosome [Evidence IEA]; GO_function: GO:0003735 - structural constituent of ribosome [Evidence IEA]; GO_process: GO:0006412 - translation [Evidence IEA]; 50S ribosomal protein L3
+	[1263242:1264066:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; putative RNA uridine N3 methyltransferase
+	[1264295:1264924:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; METTL5 family protein
+	[1265019:1266515:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; acetyl-CoA carboxylase biotin carboxylase subunit
+<END>
+<GI> CP166990:4 <COORDINATES> 1498640-1518099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.657253; n0_4mer:D = 15.276021; n0_4mer:PS = 26.416129
+	[1498640:1499377:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; type 1 glutamine amidotransferase
+	[1499449:1500060:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; biotin transporter BioY
+	[1500089:1500490:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF1284 domain-containing protein
+	[1500571:1500642:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Gln
+	[1500701:1501891:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_function: GO:0046872 - metal ion binding [Evidence IEA]; ATP-grasp domain-containing protein
+	[1501863:1502012:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1502054:1502728:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; V-type ATP synthase subunit D
+	[1502766:1504160:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0033178 - proton-transporting two-sector ATPase complex, catalytic domain [Evidence IEA]; GO_function: GO:0046933 - proton-transporting ATP synthase activity, rotational mechanism [Evidence IEA]; GO_process: GO:0015986 - proton motive force-driven ATP synthesis [Evidence IEA]; ATP synthase subunit B
+	[1504163:1505917:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0033178 - proton-transporting two-sector ATPase complex, catalytic domain [Evidence IEA]; GO_function: GO:0046961 - proton-transporting ATPase activity, rotational mechanism [Evidence IEA]; GO_process: GO:0015986 - proton motive force-driven ATP synthesis [Evidence IEA]; ATP synthase subunit A
+	[1505914:1506231:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; V-type ATP synthase subunit F
+	[1506228:1507382:rev] ahaC; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0033179 - proton-transporting V-type ATPase, V0 domain [Evidence IEA]; GO_function: GO:0046961 - proton-transporting ATPase activity, rotational mechanism [Evidence IEA]; ATP synthase A1 subunit C
+	[1507394:1508005:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; V-type ATP synthase subunit E
+	[1508019:1508504:rev] produces ATP from ADP in the presence of a proton gradient across the membrane; the K subunit is a nonenzymatic component which binds the dimeric form by interacting with the G and E subunits; Derived by automated computational analysis using gene prediction method: Protein Homology.; V-type ATP synthase subunit K
+	[1508562:1510568:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; V-type ATP synthase subunit I
+	[1510580:1510894:rev] ahaH; Derived by automated computational analysis using gene prediction method: Protein Homology.; ATP synthase archaeal subunit H
+	[1511063:1511419:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1511426:1511755:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1511763:1512116:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1512126:1512632:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; nitroreductase family protein
+	[1512651:1513451:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; citryl-CoA lyase
+	[1513459:1514340:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016829 - lyase activity [Evidence IEA]; fumarate hydratase
+	[1514350:1515252:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; peptidase
+	[1515257:1516648:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; MmgE/PrpD family protein
+	[1516776:1518047:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF1743 domain-containing protein
+<END>
+<GI> CP166990:5 <COORDINATES> 1592284-1614666 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.974923; n0_4mer:D = 19.322603; n0_4mer:PS = 32.601413
+	[1592284:1593321:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003723 - RNA binding [Evidence IEA]; GO_function: GO:0030674 - protein-macromolecule adaptor activity [Evidence IEA]; GO_function: GO:0043023 - ribosomal large subunit binding [Evidence IEA]; 60S ribosomal export protein NMD3
+	[1593331:1594293:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; tyrosine--tRNA ligase
+	[1594295:1594498:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1594501:1595091:rev] tmk; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004798 - thymidylate kinase activity [Evidence IEA]; GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_process: GO:0006233 - dTDP biosynthetic process [Evidence IEA]; dTMP kinase
+	[1595101:1596072:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; lysostaphin resistance A-like protein
+	[1596233:1598155:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; endonuclease MutS2
+	[1598185:1598304:rev] rrf; Derived by automated computational analysis using gene prediction method: cmsearch.; 5S ribosomal RNA
+	[1598642:1598761:rev] rrf; Derived by automated computational analysis using gene prediction method: cmsearch.; 5S ribosomal RNA
+	[1598908:1601871:rev] Derived by automated computational analysis using gene prediction method: cmsearch.; 23S ribosomal RNA
+	[1602115:1602188:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ala
+	[1602313:1603786:rev] Derived by automated computational analysis using gene prediction method: cmsearch.; 16S ribosomal RNA
+	[1604317:1605018:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0043231 - intracellular membrane-bounded organelle [Evidence IEA]; GO_function: GO:0051537 - 2 iron, 2 sulfur cluster binding [Evidence IEA]; CDGSH iron-sulfur domain-containing protein
+	[1605149:1606114:dir] mer; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0018537 - coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase activity [Evidence IEA]; GO_function: GO:0070967 - coenzyme F420 binding [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; 5,10-methylenetetrahydromethanopterin reductase
+	[1606104:1607000:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; radical SAM protein
+	[1607140:1608234:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; archaeosine biosynthesis radical SAM protein RaSEA
+	[1608303:1608785:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF308 domain-containing protein
+	[1608899:1609306:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003700 - DNA-binding transcription factor activity [Evidence IEA]; GO_process: GO:0006355 - regulation of DNA-templated transcription [Evidence IEA]; MarR family winged helix-turn-helix transcriptional regulator
+	[1609307:1610680:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0015297 - antiporter activity [Evidence IEA]; GO_function: GO:0042910 - xenobiotic transmembrane transporter activity [Evidence IEA]; GO_process: GO:0055085 - transmembrane transport [Evidence IEA]; MATE family efflux transporter
+	[1610673:1611476:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008168 - methyltransferase activity [Evidence IEA]; GO_function: GO:1904047 - S-adenosyl-L-methionine binding [Evidence IEA]; class I SAM-dependent methyltransferase
+	[1611599:1612885:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; cytidyltransferase
+	[1612882:1613616:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NAD(P)-dependent oxidoreductase
+	[1613616:1614236:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_process: GO:0017004 - cytochrome complex assembly [Evidence IEA]; cytochrome c biogenesis CcdA family protein
+	[1614238:1614666:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; thioredoxin family protein
+<END>
+<GI> CP166990:6 <COORDINATES> 1805459-1825690 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.001471; n0_4mer:D = 15.071741; n0_4mer:PS = 25.788768
+	[1805459:1806802:dir] glnA; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004356 - glutamine synthetase activity [Evidence IEA]; GO_process: GO:0006542 - glutamine biosynthetic process [Evidence IEA]; type I glutamate--ammonia ligase
+	[1806829:1808502:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; NrpR regulatory domain-containing protein
+	[1808661:1808957:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF2097 domain-containing protein
+	[1808982:1809281:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF2097 domain-containing protein
+	[1809322:1810197:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0018493 - formylmethanofuran dehydrogenase activity [Evidence IEA]; GO_function: GO:0046914 - transition metal ion binding [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; formylmethanofuran dehydrogenase subunit C
+	[1810200:1811909:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016810 - hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds [Evidence IEA]; formylmethanofuran dehydrogenase subunit A
+	[1811921:1813297:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0018493 - formylmethanofuran dehydrogenase activity [Evidence IEA]; GO_process: GO:0015948 - methanogenesis [Evidence IEA]; formylmethanofuran dehydrogenase subunit B
+	[1813309:1813851:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016491 - oxidoreductase activity [Evidence IEA]; GO_function: GO:0043546 - molybdopterin cofactor binding [Evidence IEA]; molybdopterin dinucleotide binding domain-containing protein
+	[1813865:1814095:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S binding protein
+	[1814107:1815198:rev] fwdF; Derived by automated computational analysis using gene prediction method: Protein Homology.; tungsten-dependent formylmethanofuran dehydrogenase subunit FwdF
+	[1815191:1815649:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; tRNA CCA-pyrophosphorylase
+	[1815976:1816680:dir] mobB; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003824 - catalytic activity [Evidence IEA]; GO_function: GO:0005525 - GTP binding [Evidence IEA]; GO_process: GO:0006777 - Mo-molybdopterin cofactor biosynthetic process [Evidence IEA]; molybdopterin-guanine dinucleotide biosynthesis protein B
+	[1816689:1817618:dir] moaA; Derived by automated computational analysis using gene prediction method: Protein Homology.; GTP 3',8-cyclase MoaA
+	[1817737:1818936:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; Coenzyme F420 hydrogenase/dehydrogenase, beta subunit C-terminal domain
+	[1818938:1820995:rev] fdhF; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0009326 - formate dehydrogenase complex [Evidence IEA]; GO_function: GO:0008863 - formate dehydrogenase (NAD+) activity [Evidence IEA]; GO_process: GO:0015942 - formate metabolic process [Evidence IEA]; formate dehydrogenase subunit alpha
+	[1821050:1821835:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005886 - plasma membrane [Evidence IEA]; GO_function: GO:0015499 - formate transmembrane transporter activity [Evidence IEA]; GO_process: GO:0015724 - formate transport [Evidence IEA]; formate/nitrite transporter family protein
+	[1822055:1822360:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF2149 domain-containing protein
+	[1822365:1823003:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005886 - plasma membrane [Evidence IEA]; GO_process: GO:0015031 - protein transport [Evidence IEA]; MotA/TolQ/ExbB proton channel family protein
+	[1823012:1823686:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1823777:1825690:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; right-handed parallel beta-helix repeat-containing protein
+<END>

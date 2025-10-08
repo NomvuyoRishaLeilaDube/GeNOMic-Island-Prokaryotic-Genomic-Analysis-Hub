@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GeNOMic Island: {{ domain }} Genomes</title>
+<style>
+body { background-color:#ccffcc; color:black; text-align:center; font-family:Arial,sans-serif; position:relative; overflow-x:hidden; }
+h1 { margin-top:20px; }
+table { margin:auto; border-collapse: collapse; width: 90%; }
+th, td { border: 1px solid black; padding: 10px; }
+th { background-color: #99ff99; }
+a { color: black; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.border-container, .bacteria-row, .bacteria-row img, .content-wrapper { /* same as home.html */ }
+@keyframes moveBacteria { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+.border-container { position:absolute; top:0; left:0; right:0; bottom:0; pointer-events:none; z-index:1; }
+.bacteria-row { white-space:nowrap; overflow:hidden; display:block; }
+.bacteria-row img { height:40px; margin:0 10px; display:inline-block; animation:moveBacteria 20s linear infinite; }
+.content-wrapper { position:relative; z-index:2; padding:20px; }
+</style>
+</head>
+<body>
+<div class="border-container">
+    <div class="bacteria-row">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+    </div>
+</div>
+
+<div class="content-wrapper">
+<h1>{{ domain }} Genomes</h1>
+<p><a href="{{ url_for('index') }}">HOME</a> > {{ domain }}</p>
+<table>
+<tr>
+<th>Seq ID</th>
+<th>Organism</th>
+<th>Domain</th>
+</tr>
+{% for seq_id, info in seq_map.items() %}
+<tr>
+<td><a href="{{ url_for('genome', seq_id=seq_id) }}">{{ seq_id }}</a></td>
+<td>{{ info.organism }}</td>
+<td>{{ info.domain }}</td>
+</tr>
+{% endfor %}
+</table>
+</div>
+</body>
+</html>

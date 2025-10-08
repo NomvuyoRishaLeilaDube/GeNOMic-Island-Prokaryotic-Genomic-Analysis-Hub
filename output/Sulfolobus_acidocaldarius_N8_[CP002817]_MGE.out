@@ -1,0 +1,506 @@
+<GI> CP002817:1 <COORDINATES> 58023-76736 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.980071; n0_4mer:D = 23.386835; n0_4mer:PS = 41.000731
+	[58023:59261:rev] COG0358 DNA primase (bacterial type); DNA primase
+	[59271:60356:rev] COG0162 Tyrosyl-tRNA synthetase; tyrosyl-tRNA synthetase
+	[60401:60751:rev] hypothetical protein
+	[60797:61237:rev] COG0432 Uncharacterized conserved protein; hypothetical protein
+	[61236:62510:dir] COG1973 Hydrogenase maturation factor; hypothetical protein
+	[62537:63049:dir] rps13p; COG0099 Ribosomal protein S13; 30S ribosomal protein S13P
+	[63067:63597:dir] rps4p; COG0522 Ribosomal protein S4 and related proteins; 30S ribosomal protein S4P
+	[63581:63979:dir] rps11p; COG0100 Ribosomal protein S11; 30S ribosomal protein S11P
+	[63991:64785:dir] COG0202 DNA-directed RNA polymerase, alpha subunit/40 kD subunit; DNA-directed RNA polymerase subunit D
+	[64785:65141:dir] COG1727 Ribosomal protein L18E; 50S ribosomal protein L18e
+	[65138:65584:dir] rpl13p; COG0102 Ribosomal protein L13; 50S ribosomal protein L13P
+	[65581:65997:dir] rps9p; COG0103 Ribosomal protein S9; 30S ribosomal protein S9P
+	[66004:66204:dir] COG1644 DNA-directed RNA polymerase, subunit N (RpoN/RPB10); DNA-directed RNA polymerase subunit N
+	[66214:66891:dir] rps2P; COG0052 Ribosomal protein S2; 30S ribosomal protein S2
+	[66888:67742:dir] COG1355 Predicted dioxygenase; hypothetical protein
+	[67735:68421:dir] hypothetical protein
+	[68494:68589:rev] hypothetical protein
+	[68588:69499:dir] COG1304 L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases; isopentenyl pyrophosphate isomerase
+	[69496:70488:dir] COG0142 Geranylgeranyl pyrophosphate synthase; geranylgeranyl pyrophosphate synthetase
+	[70488:71474:dir] COG0472 UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase; UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase
+	[71474:72148:dir] COG0637 Predicted phosphatase/phosphohexomutase; beta-phosphoglucomutase
+	[72570:72657:rev] tRNA-Ser
+	[72941:74701:dir] COG0843 Heme/copper-type cytochrome/quinol oxidases, subunit 1; cytochrome c oxidase polypeptide I
+	[74714:75799:dir] hypothetical protein
+	[75808:75993:dir] hypothetical protein
+	[76005:76736:rev] COG0084 Mg-dependent DNase; hypothetical protein
+<END>
+<GI> CP002817:2 <COORDINATES> 139725-162913 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.959535; n0_4mer:D = 21.859801; n0_4mer:PS = 45.194299
+	[139725:140291:rev] COG1096 Predicted RNA-binding protein (consists of S1 domain and a Zn-ribbon domain); exosome complex RNA-binding protein Csl4
+	[140298:141302:rev] COG1736 Diphthamide synthase subunit DPH2; diphthamide biosynthesis protein
+	[141299:141829:rev] rpl10e; COG0197 Ribosomal protein L16/L10E; 50S ribosomal protein L10e
+	[141860:142120:rev] hypothetical protein
+	[142098:143135:rev] COG0608 Single-stranded DNA-specific exonuclease; single-stranded-DNA-specific exonuclease
+	[143120:144070:rev] COG0392 Predicted integral membrane protein; hypothetical protein
+	[144039:144911:rev] COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2; dinucleotide-utilizing enzyme
+	[144979:145794:dir] COG3959 Transketolase, N-terminal subunit; transketolase
+	[145763:146704:dir] COG3958 Transketolase, C-terminal subunit; transketolase central region
+	[146701:147726:dir] COG1605 Chorismate mutase; chorismate mutase/prephenate dehydrogenase
+	[147730:148722:dir] COG2876 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase; 3-deoxy-7-phosphoheptulonate synthase
+	[148719:149780:dir] aroB; COG0337 3-dehydroquinate synthetase; 3-dehydroquinate synthase
+	[149768:150559:dir] COG0169 Shikimate 5-dehydrogenase; shikimate dehydrogenase
+	[150537:151712:dir] COG0082 Chorismate synthase; chorismate synthase
+	[151685:152470:dir] COG1685 Archaeal shikimate kinase; shikimate kinase
+	[152608:153684:dir] COG0128 5-enolpyruvylshikimate-3-phosphate synthase; 3-phosphoshikimate 1-carboxyvinyltransferase
+	[153665:154324:dir] COG0710 3-dehydroquinate dehydratase; 3-dehydroquinate dehydratase
+	[154288:154590:rev] COG2146 Ferredoxin subunits of nitrite reductase and ring-hydroxylating dioxygenases; hypothetical protein
+	[154751:155041:dir] hypothetical protein
+	[155041:156696:dir] COG1199 Rad3-related DNA helicases; XPD/Rad3 related DNA helicase
+	[156693:157496:dir] COG5494 Predicted thioredoxin/glutaredoxin; hypothetical protein
+	[157512:157739:dir] COG0425 Predicted redox protein, regulator of disulfide bond formation; hypothetical protein
+	[157840:158475:dir] COG0605 Superoxide dismutase; superoxide dismutase
+	[158508:159587:dir] COG1208 Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon); mannose-1-phosphate guanyltransferase
+	[159625:160275:dir] hypothetical protein
+	[160314:162212:dir] COG1331 Highly conserved protein containing a thioredoxin domain; hypothetical protein
+	[162209:162913:dir] fabG; COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases); 3-ketoacyl-(acyl-carrier-protein) reductase
+<END>
+<GI> CP002817:3 <COORDINATES> 163640-186099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.010292; n0_4mer:D = 21.358220; n0_4mer:PS = 39.560239
+	[163640:164668:dir] COG1215 Glycosyltransferases, probably involved in cell wall biogenesis; hypothetical protein
+	[164665:165033:dir] hypothetical protein
+	[165123:165578:rev] hypothetical protein
+	[165575:166237:rev] COG1192 ATPases involved in chromosome partitioning; parA ATPase
+	[166310:167272:rev] COG0247 Fe-S oxidoreductase; hypothetical protein
+	[167263:168642:rev] COG0277 FAD/FMN-containing dehydrogenases; glycolate oxidase subunit
+	[168792:169754:dir] COG0277 FAD/FMN-containing dehydrogenases; FAD-binding domain-containing protein
+	[169751:170665:rev] COG1013 Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, beta subunit; 2-oxoglutarate ferredoxin oxidoreductase subunit beta
+	[170652:172535:rev] COG1014 Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases, gamma subunit; 2-oxoacid-ferredoxin oxidoreductase
+	[172652:173464:rev] COG1181 D-alanine-D-alanine ligase and related ATP-grasp enzymes; hypothetical protein
+	[173496:174212:rev] COG0388 Predicted amidohydrolase; hypothetical protein
+	[174209:175342:rev] COG0517 FOG: CBS domain; CBS domain-containing protein
+	[175393:176433:dir] COG0123 Deacetylases, including yeast histone deacetylase and acetoin utilization protein; histone deacetylase
+	[176428:177624:rev] purT; COG0027 Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase); phosphoribosylglycinamide formyltransferase 2
+	[177638:178252:rev] hypothetical protein
+	[178302:178952:dir] COG0170 Dolichol kinase; hypothetical protein
+	[178908:179534:rev] hypothetical protein
+	[179632:180072:dir] hypothetical protein
+	[180060:181058:rev] COG0665 Glycine/D-amino acid oxidases (deaminating); hypothetical protein
+	[181095:181892:dir] hypothetical protein
+	[181889:182425:dir] COG0521 Molybdopterin biosynthesis enzymes; molybdopterin-binding domain-containing protein
+	[182422:182907:dir] hypothetical protein
+	[183419:183733:rev] hypothetical protein
+	[183747:184130:rev] hypothetical protein
+	[185417:185533:dir] hypothetical protein
+<END>
+<GI> CP002817:4 <COORDINATES> 333895-352099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.428754; n0_4mer:D = 22.182028; n0_4mer:PS = 41.259593
+	[333895:334884:rev] COG0842 ABC-type multidrug transport system, permease component; ABC-2 type transporter
+	[334859:335608:rev] COG1131 ABC-type multidrug transport system, ATPase component; ABC transporter
+	[335637:336578:dir] COG0309 Hydrogenase maturation factor; hypothetical protein
+	[336550:337041:dir] COG2266 GTP:adenosylcobinamide-phosphate guanylyltransferase; hypothetical protein
+	[337041:337787:dir] COG4089 Predicted membrane protein; hypothetical protein
+	[337780:338067:rev] hypothetical protein
+	[338074:338871:rev] COG2875 Precorrin-4 methylase; precorrin-4 C11-methyltransferase
+	[338858:339529:rev] COG2243 Precorrin-2 methylase; cobalt-precorrin-2 C(20)-methyltransferase
+	[339526:340104:rev] cbiT; COG2242 Precorrin-6B methylase 2; cobalt-precorrin-6Y C(15)-methyltransferase
+	[340101:341147:rev] cbiD; COG1903 Cobalamin biosynthesis protein CbiD; cobalt-precorrin-6A synthase
+	[341041:341214:dir] hypothetical protein
+	[341134:341889:rev] COG1010 Precorrin-3B methylase; precorrin-3B C17-methyltransferase
+	[341886:342887:rev] COG2138 Uncharacterized conserved protein; bifunctional sirohydrochlorin cobalt chelatase/precorrin-8X methylmutase
+	[343104:343760:rev] COG2241 Precorrin-6B methylase 1; cobalt-precorrin-6Y C(5)-methyltransferase
+	[343753:344730:rev] COG2073 Cobalamin biosynthesis protein CbiG; cobalamin biosynthesis protein CbiG
+	[344727:345557:rev] COG1446 Asparaginase; asparaginase
+	[345828:347156:rev] hypothetical protein
+	[347153:347692:rev] hypothetical protein
+	[347703:348323:rev] hypothetical protein
+	[348655:348960:rev] hypothetical protein
+	[348935:349486:rev] hypothetical protein
+	[349817:350497:dir] hypothetical protein
+	[350537:351556:dir] COG1063 Threonine dehydrogenase and related Zn-dependent dehydrogenases; zinc-binding dehydrogenase
+	[351464:351916:rev] COG1270 Cobalamin biosynthesis protein CobD/CbiB; cobalamin biosynthesis protein CobD
+<END>
+<GI> CP002817:5 <COORDINATES> 460337-501222 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.058506; n0_4mer:D = 25.081469; n0_4mer:PS = 40.532410
+	[460337:461119:rev] hypothetical protein
+	[461120:461356:rev] hypothetical protein
+	[461385:461933:rev] COG1102 Cytidylate kinase; cytidylate kinase
+	[461930:462193:rev] rpl34e; COG2174 Ribosomal protein L34E; 50S ribosomal protein L34e
+	[462216:462650:rev] hypothetical protein
+	[462665:463249:rev] COG2019 Archaeal adenylate kinase; adenylate kinase
+	[463253:464644:rev] COG0201 Preprotein translocase subunit SecY; preprotein translocase subunit SecY
+	[464661:465095:rev] rpl15p; COG0200 Ribosomal protein L15; 50S ribosomal protein L15P
+	[465097:465567:rev] rpl30p; COG1841 Ribosomal protein L30/L7E; 50S ribosomal protein L30P
+	[465564:466223:rev] rps5p; COG0098 Ribosomal protein S5; 30S ribosomal protein S5P
+	[466210:466803:rev] rpl18p; COG0256 Ribosomal protein L18; 50S ribosomal protein L18P
+	[466807:467259:rev] rpl19e; COG2147 Ribosomal protein L19E; 50S ribosomal protein L19e
+	[467265:467660:rev] rpl32e; COG1717 Ribosomal protein L32E; 50S ribosomal protein L32e
+	[467644:468204:rev] rpl6p; COG0097 Ribosomal protein L6P/L9E; 50S ribosomal protein L6P
+	[468219:468620:rev] rps8p; COG0096 Ribosomal protein S8; 30S ribosomal protein S8P
+	[468627:468791:rev] rps14P; COG0199 Ribosomal protein S14; 30S ribosomal protein S14P
+	[468796:469332:rev] rpl5p; COG0094 Ribosomal protein L5; 50S ribosomal protein L5P
+	[469329:470063:rev] COG1471 Ribosomal protein S4E; 30S ribosomal protein S4e
+	[470065:470469:rev] rpl24p; COG0198 Ribosomal protein L24; 50S ribosomal protein L24P
+	[470471:470887:rev] rpl14p; COG0093 Ribosomal protein L14; 50S ribosomal protein L14P
+	[470889:471233:rev] rps17p; COG0186 Ribosomal protein S17; 30S ribosomal protein S17P
+	[471226:471465:rev] COG1588 RNase P/RNase MRP subunit p29; hypothetical protein
+	[471467:471676:rev] COG0255 Ribosomal protein L29; 50S ribosomal protein L29P
+	[471660:472355:rev] rps3p; COG0092 Ribosomal protein S3; 30S ribosomal protein S3P
+	[472359:472829:rev] rpl22p; COG0091 Ribosomal protein L22; 50S ribosomal protein L22P
+	[472833:473255:rev] rps19p; COG0185 Ribosomal protein S19; 30S ribosomal protein S19P
+	[473302:474018:rev] rpl2p; COG0090 Ribosomal protein L2; 50S ribosomal protein L2P
+	[474030:474278:rev] COG0089 Ribosomal protein L23; 50S ribosomal protein L23P
+	[474275:475075:rev] rpl4lp; COG0088 Ribosomal protein L4; 50S ribosomal protein L4P
+	[475079:476107:rev] rpl3p; COG0087 Ribosomal protein L3; 50S ribosomal protein L3P
+	[476163:476915:rev] COG2106 Uncharacterized conserved protein; hypothetical protein
+	[476899:480051:rev] ileS; COG0060 Isoleucyl-tRNA synthetase; isoleucyl-tRNA synthetase
+	[480120:481133:rev] COG0473 Isocitrate/isopropylmalate dehydrogenase; 3-isopropylmalate dehydrogenase
+	[481143:481745:rev] COG2457 Uncharacterized conserved protein; hypothetical protein
+	[481831:482553:rev] COG1011 Predicted hydrolase (HAD superfamily); haloacid dehalogenase-like hydrolase
+	[482561:484774:rev] COG0480 Translation elongation factors (GTPases); elongation factor EF-2
+	[484973:485683:rev] COG1948 ERCC4-type nuclease; XPF/RAD1 repair endonuclease
+	[485709:486086:rev] COG1382 Prefoldin, chaperonin cofactor; prefoldin subunit beta
+	[486083:486316:rev] COG2892 Uncharacterized protein conserved in archaea; hypothetical protein
+	[486294:486815:rev] COG2136 Predicted exosome subunit/U3 small nucleolar ribonucleoprotein (snoRNP) component, contains IMP4 domain; putative brix domain-containing ribosomal biogenesis protein
+	[486823:487035:rev] rpl37ae; COG1997 Ribosomal protein L37AE/L43A; 50S ribosomal protein L37Ae
+	[487046:487876:rev] COG2123 RNase PH-related exoribonuclease; exosome complex RNA-binding protein Rrp42
+	[487880:488611:rev] COG0689 RNase PH; exosome complex exonuclease Rrp41
+	[488577:489326:rev] COG1097 RNA-binding protein Rrp4 and related proteins (contain S1 domain and KH domain); exosome complex RNA-binding protein Rrp4
+	[489328:490029:rev] COG1500 Predicted exosome subunit; putative RNA-associated protein
+	[490047:490775:rev] COG0638 20S proteasome, alpha and beta subunits; proteasome subunit alpha
+	[490873:491295:rev] COG1369 RNase P/RNase MRP subunit POP5; hypothetical protein
+	[491292:491843:rev] COG1603 RNase P/RNase MRP subunit p30; RNase_P_p30-like protein
+	[491818:492252:rev] COG1325 Predicted exosome subunit; hypothetical protein
+	[492249:492902:rev] COG1632 Ribosomal protein L15E; 50S ribosomal protein L15e
+	[492966:494168:dir] COG0012 Predicted GTPase, probable translation factor; translation-associated GTPase
+	[494158:495375:rev] COG1208 Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon); nucleotidyl transferase
+	[495387:495980:rev] COG1890 Ribosomal protein S3AE; 30S ribosomal protein S3Ae
+	[496005:496712:rev] COG0565 rRNA methylase; SpoU rRNA methylase
+	[496687:497289:rev] COG2890 Methylase of polypeptide chain release factors; putative methyltransferase
+	[497241:497909:rev] ksgA; COG0030 Dimethyladenosine transferase (rRNA methylation); 16S ribosomal RNA methyltransferase KsgA/Dim1 family protein
+	[497906:498532:rev] COG1491 Predicted RNA-binding protein; hypothetical protein
+	[498570:498914:rev] COG1460 Uncharacterized protein conserved in archaea; DNA-directed RNA polymerase subunit F
+	[498935:499246:rev] COG2139 Ribosomal protein L21E; 50S ribosomal protein L21e
+	[499436:499705:rev] integrase
+	[499442:499525:dir] tRNA-Leu
+	[500061:500129:rev] tRNA-Val
+	[500221:501222:rev] hypothetical protein
+<END>
+<GI> CP002817:6 <COORDINATES> 543000-560710 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.876709; n0_4mer:D = 22.124270; n0_4mer:PS = 38.591789
+	[543021:544328:rev] COG5256 Translation elongation factor EF-1alpha (GTPase); elongation factor 1-alpha
+	[544386:544973:rev] COG0049 Ribosomal protein S7; 30S ribosomal protein S7P
+	[545055:545546:dir] COG1259 Uncharacterized conserved protein; hypothetical protein
+	[545620:546063:rev] rps12P; COG0048 Ribosomal protein S12; 30S ribosomal protein S12P
+	[546077:546508:rev] COG0195 Transcription elongation factor; transcription elongation factor NusA-like protein
+	[546509:546823:rev] COG1911 Ribosomal protein L30E; 50S ribosomal protein L30e
+	[546831:548012:rev] COG0086 DNA-directed RNA polymerase, beta' subunit/160 kD subunit; DNA-directed RNA polymerase subunit A''
+	[548017:550659:rev] COG0086 DNA-directed RNA polymerase, beta' subunit/160 kD subunit; DNA-directed RNA polymerase subunit A'
+	[550652:554032:rev] COG0085 DNA-directed RNA polymerase, beta subunit/140 kD subunit; DNA-directed RNA polymerase subunit B
+	[554037:554291:rev] rpoH; COG2012 DNA-directed RNA polymerase, subunit H, RpoH/RPB5; DNA-directed RNA polymerase subunit H
+	[554497:556305:dir] COG0532 Translation initiation factor 2 (IF-2; GTPase); translation initiation factor IF-2
+	[556274:556711:rev] ndk; COG0105 Nucleoside diphosphate kinase; mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+	[556708:556896:rev] COG2075 Ribosomal protein L24E; 50S ribosomal protein L24e
+	[556960:557214:dir] rps28e; COG2053 Ribosomal protein S28E/S33; 30S ribosomal protein S28e
+	[557219:557869:dir] upp; COG0035 Uracil phosphoribosyltransferase; uracil phosphoribosyltransferase
+	[557911:559329:dir] gatB; COG0064 Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog); aspartyl/glutamyl-tRNA amidotransferase subunit B
+	[559398:560135:dir] COG0503 Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins; hypothetical protein
+	[560132:560710:dir] COG0491 Zn-dependent hydrolases, including glyoxylases; hypothetical protein
+<END>
+<GI> CP002817:7 <COORDINATES> 915000-934181 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.641612; n0_4mer:D = 25.148923; n0_4mer:PS = 25.630957
+	[915037:915963:dir] COG0208 Ribonucleotide reductase, beta subunit; ribonucleotide-diphosphate reductase subunit beta
+	[915975:916871:dir] COG1960 Acyl-CoA dehydrogenases; acyl-CoA dehydrogenase
+	[916907:918094:dir] COG0183 Acetyl-CoA acetyltransferase; acetyl-CoA acetyltransferase
+	[918125:919132:rev] COG1064 Zn-dependent alcohol dehydrogenases; putative alcohol dehydrogenase
+	[919178:920095:rev] COG0657 Esterase/lipase; acetyl esterase
+	[920171:921667:rev] COG0554 Glycerol kinase; glycerol kinase
+	[921761:923047:dir] COG0578 Glycerol-3-phosphate dehydrogenase; glycerol-3-phosphate dehydrogenase
+	[923050:923490:dir] COG3427 Uncharacterized conserved protein; carbon monoxide dehydrogenase subunit G
+	[923562:924095:rev] COG1545 Predicted nucleic-acid-binding protein containing a Zn-ribbon; hypothetical protein
+	[924092:925279:rev] COG0183 Acetyl-CoA acetyltransferase; acetyl-CoA acetyltransferase
+	[925285:926898:rev] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II; acyl-CoA synthetase
+	[926934:928136:rev] COG1960 Acyl-CoA dehydrogenases; acyl-CoA dehydrogenase
+	[928650:928964:dir] hypothetical protein
+	[929275:929751:rev] COG1225 Peroxiredoxin; peroxiredoxin
+	[929964:931616:rev] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II; medium-chain-fatty-acid-CoA ligase
+	[932298:934181:dir] COG0531 Amino acid transporters; amino acid permease
+<END>
+<GI> CP002817:8 <COORDINATES> 1095660-1122923 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.689539; n0_4mer:D = 36.258377; n0_4mer:PS = 41.217315
+	[1095660:1096268:dir] COG2112 Predicted Ser/Thr protein kinase; putative serine/threonine protein kinase
+	[1096252:1096461:rev] hypothetical protein
+	[1096725:1098833:rev] COG3055 Uncharacterized protein conserved in bacteria; Fibronectin type III domain protein
+	[1099040:1099732:rev] COG0300 Short-chain dehydrogenases of various substrate specificities; short chain dehydrogenase
+	[1099789:1100478:rev] COG0084 Mg-dependent DNase; deoxyribonuclease
+	[1100512:1100913:rev] hypothetical protein
+	[1101175:1101882:dir] COG1131 ABC-type multidrug transport system, ATPase component; ABC transporter
+	[1101887:1103299:dir] hypothetical protein
+	[1103296:1103838:rev] COG1611 Predicted Rossmann fold nucleotide-binding protein; hypothetical protein
+	[1103919:1106931:rev] 23S ribosomal RNA
+	[1104756:1104920:dir] hypothetical protein
+	[1105366:1105536:rev] hypothetical protein
+	[1105702:1105926:rev] hypothetical protein
+	[1106016:1106129:rev] hypothetical protein
+	[1107124:1108643:rev] 16S ribosomal RNA
+	[1108927:1109589:rev] COG0120 Ribose 5-phosphate isomerase; ribose 5-phosphate isomerase
+	[1109991:1110098:dir] hypothetical protein
+	[1111010:1111093:dir] tRNA-Leu
+	[1111104:1112486:rev] COG0119 Isopropylmalate/homocitrate/citramalate synthases; 2-isopropylmalate synthase
+	[1112551:1112826:rev] hypothetical protein
+	[1112832:1113515:rev] pyrH; COG0528 Uridylate kinase; uridylate kinase
+	[1113551:1113730:rev] hypothetical protein
+	[1113839:1114636:rev] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases); short chain dehydrogenase
+	[1114633:1115709:rev] COG1258 Predicted pseudouridylate synthase; putative pseudouridylate synthase
+	[1115678:1117012:rev] COG0541 Signal recognition particle GTPase; signal recognition particle protein Srp54
+	[1117014:1117409:rev] COG0231 Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A); translation initiation factor IF-5A
+	[1117752:1118912:rev] COG1697 DNA topoisomerase VI, subunit A; DNA topoisomerase VI subunit A
+	[1118909:1120507:rev] COG1389 DNA topoisomerase VI, subunit B; DNA topoisomerase VI subunit B
+	[1120543:1121478:rev] COG1899 Deoxyhypusine synthase; putative deoxyhypusine synthase
+	[1121475:1122923:rev] COG1690 Uncharacterized conserved protein; hypothetical protein
+<END>
+<GI> CP002817:9 <COORDINATES> 1238810-1260253 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.571534; n0_4mer:D = 24.015078; n0_4mer:PS = 40.725880
+	[1238810:1239955:dir] hypothetical protein
+	[1240402:1240474:rev] tRNA-Gln
+	[1240571:1240927:rev] hypothetical protein
+	[1241082:1241690:rev] COG2454 Uncharacterized conserved protein; hypothetical protein
+	[1241680:1244403:rev] alaS; COG0013 Alanyl-tRNA synthetase; alanyl-tRNA synthetase
+	[1244444:1244761:rev] rpl12p; COG2058 Ribosomal protein L12E/L44/L45/RPP1/RPP2; 50S ribosomal protein L12P
+	[1244803:1245810:rev] rplP0; COG0244 Ribosomal protein L10; acidic ribosomal protein P0
+	[1245807:1246472:rev] rpl1P; COG0081 Ribosomal protein L1; 50S ribosomal protein L1P
+	[1246469:1246981:rev] rpl11p; COG0080 Ribosomal protein L11; 50S ribosomal protein L11P
+	[1246989:1247447:rev] nusG; COG0250 Transcription antiterminator; transcription antitermination protein NusG
+	[1247461:1247658:rev] secE; COG2443 Preprotein translocase subunit Sss1; preprotein translocase subunit SecE
+	[1247674:1248300:rev] COG0552 Signal recognition particle GTPase; signal recognition particle
+	[1248780:1249229:rev] COG1730 Predicted prefoldin, molecular chaperone implicated in de novo protein folding; prefoldin subunit alpha
+	[1249226:1249486:rev] rplX; COG2157 Ribosomal protein L20A (L18A); 50S ribosomal protein LX
+	[1249488:1250159:rev] COG1976 Translation initiation factor 6 (eIF-6); translation initiation factor IF-6
+	[1250156:1250545:rev] COG2097 Ribosomal protein L31E; 50S ribosomal protein L31e
+	[1250550:1250711:rev] hypothetical protein
+	[1250702:1250992:rev] COG2118 DNA-binding protein; hypothetical protein
+	[1251062:1251526:rev] COG2238 Ribosomal protein S19E (S16A); 30S ribosomal protein S19e
+	[1251593:1252765:dir] COG1488 Nicotinic acid phosphoribosyltransferase; nicotinate phosphoribosyltransferase
+	[1252755:1253807:rev] COG0704 Phosphate uptake regulator; hypothetical protein
+	[1253869:1254858:rev] COG2848 Uncharacterized conserved protein; hypothetical protein
+	[1254912:1255307:dir] COG2044 Predicted peroxiredoxins; hypothetical protein
+	[1255307:1255528:dir] COG0425 Predicted redox protein, regulator of disulfide bond formation; hypothetical protein
+	[1255576:1256463:dir] COG0031 Cysteine synthase; cysteine synthase B
+	[1256501:1256656:dir] hypothetical protein
+	[1256658:1257332:dir] COG3642 Mn2+-dependent serine/threonine protein kinase; hypothetical protein
+	[1257304:1257468:rev] hypothetical protein
+	[1257541:1258482:dir] COG2896 Molybdenum cofactor biosynthesis enzyme; molybdenum cofactor biosynthesis protein A
+	[1258460:1259557:dir] COG0006 Xaa-Pro aminopeptidase; Xaa-Pro dipeptidase
+	[1259624:1260253:dir] folE; COG0302 GTP cyclohydrolase I; GTP cyclohydrolase I
+<END>
+<GI> CP002817:10 <COORDINATES> 1295960-1338317 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.839933; n0_4mer:D = 23.237253; n0_4mer:PS = 30.759686
+	[1295960:1297663:dir] gltX; COG0008 Glutamyl- and glutaminyl-tRNA synthetases; glutamyl-tRNA synthetase
+	[1297724:1298104:dir] rpl7ae; COG1358 Ribosomal protein HS6-type (S12/L30/L7a); 50S ribosomal protein L7Ae
+	[1298703:1300154:dir] COG0477 Permeases of the major facilitator superfamily; membrane protein
+	[1300347:1300421:dir] tRNA-Arg
+	[1300765:1302819:rev] COG0640 Predicted transcriptional regulators; hypothetical protein
+	[1302816:1303169:rev] hypothetical protein
+	[1303147:1303470:rev] COG1396 Predicted transcriptional regulators; hypothetical protein
+	[1303583:1303897:rev] hypothetical protein
+	[1304373:1304756:dir] hypothetical protein
+	[1305001:1305192:dir] hypothetical protein
+	[1306002:1306076:dir] potential frameshift: common BLAST hit: gi|70606449|ref|YP_255319.1| pNOB8-type integrase; tRNA-OTHER
+	[1307370:1309292:dir] thermopsin
+	[1309573:1310955:rev] hypothetical protein
+	[1310952:1311671:rev] COG1131 ABC-type multidrug transport system, ATPase component; ABC transporter
+	[1311886:1314516:dir] COG0417 DNA polymerase elongation subunit (family B); DNA polymerase I
+	[1314563:1315006:rev] COG5399 Uncharacterized protein conserved in archaea; hypothetical protein
+	[1315003:1315488:rev] COG0500 SAM-dependent methyltransferases; hypothetical protein
+	[1315508:1315828:rev] hypothetical protein
+	[1315861:1316451:dir] COG0558 Phosphatidylglycerophosphate synthase; CDP-alcohol phosphatidyltransferase
+	[1316444:1317376:rev] COG2219 Eukaryotic-type DNA primase, large subunit; DNA primase large subunit
+	[1317415:1319130:dir] COG0143 Methionyl-tRNA synthetase; methionyl-tRNA synthetase
+	[1319122:1321209:rev] COG1269 Archaeal/vacuolar-type H+-ATPase subunit I; V-type ATP synthase subunit I
+	[1321297:1321599:dir] COG1436 Archaeal/vacuolar-type H+-ATPase subunit F; hypothetical protein
+	[1321605:1322183:dir] COG1390 Archaeal/vacuolar-type H+-ATPase subunit E; H+transporting two-sector ATPase E subunit
+	[1322186:1323964:dir] COG1155 Archaeal/vacuolar-type H+-ATPase subunit A; V-type ATP synthase subunit A
+	[1323976:1325367:dir] COG1156 Archaeal/vacuolar-type H+-ATPase subunit B; V-type ATP synthase subunit B
+	[1325364:1325993:dir] COG1394 Archaeal/vacuolar-type H+-ATPase subunit D; V-type ATP synthase subunit D
+	[1325998:1326159:dir] hypothetical protein
+	[1326173:1326478:dir] COG0636 F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K; V-type ATP synthase subunit K
+	[1326540:1327991:dir] COG0442 Prolyl-tRNA synthetase; prolyl-tRNA synthetase
+	[1328028:1328315:dir] COG4830 Ribosomal protein S26; 30S ribosomal protein S26e
+	[1328347:1329357:dir] COG0214 Pyridoxine biosynthesis enzyme; pyridoxal biosynthesis lyase PdxS
+	[1329359:1329961:dir] COG0311 Predicted glutamine amidotransferase involved in pyridoxine biosynthesis; glutamine amidotransferase subunit PdxT
+	[1330008:1331540:dir] COG1855 ATPase (PilT family); ATPase
+	[1331533:1331982:rev] COG1591 Holliday junction resolvase - archaeal type; holliday junction resolvase
+	[1331983:1332981:rev] COG0059 Ketol-acid reductoisomerase; ketol-acid reductoisomerase
+	[1332962:1333357:rev] hypothetical protein
+	[1333335:1335053:rev] COG0028 Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase]; acetolactate synthase catalytic subunit
+	[1335206:1335739:rev] COG4996 Predicted phosphatase; hypothetical protein
+	[1335736:1336515:rev] COG1161 Predicted GTPases; GTP-binding protein
+	[1336551:1337501:dir] hypothetical protein
+	[1337490:1338317:rev] COG0382 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases; (S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase
+<END>
+<GI> CP002817:11 <COORDINATES> 1364526-1386029 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.929121; n0_4mer:D = 23.210117; n0_4mer:PS = 36.289438
+	[1364526:1365035:rev] COG5491 Conserved protein implicated in secretion; hypothetical protein
+	[1365260:1365664:rev] hypothetical protein
+	[1365685:1366317:dir] COG1590 Uncharacterized conserved protein; hypothetical protein
+	[1366240:1366875:rev] COG0602 Organic radical activating enzymes; hypothetical protein
+	[1366856:1367845:rev] COG1084 Predicted GTPase; GTP-binding protein
+	[1367839:1368180:rev] COG0073 EMAP domain; tRNA-binding domain-containing protein
+	[1368289:1368996:dir] COG0152 Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase; phosphoribosylaminoimidazole-succinocarboxamide synthase
+	[1368993:1369271:dir] COG1828 Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component; hypothetical protein
+	[1369252:1369932:dir] COG0047 Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain; phosphoribosylformylglycinamidine synthase I
+	[1369922:1372054:dir] COG0046 Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain; phosphoribosylformylglycinamidine synthase II
+	[1372047:1373381:dir] COG0034 Glutamine phosphoribosylpyrophosphate amidotransferase; amidophosphoribosyltransferase
+	[1373387:1374601:dir] COG0034 Glutamine phosphoribosylpyrophosphate amidotransferase; amidophosphoribosyltransferase
+	[1374607:1376043:dir] COG0151 Phosphoribosylamine-glycine ligase; phosphoribosylamine--glycine ligase
+	[1376037:1377002:dir] COG0150 Phosphoribosylaminoimidazole (AIR) synthetase; phosphoribosylaminoimidazole synthetase
+	[1377058:1377504:dir] hypothetical protein
+	[1377607:1377765:dir] COG0864 Predicted transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain and a metal-binding domain; hypothetical protein
+	[1377843:1379018:dir] COG0137 Argininosuccinate synthase; argininosuccinate synthase
+	[1379019:1380362:dir] COG0165 Argininosuccinate lyase; argininosuccinate lyase
+	[1380343:1381458:dir] COG0505 Carbamoylphosphate synthase small subunit; carbamoyl phosphate synthase small subunit
+	[1381451:1384609:dir] carB; COG0458 Carbamoylphosphate synthase large subunit (split gene in MJ); carbamoyl phosphate synthase large subunit
+	[1384606:1385454:dir] COG0189 Glutathione synthase/Ribosomal protein S6 modification enzyme (glutaminyl transferase); ribosomal protein S6
+	[1385442:1386029:rev] COG2178 Predicted RNA-binding protein of the translin family; haloacid dehalogenase superfamily protein
+<END>
+<GI> CP002817:12 <COORDINATES> 1639373-1672099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.645384; n0_4mer:D = 22.113826; n0_4mer:PS = 28.141739
+	[1639373:1640218:rev] hypothetical protein
+	[1640589:1641599:rev] COG0463 Glycosyltransferases involved in cell wall biogenesis; hypothetical protein
+	[1641757:1642125:rev] hypothetical protein
+	[1642862:1643521:rev] hypothetical protein
+	[1644028:1644837:rev] COG0840 Methyl-accepting chemotaxis protein; hypothetical protein
+	[1644924:1645136:rev] hypothetical protein
+	[1645359:1645850:rev] hypothetical protein
+	[1646288:1646407:dir] hypothetical protein
+	[1646622:1648772:rev] COG0515 Serine/threonine protein kinase; membrane bound kinase
+	[1649101:1649289:rev] hypothetical protein
+	[1649871:1650305:rev] hypothetical protein
+	[1650316:1650543:dir] hypothetical protein
+	[1659682:1661697:rev] COG1205 Distinct helicase family with a unique C-terminal domain including a metal-binding cysteine cluster; putative ATP-dependent helicase
+	[1661808:1662575:rev] hypothetical protein
+	[1662562:1663617:rev] hypothetical protein
+	[1663614:1666214:rev] hypothetical protein
+	[1666293:1666958:dir] COG0640 Predicted transcriptional regulators; hypothetical protein
+	[1666939:1667802:dir] hypothetical protein
+	[1668310:1668600:dir] COG1343 Uncharacterized protein predicted to be involved in DNA repair; hypothetical protein
+	[1668611:1669090:dir] hypothetical protein
+	[1669827:1670744:rev] COG1518 Uncharacterized protein predicted to be involved in DNA repair; hypothetical protein
+<END>
+<GI> CP002817:13 <COORDINATES> 1740000-1761665 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.706843; n0_4mer:D = 31.012214; n0_4mer:PS = 24.138141
+	[1740357:1740497:dir] hypothetical protein
+	[1740631:1741881:rev] COG1373 Predicted ATPase (AAA+ superfamily); hypothetical protein
+	[1742378:1742794:dir] hypothetical protein
+	[1742915:1743028:rev] hypothetical protein
+	[1743277:1743408:rev] hypothetical protein
+	[1743444:1743629:rev] hypothetical protein
+	[1743819:1744160:rev] hypothetical protein
+	[1744410:1744583:rev] hypothetical protein
+	[1744710:1744904:dir] hypothetical protein
+	[1745197:1746192:rev] COG1252 NADH dehydrogenase, FAD-containing subunit; pyridine nucleotide-disulfide oxidoreductase
+	[1746194:1747843:rev] COG0028 Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase]; pyruvate dehydrogenase
+	[1748012:1748293:dir] hypothetical protein
+	[1748271:1748666:dir] COG1848 Predicted nucleic acid-binding protein, contains PIN domain; hypothetical protein
+	[1748999:1750435:rev] COG1012 NAD-dependent aldehyde dehydrogenases; aldehyde dehydrogenase
+	[1750542:1751420:dir] COG3970 Fumarylacetoacetate (FAA) hydrolase family protein; hypothetical protein
+	[1751557:1752075:rev] COG0596 Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily); proline iminopeptidase
+	[1752086:1753339:rev] COG0675 Transposase and inactivated derivatives; ISC1913-like transposase
+	[1753536:1753922:rev] COG0596 Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily); proline iminopeptidase
+	[1754149:1754769:dir] hypothetical protein
+	[1754985:1756442:rev] COG0477 Permeases of the major facilitator superfamily; sugar proton symporter
+	[1756820:1757380:rev] COG1584 Predicted membrane protein; hypothetical protein
+	[1757720:1758112:rev] hypothetical protein
+	[1758119:1758391:rev] hypothetical protein
+	[1759352:1759576:dir] hypothetical protein
+	[1759658:1759864:dir] COG4113 Predicted nucleic acid-binding protein, contains PIN domain; hypothetical protein
+	[1760427:1761665:rev] COG0477 Permeases of the major facilitator superfamily; transporter
+<END>
+<GI> CP002817:14 <COORDINATES> 1766746-1811099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.745387; n0_4mer:D = 27.810150; n0_4mer:PS = 22.795799
+	[1766746:1767189:rev] COG1846 Transcriptional regulators; hypothetical protein
+	[1767176:1768879:rev] COG0477 Permeases of the major facilitator superfamily; sugar transporter
+	[1769456:1769953:dir] hypothetical protein
+	[1769974:1770645:dir] hypothetical protein
+	[1770881:1771021:rev] hypothetical protein
+	[1771415:1772269:dir] COG1131 ABC-type multidrug transport system, ATPase component; ABC transporter
+	[1772241:1772828:dir] hypothetical protein
+	[1773151:1773480:dir] COG2146 Ferredoxin subunits of nitrite reductase and ring-hydroxylating dioxygenases; Rieske-type (2Fe-2S) protein
+	[1773647:1773907:dir] hypothetical protein
+	[1774351:1775085:dir] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases); short chain dehydrogenase
+	[1775082:1776617:dir] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II; long-chain-fatty-acid-CoA ligase
+	[1776604:1777722:dir] COG4948 L-alanine-DL-glutamate epimerase and related enzymes of enolase superfamily; mandelate racemase/muconate lactonizing enzyme
+	[1777724:1778884:dir] COG0183 Acetyl-CoA acetyltransferase; acetyl-CoA acetyltransferase
+	[1778877:1779221:dir] COG1545 Predicted nucleic-acid-binding protein containing a Zn-ribbon; hypothetical protein
+	[1779618:1779860:dir] COG2002 Regulators of stationary/sporulation gene expression; hypothetical protein
+	[1779948:1780121:dir] hypothetical protein
+	[1780565:1781905:dir] COG0531 Amino acid transporters; transport protein
+	[1782064:1784310:dir] COG2409 Predicted drug exporters of the RND superfamily; hypothetical protein
+	[1784614:1785519:rev] hypothetical protein
+	[1787055:1787153:dir] hypothetical protein
+	[1787922:1788782:dir] COG0863 DNA modification methylase; modification methylase
+	[1788790:1789905:dir] hypothetical protein
+	[1790389:1790490:rev] hypothetical protein
+	[1790587:1790835:rev] hypothetical protein
+	[1791455:1791886:dir] COG2250 Uncharacterized conserved protein related to C-terminal domain of eukaryotic chaperone, SACSIN; hypothetical protein
+	[1791864:1792208:dir] COG1708 Predicted nucleotidyltransferases; hypothetical protein
+	[1792667:1793899:rev] COG0640 Predicted transcriptional regulators; hypothetical protein
+	[1795191:1795427:dir] hypothetical protein
+	[1795414:1795818:dir] COG4113 Predicted nucleic acid-binding protein, contains PIN domain; hypothetical protein
+	[1796531:1797445:rev] membrane protein
+	[1797444:1797581:dir] hypothetical protein
+	[1797861:1798235:rev] hypothetical protein
+	[1799237:1799500:dir] COG2002 Regulators of stationary/sporulation gene expression; hypothetical protein
+	[1799490:1799876:dir] COG1848 Predicted nucleic acid-binding protein, contains PIN domain; hypothetical protein
+	[1800146:1800616:dir] COG1517 Uncharacterized protein predicted to be involved in DNA repair; hypothetical protein
+	[1800639:1801541:dir] COG1517 Uncharacterized protein predicted to be involved in DNA repair; hypothetical protein
+	[1802089:1802247:dir] hypothetical protein
+	[1802309:1802458:dir] hypothetical protein
+	[1802742:1803992:rev] hypothetical protein
+	[1804009:1805757:rev] COG1401 GTPase subunit of restriction endonuclease; hypothetical protein
+	[1805957:1806094:dir] hypothetical protein
+	[1806572:1807381:rev] COG0086 DNA-directed RNA polymerase, beta' subunit/160 kD subunit; hypothetical protein
+	[1807979:1809217:dir] COG1373 Predicted ATPase (AAA+ superfamily); hypothetical protein
+	[1809802:1810182:rev] COG0640 Predicted transcriptional regulators; hypothetical protein
+	[1810258:1810791:dir] hypothetical protein
+<END>
+<GI> CP002817:15 <COORDINATES> 1818342-1837623 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.498073; n0_4mer:D = 25.291829; n0_4mer:PS = 25.459861
+	[1818342:1818929:rev] hypothetical protein
+	[1818916:1819116:rev] hypothetical protein
+	[1819164:1819562:dir] hypothetical protein
+	[1819543:1820088:dir] hypothetical protein
+	[1820364:1820489:dir] hypothetical protein
+	[1821557:1822369:rev] COG5551 Uncharacterized conserved protein; hypothetical protein
+	[1822765:1823130:dir] hypothetical protein
+	[1823163:1823429:rev] hypothetical protein
+	[1824242:1824538:rev] COG1343 Uncharacterized protein predicted to be involved in DNA repair; hypothetical protein
+	[1824545:1825450:rev] COG1518 Uncharacterized protein predicted to be involved in DNA repair; CRISPR-associated protein Cas1
+	[1830153:1831349:rev] COG1032 Fe-S oxidoreductase; hypothetical protein
+	[1831468:1831944:dir] COG2062 Phosphohistidine phosphatase SixA; phosphohistidine phosphatase, SixA
+	[1831945:1833180:dir] COG0248 Exopolyphosphatase; Ppx/GppA phosphatase
+	[1833177:1833818:dir] COG0125 Thymidylate kinase; dTMP kinase
+	[1833797:1834429:dir] COG0125 Thymidylate kinase; thymidylate kinase related protein
+	[1834419:1835039:dir] hypothetical protein
+	[1835381:1835737:dir] hypothetical protein
+	[1835748:1836377:dir] COG2452 Predicted site-specific integrase-resolvase; ISC1913-like resolvase
+	[1836367:1837623:dir] COG0675 Transposase and inactivated derivatives; ISC1913-like transposase
+<END>
+<GI> CP002817:16 <COORDINATES> 1914000-1936351 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.569848; n0_4mer:D = 23.534776; n0_4mer:PS = 40.626142
+	[1914293:1914817:rev] COG1522 Transcriptional regulators; AsnC family transcriptional regulator
+	[1914922:1916256:dir] COG0160 4-aminobutyrate aminotransferase and related aminotransferases; class-III aminotransferase
+	[1916334:1917161:rev] COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily; hypothetical protein
+	[1917400:1917759:rev] hypothetical protein
+	[1918367:1919314:rev] COG1735 Predicted metal-dependent hydrolase with the TIM-barrel fold; parathion hydrolase
+	[1919681:1920976:dir] COG0174 Glutamine synthetase; glutamate--ammonia ligase
+	[1920978:1922030:dir] COG2159 Predicted metal-dependent hydrolase of the TIM-barrel fold; hypothetical protein
+	[1922276:1923793:dir] COG2368 Aromatic ring hydroxylase; gamma-aminobutyrate metabolism dehydratase/isomerase
+	[1924011:1925009:rev] COG0492 Thioredoxin reductase; ferredoxin--NADP reductase
+	[1925130:1926221:dir] COG1062 Zn-dependent alcohol dehydrogenases, class III; alcohol dehydrogenase
+	[1926434:1927861:dir] COG1541 Coenzyme F390 synthetase; phenylacetyl-CoA ligase
+	[1928217:1929275:dir] COG0136 Aspartate-semialdehyde dehydrogenase; aspartate-semialdehyde dehydrogenase
+	[1929437:1931104:dir] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II; long-chain-fatty-acid--CoA ligase
+	[1932081:1933028:rev] COG0179 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway); fumarylacetoacetate (FAA) hydrolase
+	[1933084:1934001:dir] COG0491 Zn-dependent hydrolases, including glyoxylases; hypothetical protein
+	[1934341:1935228:dir] COG0730 Predicted permeases; hypothetical protein
+	[1935395:1936351:dir] COG2421 Predicted acetamidase/formamidase; formamidase/acetamidase
+<END>
+<GI> CP002817:17 <COORDINATES> 2110618-2135463 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.659382; n0_4mer:D = 23.553016; n0_4mer:PS = 39.170423
+	[2110618:2112201:rev] COG0247 Fe-S oxidoreductase; hypothetical protein
+	[2112287:2113969:rev] COG0630 Type IV secretory pathway, VirB11 components, and related ATPases involved in archaeal flagella biosynthesis; type II/IV secretion system protein
+	[2114138:2115973:rev] COG2064 Flp pilus assembly protein TadC; hypothetical protein
+	[2116386:2116637:rev] hypothetical protein
+	[2117276:2119414:dir] COG0069 Glutamate synthase domain 2; glutamate synthase
+	[2119411:2121390:dir] COG0067 Glutamate synthase domain 1; glutamine amidotransferase class-II
+	[2121443:2122270:dir] COG2073 Cobalamin biosynthesis protein CbiG; cobalamin (vitamin B12) biosynthesis CbiG protein
+	[2122251:2123057:dir] COG0614 ABC-type Fe3+-hydroxamate transport system, periplasmic component; vitamin B12 transport protein
+	[2123054:2123569:rev] hypothetical protein
+	[2123655:2125226:dir] COG0119 Isopropylmalate/homocitrate/citramalate synthases; putative alpha-isopropylmalate/homocitrate synthase family transferase
+	[2125229:2126119:dir] ubiA; COG0382 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases; prenyltransferase
+	[2126201:2127007:rev] COG2105 Uncharacterized conserved protein; hypothetical protein
+	[2127000:2127290:rev] hypothetical protein
+	[2127277:2127639:rev] COG1585 Membrane protein implicated in regulation of membrane protease activity; hypothetical protein
+	[2127676:2128980:dir] thermopsin-like protein
+	[2128996:2129772:dir] COG0330 Membrane protease subunits, stomatin/prohibitin homologs; SPFH domain-containing protein/band 7 family protein
+	[2130061:2131353:rev] COG1672 Predicted ATPase (AAA+ superfamily); hypothetical protein
+	[2131847:2132956:dir] COG0301 Thiamine biosynthesis ATP pyrophosphatase; thiamine biosynthesis protein
+	[2133036:2134073:rev] COG1260 Myo-inositol-1-phosphate synthase; myo-inositol-1-phosphate synthase
+	[2134075:2135463:rev] COG1007 NADH:ubiquinone oxidoreductase subunit 2 (chain N); NADH:ubiquinone oxidoreductase subunit N
+<END>

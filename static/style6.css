@@ -1,0 +1,88 @@
+/* Global page style */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-image: url("/static/images/bacteria2.jpg");
+    background-size: cover;        /* Make the image cover the whole page */
+    background-repeat: no-repeat;  /* Prevent tiling */
+    background-attachment: fixed;  /* Keep it fixed while scrolling */
+    background-position: center;   /* Center the image */
+    color: #000;
+}
+
+/* Headings */
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Tables */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff; /* table background white */
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #d4f4d4;
+}
+
+/* Buttons */
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+button, select {
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* OUT/FASTA blocks */
+pre {
+    background-color: #f8f8f8;
+    color: #000;
+    padding: 10px;
+    border: 1px solid #333;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* SVG images */
+svg, img {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+    margin-bottom: 20px;
+}

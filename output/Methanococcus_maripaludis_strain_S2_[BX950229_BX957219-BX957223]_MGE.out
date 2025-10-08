@@ -1,0 +1,261 @@
+<GI> BX950229 BX957219-BX957223:1 <COORDINATES> 1-22099 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.242010; n0_4mer:D = 44.487678; n0_4mer:PS = 41.141836
+	[68:182:rev] rrnA5S; 5S ribosomal RNA
+	[244:3200:rev] rrnA23S; 23S ribosomal RNA
+	[3402:4793:rev] rrnA16S; 16S ribosomal RNA
+	[5109:5223:rev] rrnB5S; 5S ribosomal RNA
+	[5285:8241:rev] rrnB23S; 23S ribosomal RNA
+	[8443:9834:rev] rrnB16S; 16S ribosomal RNA
+	[10104:10385:dir] conserved archaeal protein
+	[10416:11480:dir] L-seryl-tRNA selenium transferase related protein
+	[11517:12608:rev] korA; Citation: Tersteegen, A. et al. 1997. Eur. J. Biochem. 244:862-8.; 2-oxoglutarate oxidoreductase alpha subunit
+	[12647:13543:rev] Kinase related protein
+	[13625:15208:rev] hypothetical protein
+	[15336:16421:dir] Conserved hypothetical protein
+	[16803:17573:dir] Conserved hypothetical protein
+	[17602:19359:rev] DP1; Citation: Genes. Genet. Syst. 1998; 73: 323-336. J. Bacteriol. (1998) 180:2232-2236; DNA polymerase, archaeal type II, small subunit
+	[19370:20488:rev] Citation: J. Biol. Chem. (2001) 276: 45484; TIBS (2000) 25: 572-576; putative DNA primase large subunit
+	[20506:20931:rev] Conserved hypothetical Archael protein
+	[20974:22041:rev] C-5 cytosine-specific DNA methylase
+<END>
+<GI> BX950229 BX957219-BX957223:2 <COORDINATES> 28989-49099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.112327; n0_4mer:D = 35.512785; n0_4mer:PS = 45.558881
+	[28989:29414:rev] conserved hypothetical protein
+	[29531:30406:dir] conserved hypothetical archaeal protein
+	[30411:30746:rev] Conserved hypothetical protein
+	[30743:31567:rev] conserved hypothetical protein
+	[31747:32862:dir] putative AAA superfamily ATPase, similar to FtsH
+	[32916:33188:rev] hypothetical protein
+	[33256:36651:rev] DP2; Citation: Y. Ishino et al., J. Bacteriol. 180, 2232-2236 (1998) Genes. Genet. Syst. 1998; 73: 323-336.; DNA-directed DNA polymerase II large subunit
+	[36828:37057:rev] RNaseP RNA; RNA component of RNaseP
+	[37119:37233:rev] rnnC5S; 5S ribosomal RNA
+	[37295:40251:rev] rrnC23S; 23S ribosomal RNA
+	[40358:40430:rev] tRNA-Ala2; anticodon TGC, Cove Score=85.05; tRNA-Ala
+	[40534:41925:rev] rrnC16S; 16S ribosomal RNA
+	[42181:43188:rev] putative potassium channel protein
+	[43261:44712:dir] cobyric acid synthase related protein
+	[44777:45415:rev] conserved hypothetical archeal protein
+	[45639:47657:dir] Citation: Nucleic Acids Res. 1992; 20:5571-7. Molec. Microbiol. 1998; 29: 955-961. J. Biol. Chem. (2000) 275: 15049-15059; DNA replication protein; MCM family; putative
+	[47673:48755:dir] conserved hypothetical archeal protein
+<END>
+<GI> BX950229 BX957219-BX957223:3 <COORDINATES> 837505-860715 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.864985; n0_4mer:D = 19.370136; n0_4mer:PS = 38.147156
+	[837505:838239:dir] conserved hypothetical protein
+	[838282:838653:rev] hypothetical protein
+	[838896:839165:dir] hypothetical protein
+	[839216:839815:rev] hypothetical protein
+	[839898:840371:rev] Citation: Wizemann TM etal PNAS 1996;93:7985-7990; protein methionine-S-oxide reductase
+	[840626:841249:dir] Citation: Mol Microbiol 1996;22: 815-826; L-lysine/ homoserine-homoserine lactone exporter family
+	[841312:842565:dir] potE; Citation: (1993) Protein Sci. 2: 20-30; amino acid/ polyamine transporter; family I
+	[842609:843238:rev] conserved hypothetical protein
+	[843266:843745:rev] conserved hypothetical protein
+	[844090:844917:dir] nifH; Citation: (1984) J. Bacteriol. 158: 1005-1011; nitrogenase iron protein (nitrogenase component II)
+	[844960:845277:dir] NifI1; Citation: Kessler et al. 2001 J Bacteriol 183:882-889; Nitrogen regulatory protein NifI1
+	[845287:845652:dir] nifI2; Citation: Kessler et al. 2001 J Bacteriol 183:882-889; Nitrogen regulatory protein NifI2
+	[845702:847135:dir] nifD; Citation: Kessler et al. 1998 J Bacteriol 180:1504-1511; Oxidoreductase, nitrogenase component 1
+	[847128:848516:dir] nifK; Citation: Kessler et al. 1998 J Bacteriol 180:1504-1511; Oxidoreductase, nitrogenase component 1
+	[848539:849981:dir] nifE; Citation: Kessler et al. 1998 J Bacteriol 180:1504-1511; nitrogenase iron-molybdenum cofactor biosynthesis protein
+	[849999:851375:dir] nifN; Citation: Kessler et al. 1998 J Bacteriol 180:1504-1511; iron-molybdenum cofactor biosynthesis protein, subunit N
+	[851341:851661:dir] nifX; Citation: Kessler et al. 1998 J Bacteriol 180:1504-1511; Gosink et al. 1990 J.Bacteriol 172:1441-1447; Nitrogen fixation-related protein
+	[852237:853538:dir] kamA; Citation: Ruzicka et al J Bacteriol 2000;182(2):469-76; Lysine 2,3-aminomutase
+	[853539:854363:dir] yodP; GCN5-related N-acetyltransferase
+	[854513:854989:dir] CBS domain
+	[854998:856164:dir] napA-2; Na+/H+ exchanger
+	[856222:857625:rev] Citation: Kiyasu T, Nagahashi Y, Hoshino T. (2001) Gene 265:103-13; Aminotransferase (subgroup II) similar to Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+	[857796:858683:rev] proX; putative glycine betaine/L-proline ABC transporter, solute-binding protein
+	[858699:859532:rev] ABC-type proline/glycine betaine transport system, permease component related protein
+	[859546:860715:rev] proV; Citation: Galagan, J.E. et al. Genome Res.12:532-542,2002; CBS domain:ATP/GTP-binding site motif A (P-loop):ABC transporter:AAA ATPase
+<END>
+<GI> BX950229 BX957219-BX957223:4 <COORDINATES> 956353-980321 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.711466; n0_4mer:D = 21.221425; n0_4mer:PS = 27.969302
+	[956353:958074:dir] lig; Citation: cell 1997; 89: 995-998, genome biology (2002) 3: 3005.1-3005.7; ATP-dependent DNA ligase
+	[958096:959445:dir] purB; Citation: Toth EA, Worby C, Dixon JE, Goedken ER, Marqusee S, Yeates TO. (2000) J Mol Biol 301:433-50; Adenylosuccinate lyase
+	[959495:959908:rev] hypothetical protein
+	[959986:960843:rev] hypothetical membrane spanning protein
+	[960830:961489:rev] hypothetical protein
+	[961541:962392:rev] modA; possible molybdenum ABC transporter, solute-binding protein
+	[962612:963268:dir] Protein of unknown function DUF166
+	[963269:964051:dir] CooC; Citation: J. Bacteriol. (1997) 179: 2259-2266; CO dehydrogenase maturation factor
+	[964056:964235:rev] hypothetical protein
+	[964340:964804:rev] putative electron transport protein for CO dehydrogenase, iron-sulfur binding domain; Citation: Anderson, I. and W. B. Whitman, unpublished.; conserved archaeal protein
+	[964809:966182:rev] cdh; Citation: Anderson, I and WB Whitman, unpublished. Terlesky, KC 1986. J. Bact. 168: 1053-8. Maupin-Furlow. 1996. J. Bact. 178:340-6.; CO dehydrogenase/acetyl-CoA synthase complex subunit gamma
+	[966196:967350:rev] cdhD; Citation: Anderson, I and WB Whitman, unpublished. Terlesky, KC 1986. J. Bact. 168: 1053-8. Maupin-Furlow. 1996. J. Bact. 178:340-6.; CO dehydrogenase/acetyl-CoA synthase subunit delta
+	[967365:968117:rev] putative nickel insertion protein for CO dehydrogenase, similar to cooC of Rhodospirillum rubrum; Citation: Jeon, W.B., et al. 2001. J. Biol. Chem. 276:38602-9.; conserved hypothetical protein
+	[968128:969501:rev] cdhB; Citation: Anderson, I and WB Whitman, unpublished. Terlesky, KC 1986. J. Bact. 168: 1053-8. Maupin-Furlow. 1996. J. Bact. 178:6849-56.; CO dehydrogenase/acetyl-CoA synthase complex subunit beta
+	[969513:970031:rev] cdh; Citation: Anderson, I and WB Whitman, unpublished. Terlesky, KC 1986. J. Bact. 168: 1053-8. Maupin-Furlow. 1996. J. Bact. 178:6849-56.; CO dehydrogenase beta subunit/acetyl-CoA synthase subunit epsilon
+	[970041:972377:rev] cdhA; Citation: Anderson, I and WB Whitman, unpublished. Terlesky, KC 1986. J. Bact. 168: 1053-8. Maupin-Furlow. 1996. J. Bact. 178:6849-56.; CO dehydrogenase/acetyl-CoA synthase complex subunit alpha
+	[972543:973418:rev] thyA; Citation: Xu et al., Nature Structural. Biol. 6, 750 (1999); thymidylate synthase
+	[973423:974226:rev] Citation: J Mol Microbiol Biotechnol. 2002 Jan;4(1):71-5; dimethyladenosine transferase related protein (rRNA methylase)
+	[974237:975124:rev] Citation: J Mol Microbiol Biotechnol. 2002 Jan;4(1):71-5; RNA methyltransferase related protein
+	[975268:977262:rev] top6B; Citation: Nature (1997) 386: 414-417; EMBO (1999) 18: 6177-6188; DNA topoisomerase VI B
+	[977591:978355:dir] conserved hypothetical protein
+	[978735:980321:dir] conserved hypothetical protein
+<END>
+<GI> BX950229 BX957219-BX957223:5 <COORDINATES> 1028500-1051545 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.637352; n0_4mer:D = 26.225411; n0_4mer:PS = 32.009583
+	[1028504:1029103:dir] tmk; Thymidylate kinase
+	[1029175:1029588:dir] unnamed protein product
+	[1029626:1030432:dir] Band 7 protein:Stomatin
+	[1030514:1030993:dir] Protein of unknown function DUF163
+	[1031411:1031719:dir] atpH; Citation: Extremophiles 7:249; A1A0 ATPase, subunit H
+	[1031753:1033813:dir] atpI; Citation: Extremophiles 7:249; A1A0 ATPase, subunit I
+	[1033866:1034534:dir] atpK; Citation: Extremophiles 7:249; A1A0 ATPase, subunit K
+	[1034595:1035206:dir] atpE; Citation: Extremophiles 7:249; A1A0 ATPase, subunit IE
+	[1035217:1036392:dir] atpC; Citation: Extremophiles 7:249; A1A0 ATPase, subunit C
+	[1036414:1036713:dir] atpF; Citation: Extremophiles 7:249; A1A0 ATPase, subunit F
+	[1036729:1038489:dir] atpA; Citation: Extremophiles 7:249; A1A0 ATPase, subunit A
+	[1038524:1039912:dir] atpB; Citation: Extremophiles 7:249; A1A0 ATPase, subunit B
+	[1039959:1040603:dir] atpD; Citation: Extremophiles 7:249; A1A0 ATPase, subunit D
+	[1040625:1040990:dir] conserved hypothetical protein
+	[1041047:1041436:dir] conserved hypothetical protein
+	[1041634:1041903:dir] Citation: Tersteegen, A. and R. Hedderich. 1999. Eur. J. Biochem. 264:930-43.; related to ehbB of Methanothermobacter thermautotrophicus
+	[1041939:1042586:rev] conserved hypothetical protein
+	[1042663:1043457:rev] surE; Survival protein SurE
+	[1043791:1044585:dir] conserved hypothetical archaeal protein
+	[1044633:1045514:rev] hdrB2; Citation: Eur. J. Biochem. 225 (1), 253-261 (1994); heterodisulfide reductase; subunit B2
+	[1045550:1046104:rev] hdrC2; Citation: Eur. J. Biochem. 225, 253-261 1994; heterodisulfide reductase; subunit C2
+	[1046236:1046541:dir] conserved hypothetical protein
+	[1046564:1047766:dir] conserved hypothetical protein
+	[1047763:1048824:rev] hypothetical protein
+	[1048901:1049869:dir] conserved hypothetical archeal protein
+	[1049891:1049964:rev] tRNA-Ala1; anticodon GGC, Cove Score=75.73; tRNA-Ala
+	[1050094:1051545:dir] conserved hypothetical protein
+<END>
+<GI> BX950229 BX957219-BX957223:6 <COORDINATES> 1173000-1192568 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.516139; n0_4mer:D = 26.822410; n0_4mer:PS = 32.688208
+	[1173159:1174130:dir] mch; Citation: Eur. J. Biochem. 1996; 236: 294-300.; N5,N10-methenyltetrahydromethanopterin cyclohydrolase
+	[1174250:1175365:dir] conserved hypothetical protein
+	[1175991:1180484:dir] hypothetical protein
+	[1180541:1182589:dir] Collagen triple helix repeat:Surface protein from Gram-positive cocci, anchor region
+	[1182693:1183064:dir] yneG; putative cytoplasmic protein
+	[1183142:1183690:dir] conserved hypothetical protein
+	[1183873:1184634:dir] transport permease protein
+	[1184677:1185441:dir] Citation: Galagan, J.E. et al. Genome Res.12:532-542,2002; nitrate/sulfonate/bicarbonate ABC transporter ATPase subunit
+	[1185544:1186398:dir] phosphate transport system regulatory protein-related
+	[1186534:1187844:dir] lysA; Citation: Bakhiet N, Forney FW, Stahly DP and Daniels L. (1984) Current Microbiol. 10:195-198.; Diaminopimelate decarboxylase
+	[1188095:1188652:rev] Citation: Mol. Cell. Biochem. (1978) 22: 67-77; Staphylococcus nuclease (SNase-like):Thermonuclease
+	[1188662:1189069:rev] Protein of unknown function, UPF0066
+	[1189053:1190150:rev] Cobalamin (vitamin B12) biosynthesis CbiD protein
+	[1190190:1191209:rev] Metallopeptidase family M24:Xaa-Pro dipeptidase/Xaa-Pro aminopeptidase
+	[1191279:1192568:rev] aroA; Citation: Shuttleworth WA, Hough CD, Bertrand KP, Evans JN. (1992) Protein Eng 5:461-6.; 3-phosphoshikimate-1-carboxyvinyltransferase
+<END>
+<GI> BX950229 BX957219-BX957223:7 <COORDINATES> 1334880-1360924 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.945270; n0_4mer:D = 22.820225; n0_4mer:PS = 37.075923
+	[1334880:1335560:dir] Bacterial transferase hexapeptide repeat
+	[1335578:1336522:rev] conserved hypothetical protein
+	[1336529:1336783:rev] ThiamineS
+	[1336828:1337226:rev] ferredoxin
+	[1337240:1338781:rev] conserved hypothetical protein
+	[1339035:1339271:dir] rpoH; Citation: Proc Natl Acad Sci U S A. 1992 Jan 1;89(1):407-10.; RNA polymerase H/23 kD subunit
+	[1339353:1340852:dir] rpoB2; DNA-directed RNA polymerase subunit B
+	[1340896:1342731:dir] rpoB1; Citation: Nucleic Acids Res. 25:3389-3402.; Glycoside hydrolase, family 1:DNA-directed RNA polymerase, beta subunit:ATP/GTP-binding site motif A (P-loop)
+	[1342783:1345452:dir] rpoA1; RNA polymerase, alpha subunit
+	[1345497:1346657:dir] rpoA2; RNA polymerase, A/beta'/A' subunit
+	[1346873:1347175:dir] Ribosomal protein L30E
+	[1347192:1347713:dir] KH domain:KH domain, type 1
+	[1347723:1348166:dir] rpsL; SSU ribosomal protein S12
+	[1348200:1348766:dir] SSU ribosomal protein S7P
+	[1348868:1351051:dir] aEF-2; Citation: Nuc. Acids Res. 1988; 16: 7817-7826. Microbiol. Mol. Bio. Rev. 2002; 66:460-485.; translation elongation factor EF-2
+	[1351135:1352421:dir] aEF-1 alpha; Citation: Mol. Gen. Genet. 1987; 208:523-528. Microbiol. Mol. Bio. Rev. 2002; 66:460-485.; translation elongation factor EF-1, subunit alpha
+	[1352470:1352778:dir] rpsJ; SSU ribosomal protein S10
+	[1353065:1354378:dir] manB; Phosphoglucomutase/phosphomannomutase
+	[1354441:1355526:rev] conserved hypothetical archaeal protein
+	[1355645:1356373:dir] RNase HII; Citation: Structure (2000) 8: 897-904. Eur. J. Biochem. (1970) 14: 278-283.; Ribonuclease HII
+	[1356373:1357251:dir] SAM (and some other nucleotide) binding motif
+	[1357341:1357583:dir] conserved hypothetical protein
+	[1357616:1358683:dir] conserved hypothetical protein
+	[1358903:1359079:dir] hypothetical protein
+	[1359094:1359732:rev] thyA; Citation: Krone UE, McFarlan SC, Hogenkamp HP. (1994) Eur J Biochem 220:789-94; Thymidylate synthase
+	[1359806:1360924:dir] Chlorohydrolase
+<END>
+<GI> BX950229 BX957219-BX957223:8 <COORDINATES> 1377736-1400840 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.268242; n0_4mer:D = 21.183933; n0_4mer:PS = 38.409063
+	[1377736:1381305:dir] smc1; Citation: Current Opinion in Cell Biology (1998) 10: 317-322; structural maintenance of chromosome protein
+	[1381339:1382586:dir] dapE; Succinyl-diaminopimelate desuccinylase
+	[1382587:1383225:dir] Aspartate/glutamate/uridylate kinase
+	[1383244:1383408:dir] M. jannaschii predicted coding region MJ0458.1
+	[1383440:1383709:dir] aEF-1 beta; Citation: J. Biomol. NMR 2000; 17:187-94. Microbiol. and Mol. Bio. Rev. 2002; 66:460-485.; translation elongation factor aEF-1 beta
+	[1383801:1384010:dir] hypothetical protein
+	[1384030:1384491:dir] rplV; LSU ribosomal protein L22P
+	[1384502:1385137:dir] rpsC; SSU ribosomal protein S3P
+	[1385148:1385363:dir] rpmC; LSU ribosomal protein L29P
+	[1385447:1385755:dir] Citation: Auer,J., Spicker,G., Boeck,A.(1989) J. Mol. Biol. 209:21-36; Protein translation factor SUI1 homolog
+	[1385831:1386121:dir] Protein of unknown function UPF0086
+	[1386287:1386616:dir] rpsQ; SSU ribosomal protein S17P
+	[1386637:1387035:dir] rplN; LSU ribosomal protein L14P
+	[1387055:1387414:dir] rplX; LSU ribosomal protein L24P
+	[1387426:1388160:dir] SSU ribosomal protein S4E
+	[1388189:1388734:dir] rplE; LSU ribosomal protein L5P
+	[1388744:1388905:dir] rpsN; SSU ribosomal protein S14P
+	[1388924:1389316:dir] rpsH; Citation: J. Mol. Biol. 279 (1), 233-244 (1998); J. Mol. Biol. 280 (4), 639-654 (1998) J. Mol. Biol. 311 (2), 311-324 (2001); SSU ribosomal protein S8P
+	[1389338:1389886:dir] rplF; LSU ribosomal protein L6P
+	[1389896:1390303:dir] LSU ribosomal protein L32E
+	[1390330:1390779:dir] LSU ribosomal protein L19E
+	[1390803:1391384:dir] LSU ribosomal protein L18P
+	[1391395:1392072:dir] rpsE; SSU ribosomal protein S5P
+	[1392104:1392568:dir] rpmD; LSU ribosomal protein L30P
+	[1392583:1393014:dir] rplO; LSU ribosomal protein L15
+	[1393242:1394570:dir] secY; Aldehyde dehydrogenase:SecY protein
+	[1394610:1395509:rev] putative glycosyl transferase, family 4:Aldehyde dehydrogenase
+	[1395606:1398164:dir] Oligosaccharyl transferase, STT3 subunit
+	[1398277:1398816:dir] Protein of unknown function DUF127
+	[1398840:1399460:dir] dcd; Citation: J. Biol. Chem. 278:11100-11106(2003); Bifunctional dCTP deaminase/dUTP diphosphatase
+	[1399464:1400840:dir] Conserved Hypothetical Protein
+<END>
+<GI> BX950229 BX957219-BX957223:9 <COORDINATES> 1504500-1529141 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.798535; n0_4mer:D = 29.162208; n0_4mer:PS = 35.625939
+	[1504831:1506183:rev] ffh; Citation: Trends in Microbiology Volume 9, Issue 3, 1 March 2001, Pages 130-136; signal recognition particle protein SRP54
+	[1506210:1506767:rev] Flavoprotein:Phenylacrylic acid decarboxylase, 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+	[1506963:1507565:rev] rdxA; Nitroreductase family
+	[1507726:1507810:rev] tRNA-Leu3; anticodon GAG, Cove Score=56.05; tRNA-Leu
+	[1507940:1508054:dir] tRNA-Met1; anticodon CAT, Cove Score=68.86, intron 1507979..1508018; tRNA-Met
+	[1508127:1509437:rev] conserved hypothetical archaeal protein
+	[1509697:1511028:dir] mcrB; Citation: J. Bacteriol. 1994; 176: 6384-6391. Eur. J. Biochem. 1990; 194: 871-877.; Methyl-coenzyme M reductase I, beta subunit
+	[1511040:1511519:dir] mcrD; Citation: J. Bacteriol. 1994; 176: 6384-6391. Eur. J. Biochem. 1990; 194: 871-877.; Methyl-coenzyme M reductase I, protein D
+	[1511528:1512124:dir] mcrC; Citation: J. Bacteriol. 1994; 176: 6384-6391. Eur. J. Biochem. 1990; 194: 871-877.; methyl coenzyme M reductase I, protein C
+	[1512134:1512916:dir] mcrG; Citation: J. Bacterio. 1994; 176: 6384-6391. Eur. J. Biochem. 1990; 194: 871-877.; Methyl-coenzyme M reductase I, gamma subunit
+	[1512964:1514625:dir] mcrA; Citation: J. Bacteriol. 1994; 176: 6384-6391. Eur. J. Biochem. 1990; 194: 871-877.; Methyl-coenzyme M reductase I, alpha subunit
+	[1514893:1515792:dir] mtrE; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit E
+	[1515819:1516526:dir] mtrD; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit D
+	[1516564:1517352:dir] mtrC; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methultransferase, subunit C
+	[1517363:1517689:dir] mtrB; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit B
+	[1517711:1518430:dir] mtrA; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit A
+	[1518447:1519208:dir] or900; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit A and F related protein
+	[1519213:1519437:dir] mtrG; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit G
+	[1519462:1520421:dir] mtrH; Citation: Eur. J. Biochem. 1995; 228: 640-648.; N5-methyltetrahydromethanopterin: methyltransferase, subunit H
+	[1520508:1521041:rev] conserved hypothetical archaeal protein
+	[1521019:1521405:rev] conserved hypothetical archaeal protein
+	[1521338:1522093:rev] Citation: Journal Biological Chemistry 2000 275: 16717-16722 Proteins 1997 28: 72-82; TatD-related protein
+	[1522102:1523103:rev] conserved hypothetical archaeal protein
+	[1523126:1523422:dir] hypothetical protein
+	[1523434:1524006:rev] bioD; Dethiobiotin synthetase
+	[1524069:1525181:rev] bioF; 8-amino-7-oxononanoate synthase
+	[1525190:1525924:rev] bioW; 6-carboxyhexanoate-CoA ligase
+	[1526111:1526266:dir] hypothetical protein
+	[1526282:1527904:rev] hat; Histone acetyltransferase
+	[1528035:1528550:dir] Cytidylyltransferase:Cytidyltransferase-related domain
+	[1528686:1529141:dir] Probable SSU ribosomal protein S15P/S13E
+<END>
+<GI> BX950229 BX957219-BX957223:10 <COORDINATES> 1626448-1649130 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.966180; n0_4mer:D = 25.195768; n0_4mer:PS = 32.523450
+	[1626448:1627131:rev] conserved hypothetical protein
+	[1627151:1627375:rev] conserved hypothetical protein
+	[1627513:1627676:rev] tRNA-Trp; anitcodon CCA, Cove score=44.23, intron 1627548..1627636; tRNA-Trp
+	[1627999:1629000:dir] cbf5; pseudouridine syntase related protein
+	[1629018:1629224:dir] korD; Citation: Tersteegen, A. et al. 1997. Eur. J. Biochem. 244:862-8; 2-oxoglutarate ferredoxin oxidoreductase, delta (ferredoxin) subunit
+	[1629235:1629918:dir] Conserved hypothetical Archael protein
+	[1629931:1630488:rev] comE; Citation: J. Bacteriol. 182 (17) 4862-4867; Sulfopyruvate decarboxylase subunit beta
+	[1630490:1631158:rev] similar to phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+	[1631371:1632675:rev] fwdB; Contains selenocysteine; Citation: FEBS Lett. 1989 253:226-30; Eur. J. Biochem. 1996 242: 156-162; tungsten containing formylmethanofuran dehydrogenase subunit B
+	[1632705:1633856:rev] vhuB; selenium dependent; Citation: Hedderich, R. et al. 1992. FEBS Lett. 298:65-8. Reeve, J.N. et al. 1989. PNAS 86:3031-5. Halboth,S., Klein,A. (1992) Mol. Gen.; polyferredoxin, associated with F420-non-reducing hydrogenase
+	[1633982:1634116:rev] vhuU; Contains selenocysteine; Citation: Halboth,S., Klein,A. (1992) Mol. Gen. Genet. 233:217-224; F420 non-reducing hydrogenase subunit
+	[1634132:1635388:rev] vhuA; selenium dependent; Citation: Halboth,S., Klein,A. (1992) Mol. Gen. Genet. 233:217-224; F420-non-reducing hydrogenase subunit alpha
+	[1635430:1636296:rev] vhuG; selenium dependent; Citation: Halboth,S., Klein,A. (1992) Mol. Gen. Genet. 233:217-224; F420-non-reducing hydrogenase subunit
+	[1636396:1636800:rev] vhuD; contains two selenocysteine residues; Citation: Halboth,S., Klein,A. (1992) Mol. Gen. Genet. 233:217-224; F420-non-reducing hydrogenase subunit delta
+	[1636988:1638964:rev] hdrA; Contains selenocysteine; Citation: Eur. J. Biochem. 1994; 225: 253-261.; heterodisulfide reductase, subunit A
+	[1639662:1640198:dir] conserved hypothetical archaeal protein
+	[1640528:1640719:dir] conserved hypothetical archaeal protein
+	[1640720:1642321:dir] Na+/solute symporter
+	[1642492:1642974:dir] Amino acid-binding ACT
+	[1642986:1643999:dir] hom; Citation: Marchenko GN, Marchenko ND, Tsygankov YD, Chistoserdov AY. (1999)Microbiology 145:3273-82; Homoserine dehydrogenase
+	[1644098:1644183:dir] tRNA-SeC1; anticodon TCA, Cove Score=14.74; tRNA-Sec
+	[1644208:1645104:dir] conserved hypothetical archaeal protein
+	[1645101:1645556:rev] conserved hypothetical archeal protein
+	[1645566:1646231:rev] conserved hypothetical archeal protein
+	[1646237:1646392:rev] conserved hypothetical protein
+	[1646401:1647198:rev] aIF2 alpha; Citation: Proc. Natl. Acad. Sci. USA 1998, 95: 3726-3730.; translation initiation factor aIF-2, subunit alpha
+	[1647312:1647497:rev] SSU ribosomal protein S27E
+	[1647520:1647801:rev] Citation: Science 289 (5481), 905-920 (2000); LSU ribosomal protein L44E
+	[1647758:1648354:rev] conserved hypothetical archeal protein
+	[1648378:1649130:rev] pcnA; Citation: Cell 1997; 89: 995-998, Oncogene (1997) 14: 629-640, Genes to Cells (2002) 7: 911-922.; Proliferating cell nuclear antigen, PCNA
+<END>

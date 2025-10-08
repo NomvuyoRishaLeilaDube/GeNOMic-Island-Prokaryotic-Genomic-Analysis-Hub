@@ -1,0 +1,327 @@
+<GI> CP044129:1 <COORDINATES> 9910-34539 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.523172; n0_4mer:D = 27.705496; n0_4mer:PS = 22.450968
+	[9910:12108:rev] dinG; Rad3-related DNA helicase
+	[12258:12599:rev] hypothetical protein
+	[12792:13763:rev] mmt1; putative Co/Zn/Cd cation transporter
+	[13816:14319:dir] ICC-like phosphoesterase
+	[14472:15146:rev] arsR; Transcriptional regulator containing HTH domain, ArsR family
+	[15259:15411:dir] hypothetical protein
+	[15450:16541:dir] ampS; Leucyl aminopeptidase (aminopeptidase T)
+	[16844:17899:rev] xerC; XerD/XerC family integrase
+	[18006:18221:dir] hypothetical protein
+	[18355:19377:dir] hypothetical protein
+	[19374:19538:rev] hypothetical protein
+	[19612:20610:rev] putative ATPase, AAA+ superfamily
+	[20603:20899:rev] putative membrane protein
+	[20892:21734:rev] putative membrane protein
+	[21731:22288:rev] hypothetical protein
+	[22324:22512:rev] hypothetical protein
+	[22512:24290:rev] hypothetical protein
+	[24295:24666:rev] putative membrane protein
+	[24696:25019:rev] hypothetical protein
+	[25086:26879:rev] hypothetical protein
+	[26927:27247:rev] hypothetical protein
+	[27533:27754:rev] hypothetical protein
+	[27917:28020:rev] tRNA-Arg
+	[28121:28414:rev] hypothetical protein
+	[28444:29511:rev] ABC-type multidrug transport system, permease component
+	[30151:30966:rev] iclR; DNA-binding transcriptional regulator, IclR family
+	[31205:32305:dir] malK; ABC-type sugar transport system, ATPase component
+	[32308:33111:dir] arfB; Creatinine amidohydrolase/Fe(II)-dependent formamide hydrolase involved in riboflavin and F420 biosynthesis
+	[33247:34539:dir] ugpB; ABC-type sugar transport system, periplasmic component
+<END>
+<GI> CP044129:2 <COORDINATES> 771000-849190 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.742821; n0_4mer:D = 35.021478; n0_4mer:PS = 25.647109
+	[771029:771586:rev] Uncharacterized protein
+	[771644:773056:rev] Uncharacterized protein
+	[773117:775441:rev] aglS; Dolichol phosphate-mannose mannosyltransferase
+	[776407:777351:dir] aglO; Glycosyl transferase family 2
+	[777409:778227:rev] cda1; Polysaccharide deacetylase
+	[778224:778991:rev] fmt; Methionyl-tRNA formyltransferase
+	[779387:779758:dir] Transposase
+	[779864:781378:dir] rfbD; dTDP-4-dehydrorhamnose reductase
+	[781375:781851:dir] hypothetical protein
+	[781859:783622:dir] Choline kinase
+	[784034:785293:rev] tagB; CDP-glycerol glycerophosphotransferase
+	[785965:787131:dir] aglL; Glycosyltransferase
+	[787821:788753:rev] Glycosyl transferase family 2
+	[788737:789441:rev] hypothetical protein
+	[789444:790178:rev] SAM-dependent methyltransferase
+	[792031:793479:dir] Arylsulfatase A
+	[793750:794190:dir] Transposase
+	[794614:795717:rev] wecB; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+	[796039:797544:dir] aglR2; MATE family membrane protein, Rfbx family
+	[797823:798188:rev] hypothetical protein
+	[798907:799239:rev] hypothetical protein
+	[799333:799503:dir] hypothetical protein
+	[800043:801200:rev] hypothetical protein
+	[801205:802599:rev] hypothetical protein
+	[802735:803847:dir] rfaG; Glycosyltransferase
+	[804131:805282:dir] Arylsulfatase A
+	[805436:806704:rev] wcaJ; Sugar transferase involved in lipopolysaccharide synthesis
+	[807128:808336:rev] cdc6-4; Cdc6-related protein, AAA superfamily ATPase
+	[808951:810705:rev] virB4; Type IV secretory pathway, VirB4 component
+	[811002:812018:rev] putative membrane protein
+	[812030:813337:rev] putative membrane protein
+	[813378:815126:rev] Cell surface protein
+	[815104:815439:rev] putative membrane protein
+	[815958:816917:rev] sua7-3; Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+	[817042:817485:rev] Uncharacterized protein
+	[817482:818057:rev] arsR7; Transcriptional regulator containing HTH domain, ArsR family
+	[818209:818661:rev] SWIM family zinc finger
+	[818800:819213:rev] fur; Fe2+/Zn2+ uptake regulation protein, fur/PerR
+	[819343:819891:dir] Uncharacterized protein
+	[819925:820095:rev] Uncharacterized protein
+	[820145:820603:rev] HEPN domain containing protein
+	[820600:821160:rev] Minimal nucleotidyltransferase
+	[821160:821354:rev] Uncharacterized protein
+	[821403:822020:rev] Uncharacterized protein
+	[822186:823139:rev] hypothetical protein
+	[823718:823948:dir] RHH/CopG DNA binding protein
+	[823957:824373:dir] PIN domain containing protein
+	[824513:825223:rev] Uncharacterized protein
+	[825394:826509:dir] fur2; Fe2+/Zn2+ uptake regulation protein, fur/PerR
+	[826746:826997:dir] AbrB family transcriptional regulator
+	[826998:827432:dir] PIN domain containing protein
+	[827782:828999:dir] contains RNAse H fold nuclease and Zn finger domains; Transposable element, IS605 OrfB family
+	[829197:829754:dir] Uncharacterized protein
+	[830238:830534:dir] cdc6-5; Cdc6-related protein, AAA superfamily ATPase
+	[830683:831876:rev] cdc6-6; Cdc6-related protein, AAA superfamily ATPase
+	[832319:833164:rev] rpa1-2; Single-stranded DNA-binding replication protein A (RPA), large subunit
+	[833636:834058:dir] gloA4; Lactoylglutathione lyase
+	[834191:835363:rev] contains Fic and DeoR-like domains; putative transciptional regulator
+	[835698:836102:dir] RHH-fold DNA-binding protein
+	[836105:836665:dir] PIN domain containing protein
+	[837256:838533:dir] cdc6-7; Cdc6-related protein, AAA superfamily ATPase
+	[839389:840030:dir] xseA; Exonuclease VII large subunit
+	[840027:840593:dir] xseA2; Exonuclease VII large subunit
+	[840783:841409:rev] Transcriptional regulator, contains wHTH domain
+	[841766:842614:rev] msrA; Peptide methionine sulfoxide reductase
+	[842772:842957:rev] Uncharacterized protein
+	[843040:843219:dir] xseB; Exonuclease VII small subunit
+	[843369:843623:dir] putative membrane protein
+	[843666:844658:dir] Transposase, IS5 family
+	[844691:845167:dir] putative membrane protein
+	[845636:849190:dir] TraG/TraD/VirD4 family enzyme, ATPase
+<END>
+<GI> CP044129:3 <COORDINATES> 932500-975099 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.243821; n0_4mer:D = 47.754228; n0_4mer:PS = 30.110663
+	[932565:932813:dir] putative membrane protein
+	[932898:933521:dir] rnhA; Ribonuclease HI
+	[933528:935780:rev] maeB; Malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)
+	[935881:936687:dir] ctaA; required for cytochrome oxidase assembly; Uncharacterized protein
+	[936875:938323:rev] holB3; ATPase involved in DNA replication HolB, large subunit
+	[938424:938798:dir] CopG/RHH family DNA binding protein
+	[938788:939783:dir] xerC4; XerD/XerC family integrase
+	[939852:940133:dir] hypothetical protein
+	[940358:940528:rev] hypothetical protein
+	[940621:941805:dir] hypothetical protein
+	[942471:942692:dir] hypothetical protein
+	[942885:943139:dir] hypothetical protein
+	[943272:943427:rev] hypothetical protein
+	[943576:944232:dir] hypothetical protein
+	[944348:946723:dir] Secreted protein, with PKD repeat domain
+	[947026:947889:dir] Secreted protein, contains PKD repeats and vWA domain
+	[948259:949575:dir] Uncharacterized protein
+	[949658:950398:dir] hypothetical protein
+	[950410:951225:dir] hypothetical protein
+	[951212:952483:dir] hypothetical protein
+	[952704:952955:dir] hypothetical protein
+	[952968:953204:dir] hypothetical protein
+	[954261:954479:dir] hypothetical protein
+	[954494:954718:dir] hypothetical protein
+	[954841:955215:dir] hypothetical protein
+	[955304:956827:dir] hypothetical protein
+	[956824:958077:rev] DNA modification methylase
+	[958244:958474:dir] putative transcriptional regulator, contains HTH domain
+	[958765:958965:dir] hypothetical protein
+	[959014:959460:dir] hypothetical protein
+	[959457:960062:rev] hypothetical protein
+	[960219:960386:dir] hypothetical protein
+	[960383:960580:dir] hypothetical protein
+	[960729:961028:dir] hypothetical protein
+	[961025:961180:dir] hypothetical protein
+	[961164:961445:dir] hypothetical protein
+	[961526:962083:dir] xerC5; XerD/XerC family integrase
+	[962128:962283:dir] hypothetical protein
+	[962276:962794:dir] hypothetical protein
+	[962769:963140:rev] hypothetical protein
+	[963278:963613:rev] hypothetical protein
+	[963757:963999:rev] hypothetical protein
+	[963977:964396:rev] hypothetical protein
+	[964399:964632:rev] hypothetical protein
+	[964797:964961:dir] hypothetical protein
+	[965302:966630:rev] livK2; ABC-type branched-chain amino acid transport system, periplasmic component
+	[967087:967229:rev] tRNA-Met
+	[967332:968339:dir] Uncharacterized protein
+	[968336:968782:rev] Uncharacterized protein
+	[968818:969480:dir] tvp38; putative membrane protein YdjX, TVP38/TMEM64 family, SNARE-associated domain
+	[969477:971942:rev] contains REC and PAS domains; Signal transduction histidine kinase
+	[972001:972189:dir] hypothetical protein
+	[972209:972454:rev] Uncharacterized protein
+	[972521:974038:dir] yedY2; Periplasmic DMSO/TMAO reductase YedYZ, molybdopterin-dependent catalytic subunit
+	[974073:974330:rev] pspA2; Phage shock protein A
+	[974399:974815:rev] pspA3; Phage shock protein A
+<END>
+<GI> CP044129:4 <COORDINATES> 1005992-1029016 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.676214; n0_4mer:D = 28.812014; n0_4mer:PS = 30.503106
+	[1005992:1006693:rev] pphA; Serine/threonine protein phosphatase
+	[1007206:1007577:rev] rps8E; Ribosomal protein S8E
+	[1007672:1008112:dir] hypothetical protein
+	[1008112:1008471:dir] Uncharacterized protein
+	[1008480:1008962:rev] putative membrane protein
+	[1009092:1009940:dir] pyrF; Orotidine-5'-phosphate decarboxylase
+	[1010327:1010845:rev] Transposase, IS5 family
+	[1010902:1013496:rev] cas3-2; CRISPR-associated helicase Cas3
+	[1013496:1014257:rev] cas5-2; CRISPR-Cas system related protein Cas5
+	[1014257:1015288:rev] cas7-2; CRISPR-Cas system related protein Cas7
+	[1015291:1017504:rev] cas8b-2; CRISPR-Cas system related protein Cas8b
+	[1017494:1018267:rev] cas6-2; CRISPR-Cas system related protein Cas6
+	[1022461:1022679:rev] Zinc finger domain
+	[1022725:1023288:dir] cbpA; DnaJ-class molecular chaperone
+	[1023324:1024040:rev] acrR3; Transcriptional regulator, TetR/AcrR family
+	[1024083:1024682:dir] acrR4; Transcriptional regulator, TetR/AcrR family
+	[1024682:1026181:dir] norM; Na+-driven multidrug efflux pump
+	[1026184:1026963:dir] ispA2; Geranylgeranyl pyrophosphate synthase
+	[1026995:1027672:dir] pgp; Phosphoglycolate phosphatase
+	[1027710:1028864:rev] acr3; Arsenite efflux pump ACR3 or related permease
+	[1028861:1029016:rev] arsR8; Transcriptional regulator containing HTH domain, ArsR family
+<END>
+<GI> CP044129:5 <COORDINATES> 1264645-1289605 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.292014; n0_4mer:D = 27.985165; n0_4mer:PS = 21.549519
+	[1264645:1266441:rev] glmS2; Glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+	[1266589:1267137:rev] Uncharacterized protein
+	[1267488:1268447:dir] Glycosyl transferase family 2
+	[1268476:1269990:dir] Polysaccharide biosynthesis protein
+	[1270736:1272691:dir] smc; Chromosome segregation protein
+	[1272746:1273354:rev] Uncharacterized protein
+	[1273556:1273969:dir] hypothetical protein
+	[1274384:1275856:dir] 16S ribosomal RNA
+	[1276241:1279147:dir] 23S ribosomal RNA
+	[1279258:1279378:dir] 5S ribosomal RNA
+	[1279513:1279755:dir] bolA; BolA family transcriptional regulator
+	[1279793:1280134:dir] Glutaredoxin-related protein
+	[1280131:1282053:rev] Beta-lactamase domain protein
+	[1282222:1283271:rev] ltaE; Threonine aldolase
+	[1283275:1283649:rev] hxlR2; Transcriptional regulator
+	[1283784:1284050:rev] arsR10; Transcriptional regulator containing HTH domain, ArsR family
+	[1284140:1286131:rev] acs; Acetyl-CoA synthetase
+	[1286323:1286727:dir] CBS domain
+	[1286849:1287826:rev] glk; Glucokinase
+	[1288076:1289605:dir] DUF1508 family protein
+<END>
+<GI> CP044129:6 <COORDINATES> 1579206-1604599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.118776; n0_4mer:D = 30.464228; n0_4mer:PS = 22.130610
+	[1579206:1580360:dir] Signal transduction histidine kinase
+	[1580402:1581172:rev] elaC; Metal-dependent hydrolase of the beta-lactamase superfamily
+	[1581352:1582203:rev] arsR12; Transcriptional regulator containing HTH domain, ArsR family
+	[1582316:1583188:rev] dapA; 4-hydroxy-tetrahydrodipicolinate synthase
+	[1583439:1583594:rev] hypothetical protein
+	[1583677:1584015:dir] Uncharacterized protein
+	[1584040:1584489:dir] Transcriptional regulator, contains HTH domain
+	[1584801:1585250:rev] Uncharacterized protein
+	[1585303:1585548:rev] CopG-family DNA-binding protein
+	[1585865:1586110:dir] dpo4; DNA polymerase IV
+	[1586389:1586616:rev] hypothetical protein
+	[1587651:1587803:dir] xerC7; XerD/XerC family integrase
+	[1588091:1588645:dir] xerC8; XerD/XerC family integrase
+	[1589228:1589581:rev] hypothetical protein
+	[1590185:1590691:rev] hypothetical protein
+	[1590688:1592271:rev] hypothetical protein
+	[1592271:1592813:rev] hypothetical protein
+	[1592810:1594702:rev] hypothetical protein
+	[1594722:1594895:rev] hypothetical protein
+	[1595551:1596291:rev] hypothetical protein
+	[1596768:1596953:dir] hypothetical protein
+	[1596950:1597303:dir] hypothetical protein
+	[1597425:1597829:rev] hypothetical protein
+	[1598161:1598913:rev] hypothetical protein
+	[1599205:1600239:rev] xerC9; XerD/XerC family integrase
+	[1600257:1601603:dir] dpo4-2; DNA polymerase IV
+	[1601815:1603821:dir] HerA helicase
+	[1603879:1604553:rev] tpiA; Triosephosphate isomerase
+<END>
+<GI> CP044129:7 <COORDINATES> 2507500-2526858 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.872051; n0_4mer:D = 28.261795; n0_4mer:PS = 29.179356
+	[2507811:2508683:rev] uspA22; Nucleotide-binding protein, UspA family
+	[2508972:2509241:dir] Uncharacterized protein
+	[2509248:2509829:dir] ccc1; putative Fe2+/Mn2+ transporter, VIT1/CCC1 family
+	[2510208:2511686:dir] Type II secretion system protein E
+	[2511695:2512519:rev] hypothetical protein
+	[2512588:2513709:rev] xerC12; XerD/XerC family integrase
+	[2513702:2514202:rev] Uncharacterized protein
+	[2514199:2514633:rev] hypothetical protein
+	[2514653:2515156:rev] hypothetical protein
+	[2515153:2515794:rev] hypothetical protein
+	[2516606:2517466:rev] xthA2; Exonuclease III
+	[2517653:2517895:dir] arsR19; Transcriptional regulator containing HTH domain, ArsR family
+	[2518007:2518216:rev] Uncharacterized protein
+	[2518209:2519258:rev] hypothetical protein
+	[2519255:2519434:rev] RHH/CopG DNA binding protein
+	[2519718:2520512:dir] virB11-3; ATPase involved in archaellum/pili biosynthesis
+	[2520502:2522394:dir] flaJ2; Archaeal flagella assembly protein J
+	[2522391:2523098:dir] putative pilin/flagellin
+	[2523095:2523544:dir] putative pilin/flagellin
+	[2523541:2524239:dir] putative pilin/flagellin
+	[2524232:2524636:dir] putative pilin/flagellin
+	[2524689:2525195:rev] Uncharacterized membrane protein, DUF3592 family
+	[2525343:2525903:dir] putative pilin/flagellin
+	[2526049:2526858:dir] Transcriptional regulator, contains HTH domain
+<END>
+<GI> CP044129:8 <COORDINATES> 2776420-2799578 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.337429; n0_4mer:D = 32.981075; n0_4mer:PS = 29.397612
+	[2776420:2778180:dir] nirA; Ferredoxin-nitrite reductase
+	[2778384:2778647:dir] putative membrane protein
+	[2778807:2779091:dir] Uncharacterized protein
+	[2779160:2779462:dir] Metal-binding protein
+	[2779541:2780380:dir] Aldo/keto reductase
+	[2780484:2780735:dir] hypothetical protein
+	[2780805:2781143:rev] Uncharacterized protein
+	[2781419:2781703:rev] relE3; Cytotoxic translational repressor of toxin-antitoxin stability system
+	[2781693:2781947:rev] CopG family transcriptional regulator
+	[2782654:2783679:dir] xerC14; XerD/XerC family integrase
+	[2783686:2784480:rev] hypothetical protein
+	[2784570:2785139:rev] hypothetical protein
+	[2785561:2786190:dir] hypothetical protein
+	[2787647:2788525:dir] hypothetical protein
+	[2788726:2788797:rev] tRNA-Ala
+	[2788965:2789276:rev] rps10p2; Ribosomal protein S10
+	[2789280:2790542:rev] tef1; Translation elongation factor EF-1 alpha, GTPase
+	[2790791:2791744:rev] hom; Homoserine dehydrogenase
+	[2791741:2792274:rev] ACT-domain-containing protein, predicted allosteric regulator of homoserine dehydrogenase
+	[2792627:2794486:dir] Trimeric autotransporter adhesin
+	[2794810:2797722:dir] Signal transduction histidine kinase, contains PAS domain
+	[2797719:2799578:dir] Signal transduction histidine kinase, contains PAS domain
+<END>
+<GI> CP044129:9 <COORDINATES> 2869394-2889165 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.161645; n0_4mer:D = 27.039762; n0_4mer:PS = 25.941040
+	[2869394:2869570:dir] Uncharacterized protein
+	[2869653:2870231:rev] tar9; Methyl-accepting chemotaxis protein
+	[2870325:2870723:rev] Uncharacterized protein
+	[2870914:2871444:dir] DUF1684 family protein
+	[2871475:2872425:rev] Sulfite exporter, TauE/SafE family
+	[2872429:2872986:rev] Carboxymuconolactone decarboxylase family protein
+	[2873072:2873563:rev] bcp9; Peroxiredoxin
+	[2873755:2874135:rev] putative membrane protein
+	[2874345:2875085:dir] Transposase
+	[2875280:2876317:rev] xerC15; XerD/XerC family integrase
+	[2876314:2876574:rev] Uncharacterized protein
+	[2877004:2877279:dir] marR2; Transcriptional regulator, MarR family
+	[2877978:2878856:dir] hypothetical protein
+	[2879004:2879258:rev] Uncharacterized protein
+	[2879513:2880067:dir] hypothetical protein
+	[2880186:2880617:dir] putative membrane protein
+	[2880614:2880874:dir] Uncharacterized protein
+	[2880871:2882697:dir] Uncharacterized protein
+	[2882707:2883276:dir] Uncharacterized protein
+	[2883273:2884043:dir] putative membrane protein
+	[2884036:2885190:dir] putative ATPase, AAA+ superfamily
+	[2885351:2885731:dir] hypothetical protein
+	[2885723:2887462:rev] hypothetical protein
+	[2887447:2889165:rev] Protein containing HTH domain
+<END>
+<GI> CP044129:10 <COORDINATES> 3097367-3212599 <STAT> n1_4mer:GRV/n1_4mer:RV = 9.592450; n0_4mer:D = 41.797612; n0_4mer:PS = 0.450494
+	[3097367:3098224:rev] putative Zn-finger containing protein
+	[3098305:3099204:dir] mdh; Malate dehydrogenase
+	[3099378:3099650:rev] hypothetical protein
+	[3099676:3099978:rev] putative membrane protein
+	[3100389:3100736:rev] hypothetical protein
+	[3101618:3102607:rev] Uncharacterized protein
+	[3102904:3103623:rev] Zn-ribbon containing protein
+	[3103623:3104003:rev] Uncharacterized protein
+	[3104010:3104651:rev] GTP-binding protein
+<END>
+<GI> CP044129:11 <COORDINATES> 3292500-3318099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.748730; n0_4mer:D = 33.570106; n0_4mer:PS = 24.906666
+
+<END>

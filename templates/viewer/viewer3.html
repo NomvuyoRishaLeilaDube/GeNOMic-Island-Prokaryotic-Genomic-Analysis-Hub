@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GeNOMic Island: {{ filename }}</title>
+<style>
+body { background-color:#ccffcc; color:black; text-align:center; font-family:Arial,sans-serif; position:relative; overflow-x:hidden; }
+pre { white-space: pre-wrap; word-wrap: break-word; text-align:left; max-width:90%; margin:auto; background-color:#eeffee; padding:10px; border:1px solid black; overflow-x:auto; }
+img { max-width:90%; height:auto; }
+form { margin:20px auto; }
+.border-container, .bacteria-row, .bacteria-row img, .content-wrapper, @keyframes moveBacteria { same as above }
+</style>
+</head>
+<body>
+<div class="border-container">
+    <div class="bacteria-row">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static',filename='images/bacteria.png') }}">
+    </div>
+</div>
+
+<div class="content-wrapper">
+<h1>{{ filename }}</h1>
+<p><a href="{{ url_for('index') }}">HOME</a> > {{ seq_id }} > {{ filename }}</p>
+
+{% if file_type in ["out","fas"] %}
+<form method="post">
+<select name="gi_id">
+<option value="">Select GI ID</option>
+{% for gi in gi_options %}<option value="{{ gi }}">{{ gi }}</option>{% endfor %}
+</select>
+
+<select name="coordinates">
+<option value="">Select Coordinates</option>
+{% for coord in coord_options %}<option value="{{ coord }}">{{ coord }}</option>{% endfor %}
+</select>
+<input type="submit" value="Filter">
+</form>
+<pre>{{ selected_block if selected_block else gi_data.values() | join('\n') }}</pre>
+
+{% elif file_type=="svg" %}
+<img src="data:image/svg+xml;base64,{{ svg_content | b64encode }}">
+{% endif %}
+</div>
+</body>
+</html>

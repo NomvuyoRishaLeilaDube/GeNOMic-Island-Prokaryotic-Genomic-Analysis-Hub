@@ -1,0 +1,329 @@
+<GI> LR881183:1 <COORDINATES> 36810-60502 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.689441; n0_4mer:D = 46.702740; n0_4mer:PS = 35.913327
+	[36810:38276:rev] Dehydrogenase
+	[38435:38992:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[39019:40170:dir] NapA-type sodium/hydrogen antiporter
+	[40172:41296:dir] Na+/H+ antiporter, napA type (NapA)
+	[41352:41966:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[42064:43377:dir] hisS; Histidine--tRNA ligase
+	[43515:43640:rev] Evidence 5 : Unknown function; protein of unknown function
+	[43719:44270:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[44231:44551:rev] Evidence 5 : Unknown function; protein of unknown function
+	[44428:44955:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[44952:45668:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[45672:46301:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[46466:46801:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[46817:47338:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[47352:49877:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[49984:50595:rev] Evidence 5 : Unknown function; exported protein of unknown function
+	[50785:50907:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[50917:51699:rev] Phospholipase D-related protein
+	[51776:51831:dir] snoPyro_CD
+	[51834:52130:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[52186:54927:dir] alaS; Alanine--tRNA ligase
+	[54962:55327:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[55302:56054:rev] GTP cyclohydrolase 1 type 2 homolog
+	[56153:57928:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[58049:58624:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[58636:59163:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[59230:59862:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[59987:60502:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+<END>
+<GI> LR881183:2 <COORDINATES> 130398-151851 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.552832; n0_4mer:D = 32.057089; n0_4mer:PS = 46.677427
+	[130398:133265:dir] ABC-type dipeptide/oligopeptide transport system
+	[133277:133639:rev] rnp; Ribonuclease P protein component 2
+	[133713:134798:dir] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative enzyme
+	[134923:135702:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[135739:135891:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[135912:136682:rev] Evidence 5 : Unknown function; protein of unknown function
+	[136703:138877:rev] DNA repair protein Rad25
+	[138977:142174:rev] ileS; Isoleucine--tRNA ligase
+	[142678:143757:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[143881:145299:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[145296:146132:rev] Permease
+	[146163:146471:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[146597:148333:dir] Glycoside hydrolase
+	[148257:148457:dir] Evidence 5 : Unknown function; protein of unknown function
+	[148573:149940:rev] cca; CCA-adding enzyme
+	[150014:151333:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[151297:151851:rev] RNA 2',3'-cyclic phosphodiesterase
+<END>
+<GI> LR881183:3 <COORDINATES> 182947-215196 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.609425; n0_4mer:D = 52.178024; n0_4mer:PS = 33.791549
+	[182947:183942:dir] Sugar-phosphate nucleotidyltransferase
+	[184045:185136:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[185522:187483:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[187432:187890:dir] Evidence 5 : Unknown function; protein of unknown function
+	[187852:188589:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[189148:189420:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[189479:190132:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[190204:191088:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[191094:191732:dir] Polysaccharide biosynthesis protein (fragment)
+	[191729:193156:rev] Type I phosphodiesterase/nucleotide pyrophosphatase
+	[193161:194975:rev] Evidence 5 : Unknown function; membrane protein of unknown function
+	[194982:196139:rev] Glycosyl transferase
+	[196179:197132:rev] Evidence 3 : Putative function from multiple computational evidences; putative Glycosyltransferase
+	[197154:198128:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[198125:198970:rev] Evidence 3 : Putative function from multiple computational evidences; putative UTP--glucose-1-phosphate uridylyltransferase
+	[198967:200250:rev] aglM; UDP-glucose 6-dehydrogenase AglM
+	[200247:202268:rev] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative Phosphatidylinositol N-acetylglucosaminyltransferase
+	[201377:201631:rev] Glycosyl hydrolase (fragment)
+	[202749:202826:dir] tRNA-Glu
+	[202840:202917:dir] tRNA-Ile
+	[203700:204083:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[204067:204363:rev] CopG family transcriptional regulator
+	[204850:205173:dir] Antitoxin
+	[205136:205609:dir] Programmed cell death toxin YdcE-like protein
+	[206040:206831:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[206824:207618:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[207707:207886:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[207913:208188:dir] ef1b; Elongation factor 1-beta
+	[208223:209452:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[209510:210535:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[210839:212683:dir] Oxygen-sensitive ribonucleoside-triphosphate reductase
+	[212705:213454:dir] Pyruvate-formate lyase-activating enzyme
+	[213559:215196:dir] thsB; Thermosome subunit beta
+<END>
+<GI> LR881183:4 <COORDINATES> 346461-373830 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.994600; n0_4mer:D = 39.069860; n0_4mer:PS = 48.382196
+	[346461:347504:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[347560:347883:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[347846:348337:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[348392:349075:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[349116:349292:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[349319:351223:rev] iorA; Indolepyruvate oxidoreductase subunit IorA
+	[351413:351700:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[351715:352041:dir] NTP pyrophosphatase, house-cleaning of non-canonical NTPs
+	[352054:352728:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[352792:353430:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[353499:354188:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[354290:354970:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[355082:355783:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[355788:356891:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[356918:357784:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[357813:358715:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[358712:362593:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[362661:363119:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[363187:363396:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[363474:364256:dir] psmA; Proteasome subunit alpha
+	[364268:364978:dir] Ribosome maturation protein SDO1 homolog
+	[364975:365745:dir] rrp; Exosome complex component Rrp4
+	[365745:366491:dir] rrp; Exosome complex component Rrp41
+	[366493:367302:dir] rrp; Exosome complex component Rrp42
+	[367326:367613:dir] Membrane protein
+	[367665:368063:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[368143:368802:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[368799:369323:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[369381:369746:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[369774:370187:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[370174:371190:rev] Homoserine dehydrogenase
+	[371229:372074:rev] Protein, conserved, containing CBS domains
+	[372157:373365:rev] gcdB; Glutaconyl-CoA decarboxylase subunit beta
+	[373372:373830:rev] gcdC; Glutaconyl-CoA decarboxylase subunit gamma
+<END>
+<GI> LR881183:5 <COORDINATES> 423141-447572 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.993243; n0_4mer:D = 41.572508; n0_4mer:PS = 32.922590
+	[423141:423695:dir] rpl; 50S ribosomal protein L6
+	[423706:424086:dir] rpl32e; 50S ribosomal protein L32e
+	[424097:424543:dir] rpl19e; 50S ribosomal protein L19e
+	[424554:425159:dir] rpl; 50S ribosomal protein L18
+	[425156:425863:dir] rps; 30S ribosomal protein S5
+	[425875:426342:dir] rpl; 50S ribosomal protein L30
+	[426354:426800:dir] rpl; 50S ribosomal protein L15
+	[426836:428281:dir] secY; Protein translocase subunit SecY
+	[428358:428948:dir] adkA; Adenylate kinase
+	[428941:429468:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[429511:429783:dir] rpl34e; 50S ribosomal protein L34e
+	[429803:430384:dir] cmk; Cytidylate kinase
+	[430398:430649:dir] rpl14e; 50S ribosomal protein L14e
+	[430691:433681:rev] Evidence 5 : Unknown function; protein of unknown function
+	[433778:434485:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[434534:434755:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[434727:434966:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[434976:435980:dir] truB; Evidence 3 : Putative function from multiple computational evidences; putative tRNA pseudouridine synthase B
+	[436259:436450:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[436450:437148:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[437165:437671:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[437887:438027:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[437967:438674:dir] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative enzyme
+	[438660:438746:dir] tRNA-Ser
+	[438786:439235:dir] rps; 30S ribosomal protein S13
+	[439246:439788:dir] rps; 30S ribosomal protein S4
+	[439785:440204:dir] rpsK; Evidence 2a : Function from experimental evidences in other organisms; PubMedId : 10094780, 11684020, 12244297, 12809609, 2989779, 6349681, 7000779, 7007074, 7020604; Product type s : structure; 30S ribosomal subunit protein S11
+	[440228:441019:dir] rpoD; DNA-directed RNA polymerase subunit D
+	[441021:441108:dir] tRNA-Leu
+	[441177:441542:dir] rpl18e; 50S ribosomal protein L18e
+	[441549:441977:dir] rpl; 50S ribosomal protein L13
+	[441989:442396:dir] rps; 30S ribosomal protein S9
+	[442435:442632:dir] rpoN; DNA-directed RNA polymerase subunit N
+	[442649:442726:dir] tRNA-Pro
+	[442779:442952:dir] rpoK; DNA-directed RNA polymerase subunit K
+	[442959:443984:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[443998:444603:dir] rps; 30S ribosomal protein S2
+	[444644:444731:dir] tRNA-Leu
+	[444790:444948:dir] rpl40e; 50S ribosomal protein L40e
+	[445048:445377:rev] Transcription regulator, PadR-like family protein
+	[445485:445784:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[445941:446018:rev] tRNA-Arg
+	[446089:446538:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[446524:446850:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[446856:447572:rev] Adenine phosphoribosyltransferase
+<END>
+<GI> LR881183:6 <COORDINATES> 470190-491002 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.526842; n0_4mer:D = 33.466683; n0_4mer:PS = 28.863443
+	[470190:473090:rev] leuS; Leucine--tRNA ligase
+	[473344:474414:rev] X-pro aminopeptidase
+	[474542:475126:dir] rpl15e; 50S ribosomal protein L15e
+	[475390:476802:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[476814:478064:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[478075:478545:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[478775:479641:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[479648:480016:rev] Pilus assembly protein
+	[480018:480248:rev] AbrB family transcriptional regulator
+	[480353:480808:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[480805:481494:dir] rnp; Ribonuclease P protein component 3
+	[481515:482840:rev] trpB; Tryptophan synthase beta chain
+	[483134:484453:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[484570:485571:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[485568:486014:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[486096:486512:dir] Evidence 3 : Putative function from multiple computational evidences; putative nickel-responsive regulator
+	[486525:486935:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[486932:488884:rev] Fibronectin-binding protein A (FbpA)
+	[489014:491002:dir] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative 1,4-alpha-glucan branching enzyme
+<END>
+<GI> LR881183:7 <COORDINATES> 822015-843099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.682449; n0_4mer:D = 34.246456; n0_4mer:PS = 38.129753
+	[822015:823940:dir] argS; Arginine--tRNA ligase
+	[823941:825014:rev] AAA family ATPase
+	[825110:825991:dir] dapAL; Uncharacterized DapA-like lyase TON_0506
+	[826047:826265:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[826262:826534:dir] relE; Evidence 3 : Putative function from multiple computational evidences; putative toxin RelE1
+	[826536:827783:rev] prf; Peptide chain release factor subunit 1
+	[827885:828121:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[828214:828774:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[828811:829551:rev] Glycosyl transferase family 2 (fragment)
+	[829511:830281:rev] Methyltransferase type 11
+	[830379:832025:dir] Evidence 5 : Unknown function; membrane protein of unknown function
+	[832110:834347:dir] Membrane-bound dolichyl-phosphate-mannose-protein mannosyltransferase
+	[834579:834752:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[834870:835442:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[835432:836706:rev] Metalloprotease
+	[836747:837148:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[837158:838318:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[838463:838912:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[838925:839632:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[839723:839800:dir] tRNA-Met
+	[839916:840008:rev] Evidence 5 : Unknown function; protein of unknown function
+	[840030:840941:dir] Intein/rRNA intron-related DNA endonuclease
+	[840910:841365:dir] rps; 30S ribosomal protein S15
+	[841405:842835:dir] SsDNA-specific exonuclease
+	[842825:843085:dir] KEOPS complex subunit
+<END>
+<GI> LR881183:8 <COORDINATES> 1251851-1289468 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.360605; n0_4mer:D = 43.008606; n0_4mer:PS = 28.167255
+	[1251851:1253206:rev] purB; Adenylosuccinate lyase
+	[1253399:1253674:dir] albA; DNA/RNA-binding protein Alba
+	[1253784:1254449:dir] Transcription regulator
+	[1254500:1255033:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1255023:1255565:rev] Nucleoside-triphosphatase THEP1
+	[1255615:1256694:dir] Evidence 3 : Putative function from multiple computational evidences; putative methylthioribose-1-phosphate isomerase
+	[1256806:1257690:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1257763:1259397:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1259668:1259832:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1259858:1260145:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1260262:1261395:dir] adh; NADPH-dependent butanol dehydrogenase
+	[1261518:1263971:dir] Evidence 3 : Putative function from multiple computational evidences; putative 5-methylcytosine restriction system, GTPase subunit
+	[1264009:1265415:dir] Evidence 3 : Putative function from multiple computational evidences; putative 5-methylcytosine restriction system, catalytic subunit
+	[1265432:1266925:rev] Predicted arabinose efflux permease, MFS family
+	[1267019:1267219:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1267367:1267864:rev] DNA-binding protein
+	[1267819:1268121:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1268338:1271106:dir] ATP dependent helicase, Lhr family
+	[1271173:1272237:rev] Acetylornithine deacetylase
+	[1272377:1273093:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1273093:1273338:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1273339:1274313:rev] Fused rubrerythrin-like protein/uncharacterized domain-containing protein
+	[1274388:1275146:dir] TatD-related deoxyribonuclease
+	[1275156:1275458:dir] Methyltransferase
+	[1275684:1289468:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+<END>
+<GI> LR881183:9 <COORDINATES> 1601952-1624904 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.453885; n0_4mer:D = 36.259728; n0_4mer:PS = 34.717992
+	[1601952:1603583:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1603580:1605913:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1605975:1607081:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1607224:1607796:rev] tbp; TATA-box-binding protein
+	[1607996:1608418:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1608415:1608852:rev] Evidence 3 : Putative function from multiple computational evidences; Putative PIN domain protein (modular protein)
+	[1608837:1608974:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1609054:1610481:rev] McrBC 5-methylcytosine restriction system component
+	[1610497:1612473:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1612451:1612906:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1612896:1613372:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1613377:1614306:rev] ADP-ribosylglycohydrolase
+	[1614309:1614650:rev] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative enzyme
+	[1614677:1616236:rev] MBL fold metallo-hydrolase
+	[1616338:1616916:rev] Transcription factor
+	[1616915:1617448:dir] N-acetyltransferase
+	[1617466:1617759:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1617761:1618615:rev] Permeases of the drug/metabolite transporter (DMT) superfamily
+	[1618679:1619083:rev] acaC; Protein AcaC
+	[1619085:1620245:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1620256:1621308:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1621439:1622119:rev] flpA; Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+	[1622125:1623396:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1623786:1624904:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+<END>
+<GI> LR881183:10 <COORDINATES> 1812000-1834613 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.556424; n0_4mer:D = 34.770185; n0_4mer:PS = 39.139968
+	[1812043:1812966:rev] Sugar kinase
+	[1813044:1813637:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1813627:1813902:rev] acyP; Acylphosphatase
+	[1813973:1814284:dir] cutA; Divalent-cation tolerance protein CutA
+	[1814281:1814868:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1814960:1815796:rev] Universal stress protein
+	[1815828:1817096:dir] gcvT; Evidence 3 : Putative function from multiple computational evidences; putative aminomethyltransferase
+	[1817224:1818054:dir] Permease
+	[1818095:1818172:dir] tRNA-Gly
+	[1818194:1818793:rev] UbiE ubiquinone/menaquinone biosynthesis methyltransferase
+	[1818892:1819527:dir] Rps3 or RNA methylase involved in ribosome biogenesis, SPOUT family
+	[1819736:1820104:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1820109:1821131:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1821228:1821590:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1821618:1822661:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1822658:1823683:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1823780:1824142:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1824139:1825185:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1825182:1826771:dir] S-layer protein
+	[1826776:1827546:dir] ABC-2 type transport system permease protein
+	[1827543:1827980:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1827977:1828639:dir] ABC-type multidrug transport system, ATPase component
+	[1828636:1828932:rev] Predicted metal-binding protein
+	[1828969:1829112:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1829084:1830013:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1830016:1831722:rev] RNA-binding protein
+	[1831732:1832634:rev] Phosphoserine phosphatase
+	[1832773:1833618:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1833666:1834613:rev] cpkA; Carbamate kinase
+<END>
+<GI> LR881183:11 <COORDINATES> 1852236-1881073 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.585278; n0_4mer:D = 45.820161; n0_4mer:PS = 31.997401
+	[1852236:1855367:dir] MoaA-like intein containing molybdenum cofactor biosynthesis moaA homolog
+	[1855372:1855683:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1855694:1857160:rev] Phosphate transport system substrate-binding protein
+	[1857250:1857597:dir] Evidence 3 : Putative function from multiple computational evidences; putative effector of murein hydrolase
+	[1857594:1858268:dir] yohK; Evidence 4 : Unknown function but conserved in other organisms; Product type m : membrane component; conserved hypothetical protein; putative inner membrane protein
+	[1858233:1858673:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1858829:1858906:rev] tRNA-Tyr
+	[1858977:1859555:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1859590:1859814:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1859861:1860418:dir] Fuculose phosphate aldolase
+	[1860472:1860723:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1860839:1861366:rev] Cob(I)alamin adenolsyltransferase/cobinamide ATP-dependent adenolsyltransferase
+	[1861471:1863453:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[1863548:1867225:dir] Helicase domain protein
+	[1867225:1871127:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1871143:1871760:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1871859:1872290:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1872381:1872749:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1873083:1873298:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1873277:1873353:rev] tRNA-His
+	[1873496:1874122:dir] taw3; tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))- methyltransferase 2
+	[1874206:1874955:rev] Lipoate--protein ligase
+	[1875903:1876379:rev] Signal peptidase I
+	[1876352:1876909:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1876989:1878044:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1878054:1878989:dir] Microsomal dipeptidase
+	[1879166:1880014:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1880009:1881073:rev] ATPase
+<END>

@@ -1,0 +1,238 @@
+<GI> AP018336:1 <COORDINATES> 1-18099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.883955; n0_4mer:D = 31.997811; n0_4mer:PS = 55.098063
+	[186:977:dir] hypothetical protein
+	[997:2010:dir] rplC; 50S ribosomal protein L3
+	[2023:2787:dir] hypothetical protein
+	[2801:3070:dir] rplW; 50S ribosomal protein L23
+	[3093:3818:dir] rplB; 50S ribosomal protein L2
+	[3835:4245:dir] rpsS; 30S ribosomal protein S19
+	[4258:4719:dir] rplV; 50S ribosomal protein L22
+	[4723:5499:dir] rpsC; 30S ribosomal protein S3
+	[5546:5740:dir] rpmC; 50S ribosomal protein L29
+	[5753:6058:dir] hypothetical protein
+	[6067:6348:dir] hypothetical protein
+	[6359:6679:dir] rpsQ; 30S ribosomal protein S17
+	[6681:7079:dir] rplN; 50S ribosomal protein L14
+	[7090:7443:dir] hypothetical protein
+	[7446:8174:dir] hypothetical protein
+	[8175:8681:dir] rplE; 50S ribosomal protein L5
+	[8693:8836:dir] hypothetical protein
+	[8860:9243:dir] rpsH; 30S ribosomal protein S8
+	[9252:9785:dir] rplF; 50S ribosomal protein L6
+	[9799:10125:dir] hypothetical protein
+	[10235:10681:dir] hypothetical protein
+	[10693:11271:dir] hypothetical protein
+	[11274:11918:dir] rpsE; 30S ribosomal protein S5
+	[11931:12389:dir] hypothetical protein
+	[12402:12842:dir] rplO_1; 50S ribosomal protein L15
+	[12868:14229:dir] secY; Protein translocase subunit SecY
+	[14251:14808:dir] cmk_1; Cytidylate kinase
+	[14827:15393:dir] hypothetical protein
+	[15412:15678:dir] hypothetical protein
+	[15678:16196:dir] cmk_2; Cytidylate kinase
+	[16196:16423:dir] hypothetical protein
+	[16453:17412:dir] truB; tRNA pseudouridine synthase B
+	[17473:17560:dir] tRNA-Ser(gga); tRNA-Ser
+	[17649:18098:dir] rpsM; 30S ribosomal protein S13
+<END>
+<GI> AP018336:2 <COORDINATES> 39421-68599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.901597; n0_4mer:D = 39.465031; n0_4mer:PS = 33.092236
+	[39421:40407:rev] Undecaprenyl-phosphate mannosyltransferase
+	[40427:41932:rev] pgaC; Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+	[41943:42530:rev] hypothetical protein
+	[42610:43101:rev] hypothetical protein
+	[43187:43825:rev] hypothetical protein
+	[43926:44819:rev] hypothetical protein
+	[44922:45428:rev] hypothetical protein
+	[45582:46109:rev] hypothetical protein
+	[46375:47058:rev] moaA_1; Cyclic pyranopterin monophosphate synthase
+	[47691:48074:rev] hypothetical protein
+	[48229:48471:rev] hypothetical protein
+	[48485:48964:rev] hypothetical protein
+	[49004:49249:rev] hypothetical protein
+	[49362:50006:rev] hypothetical protein
+	[50167:51387:rev] yrrB_1; TPR repeat-containing protein YrrB
+	[51384:51986:rev] hypothetical protein
+	[52120:52356:rev] hypothetical protein
+	[52451:52828:rev] hypothetical protein
+	[52972:55479:rev] Protease 1
+	[56402:56629:rev] hypothetical protein
+	[56820:57032:rev] hypothetical protein
+	[57211:57579:rev] hypothetical protein
+	[57616:57888:rev] hypothetical protein
+	[57949:58404:rev] hypothetical protein
+	[58441:59010:rev] hypothetical protein
+	[59067:59345:rev] hypothetical protein
+	[60264:60575:rev] hypothetical protein
+	[60807:62306:dir] hypothetical protein
+	[62339:62548:dir] hypothetical protein
+	[62550:63290:dir] glpF; Glycerol uptake facilitator protein
+	[63397:64776:rev] bmr3; Multidrug resistance protein 3
+	[64945:66804:rev] gltA_1; Glutamate synthase [NADPH] large chain
+	[66814:67482:rev] gltB; Glutamate synthase [NADPH] large chain
+	[67620:68180:dir] hypothetical protein
+	[68220:68444:rev] hypothetical protein
+<END>
+<GI> AP018336:3 <COORDINATES> 240176-263569 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.918994; n0_4mer:D = 33.458111; n0_4mer:PS = 29.646776
+	[240176:240940:dir] hypothetical protein
+	[241058:241378:dir] hypothetical protein
+	[241591:245676:rev] cobN_2; Aerobic cobaltochelatase subunit CobN
+	[246135:246416:dir] hypothetical protein
+	[246373:246603:dir] hypothetical protein
+	[247069:247968:rev] hypothetical protein
+	[247972:248337:rev] hypothetical protein
+	[248337:249188:rev] hypothetical protein
+	[249181:252033:rev] hypothetical protein
+	[252014:252799:rev] hypothetical protein
+	[252796:253536:rev] hypothetical protein
+	[253831:254382:dir] hypothetical protein
+	[254393:255589:rev] hypothetical protein
+	[255788:256477:dir] putative glycosyltransferase
+	[256464:257465:dir] mftF; Putative mycofactocin biosynthesis glycosyltransferase MftF
+	[257513:258907:dir] fom3_1; 2-hydroxyethylphosphonate methyltransferase
+	[259026:260282:dir] mshA_1; D-inositol 3-phosphate glycosyltransferase
+	[260313:261488:dir] Glycogen synthase
+	[261485:263569:dir] hypothetical protein
+<END>
+<GI> AP018336:4 <COORDINATES> 418904-467270 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.121178; n0_4mer:D = 35.256673; n0_4mer:PS = 23.520049
+	[418904:420145:dir] aplIM; Modification methylase AplI
+	[420268:420795:dir] mutY; Adenine DNA glycosylase
+	[420797:424504:dir] hypothetical protein
+	[424507:426243:dir] hypothetical protein
+	[426277:429192:dir] hypothetical protein
+	[429189:429341:dir] hypothetical protein
+	[429758:430483:dir] hypothetical protein
+	[430480:431073:dir] hypothetical protein
+	[431070:432116:dir] hypothetical protein
+	[432128:432916:dir] hypothetical protein
+	[432920:436270:dir] hypothetical protein
+	[436267:436803:dir] hypothetical protein
+	[436823:437935:dir] hypothetical protein
+	[437945:439525:dir] hypothetical protein
+	[439528:441156:dir] hypothetical protein
+	[441166:442872:dir] hypothetical protein
+	[442922:443269:rev] hypothetical protein
+	[443282:444307:rev] hypothetical protein
+	[444514:445308:dir] kcsA_1; pH-gated potassium channel KcsA
+	[445311:445946:rev] hypothetical protein
+	[445959:446165:rev] hypothetical protein
+	[446424:446978:dir] hypothetical protein
+	[447056:447523:dir] hypothetical protein
+	[447550:451032:rev] pcrA; ATP-dependent DNA helicase PcrA
+	[451280:452272:dir] hypothetical protein
+	[452738:453496:rev] hypothetical protein
+	[453716:456376:rev] hypothetical protein
+	[456388:457065:rev] hypothetical protein
+	[457415:457699:dir] hypothetical protein
+	[457728:458069:dir] hypothetical protein
+	[458244:462674:dir] cobN_4; Aerobic cobaltochelatase subunit CobN
+	[462772:463632:rev] hypothetical protein
+	[463702:464295:rev] hypothetical protein
+	[464792:465118:dir] hypothetical protein
+	[465152:465658:dir] hypothetical protein
+	[465676:465990:dir] hypothetical protein
+	[466025:466720:dir] hypothetical protein
+	[466713:467270:dir] hypothetical protein
+<END>
+<GI> AP018336:5 <COORDINATES> 811712-833878 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.577062; n0_4mer:D = 31.493711; n0_4mer:PS = 21.549018
+	[811712:813808:dir] hypothetical protein
+	[813872:815347:rev] rnj_1; Ribonuclease J
+	[816061:818643:rev] hypothetical protein
+	[818775:819398:dir] hypothetical protein
+	[819476:819844:dir] hypothetical protein
+	[819922:820464:dir] hypothetical protein
+	[820482:821684:dir] fhcC_1; Formyltransferase/hydrolase complex Fhc subunit C
+	[821681:822991:dir] fdhF_1; Formate dehydrogenase H
+	[822999:824072:rev] phnT; Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+	[824050:824859:rev] cysW; Sulfate transport system permease protein CysW
+	[824841:825548:rev] hypothetical protein
+	[825570:826352:rev] Putative binding protein
+	[826355:827065:rev] hypothetical protein
+	[827098:828096:rev] por; Pyruvate synthase
+	[828086:828289:rev] rsxB_1; Electron transport complex subunit RsxB
+	[828458:828853:rev] hypothetical protein
+	[829009:829704:rev] hypothetical protein
+	[829862:830689:dir] hypothetical protein
+	[830661:831158:dir] hypothetical protein
+	[831163:831894:dir] hypothetical protein
+	[831970:832701:dir] hypothetical protein
+	[832704:833147:dir] hypothetical protein
+	[833159:833449:rev] hypothetical protein
+	[833483:833878:rev] dtxR; Diphtheria toxin repressor
+<END>
+<GI> AP018336:6 <COORDINATES> 935984-958380 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.552868; n0_4mer:D = 29.441269; n0_4mer:PS = 51.687173
+	[935984:937216:dir] pgk; Phosphoglycerate kinase
+	[937257:937330:dir] tRNA-Thr(tgt); tRNA-Thr
+	[937338:937412:dir] tRNA-Pro(tgg); tRNA-Pro
+	[937457:937530:dir] tRNA-Tyr(gta); tRNA-Tyr
+	[937657:937730:dir] tRNA-Asp(gtc); tRNA-Asp
+	[937738:937812:dir] tRNA-Lys(ttt); tRNA-Lys
+	[937869:938087:dir] hypothetical protein
+	[938146:939690:dir] rpoB_1; DNA-directed RNA polymerase subunit beta
+	[939713:941524:dir] rpoB_2; DNA-directed RNA polymerase subunit beta
+	[941563:944175:dir] rpoC_3; DNA-directed RNA polymerase subunit beta'
+	[944185:945540:dir] rpoC_4; DNA-directed RNA polymerase subunit beta'
+	[945551:945847:dir] hypothetical protein
+	[945854:946285:dir] Transcription termination/antitermination protein NusA; hypothetical protein
+	[946307:946732:dir] rpsL; 30S ribosomal protein S12
+	[946738:947298:dir] rpsG; 30S ribosomal protein S7
+	[947316:949508:dir] fusA_2; Elongation factor G
+	[949622:950863:dir] tufA; Elongation factor Tu
+	[950898:951206:dir] rpsJ; 30S ribosomal protein S10
+	[951288:951373:dir] tRNA-Ser(tga); tRNA-Ser
+	[951413:951499:dir] tRNA-Ser(gga); tRNA-Ser
+	[951556:952098:rev] hypothetical protein
+	[952243:952872:dir] nicS; HTH-type transcriptional repressor NicS
+	[952967:953434:dir] hypothetical protein
+	[953482:953880:dir] Universal stress protein/MSMEI_3859
+	[953892:954302:dir] hypothetical protein
+	[954419:955552:rev] iscS; Cysteine desulfurase IscS
+	[955539:956063:rev] Nucleoside-triphosphatase THEP1
+	[956074:957072:rev] pflA_2; Pyruvate formate-lyase 1-activating enzyme
+	[957088:958380:rev] pmbA; Metalloprotease PmbA
+<END>
+<GI> AP018336:7 <COORDINATES> 961226-990989 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.386894; n0_4mer:D = 42.998596; n0_4mer:PS = 26.802346
+	[961226:965653:rev] hypothetical protein
+	[965847:966515:dir] hypothetical protein
+	[971580:971843:rev] cas2; CRISPR-associated endoribonuclease Cas2
+	[971888:972859:rev] cas1; CRISPR-associated endonuclease Cas1
+	[972871:973341:rev] hypothetical protein
+	[973374:975794:rev] ygcB; CRISPR-associated endonuclease/helicase Cas3
+	[975827:976525:rev] hypothetical protein
+	[976537:977448:rev] hypothetical protein
+	[977450:979120:rev] hypothetical protein
+	[979117:979830:rev] hypothetical protein
+	[980256:981020:rev] yadH; Inner membrane transport permease YadH
+	[981068:982006:rev] drrA; Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+	[982119:983537:dir] kaiC_5; Circadian clock protein kinase KaiC
+	[983557:983802:dir] kaiB; Circadian clock protein KaiB
+	[983792:985813:dir] pdtaS_12; putative sensor histidine kinase pdtaS
+	[985911:987260:dir] blh; Beta-lactamase hydrolase-like protein
+	[987278:987754:dir] hypothetical protein
+	[988000:988845:rev] Homogentisate phytyltransferase
+	[988902:989630:dir] vte5; Phytol kinase
+	[989627:990229:dir] tmk_1; Thymidylate kinase
+	[990174:990989:dir] hypothetical protein
+<END>
+<GI> AP018336:8 <COORDINATES> 1388218-1412305 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.558005; n0_4mer:D = 29.173230; n0_4mer:PS = 51.268324
+	[1388218:1390095:dir] hndC; NADP-reducing hydrogenase subunit HndC
+	[1390202:1391119:rev] moaA_3; Cyclic pyranopterin monophosphate synthase
+	[1391194:1391868:rev] mobB; Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+	[1391951:1394605:dir] fdhF_2; Formate dehydrogenase H
+	[1394679:1395179:dir] rsxB_3; Electron transport complex subunit RsxB
+	[1395157:1396206:dir] nuoI; NADH-quinone oxidoreductase subunit I
+	[1396221:1396469:dir] ndhI_5; NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+	[1396466:1396858:dir] hypothetical protein
+	[1396879:1398588:dir] fhcA; Formyltransferase/hydrolase complex Fhc subunit A
+	[1398585:1399397:dir] fhcC_2; Formyltransferase/hydrolase complex Fhc subunit C
+	[1399419:1400717:dir] fdhF_3; Formate dehydrogenase H
+	[1400839:1401738:dir] nifH1_2; Nitrogenase iron protein 1
+	[1401748:1402065:dir] glnB_3; Nitrogen regulatory protein P-II
+	[1402074:1402442:dir] glnB_4; Nitrogen regulatory protein P-II
+	[1402479:1403888:dir] vnfD; Nitrogenase vanadium-iron protein alpha chain
+	[1403889:1405268:dir] nifK_1; Nitrogenase molybdenum-iron protein beta chain
+	[1405237:1406673:dir] nifD_2; Nitrogenase molybdenum-iron protein alpha chain
+	[1406666:1408012:dir] nifK_2; Nitrogenase molybdenum-iron protein beta chain
+	[1407990:1408085:dir] hypothetical protein
+	[1408247:1410247:dir] nasC; Assimilatory nitrate reductase catalytic subunit
+	[1410281:1410556:rev] hypothetical protein
+	[1410611:1412305:rev] hypothetical protein
+<END>

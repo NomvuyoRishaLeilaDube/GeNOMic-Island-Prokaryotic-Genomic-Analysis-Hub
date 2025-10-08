@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ domain.title() }} Genomes</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h2>{{ domain.title() }} Genomes</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sequence ID</th>
+            <th>Organism</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for seq_id, data in seq_map.items() %}
+        <tr>
+            <td><a href="{{ url_for('genome', seq_id=seq_id) }}">{{ seq_id }}</a></td>
+            <td>{{ data.organism }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+</body>
+</html>

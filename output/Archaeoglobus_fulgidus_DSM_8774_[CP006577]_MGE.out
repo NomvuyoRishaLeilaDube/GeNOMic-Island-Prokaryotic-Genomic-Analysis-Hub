@@ -1,0 +1,338 @@
+<GI> CP006577:1 <COORDINATES> 247966-267930 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.398624; n0_4mer:D = 31.994771; n0_4mer:PS = 23.074268
+	[247966:248439:dir] putative toxin-antitoxin system toxin component, PIN family
+	[248600:248710:rev] hypothetical protein
+	[248799:249161:rev] Uncharacterized conserved protein; related to C-terminal domain of eukaryotic chaperone, SACSIN; hypothetical protein
+	[249169:249477:rev] putative nucleotidyltransferase
+	[250077:250280:rev] putative small protein
+	[250497:251471:dir] nucleotide sugar dehydrogenase
+	[251440:252633:dir] hypothetical protein
+	[252664:253758:rev] hypothetical protein
+	[254086:255342:rev] Sulfotransferase domain protein
+	[255347:256117:rev] Methylase involved in ubiquinone/menaquinone biosynthesis
+	[256142:256801:rev] hypothetical protein
+	[256746:260933:rev] Lipopolysaccharide biosynthesis protein
+	[261000:261842:rev] putative O-methyltransferase
+	[262029:262235:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[262232:262684:dir] contains PIN domain; putative nucleic acid-binding protein
+	[262816:263010:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[262988:263419:dir] contains PIN domain; putative nucleic acid-binding protein
+	[263582:263776:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[263773:264222:dir] contains PIN domain; putative nucleic acid-binding protein
+	[264259:264483:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[264461:264916:dir] contains PIN domain; putative nucleic acid-binding protein
+	[264964:265176:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[265157:265324:dir] hypothetical protein
+	[265278:265559:dir] contains PIN domain; putative nucleic acid-binding protein
+	[265608:267436:rev] Predicted glycosyltransferases; nonfunctional due to frameshift
+	[267433:267930:rev] and related enzymes; dTDP-4-dehydrorhamnose 3,5-epimerase
+<END>
+<GI> CP006577:2 <COORDINATES> 492841-530796 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.898307; n0_4mer:D = 31.814854; n0_4mer:PS = 27.570047
+	[492841:494130:dir] Integrase
+	[494093:494239:rev] hypothetical protein
+	[494236:494436:rev] hypothetical protein
+	[494519:494848:dir] transcriptional regulator, HxlR family; putative transcriptional regulator
+	[494845:495774:dir] hypothetical protein
+	[495868:496521:rev] hypothetical protein
+	[496603:496752:dir] looped-hinge helix DNA binding protein domain protein, AbrB family
+	[498718:499002:dir] thioredoxin
+	[499035:499766:dir] hypothetical protein
+	[500015:501730:rev] hypothetical protein
+	[501742:502989:rev] hypothetical protein
+	[503355:504812:rev] hypothetical protein
+	[504824:507148:rev] hypothetical protein
+	[507151:511410:rev] hypothetical protein
+	[511403:513739:rev] and related enzymes; 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+	[514120:514962:rev] hypothetical protein
+	[514964:515602:dir] hypothetical protein
+	[515603:516202:dir] Telomeric repeat protein-binding protein factor 2
+	[516216:516854:dir] hypothetical protein
+	[516856:518505:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[518541:519239:dir] putative amidophosphoribosyltransferase
+	[519229:519903:dir] putative Rossmann fold protein nucleotide-binding protein involved in DNA uptake
+	[520026:520517:dir] hypothetical protein
+	[520528:521373:dir] hypothetical protein
+	[521363:522073:rev] 3-4; variant 3 with third motif protein having DD or ED/haloacid dehalogenase superfamily, subfamily IA, variant 1 with third motif protein having DxD or Dx(3-4)E; haloacid dehalogenase superfamily, subfamily IA
+	[522037:523044:rev] hypothetical protein
+	[523037:523537:rev] hypothetical protein
+	[523539:524897:rev] McrBC 5-methylcytosine restriction system component
+	[524890:527001:rev] GTPase subunit of restriction endonuclease
+	[527015:527833:rev] hypothetical protein
+	[527888:528124:rev] hypothetical protein
+	[528205:529737:rev] putative hydrolase of the metallo-beta-lactamase superfamily
+	[529759:530796:rev] putative protein-tyrosine phosphatase
+<END>
+<GI> CP006577:3 <COORDINATES> 580841-608201 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.569380; n0_4mer:D = 35.301476; n0_4mer:PS = 22.731319
+	[580841:581248:rev] SSU processome protein Utp24; Uncharacterized protein of PilT/Vapc superfamily
+	[581215:582489:rev] translation initiation factor 2 subunit gamma (aeIF-2g); translation initiation factor 2 subunit gamma
+	[582534:582920:dir] Uncharacterized conserved protein; related to C-terminal domain of eukaryotic chaperone, SACSIN; hypothetical protein
+	[582976:583233:dir] Nucleotidyltransferase domain protein
+	[583489:584937:dir] Membrane protein involved in the export of O-antigen and teichoic acid
+	[585196:586593:dir] nucleotide sugar dehydrogenase
+	[586971:587234:dir] putative small protein
+	[587231:587683:dir] contains PIN domain; putative nucleic acid-binding protein
+	[588176:588928:rev] Glycosyl transferase family 2
+	[588961:589893:rev] hypothetical protein
+	[589890:590924:rev] methyltransferase, FkbM family
+	[590942:592279:rev] Glycosyltransferase
+	[592269:592418:rev] hypothetical protein
+	[592459:592554:rev] hypothetical protein
+	[592529:592987:rev] hypothetical protein
+	[593508:593735:rev] Methylase involved in ubiquinone/menaquinone biosynthesis
+	[593719:593892:rev] hypothetical protein
+	[593867:594958:rev] Glycosyltransferase
+	[594960:596000:rev] Glycosyltransferase
+	[596553:596795:rev] transcriptional regulator, CopG family; hypothetical protein
+	[596922:597398:rev] putative nucleotide-binding protein
+	[597391:597627:rev] hypothetical protein
+	[598289:598516:rev] hypothetical protein
+	[598507:598752:rev] hypothetical protein
+	[599007:599675:dir] hypothetical protein
+	[599714:600100:rev] AF_0612; clan AA aspartic protease family
+	[600090:600407:rev] hypothetical protein
+	[600753:601097:rev] Nucleotidyltransferase domain protein
+	[601138:601527:rev] putative membrane protein
+	[601524:603125:rev] and related glycosyltransferases of PMT family; 4-amino-4-deoxy-L-arabinose transferase
+	[603149:604225:rev] Glycosyltransferase
+	[604332:604622:rev] hypothetical protein
+	[604712:604873:rev] hypothetical protein
+	[605012:605905:dir] Glycosyltransferase, probably involved in cell wall biogenesis
+	[606171:606243:rev] tRNA-Gln
+	[606283:606900:rev] RNase HII; ribonuclease H, mammalian HI/archaeal HII subfamily
+	[606900:608201:rev] signal recognition particle subunit FFH/SRP54 (srp54); Signal recognition particle GTPase
+<END>
+<GI> CP006577:4 <COORDINATES> 985505-1008254 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.864195; n0_4mer:D = 29.426070; n0_4mer:PS = 52.576440
+	[985505:986620:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[986646:988679:rev] methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor; PAS domain protein S-box
+	[988769:989935:rev] PAS domain protein S-box
+	[990063:990911:dir] PAS domain protein S-box
+	[990928:991740:rev] Methylase of chemotaxis methyl-accepting protein
+	[991731:992204:rev] Chemotaxis protein, stimulates methylation of MCP protein
+	[992204:992812:rev] Chemotaxis protein CheC, inhibitor of MCP methylation
+	[992805:994775:rev] and related kinases; Chemotaxis protein histidine kinase
+	[994765:995814:rev] containing a CheY-like receiver domain and a methylesterase domain; Chemotaxis response regulator
+	[995817:996182:rev] containing CheY-like receiver domain and AraC-type DNA-binding domain; Response regulator
+	[996187:996996:rev] Uncharacterized conserved protein; hypothetical protein
+	[997010:997486:rev] Chemotaxis signal transduction protein
+	[997506:1000011:rev] methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor; nonfunctional due to frameshift
+	[1000099:1000770:rev] His Kinase A (phosphoacceptor) domain protein
+	[1000767:1001411:rev] hypothetical protein
+	[1001425:1003050:rev] Archaeal flagella assembly protein J
+	[1003054:1004940:rev] and related ATPases involved in archaeal flagella biosynthesis; Type IV secretory pathway, VirB11 component
+	[1005043:1005777:rev] putative ATPase involved in biogenesis of archaeal flagella
+	[1005789:1006262:rev] hypothetical protein
+	[1006268:1006756:rev] Archaebacterial flagellin
+	[1006789:1007619:rev] hypothetical protein
+	[1007652:1008254:rev] archaeal flagellin N-terminal-like domain protein
+<END>
+<GI> CP006577:5 <COORDINATES> 1295865-1324058 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.567712; n0_4mer:D = 31.291774; n0_4mer:PS = 46.320994
+	[1295865:1296824:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[1296821:1297309:dir] chorismate lyase; 4-hydroxybenzoate synthetase (chorismate lyase)
+	[1297327:1298262:rev] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+	[1298259:1300679:rev] FOG; PKD repeat protein
+	[1300679:1302520:rev] FOG; WD40-like repeat protein
+	[1302606:1303172:rev] Uncharacterized conserved protein; adenosylcobinamide hydrolase; hypothetical protein
+	[1303147:1303548:rev] hypothetical protein
+	[1303490:1304365:rev] ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component
+	[1304362:1305210:rev] ABC-type Fe3+-siderophore transport system, permease component
+	[1305369:1306028:rev] ACT domain protein-containing protein
+	[1306028:1306261:rev] transcriptional regulator, AsnC family; Transcriptional regulator
+	[1306291:1306755:rev] arCOG04150; RNA-binding protein, containing PUA domain; universal archaeal PUA-domain protein
+	[1306788:1309115:rev] hypothetical protein
+	[1309208:1309672:rev] hypothetical protein
+	[1309651:1310067:rev] hypothetical protein
+	[1310102:1313002:rev] Adenine specific DNA methylase Mod
+	[1313100:1314056:rev] Transposase
+	[1314095:1314167:dir] tRNA-Gly
+	[1314218:1314451:rev] hypothetical protein
+	[1314458:1315507:rev] hypothetical protein
+	[1315657:1316802:rev] hypothetical protein
+	[1316799:1324058:rev] parallel beta-helix repeat protein (two copies)
+<END>
+<GI> CP006577:6 <COORDINATES> 1389520-1438673 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.846183; n0_4mer:D = 31.601637; n0_4mer:PS = 22.717325
+	[1389520:1392411:dir] hypothetical protein
+	[1392447:1393307:dir] hypothetical protein
+	[1393317:1393838:rev] hypothetical protein
+	[1394653:1394916:dir] hypothetical protein
+	[1394988:1396388:dir] RecA-superfamily ATPase implicated in signal transduction
+	[1396385:1397164:rev] hypothetical protein
+	[1397175:1397405:rev] hypothetical protein
+	[1397490:1397987:dir] Uncharacterized protein conserved in archaea; hypothetical protein
+	[1397995:1398717:rev] hypothetical protein
+	[1398864:1400363:dir] and related ATPases involved in archaeal flagella biosynthesis; Type IV secretory pathway, VirB11 component
+	[1400374:1401498:dir] Bacterial Ig-like domain protein (group 1)
+	[1401504:1403147:dir] Archaeal flagella assembly protein J
+	[1403158:1404675:dir] hypothetical protein
+	[1404776:1405015:dir] Uncharacterized conserved protein; hypothetical protein
+	[1405012:1405272:rev] putative periplasmic or secreted lipoprotein
+	[1405377:1406504:rev] DUF1614; hypothetical protein
+	[1406512:1407297:rev] hypothetical protein
+	[1407320:1407754:rev] hypothetical protein
+	[1408713:1409186:dir] hypothetical protein
+	[1409206:1410822:rev] Uncharacterized protein conserved in archaea; hypothetical protein
+	[1410905:1412164:dir] hypothetical protein
+	[1412246:1412932:dir] hypothetical protein
+	[1412987:1413178:rev] hypothetical protein
+	[1413299:1413544:dir] hypothetical protein
+	[1413616:1413849:rev] putative periplasmic or secreted lipoprotein
+	[1413842:1414084:rev] Uncharacterized conserved protein; hypothetical protein
+	[1414458:1414763:rev] hypothetical protein
+	[1416006:1416338:dir] putative nucleotidyltransferase
+	[1416354:1416566:dir] hypothetical protein
+	[1416608:1416835:dir] DUF2283; hypothetical protein
+	[1416902:1417504:dir] Uncharacterized conserved protein; containing a coiled-coil domain; hypothetical protein
+	[1417507:1417719:dir] DUF2283; hypothetical protein
+	[1417752:1418165:rev] contains PIN domain; putative nucleic acid-binding protein
+	[1418152:1418394:rev] hypothetical protein
+	[1418672:1418917:dir] YgiT-type zinc finger domain protein
+	[1419105:1419506:dir] hypothetical protein
+	[1419507:1420091:dir] UPF0079; Uncharacterized P-loop hydrolase
+	[1420137:1420589:dir] hypothetical protein
+	[1420638:1421042:dir] Nucleotidyltransferase domain protein
+	[1421032:1421457:dir] Uncharacterized conserved protein; hypothetical protein
+	[1421621:1421753:rev] HgcC family RNA
+	[1422000:1422281:dir] hypothetical protein
+	[1422374:1423336:dir] hypothetical protein
+	[1423360:1423632:dir] hypothetical protein
+	[1423672:1424778:dir] MoxR-like ATPase
+	[1424810:1425118:dir] hypothetical protein
+	[1425142:1426568:dir] von Willebrand factor A; nonfunctional due to frameshift
+	[1426635:1427078:dir] contains PIN domain; putative nucleic acid-binding protein
+	[1427071:1427268:dir] hypothetical protein
+	[1427397:1427618:dir] hypothetical protein
+	[1427652:1427900:dir] hypothetical protein
+	[1427855:1428244:dir] hypothetical protein
+	[1428358:1428717:dir] hypothetical protein
+	[1428689:1429270:dir] hypothetical protein
+	[1429358:1430470:dir] hypothetical protein
+	[1430517:1431920:dir] DUF2201; putative metallopeptidase
+	[1431951:1432601:rev] Uncharacterized protein conserved in archaea; hypothetical protein
+	[1432728:1433021:dir] hypothetical protein
+	[1433068:1433325:dir] hypothetical protein
+	[1433327:1433887:dir] putative membrane protein
+	[1433910:1434104:dir] DUF104; hypothetical protein
+	[1434106:1434381:dir] putative small protein
+	[1434372:1434836:dir] contains PIN domain; putative nucleic acid-binding protein
+	[1434973:1435479:dir] hypothetical protein
+	[1435532:1436206:dir] hypothetical protein
+	[1436286:1438673:dir] DNA topoisomerase VI, subunit B
+<END>
+<GI> CP006577:7 <COORDINATES> 1439688-1469398 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.873982; n0_4mer:D = 31.185149; n0_4mer:PS = 30.771105
+	[1439688:1440656:dir] hypothetical protein
+	[1440668:1441207:dir] hypothetical protein
+	[1441239:1441565:dir] thioredoxin
+	[1441598:1442329:dir] hypothetical protein
+	[1442426:1442908:dir] Intermediate filament tail domain protein
+	[1442898:1443095:dir] hypothetical protein
+	[1443437:1444204:dir] Acetyltransferase (GNAT) family
+	[1444224:1445462:rev] Transglutaminase-like enzyme, putative cysteine protease
+	[1445480:1446448:rev] hypothetical protein
+	[1446458:1449109:rev] containing piwi/argonaute domain; Uncharacterized protein
+	[1449211:1450140:rev] hypothetical protein
+	[1450172:1450591:rev] Uncharacterized conserved protein; hypothetical protein
+	[1450641:1451315:rev] hypothetical protein
+	[1451315:1452079:rev] Uncharacterized protein conserved in archaea; hypothetical protein
+	[1452087:1452227:rev] hypothetical protein
+	[1452508:1452882:rev] hypothetical protein
+	[1452888:1453142:rev] hypothetical protein
+	[1453404:1455206:rev] hypothetical protein
+	[1455224:1455808:rev] putative ATPase
+	[1455780:1456085:rev] hypothetical protein
+	[1456163:1456714:rev] putative membrane protein
+	[1456711:1457097:rev] hypothetical protein
+	[1457091:1457366:rev] hypothetical protein
+	[1457535:1458182:dir] Yip1 domain protein
+	[1458169:1458615:rev] contains PIN domain; putative nucleic acid-binding protein
+	[1458612:1458794:rev] Uncharacterized protein conserved in archaea; hypothetical protein
+	[1459004:1459234:rev] hypothetical protein
+	[1459239:1460258:rev] putative glutamine amidotransferase
+	[1460296:1462014:dir] Uncharacterized conserved protein; hypothetical protein
+	[1462085:1464766:rev] ATPase involved in DNA repair
+	[1464763:1465857:rev] DNA repair exonuclease
+	[1465859:1467427:rev] putative ATPase
+	[1467411:1468712:rev] NurA domain protein
+	[1468676:1469398:rev] Bacterial regulatory protein, arsR family
+<END>
+<GI> CP006577:8 <COORDINATES> 1856000-1893197 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.794046; n0_4mer:D = 29.640012; n0_4mer:PS = 47.883682
+	[1856410:1856482:rev] tRNA-Thr
+	[1856518:1857273:rev] daunorubicin resistance ABC transporter membrane protein
+	[1857276:1858244:rev] daunorubicin resistance ABC transporter ATP-binding protein subunit
+	[1858350:1858423:dir] tRNA-Lys
+	[1858447:1858677:dir] DNA-directed RNA polymerase, subunit H; DNA-directed RNA polymerase, subunit H, RpoH/RPB5
+	[1858710:1860248:dir] DNA-directed RNA polymerase, subunit B'; DNA-directed RNA polymerase, beta subunit/140 kD subunit
+	[1860249:1862063:dir] DNA-directed RNA polymerase, subunit B'; DNA-directed RNA polymerase subunit B
+	[1862075:1864678:dir] DNA-directed RNA polymerase, subunit A'; DNA-directed RNA polymerase subunit A'
+	[1864675:1865817:dir] DNA-directed RNA polymerase, subunit A'; DNA-directed RNA polymerase, subunit A''
+	[1865814:1866074:dir] LSU ribosomal protein L30E; Ribosomal protein L30E
+	[1866090:1866509:dir] NusA family KH domain protein, archaeal
+	[1866515:1866943:dir] SSU ribosomal protein S12P; ribosomal protein S23 (S12)
+	[1866948:1867532:dir] SSU ribosomal protein S7P; ribosomal protein S7(archaeal)
+	[1867538:1869724:dir] translation elongation factor 2 (EF-2/EF-G); translation elongation factor aEF-2
+	[1869741:1870370:dir] putative Fe-S-cluster oxidoreductase
+	[1870404:1871009:dir] Multimeric flavodoxin WrbA
+	[1871006:1872058:rev] Glycosyltransferase, probably involved in cell wall biogenesis
+	[1872147:1872500:dir] containing CheY-like receiver domain and AraC-type DNA-binding domain; Response regulator
+	[1872543:1873742:dir] DNA primase (bacterial type)
+	[1873723:1874265:rev] cytidylate kinase, putative
+	[1874267:1874953:rev] putative membrane protein
+	[1874950:1876422:rev] protein translocase subunit secY/sec61 alpha; preprotein translocase, SecY subunit
+	[1876446:1876976:rev] LSU ribosomal protein L15P; Ribosomal protein L15
+	[1876982:1877440:rev] LSU ribosomal protein L30P; 50S ribosomal protein L30P, archaeal
+	[1877446:1878042:rev] SSU ribosomal protein S5P; ribosomal protein S5(archaeal type)
+	[1878039:1878608:rev] LSU ribosomal protein L18P; Ribosomal protein L18
+	[1878608:1879048:rev] LSU ribosomal protein L19E; Ribosomal protein L19E
+	[1879054:1879443:rev] LSU ribosomal protein L32E; Ribosomal protein L32E
+	[1879454:1880011:rev] LSU ribosomal protein L6P; archaeal ribosomal protein L6P
+	[1879995:1880384:rev] SSU ribosomal protein S8P; Ribosomal protein S8
+	[1880390:1880545:rev] Ribosomal protein S14
+	[1880542:1881078:rev] LSU ribosomal protein L5P; Ribosomal protein L5
+	[1881082:1881780:rev] SSU ribosomal protein S4E; Ribosomal protein S4E
+	[1881786:1882148:rev] LSU ribosomal protein L24P; ribosomal protein L24p/L26e, archaeal/eukaryotic
+	[1882159:1882557:rev] LSU ribosomal protein L14P; 50S ribosomal protein L14P
+	[1882538:1882873:rev] SSU ribosomal protein S17P; archaeal ribosomal protein S17P
+	[1882870:1883178:rev] ribonuclease P protein subunit Rpp29; RNase P/RNase MRP subunit p29
+	[1883154:1883327:rev] LSU ribosomal protein L29P; ribosomal protein L29
+	[1883281:1883970:rev] SSU ribosomal protein S3P; ribosomal protein S3, eukaryotic/archaeal type
+	[1883970:1884437:rev] LSU ribosomal protein L22P; ribosomal protein L22(archaeal)
+	[1884437:1884838:rev] SSU ribosomal protein S19P; ribosomal protein S19(archaeal)
+	[1884843:1885556:rev] LSU ribosomal protein L2P; Ribosomal protein L2
+	[1885568:1885813:rev] LSU ribosomal protein L23P; archaeal ribosomal protein L23
+	[1885807:1886571:rev] LSU ribosomal protein L4P; 50S ribosomal protein L4P
+	[1886568:1887563:rev] LSU ribosomal protein L3P; archaeal ribosomal protein L3
+	[1887560:1888330:rev] Uncharacterized conserved protein; hypothetical protein
+	[1888388:1888984:rev] Outer membrane lipoprotein-sorting protein
+	[1889150:1889518:dir] formylmethanofuran dehydrogenase, subunit D; Formylmethanofuran dehydrogenase subunit D
+	[1889519:1890784:dir] formylmethanofuran dehydrogenase, subunit B; formylmethanofuran dehydrogenase subunit B
+	[1890791:1892479:dir] formylmethanofuran dehydrogenase, subunit A; formylmethanofuran dehydrogenase subunit A
+	[1892493:1893197:dir] formylmethanofuran dehydrogenase, subunit C; formylmethanofuran dehydrogenase subunit C
+<END>
+<GI> CP006577:9 <COORDINATES> 1940268-1965543 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.988630; n0_4mer:D = 36.650236; n0_4mer:PS = 30.303982
+	[1940268:1940738:dir] TIGR00270; transcriptional regulator, XRE family; hypothetical protein
+	[1940766:1941074:dir] involved in tolerance to divalent cations; Uncharacterized protein
+	[1941071:1941766:dir] putative nucleotidyltransferase
+	[1941763:1941876:rev] hypothetical protein
+	[1941869:1942525:rev] ABC-type transport system involved in cytochrome c biogenesis, permease component
+	[1942562:1943347:rev] ABC-type Mn2+/Zn2+ transport system, permease component
+	[1943340:1944102:rev] ABC-type Mn/Zn transport system, ATPase component; nonfunctional due to frameshift
+	[1944099:1945037:rev] ABC-type metal ion transport system, periplasmic component/surface adhesin
+	[1945034:1945453:rev] iron (metal) dependent repressor, DtxR family; Mn-dependent transcriptional regulator
+	[1945499:1946497:dir] ketol-acid reductoisomerase
+	[1946494:1947105:rev] hypothetical protein
+	[1947112:1947762:rev] hypothetical protein
+	[1947900:1950835:rev] 23S ribosomal RNA
+	[1950951:1951022:rev] tRNA-Ala
+	[1951165:1952544:rev] 16S ribosomal RNA
+	[1952862:1953389:rev] adenylyl cyclase CyaB, putative
+	[1953437:1954198:dir] FKBP-type peptidyl-prolyl cis-trans isomerase 2
+	[1954414:1956513:dir] hypothetical protein
+	[1956506:1956862:dir] hypothetical protein
+	[1956873:1957814:dir] hypothetical protein
+	[1957819:1958199:dir] hypothetical protein
+	[1958214:1958906:dir] hypothetical protein
+	[1958987:1960456:dir] Na+-dependent transporter of the SNF family
+	[1960881:1961102:rev] Uncharacterized conserved protein; hypothetical protein
+	[1961182:1962246:rev] Fe-S oxidoreductase
+	[1962345:1962752:rev] hypothetical protein
+	[1962749:1963966:rev] adenosylhomocysteinase
+	[1963970:1964506:rev] related to CMP and AMP kinases; putative nucleotide kinase
+	[1964500:1965543:rev] histidinol phosphate aminotransferase apoenzyme; histidinol-phosphate aminotransferase
+<END>

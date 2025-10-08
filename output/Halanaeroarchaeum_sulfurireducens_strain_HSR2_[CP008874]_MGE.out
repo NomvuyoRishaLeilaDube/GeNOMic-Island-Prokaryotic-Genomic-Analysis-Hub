@@ -1,0 +1,203 @@
+<GI> CP008874:1 <COORDINATES> 3826-28866 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.008685; n0_4mer:D = 33.206382; n0_4mer:PS = 31.561045
+	[3826:5322:dir] DNA polymerase II small subunit
+	[5362:5745:rev] hypothetical protein
+	[5888:7072:dir] lysC1; aspartate kinase
+	[7172:8509:dir] tnaA; tryptophanase
+	[8519:9163:rev] phosphodiesterase, MJ0936 family
+	[9233:9832:rev] purO; IMP cyclohydrolase
+	[9995:10067:dir] tRNA-Gln
+	[10287:10538:dir] hypothetical protein
+	[10539:10973:dir] PilT protein domain protein
+	[11053:11211:rev] IS1341-type transposase
+	[11448:12104:rev] hypothetical protein
+	[12160:12405:dir] D12 class N6 adenine-specific DNA methyltransferase
+	[12402:12680:dir] D12 class N6 adenine-specific DNA methyltransferase
+	[12991:13767:dir] hypothetical protein
+	[13817:14809:dir] DNA methylase N-4/N-6 domain-containing protein
+	[14889:15842:dir] hypothetical protein
+	[15901:16515:rev] tfb1; transcription initiation factor TFB
+	[17211:19265:rev] hypothetical protein
+	[19546:19743:rev] PhiH1 repressor-like protein
+	[20010:20675:rev] Phospholipid methyltransferase
+	[20791:21048:dir] cytotoxic translational repressor of toxin-antitoxin stability system
+	[21506:21694:dir] arsenical-resistance protein
+	[21780:23033:rev] IS1341-type transposase
+	[23316:23579:rev] hypothetical protein
+	[23557:24159:rev] hypothetical protein
+	[24235:24393:rev] serB; phosphoserine phosphatase SerB
+	[24494:24946:dir] hypothetical protein
+	[25122:26603:dir] htr9; methyl-accepting chemotaxis protein
+	[27189:27632:dir] uspA1; UspA domain-containing protein
+	[27805:28866:dir] TRAP transporter solute receptor, TAXI family
+<END>
+<GI> CP008874:2 <COORDINATES> 482538-501521 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.964707; n0_4mer:D = 27.602140; n0_4mer:PS = 24.576684
+	[482538:485201:dir] rpoA1; DNA-directed RNA polymerase subunit A'
+	[485204:485629:dir] nusA; transcription elongation factor NusA-like protein
+	[486011:486430:dir] uspA11; UspA domain-containing protein
+	[486471:487751:rev] pitA; putative phosphate permease
+	[488399:488797:rev] hypothetical protein
+	[489022:489321:rev] hypothetical protein
+	[489514:489756:rev] hypothetical protein
+	[490043:490561:dir] hypothetical protein
+	[490755:491516:dir] HtpX protease-like protein, transmembrane
+	[491615:491851:dir] hypothetical protein
+	[491880:492899:dir] hypothetical protein
+	[493173:494264:rev] hypothetical protein
+	[494402:494743:dir] hypothetical protein
+	[494884:495195:dir] multi-sensor signal transduction histidine kinase
+	[495583:496389:dir] potassium efflux system KefA protein / small-conductance mechanosensitive channel
+	[496485:496703:dir] hypothetical protein
+	[497096:497389:rev] hypothetical protein
+	[497452:498246:rev] ribonuclease BN
+	[498705:500024:dir] transposase, IS605 OrfB family
+	[500480:500908:dir] rps12p; 30S ribosomal protein S12P
+	[500910:501521:dir] rps7p; 30S ribosomal protein S7P
+<END>
+<GI> CP008874:3 <COORDINATES> 812000-834456 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.957382; n0_4mer:D = 25.428624; n0_4mer:PS = 27.159215
+	[812297:813310:dir] 3-oxoadipate CoA-transferase subunit alpha
+	[813321:814088:dir] 3-oxoadipate CoA-transferase subunit beta
+	[814176:815237:dir] hypothetical protein
+	[815433:817094:rev] PAS domain S-box
+	[817197:818135:rev] 4-hydroxybenzoate polyprenyltransferase
+	[818413:819651:dir] integrase family protein
+	[819871:820083:rev] hypothetical protein
+	[822726:823142:rev] hypothetical protein
+	[823151:823381:rev] hypothetical protein
+	[823420:823686:dir] transcription initiation factor IIB
+	[823699:824187:rev] hypothetical protein
+	[824205:824756:rev] hypothetical protein
+	[824893:825033:dir] hypothetical protein
+	[825094:825282:dir] hypothetical protein
+	[825370:825750:dir] hypothetical protein
+	[825819:826241:dir] hypothetical protein
+	[826377:827330:rev] hypothetical protein
+	[827323:828120:rev] hypothetical protein
+	[828120:828593:rev] hypothetical protein
+	[828775:830355:rev] hypothetical protein
+	[830352:830750:rev] hypothetical protein
+	[830750:831100:rev] hypothetical protein
+	[831546:832358:dir] CRISPR-associated protein Cas6
+	[832345:834456:dir] CRISPR-associated protein Cas8b/Csh1
+<END>
+<GI> CP008874:4 <COORDINATES> 894269-928525 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.973886; n0_4mer:D = 40.271658; n0_4mer:PS = 25.895266
+	[894269:895429:dir] group 1 glycosyl transferase
+	[895482:897032:dir] type I phosphodiesterase/nucleotide pyrophosphatase
+	[897034:897984:dir] polysaccharide deacetylase
+	[898484:898759:dir] group 1 glycosyl transferase
+	[899190:899966:rev] sulfatase
+	[900634:901863:rev] hypothetical protein
+	[901908:902999:dir] glycosyltransferase
+	[903032:903973:rev] hypothetical protein
+	[904042:904266:dir] glycosyl transferase family 1
+	[904335:905450:dir] hypothetical protein
+	[905734:906795:dir] rfbB1; dTDP-glucose 4,6-dehydratase
+	[906792:907751:dir] galE3; UDP-glucose 4-epimerase
+	[907755:908243:dir] GDP-mannose mannosyl hydrolase
+	[908373:909254:dir] galU; UTP-glucose-1-phosphate uridylyltransferase
+	[909247:910179:dir] rfbB2; dTDP-glucose 4-6-dehydratase
+	[910204:911124:rev] hypothetical protein
+	[911384:912538:rev] group 1 glycosyl transferase
+	[912589:913338:dir] hypothetical protein
+	[913355:914272:dir] hypothetical protein
+	[914318:915556:dir] group 1 glycosyl transferase
+	[915728:917626:rev] ABC transporter, ATP-binding/permease protein
+	[918022:918387:rev] hypothetical protein
+	[918613:919209:dir] hypothetical protein
+	[919216:919668:dir] hypothetical protein
+	[919681:919944:dir] hypothetical protein
+	[920146:920577:dir] PilT domain-containing protein
+	[920639:921214:rev] hypothetical protein
+	[921211:921681:rev] hypothetical protein
+	[921715:922047:rev] hypothetical protein
+	[922052:922282:rev] hypothetical protein
+	[922394:922972:dir] hypothetical protein
+	[922978:923484:dir] hypothetical protein
+	[923721:924125:dir] transposase IS200-family protein
+	[924127:925368:dir] transposase, IS605 OrfB family
+	[925402:925884:dir] arsR4; ArsR family transcriptional regulator
+	[925849:926424:rev] hypothetical protein
+	[926551:927948:dir] hypothetical protein
+	[927950:928525:dir] hypothetical protein
+<END>
+<GI> CP008874:5 <COORDINATES> 941210-961686 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.896736; n0_4mer:D = 30.126112; n0_4mer:PS = 27.316563
+	[941210:942691:rev] hypothetical protein
+	[943040:943432:dir] transposase IS200-family protein
+	[943434:944747:dir] IS1341-type transposase
+	[944801:946630:rev] putative cell surface glycoprotein
+	[946670:948610:rev] PAS/PAC sensor signal transduction histidine kinase
+	[948882:949799:rev] putative metal-dependent membrane protease
+	[949974:950330:rev] hypothetical protein
+	[950408:950746:rev] hypothetical protein
+	[950943:952400:rev] signal-transducing histidine kinase
+	[952531:953892:rev] transposase IS4 family protein
+	[953948:954280:rev] PAS domain S-box
+	[954964:956208:dir] nitrate/nitrite transporter
+	[956371:957780:rev] short chain fatty acids transporter
+	[958132:958878:rev] guaA2; GMP synthase - glutamine amidotransferase domain protein
+	[959071:960177:dir] glutamate--cysteine ligase
+	[960481:961686:dir] transposase, IS605 OrfB family
+<END>
+<GI> CP008874:6 <COORDINATES> 978465-1007959 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.079778; n0_4mer:D = 38.233008; n0_4mer:PS = 36.497636
+	[978465:979487:rev] hypothetical protein
+	[979584:981146:dir] sulfatase
+	[981148:981672:dir] putative membrane-associated protein
+	[981673:983049:rev] arylsulfotransferase
+	[983238:984638:rev] IS1341-type transposase
+	[984730:984936:rev] hypothetical protein
+	[985034:986653:rev] transposase IS4 family protein
+	[986686:987441:dir] hypothetical protein
+	[988014:988439:dir] hypothetical protein
+	[988429:989892:dir] hypothetical protein
+	[989884:990888:rev] orc1/cdc6 family replication initiation protein
+	[991096:993906:dir] ATPase AAA
+	[993899:994837:dir] PglZ domain protein
+	[994841:997381:dir] adenine-specific DNA methylase containing a Zn-ribbon
+	[997384:997773:dir] hypothetical protein
+	[997883:999004:dir] hypothetical protein
+	[999271:1000023:rev] fabG2; 3-oxoacyl-[acyl-carrier protein] reductase
+	[1000124:1001455:rev] hypothetical protein
+	[1001525:1002211:rev] cobO; ATP:corrinoid adenosyltransferase BtuR/CobO/CobP
+	[1002424:1003017:rev] pdxT; glutamine amidotransferase subunit PdxT
+	[1003043:1003951:rev] pdxS; pyridoxal biosynthesis lyase PdxS
+	[1004047:1004322:dir] hypothetical protein
+	[1004482:1005297:rev] nadC; nicotinate-nucleotide pyrophosphorylase
+	[1005294:1006805:rev] nadB; L-aspartate oxidase
+	[1006802:1007959:rev] nadA; quinolinate synthetase
+<END>
+<GI> CP008874:7 <COORDINATES> 1091855-1113780 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.367784; n0_4mer:D = 28.915184; n0_4mer:PS = 26.124753
+	[1091855:1092298:dir] uspA15; UspA domain-containing protein
+	[1092336:1093529:rev] hypothetical protein
+	[1093855:1094325:dir] phosphatidylethanolamine-binding protein
+	[1094322:1095398:rev] succinylglutamate desuccinylase/aspartoacylase
+	[1095464:1095811:rev] hypothetical protein
+	[1095842:1097068:rev] hypothetical protein
+	[1097105:1098133:dir] putative F420-dependent oxidoreductase
+	[1098166:1098645:dir] hypothetical protein
+	[1098802:1099164:rev] hypothetical protein
+	[1099313:1099663:rev] MazF family transcriptional regulator
+	[1099667:1099936:rev] AbrB family transcriptional regulator
+	[1100120:1100554:rev] hypothetical protein
+	[1101032:1102486:dir] hypothetical protein
+	[1102483:1103145:dir] ABC transporter ATP-binding protein
+	[1103142:1104290:dir] ABC transporter permease
+	[1105619:1107388:dir] PAS-PAC-PAC sensing his kinase
+	[1107494:1107703:rev] bacterio-opsin activator HTH domain protein
+	[1107857:1108222:dir] transposase IS4 family protein
+	[1108784:1109176:rev] hypothetical protein
+	[1109978:1111126:dir] hypothetical protein
+	[1111690:1111845:dir] periplasmic copper-binding protein
+	[1113595:1113780:dir] hypothetical protein
+<END>
+<GI> CP008874:8 <COORDINATES> 2077926-2190099 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.707169; n0_4mer:D = 36.466598; n0_4mer:PS = 19.047144
+	[2077926:2079017:dir] ABC transporter substrate-binding protein
+	[2079014:2080789:dir] binding-protein-dependent transport systems inner membrane component
+	[2080846:2081877:dir] ABC transporter
+	[2081890:2082609:rev] type 11 methyltransferase
+	[2082711:2083289:dir] hypothetical protein
+	[2083598:2084245:rev] Zn-ribbon containing protein (DUF2072)
+	[2084249:2084632:rev] hypothetical protein
+	[2084638:2085282:rev] GTP-binding protein
+<END>
+<GI> CP008874:9 <COORDINATES> 2201500-2259999 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.801018; n0_4mer:D = 35.724282; n0_4mer:PS = 22.379559
+
+<END>

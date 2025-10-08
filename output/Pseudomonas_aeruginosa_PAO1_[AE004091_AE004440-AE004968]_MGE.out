@@ -1,0 +1,527 @@
+<GI> AE004091 AE004440-AE004968:1 <COORDINATES> 42914-68135 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.984238; n0_4mer:D = 21.197106; n0_4mer:PS = 36.287408
+	[42914:53521:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable hemagglutinin
+	[56546:56941:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[57212:58594:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[58786:60159:dir] exoT; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); exoenzyme T
+	[60656:61342:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[61373:61726:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[61879:62388:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[62403:62786:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[63068:64729:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[65339:65479:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[66303:68135:dir] phzH; Product name confidence: Class 2 (High similarity to functionally studied protein); potential phenazine-modifying enzyme
+<END>
+<GI> AE004091 AE004440-AE004968:2 <COORDINATES> 692898-746956 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.653483; n0_4mer:D = 25.069052; n0_4mer:PS = 28.002905
+	[692898:693593:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable bacteriophage protein
+	[693596:694366:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[694421:695023:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable bacteriophage protein
+	[695082:698696:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable bacteriophage protein
+	[698932:699720:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[699744:700835:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[700835:701170:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[701151:701381:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[701477:702529:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[702529:702831:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[702828:703058:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[703477:704082:dir] trpG; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); anthranilate synthase component II
+	[704084:705133:dir] trpD; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); anthranilate phosphoribosyltransferase
+	[705130:705966:dir] trpC; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); indole-3-glycerol-phosphate synthase
+	[706028:706672:rev] vfr; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); transcriptional regulator Vfr
+	[706944:707366:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[707686:708480:dir] speD; Product name confidence: Class 2 (High similarity to functionally studied protein); S-adenosylmethionine decarboxylase proenzyme
+	[708535:709182:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[709282:709620:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable HIT family protein
+	[709699:711180:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable ATPase
+	[711220:712020:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable short-chain dehydrogenase
+	[712081:713157:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[713279:714247:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[714264:714686:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[714977:716011:dir] argC; Product name confidence: Class 2 (High similarity to functionally studied protein); N-acetyl-gamma-glutamyl-phosphate reductase
+	[716011:716730:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[716731:717153:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[717231:717581:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[717635:718726:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[718729:720072:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[720357:721556:dir] tyrZ; Product name confidence: Class 2 (High similarity to functionally studied protein); tyrosyl-tRNA synthetase 2
+	[722096:723631:dir] 16S ribosomal RNA
+	[723696:723772:dir] tRNA-Ile
+	[723801:723876:dir] tRNA-Ala
+	[724103:726993:dir] 23S ribosomal RNA
+	[727136:727255:dir] 5S ribosomal RNA
+	[727608:730703:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable DNA polymerase alpha chain
+	[730679:732094:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[732102:732653:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[732959:733555:dir] hemO; Product name confidence: Class 2 (High similarity to functionally studied protein); heme oxygenase
+	[733673:733993:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[734159:734875:dir] vreA; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; VreA
+	[734872:735417:dir] vreI; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; ECF sigma factor, VreI
+	[735487:736446:dir] vreR; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; sigma factor regulator, VreR
+	[736456:737097:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); HxcW putative pseudopilin
+	[737081:737530:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); HxcU putative pseudopilin
+	[737677:738108:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[738111:738485:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); HxcV putative pseudopilin
+	[738719:739168:dir] Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); HxcT pseudopilin
+	[739176:740141:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); HxcX atypical pseudopilin
+	[740203:741348:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable type II secretion system protein
+	[741335:741928:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable type II secretion system protein
+	[741925:744336:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable type II secretion system protein
+	[744333:745742:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable type II secretion system protein
+	[745742:746956:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable type II secretion system protein
+<END>
+<GI> AE004091 AE004440-AE004968:3 <COORDINATES> 776787-802239 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.666583; n0_4mer:D = 26.737293; n0_4mer:PS = 31.541804
+	[776787:778181:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable amidase
+	[778309:779208:rev] migA; Class 1: Function experimentally demonstrated in P. aeruginosa; alpha-1,6-rhamnosyltransferase MigA
+	[779463:780101:rev] cat; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); chloramphenicol acetyltransferase
+	[780194:780973:rev] toxR; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); transcriptional regulator ToxR
+	[781259:782113:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[782229:782525:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[782570:782965:dir] gloA2; Class 1: Function experimentally demonstrated in P. aeruginosa; lactoylglutathione lyase
+	[783009:783515:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[783576:783833:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[784173:784466:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[784698:785174:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[785498:785570:dir] phrD; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa.; PhrD
+	[785969:786925:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[786928:788253:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[789144:789356:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[789360:789650:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[789654:790031:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[790166:790600:dir] Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); helix destabilizing protein of bacteriophage Pf1
+	[790617:790709:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[790722:790973:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[790986:791234:dir] coaB; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); coat protein B of bacteriophage Pf1
+	[791370:792632:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable coat protein A of bacteriophage Pf1
+	[792637:792993:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[792997:794271:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein of bacteriophage Pf1
+	[794501:795793:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein from bacteriophage Pf1
+	[795793:796776:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable bacteriophage integrase
+	[797251:797598:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[797721:797794:rev] tRNA-Gly
+	[797925:798827:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transferase
+	[799279:800016:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[800096:801139:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[801275:801967:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable pseudouridylate synthase
+	[801967:802239:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:4 <COORDINATES> 891142-913571 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.051865; n0_4mer:D = 21.517645; n0_4mer:PS = 34.001976
+	[891142:892389:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[892386:892820:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[893041:893994:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[893967:894851:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[894952:895377:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable ring-cleaving dioxygenase
+	[895396:895668:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[895824:896117:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[896416:897228:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[897335:898423:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[898440:898886:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[898908:899141:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[899138:899656:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[899830:900165:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[900408:901046:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[901520:901872:rev] ssrA
+	[901746:901779:rev] Product name confidence: Class 2 (High similarity to functionally studied protein); tmRNA tag peptide
+	[901934:902812:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[902900:903583:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[903692:904633:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable hydrolase
+	[904768:905601:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[905726:906745:dir] oruR; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); transcriptional regulator OruR
+	[906847:907488:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[907594:908307:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[908377:909291:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[909418:911532:rev] pta; Class 1: Function experimentally demonstrated in P. aeruginosa; phosphate acetyltransferase
+	[911595:912779:rev] ackA; Class 2: Function of highly similar gene experimentally demonstrated in another organism (and gene context consistent in terms of pathways its involved in (if known).; acetate kinase
+	[912791:912861:dir] Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa.; P5
+	[913086:913571:dir] slyD; Product name confidence: Class 2 (High similarity to functionally studied protein); peptidyl-prolyl cis-trans isomerase SlyD
+<END>
+<GI> AE004091 AE004440-AE004968:5 <COORDINATES> 1053400-1091964 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.180234; n0_4mer:D = 27.014241; n0_4mer:PS = 32.008423
+	[1053400:1053846:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1053848:1054543:dir] tolQ; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); TolQ protein
+	[1054566:1055006:dir] tolR; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); TolR protein
+	[1055009:1056052:dir] tolA; Product name confidence: Class 2 (High similarity to functionally studied protein); TolA protein
+	[1056049:1057347:dir] tolB; Product name confidence: Class 2 (High similarity to functionally studied protein); TolB protein
+	[1057400:1057906:dir] oprL; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); Peptidoglycan associated lipoprotein OprL precursor
+	[1057916:1058740:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1058812:1059606:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable radical activating enzyme
+	[1059622:1060296:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1060356:1060431:dir] tRNA-Lys
+	[1060510:1060833:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1061207:1062034:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1062061:1062369:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1062601:1062885:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1062921:1063544:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1064555:1065103:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1065138:1065425:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1065970:1066296:dir] Product name confidence: Class 2 (High similarity to functionally studied protein); colicin immunity protein
+	[1066321:1067817:rev] pyoS5; Product name confidence: Class 2: Function of highly similar gene experimentally demonstrated in another organism (and gene context consistent in terms of pathways its involved in, if known).; pyocin S5
+	[1068193:1068456:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1068489:1069331:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1069769:1070173:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1070294:1070854:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1071239:1071877:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1072462:1072839:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1073285:1073902:dir] cupC1; Product name confidence: Class 2 (High similarity to functionally studied protein); fimbrial subunit CupC1
+	[1073960:1074673:dir] cupC2; Product name confidence: Class 2 (High similarity to functionally studied protein); chaperone CupC2
+	[1074784:1077303:dir] cupC3; Product name confidence: Class 2 (High similarity to functionally studied protein); usher CupC3
+	[1077383:1077904:rev] ogt; Product name confidence: Class 2 (High similarity to functionally studied protein); methylated-DNA--protein-cysteine methyltransferase
+	[1078462:1080015:dir] pqsA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); probable coenzyme A ligase
+	[1080009:1080860:dir] pqsB; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); PqsB
+	[1080853:1081899:dir] pqsC; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); PqsC
+	[1081942:1082955:dir] pqsD; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); 3-oxoacyl-[acyl-carrier-protein] synthase III
+	[1082949:1083854:dir] pqsE; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); Quinolone signal response protein
+	[1083972:1085564:dir] phnA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); anthranilate synthase component I
+	[1085542:1086144:dir] phnB; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); anthranilate synthase component II
+	[1086097:1087095:rev] mvfR; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); Transcriptional regulator MvfR
+	[1087843:1088901:dir] nadA; Class 2: Function of highly similar gene experimentally demonstrated in another organism (and gene context consistent in terms of pathways its involved in (if known).; quinolinate synthetase A
+	[1089010:1090443:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1090606:1090857:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1090891:1091964:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:6 <COORDINATES> 1236644-1263166 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.465331; n0_4mer:D = 25.851602; n0_4mer:PS = 32.980353
+	[1236644:1237546:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[1237551:1238732:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable iron-containing alcohol dehydrogenase
+	[1238834:1240324:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable amino acid permease
+	[1240584:1242500:rev] toxA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); exotoxin A precursor
+	[1242750:1243118:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1243594:1245663:dir] pys2; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); pyocin S2
+	[1245665:1245928:dir] imm2; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); pyocin S2 immunity protein
+	[1246444:1246788:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1247932:1248486:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1249019:1249552:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1249907:1251154:rev] nrdB; Product name confidence: Class 2 (High similarity to functionally studied protein); NrdB, tyrosyl radical-harboring component of class Ia ribonucleotide reductase
+	[1251418:1254309:rev] nrdA; Product name confidence: Class 2 (High similarity to functionally studied protein); NrdA, catalytic component of class Ia ribonucleotide reductase
+	[1255042:1255752:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable two-component response regulator
+	[1256094:1257452:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable two-component sensor
+	[1257772:1257981:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable cold-shock protein
+	[1258087:1258470:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1258488:1259291:rev] rrmA; Product name confidence: Class 2 (High similarity to functionally studied protein); rRNA methyltransferase
+	[1259291:1260442:rev] dapE; Product name confidence: Class 2 (High similarity to functionally studied protein); succinyl-diaminopimelate desuccinylase
+	[1260557:1263166:rev] ndvB; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; NdvB
+<END>
+<GI> AE004091 AE004440-AE004968:7 <COORDINATES> 1474000-1508720 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.177856; n0_4mer:D = 28.729317; n0_4mer:PS = 26.904065
+	[1474391:1474714:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1474727:1475467:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable sigma-70 factor, ECF subfamily
+	[1475464:1476306:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transmembrane sensor
+	[1476384:1478825:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable siderophore receptor
+	[1479021:1479791:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1480215:1481051:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1481334:1482758:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1483123:1483875:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1483898:1485763:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1486266:1486967:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1486960:1489095:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1489815:1491083:rev] fabF2; Product name confidence: Class 2 (High similarity to functionally studied protein); 3-oxoacyl-acyl carrier protein synthase II
+	[1491192:1491698:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1491913:1493055:dir] pdxB; Product name confidence: Class 2 (High similarity to functionally studied protein); erythronate-4-phosphate dehydrogenase
+	[1493090:1494823:rev] aceK; Product name confidence: Class 2 (High similarity to functionally studied protein); isocitrate dehydrogenase kinase/phosphatase
+	[1494959:1495492:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[1495635:1495997:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1496087:1496920:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable short-chain dehydrogenase
+	[1497012:1497977:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[1498338:1498829:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1498813:1501092:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable type II secretion system protein
+	[1501611:1503416:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[1503568:1504581:dir] galE; Product name confidence: Class 2 (High similarity to functionally studied protein); UDP-glucose 4-epimerase
+	[1504605:1505729:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable glycosyl transferase
+	[1505749:1507017:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable ATP-binding component of ABC transporter
+	[1507164:1508720:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:8 <COORDINATES> 2110000-2133367 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.880067; n0_4mer:D = 17.719480; n0_4mer:PS = 22.073334
+	[2110226:2111521:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable chemotaxis transducer
+	[2111691:2112203:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable ferredoxin
+	[2112200:2113189:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable hydroxylase molybdopterin-containing subunit
+	[2113186:2115390:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable hydroxylase large subunit
+	[2115885:2116265:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2117030:2117734:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2117897:2118097:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2118585:2118893:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2118926:2119747:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2120225:2122222:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2122579:2123718:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2123897:2125792:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2126104:2126334:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2126396:2127493:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2127684:2129171:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2129307:2130635:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[2130854:2131813:dir] rbsB; Product name confidence: Class 2 (High similarity to functionally studied protein); binding protein component precursor of ABC ribose transporter
+	[2131835:2133367:dir] rbsA; Product name confidence: Class 2 (High similarity to functionally studied protein); ribose transport protein RbsA
+<END>
+<GI> AE004091 AE004440-AE004968:9 <COORDINATES> 2222896-2241291 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.912799; n0_4mer:D = 20.266902; n0_4mer:PS = 29.869655
+	[2222896:2223804:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2223804:2224478:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2224486:2226144:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable decarboxylase
+	[2226879:2227400:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2227541:2229001:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2229126:2229440:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2229425:2230183:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2230689:2232065:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable glutamine synthetase
+	[2232222:2233592:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable amino acid permease
+	[2234080:2235309:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transporter (membrane subunit)
+	[2235430:2236332:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2236492:2238366:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2238541:2238801:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2238860:2239267:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2240302:2241291:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+<END>
+<GI> AE004091 AE004440-AE004968:10 <COORDINATES> 2306776-2326099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.893769; n0_4mer:D = 20.665126; n0_4mer:PS = 22.342855
+	[2306776:2307810:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[2307957:2309432:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable flavin-binding monooxygenase
+	[2309443:2310372:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable esterase/deacetylase
+	[2310357:2311112:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable short-chain dehydrogenase
+	[2311333:2312766:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[2312899:2313789:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2313791:2314249:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2314512:2315690:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable molybdopterin biosynthesis protein MoeB
+	[2315709:2316626:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable cysteine synthase
+	[2316708:2317403:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable acetyltransferase
+	[2317400:2318134:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2318226:2318624:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2318795:2320567:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable decarboxylase
+	[2320586:2321062:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2321130:2322071:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2322068:2322781:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2322778:2323521:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2323554:2324783:rev] opdO; Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); pyroglutatmate porin OpdO
+	[2324808:2326079:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable major facilitator superfamily (MFS) transporter
+<END>
+<GI> AE004091 AE004440-AE004968:11 <COORDINATES> 2436304-2465099 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.500029; n0_4mer:D = 34.701281; n0_4mer:PS = 28.206846
+	[2436304:2437299:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2437428:2439011:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable aldehyde dehydrogenase
+	[2439150:2440253:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2440347:2441555:rev] opdE; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); membrane protein OpdE
+	[2441771:2442691:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[2443161:2444366:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2444886:2445533:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2445545:2446564:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2446597:2447325:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2447573:2447989:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2448033:2448533:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2448568:2449545:rev] vqsM; Class 1: Function experimentally demonstrated in P. aeruginosa; AraC-type transcriptional regulator VqsM
+	[2449554:2450765:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2451707:2452426:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[2452469:2453140:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2453667:2455103:dir] pslA; Class 1: Function experimentally demonstrated in P. aeruginosa; PslA
+	[2455103:2456569:dir] pslB; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslB
+	[2456569:2457480:dir] pslC; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslC
+	[2457510:2458280:dir] pslD; Class 1: Function experimentally demonstrated in P. aeruginosa; PslD
+	[2458295:2460283:dir] pslE; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslE
+	[2460283:2461470:dir] pslF; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslF
+	[2461460:2462788:dir] pslG; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslG
+	[2462797:2464005:dir] pslH; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslH
+	[2463996:2465099:dir] pslI; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; PslI
+<END>
+<GI> AE004091 AE004440-AE004968:12 <COORDINATES> 2750128-2778804 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.614916; n0_4mer:D = 25.553693; n0_4mer:PS = 42.841815
+	[2750128:2751663:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[2751745:2752662:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2752866:2753465:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2753519:2754445:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2754602:2754823:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2754877:2755728:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2755725:2756252:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2756309:2756650:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2756918:2757898:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2758061:2759182:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2759482:2760087:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2760323:2760619:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2760872:2761351:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[2761921:2778804:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:13 <COORDINATES> 3079850-3106752 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.978392; n0_4mer:D = 22.061602; n0_4mer:PS = 33.056198
+	[3079850:3083482:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3083485:3086145:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3086142:3087491:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3088660:3089613:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3089644:3090108:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3090221:3093661:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3093658:3094185:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[3094757:3096052:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3096130:3098508:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable restriction-modification system protein
+	[3098626:3098979:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3099306:3099382:rev] tRNA-Pro
+	[3099473:3099730:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[3099810:3100112:rev] himA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); integration host factor, alpha subunit
+	[3100116:3102494:rev] pheT; Product name confidence: Class 2 (High similarity to functionally studied protein); phenylalanyl-tRNA synthetase, beta subunit
+	[3102529:3103545:rev] pheS; Product name confidence: Class 2 (High similarity to functionally studied protein); phenylalanyl-tRNA synthetase, alpha-subunit
+	[3103643:3103999:rev] rplT; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L20
+	[3104023:3104217:rev] rpmI; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L35
+	[3104279:3104830:rev] infC; Product name confidence: Class 2 (High similarity to functionally studied protein); translation initiation factor IF-3
+	[3104830:3106752:rev] thrS; Product name confidence: Class 2 (High similarity to functionally studied protein); threonyl-tRNA synthetase
+<END>
+<GI> AE004091 AE004440-AE004968:14 <COORDINATES> 3519000-3545074 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.251753; n0_4mer:D = 35.222532; n0_4mer:PS = 45.441405
+	[3519045:3520544:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable major facilitator superfamily (MFS) transporter
+	[3520548:3522560:rev] uvrB; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); excinuclease ABC subunit B
+	[3522748:3523944:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable amino acid aminotransferase
+	[3524012:3524087:dir] tRNA-Asn
+	[3524161:3524490:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3524681:3526678:rev] wbpM; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); nucleotide sugar epimerase/dehydratase WbpM
+	[3527429:3527734:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3527670:3528212:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3528231:3528350:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[3528428:3529447:rev] wbpL; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); glycosyltransferase WbpL
+	[3529508:3530458:rev] wbpK; Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable NAD-dependent epimerase/dehydratase WbpK
+	[3530467:3531708:rev] wbpJ; Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable glycosyl transferase WbpJ
+	[3531751:3532815:rev] wbpI; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; UDP-N-acetylglucosamine 2-epimerase WbpI
+	[3532812:3533933:rev] wbpH; Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable glycosyltransferase WbpH
+	[3533948:3535081:rev] wbpG; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); LPS biosynthesis protein WbpG
+	[3535216:3535971:rev] hisF2; Product name confidence: Class 2 (High similarity to functionally studied protein); imidazoleglycerol-phosphate synthase, cyclase subunit
+	[3535971:3536579:rev] hisH2; Product name confidence: Class 2 (High similarity to functionally studied protein); glutamine amidotransferase
+	[3536576:3537811:rev] wzx; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); O-antigen translocase
+	[3537808:3539124:rev] wzy; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); B-band O-antigen polymerase
+	[3539128:3540207:rev] wbpE; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; UDP-2-acetamido-2-dideoxy-d-ribo-hex-3-uluronic acid transaminase, wbpE
+	[3540210:3540785:rev] wbpD; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; UDP-2-acetamido-3-amino-2,3-dideoxy-d-glucuronic acid N-acetyltransferase, WbpD
+	[3540782:3542671:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable acetyltransferase
+	[3542740:3543690:rev] wbpB; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; UDP-2-acetamido-2-deoxy-d-glucuronic acid 3-dehydrogenase, WbpB
+	[3543764:3545074:rev] wbpA; Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa; UDP-N-acetyl-d-glucosamine 6-Dehydrogenase
+<END>
+<GI> AE004091 AE004440-AE004968:15 <COORDINATES> 4285477-4309811 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.790872; n0_4mer:D = 21.121577; n0_4mer:PS = 39.809457
+	[4285477:4286595:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[4286787:4287710:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4287794:4288606:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[4288943:4290430:dir] pepA; Product name confidence: Class 2 (High similarity to functionally studied protein); leucine aminopeptidase
+	[4290427:4290855:dir] holC; Product name confidence: Class 2 (High similarity to functionally studied protein); DNA polymerase III, chi subunit
+	[4290867:4291235:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4291356:4294208:dir] valS; Product name confidence: Class 2 (High similarity to functionally studied protein); valyl-tRNA synthetase
+	[4294255:4294605:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4297250:4298227:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4298311:4299201:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable permease of ABC transporter
+	[4299204:4299998:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable ATP-binding component of ABC transporter
+	[4300117:4301949:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable sodium:sulfate symporter
+	[4302041:4303051:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[4303141:4304502:rev] exoS; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); exoenzyme S
+	[4304690:4305040:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable chaperone
+	[4305064:4305426:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4305645:4306256:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4306380:4307276:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable transcriptional regulator
+	[4307266:4307808:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4307912:4308382:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[4308456:4309811:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:16 <COORDINATES> 4321434-4342046 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.873358; n0_4mer:D = 18.911114; n0_4mer:PS = 18.662444
+	[4321434:4322627:dir] rhl; Product name confidence: Class 2 (High similarity to functionally studied protein); ATP-dependent RNA helicase RhlB
+	[4322788:4323735:dir] dauB; Product name confidence: Class 4:Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences.; NAD(P)H-dependent anabolic L-arginine dehydrogenase, DauB
+	[4323758:4324885:dir] dauA; Product name confidence: Class 4:Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences.; FAD-dependent catabolic D-arginine dehydrogenase, DauA
+	[4324948:4325580:dir] dauR; Product name confidence: Class 4:Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences.; Transcriptional regulator of the dauBAR operon, DauR
+	[4325604:4326395:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable amino acid binding protein
+	[4327697:4329991:rev] Product name confidence: Class 2 (High similarity to functionally studied protein); pyocin protein
+	[4330321:4330896:dir] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable DNA invertase
+	[4331452:4332462:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4332653:4333036:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4333357:4334346:rev] moaA1; Product name confidence: Class 2 (High similarity to functionally studied protein); molybdopterin biosynthetic protein A1
+	[4334403:4335221:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable peptidyl-prolyl cis-trans isomerase, PpiC-type
+	[4335276:4335959:rev] narI; Product name confidence: Class 2 (High similarity to functionally studied protein); respiratory nitrate reductase gamma chain
+	[4335962:4336702:rev] narJ; Product name confidence: Class 2 (High similarity to functionally studied protein); respiratory nitrate reductase delta chain
+	[4336708:4338249:rev] narH; Product name confidence: Class 2 (High similarity to functionally studied protein); respiratory nitrate reductase beta chain
+	[4338261:4342046:rev] narG; Product name confidence: Class 2 (High similarity to functionally studied protein); respiratory nitrate reductase alpha chain
+<END>
+<GI> AE004091 AE004440-AE004968:17 <COORDINATES> 4747154-4791724 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.578383; n0_4mer:D = 24.702948; n0_4mer:PS = 33.481499
+	[4747154:4748542:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable major facilitator superfamily (MFS) transporter
+	[4748756:4751593:dir] uvrA; Product name confidence: Class 2 (High similarity to functionally studied protein); excinuclease ABC subunit A
+	[4751665:4752129:rev] bfrA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); bacterioferritin
+	[4752260:4753708:rev] katA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); catalase
+	[4753990:4754379:rev] rplQ; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L17
+	[4754423:4755424:rev] rpoA; Product name confidence: Class 2 (High similarity to functionally studied protein); DNA-directed RNA polymerase alpha chain
+	[4755447:4756067:rev] rpsD; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S4
+	[4756084:4756473:rev] rpsK; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S11
+	[4756492:4756848:rev] rpsM; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S13
+	[4756979:4757095:rev] rpmJ; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L36
+	[4757124:4758452:rev] secY; Product name confidence: Class 2 (High similarity to functionally studied protein); secretion protein SecY
+	[4758453:4758887:rev] rplO; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L15
+	[4758891:4759067:rev] rpmD; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L30
+	[4759070:4759570:rev] rpsE; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S5
+	[4759574:4759924:rev] rplR; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L18
+	[4759935:4760468:rev] rplF; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L6
+	[4760480:4760872:rev] rpsH; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S8
+	[4761062:4761367:rev] rpsN; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S14
+	[4761381:4761920:rev] rplE; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L5
+	[4761940:4762254:rev] rplX; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L24
+	[4762267:4762635:rev] rplN; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L14
+	[4762659:4762925:rev] rpsQ; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S17
+	[4762928:4763119:rev] rpmC; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L29
+	[4763119:4763532:rev] rplP; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L16
+	[4763544:4764230:rev] rpsC; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S3
+	[4764243:4764575:rev] rplV; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L22
+	[4764588:4764863:rev] rpsS; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S19
+	[4764880:4765701:rev] rplB; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L2
+	[4765713:4766012:rev] rplW; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L23
+	[4766009:4766611:rev] rplD; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L4
+	[4766625:4767260:rev] rplC; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L3
+	[4767343:4767654:rev] rpsJ; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S10
+	[4767811:4769004:rev] tufA; Product name confidence: Class 2 (High similarity to functionally studied protein); elongation factor Tu
+	[4769035:4771155:rev] fusA1; Product name confidence: Class 2 (High similarity to functionally studied protein); elongation factor G
+	[4771186:4771656:rev] rpsG; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S7
+	[4771756:4772127:rev] rpsL; Product name confidence: Class 2 (High similarity to functionally studied protein); 30S ribosomal protein S12
+	[4772279:4776478:rev] rpoC; Product name confidence: Class 2 (High similarity to functionally studied protein); DNA-directed RNA polymerase beta* chain
+	[4776544:4780617:rev] rpoB; Product name confidence: Class 2 (High similarity to functionally studied protein); DNA-directed RNA polymerase beta chain
+	[4780768:4780833:rev] Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa.; P26
+	[4780839:4781207:rev] rplL; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L7 / L12
+	[4781286:4781786:rev] rplJ; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L10
+	[4781786:4781978:dir] Product name confidence: Class 1: Function experimentally demonstrated in P. aeruginosa.; P27
+	[4781985:4782680:rev] rplA; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L1
+	[4782680:4783111:rev] rplK; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L11
+	[4783228:4783761:rev] nusG; Product name confidence: Class 2 (High similarity to functionally studied protein); transcription antitermination protein NusG
+	[4783771:4784139:rev] secE; Product name confidence: Class 2 (High similarity to functionally studied protein); secretion protein SecE
+	[4784184:4784259:rev] tRNA-Trp
+	[4784316:4785509:rev] tufB; Product name confidence: Class 2 (High similarity to functionally studied protein); elongation factor Tu
+	[4785593:4785668:rev] tRNA-Thr
+	[4785688:4785761:rev] tRNA-Gly
+	[4785788:4785872:rev] tRNA-Tyr
+	[4786021:4786725:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4786734:4787480:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[4787477:4788415:rev] birA; Product name confidence: Class 2 (High similarity to functionally studied protein); BirA bifunctional protein
+	[4788574:4788693:rev] 5S ribosomal RNA
+	[4788836:4791724:rev] 23S ribosomal RNA
+<END>
+<GI> AE004091 AE004440-AE004968:18 <COORDINATES> 5254738-5282099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.405178; n0_4mer:D = 28.682193; n0_4mer:PS = 36.510501
+	[5254738:5257584:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[5257696:5258703:dir] hitA; Product name confidence: Class 2 (High similarity to functionally studied protein); ferric iron-binding periplasmic protein HitA
+	[5258724:5260262:dir] hitB; Product name confidence: Class 2 (High similarity to functionally studied protein); iron (III)-transport system permease HitB
+	[5260343:5262649:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[5262642:5263905:rev] product name confidence: Class 4 (homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); this gene contains a frameshift that was confirmed in the final sequence assembly. Contains high homology to Escherichia coli PqiA
+	[5264100:5264219:rev] 5S ribosomal RNA
+	[5264362:5267252:rev] 23S ribosomal RNA
+	[5267479:5267554:rev] tRNA-Ala
+	[5267583:5267659:rev] tRNA-Ile
+	[5267724:5269259:rev] 16S ribosomal RNA
+	[5269803:5270411:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[5270411:5271424:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[5271485:5272300:rev] pssA; Product name confidence: Class 2 (High similarity to functionally studied protein); phosphatidylserine synthase
+	[5272455:5273471:rev] ilvC; Product name confidence: Class 2 (High similarity to functionally studied protein); ketol-acid reductoisomerase
+	[5273514:5274005:rev] ilvH; Product name confidence: Class 2 (High similarity to functionally studied protein); acetolactate synthase isozyme III small subunit
+	[5274008:5275732:rev] ilvI; Product name confidence: Class 2 (High similarity to functionally studied protein); acetolactate synthase large subunit
+	[5276283:5276735:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[5276843:5277172:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[5277172:5277951:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[5277968:5280292:rev] mrcB; Product name confidence: Class 2 (High similarity to functionally studied protein); penicillin-binding protein 1B
+	[5280505:5282067:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:19 <COORDINATES> 6031366-6056599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.359827; n0_4mer:D = 28.871291; n0_4mer:PS = 36.909084
+	[6031366:6032268:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable two-component response regulator
+	[6032387:6033115:rev] phoU; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); phosphate uptake regulatory protein PhoU
+	[6033211:6034044:rev] pstB; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); ATP-binding component of ABC phosphate transporter
+	[6034060:6035736:rev] pstA; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); membrane protein component of ABC phosphate transporter
+	[6035756:6037789:rev] pstC; Product name confidence: Class 1 (Function experimentally demonstrated in P. aeruginosa); membrane protein component of ABC phosphate transporter
+	[6038212:6039183:rev] pstS; Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); phosphate ABC transporter, periplasmic phosphate-binding protein, PstS
+	[6039584:6039703:rev] 5S ribosomal RNA
+	[6039846:6042736:rev] 23S ribosomal RNA
+	[6042963:6043038:rev] tRNA-Ala
+	[6043067:6043143:rev] tRNA-Ile
+	[6043208:6044743:rev] 16S ribosomal RNA
+	[6045310:6046626:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable major facilitator superfamily (MFS) transporter
+	[6046914:6047318:dir] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[6047364:6049049:rev] betA; Product name confidence: Class 2 (High similarity to functionally studied protein); choline dehydrogenase
+	[6049185:6050657:rev] betB; Product name confidence: Class 2 (High similarity to functionally studied protein); betaine aldehyde dehydrogenase
+	[6050718:6051311:rev] betI; Product name confidence: Class 2 (High similarity to functionally studied protein); transcriptional regulator BetI
+	[6051644:6053194:dir] betT1; Product name confidence: Class 2 (High similarity to functionally studied protein); choline transporter BetT
+	[6053412:6054590:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable ATP-binding component of ABC transporter
+	[6054594:6055433:rev] Product name confidence: Class 3 (Function proposed based on presence of conserved amino acid motif, structural feature or limited sequence similarity to an experimentally studied gene); probable permease of ABC transporter
+	[6055475:6056413:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+<END>
+<GI> AE004091 AE004440-AE004968:20 <COORDINATES> 6255854-6279999 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.462827; n0_4mer:D = 19.892996; n0_4mer:PS = 15.336825
+	[6255854:6256642:rev] soj; Product name confidence: Class 2 (High similarity to functionally studied protein); chromosome partitioning protein Soj
+	[6256661:6257305:rev] gidB; Product name confidence: Class 2 (High similarity to functionally studied protein); glucose inhibited division protein B
+	[6257305:6259197:rev] gidA; Product name confidence: Class 2 (High similarity to functionally studied protein); glucose-inhibited division protein A
+	[6259671:6260054:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); hypothetical protein
+	[6260390:6261757:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[6261828:6263564:rev] Product name confidence: Class 4 (Homologs of previously reported genes of unknown function, or no similarity to any previously reported sequences); conserved hypothetical protein
+	[6263805:6264212:rev] rnpA; Product name confidence: Class 2 (High similarity to functionally studied protein); ribonuclease P protein component
+	[6264227:6264361:rev] rpmH; Product name confidence: Class 2 (High similarity to functionally studied protein); 50S ribosomal protein L34
+<END>

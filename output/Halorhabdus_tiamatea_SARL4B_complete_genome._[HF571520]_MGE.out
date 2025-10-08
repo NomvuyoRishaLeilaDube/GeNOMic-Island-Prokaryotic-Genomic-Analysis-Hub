@@ -1,0 +1,237 @@
+<GI> HF571520:1 <COORDINATES> 59944-80099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.749282; n0_4mer:D = 31.062541; n0_4mer:PS = 26.804422
+	[59944:60792:dir] transcription initiation factor B
+	[61045:62190:rev] hypothetical protein
+	[63278:63391:rev] hypothetical protein
+	[63604:67206:dir] methyltransferase-endonuclease-like protein
+	[67233:67754:dir] TATA-box binding protein
+	[67985:68212:rev] hypothetical protein
+	[68251:68397:rev] hypothetical protein
+	[68603:68974:rev] hypothetical protein
+	[70711:70875:dir] hypothetical protein
+	[70875:71186:dir] hypothetical protein
+	[71183:71911:dir] resolvase domain protein
+	[71958:72191:rev] hypothetical protein
+	[72434:73051:dir] hypothetical protein
+	[73792:73917:rev] hypothetical protein
+	[75264:75416:rev] hypothetical protein
+	[76121:76237:rev] hypothetical protein
+	[77126:77293:rev] hypothetical protein
+	[77567:77962:rev] hypothetical protein
+	[79184:79645:dir] resolvase
+<END>
+<GI> HF571520:2 <COORDINATES> 100000-122392 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.006380; n0_4mer:D = 29.772617; n0_4mer:PS = 22.834694
+	[100078:100359:rev] transcriptional regulator, PadR family
+	[100505:101956:dir] mercuric ion reductase
+	[102064:102336:rev] hypothetical protein
+	[102811:103566:rev] xylose isomerase TIM barrel-like domain protein
+	[103584:104750:rev] phnM; metal-dependent hydrolase involved in phosphonate metabolism, PhnM protein
+	[104747:105475:rev] phnL; phosphonates transport ATP-binding protein PhnL
+	[105478:106308:rev] phnK; phosphonates transport ATP-binding protein PhnK
+	[106305:107312:rev] phnJ; phosphonate metabolism protein PhnJ
+	[107305:108435:rev] phnI; phosphonate metabolism protein PhnI
+	[108437:108988:rev] phnH; phosphonate metabolism protein PhnH
+	[108985:109428:rev] phosphonate metabolism protein PhnG
+	[109822:110766:dir] ABC-type phosphate/phosphonate transport system, substrate-binding protein
+	[110777:111556:dir] phosphonate ABC transporter, ATP-binding protein (TC 3.A.1.9.1)
+	[111553:112518:dir] phnE; phosphonate ABC transporter, permease protein PhnE (TC 3.A.1.9.1)
+	[113588:114610:dir] phoU; phosphate uptake regulator PhoU / ABC transport system regulatory protein
+	[115023:116603:dir] multi-sensor signal transduction histidine kinase
+	[116769:117980:dir] transposase (IS4-like)
+	[118002:118235:dir] signal transduction histidine kinase
+	[118232:120403:rev] PAS/PAC sensor signal transduction histidine kinase
+	[120354:121484:rev] hypothetical protein
+	[121446:121727:dir] major facilitator superfamily MFS_1
+	[122018:122392:rev] conserved hypothetical protein
+<END>
+<GI> HF571520:3 <COORDINATES> 955000-993515 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.995730; n0_4mer:D = 47.649110; n0_4mer:PS = 29.680113
+	[955538:958522:dir] hypothetical membrane protein
+	[958641:960086:rev] sulfatase
+	[960083:961699:rev] type I phosphodiesterase/nucleotide pyrophosphatase family protein
+	[962965:964305:rev] transposase (ISH6)
+	[964432:965544:dir] O-antigen ligase-like membrane protein
+	[968000:969616:dir] conserved hypothetical protein
+	[969695:971134:dir] sulfatase
+	[977033:978106:rev] neuB; N-acetyl neuramic acid synthetase NeuB
+	[978093:979733:rev] N-acetylneuraminate cytidylyltransferase
+	[979808:981616:rev] ABC transporter, ATP-binding/permease protein
+	[981853:983061:rev] orc1/cdc6 family replication initiation protein
+	[983649:984773:rev] glycosyltransferase
+	[984805:985104:dir] transcriptional regulator-like protein (DUF433)
+	[985111:985434:dir] hypothetical protein
+	[985734:986258:dir] transcriptional regulator
+	[986255:986848:dir] conserved hypothetical protein
+	[986990:988390:dir] transposase (IS891/IS1136/IS1341/IS605)
+	[988446:988862:rev] stbB; plasmid stability protein StbB
+	[988866:989111:rev] conserved hypothetical protein
+	[989853:990221:dir] transcriptional regulator-like protein
+	[990237:990797:dir] conserved hypothetical protein
+	[990852:992300:rev] conserved hypothetical protein (UPF0027)
+	[992364:992606:rev] hypothetical protein
+	[992792:993235:rev] hypothetical protein (DUF433)
+	[993228:993515:rev] hypothetical protein
+<END>
+<GI> HF571520:4 <COORDINATES> 1031597-1054099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.070523; n0_4mer:D = 29.988448; n0_4mer:PS = 27.165306
+	[1031597:1032514:rev] binding-protein-dependent transport systems inner membrane component
+	[1034611:1035495:rev] transposase (IS4-like)
+	[1035828:1035950:rev] hypothetical protein
+	[1036112:1037452:rev] transposase (ISH6)
+	[1038116:1039726:rev] extracellular solute-binding protein, family 5
+	[1040440:1042602:rev] beta-fructosidase, family GH32
+	[1042785:1043021:dir] conserved hypothetical protein
+	[1043006:1043161:rev] hypothetical protein
+	[1043703:1046033:dir] archaeal sugar-specific transcriptional regulator, TrmB family
+	[1046490:1046972:dir] conserved hypothetical protein
+	[1047017:1048951:dir] conserved hypothetical protein
+	[1049696:1050616:dir] sugar kinase
+	[1050613:1051416:rev] BtpA family protein
+	[1051627:1052112:rev] universal stress protein A (UpsA) domain protein
+	[1052251:1054017:rev] beta-glucuronidase, family GH2
+<END>
+<GI> HF571520:5 <COORDINATES> 1742478-1769985 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.423590; n0_4mer:D = 33.694066; n0_4mer:PS = 25.974540
+	[1742478:1744763:rev] replication factor C small subunit
+	[1745000:1745200:dir] conserved hypothetical protein
+	[1745200:1745592:dir] GCN5-related N-acetyltransferase
+	[1745651:1745725:dir] tRNA-Met
+	[1746003:1747448:rev] transposase (IS66)
+	[1748283:1748690:rev] membrane-bound metal-dependent hydrolase (DUF457)
+	[1748786:1749736:rev] ADP-ribosylglycohydrolase
+	[1750587:1750793:dir] hypothetical protein
+	[1752535:1754154:rev] conserved hypothetical protein
+	[1754151:1754297:rev] hypothetical protein
+	[1756609:1757487:rev] restriction endonuclease
+	[1757653:1757766:rev] hypothetical protein
+	[1760274:1761017:dir] hypothetical protein
+	[1761024:1762823:dir] hypothetical membrane protein
+	[1762867:1763022:rev] hypothetical protein
+	[1763492:1767100:rev] DEAD/H helicase-like protein
+	[1767130:1769985:rev] conserved hypothetical protein
+<END>
+<GI> HF571520:6 <COORDINATES> 1785894-1810624 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.688066; n0_4mer:D = 31.216561; n0_4mer:PS = 31.051285
+	[1785894:1789529:dir] putative helicase
+	[1790286:1790786:rev] archaeal sugar-specific transcriptional regulator, TrmB family
+	[1790959:1791375:rev] conserved hypothetical protein
+	[1791387:1791797:rev] conserved hypothetical protein
+	[1792987:1794105:dir] conserved hypothetical protein
+	[1798122:1798241:rev] hypothetical protein
+	[1798640:1799767:dir] phage integrase/site-specific recombinase
+	[1802204:1803214:rev] phage integrase/site-specific recombinase
+	[1803887:1804291:dir] conserved hypothetical protein
+	[1804975:1806057:dir] conserved hypothetical protein
+	[1808149:1808286:rev] hypothetical protein
+	[1808422:1808826:dir] conserved hypothetical protein (DUF1628)
+	[1808823:1809353:dir] conserved hypothetical protein (DUF1628)
+	[1809559:1809681:rev] hypothetical protein
+	[1809782:1810624:rev] archaeal sugar-specific transcriptional regulator, TrmB family
+<END>
+<GI> HF571520:7 <COORDINATES> 1817000-1842591 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.459023; n0_4mer:D = 31.302691; n0_4mer:PS = 36.472165
+	[1817043:1818608:rev] conserved hypothetical protein
+	[1818746:1819756:rev] orc1/cdc6 family replication initiation protein
+	[1819763:1819888:dir] hypothetical protein
+	[1820005:1820310:dir] conserved hypothetical protein
+	[1820332:1820736:dir] conserved hypothetical protein
+	[1821018:1822913:dir] SMC domain protein
+	[1822918:1824867:dir] heat shock protein G homolog
+	[1824990:1826330:dir] transposase (ISH6)
+	[1826502:1827749:dir] DNA-cytosine methyltransferase
+	[1827873:1828838:dir] ATPase associated with various cellular activities AAA_3
+	[1828895:1829797:dir] conserved hypothetical protein
+	[1829794:1831752:dir] conserved repeat domain protein
+	[1831836:1832252:dir] hypothetical membrane protein
+	[1832342:1833046:dir] conserved hypothetical protein (DUF502)
+	[1833145:1834305:dir] conserved hypothetical protein
+	[1834302:1835603:dir] ABC-type iron transporter, substrate-binding protein
+	[1835600:1837237:dir] ABC-type iron transporter, permease protein
+	[1837234:1838367:dir] ABC-type iron transporter, ATP-binding protein
+	[1838367:1840388:dir] conserved hypothetical membrane protein, putative glycosyltransferase
+	[1840385:1840933:dir] gluconate 2-dehydrogenase subunit 3
+	[1840930:1842591:dir] glucose-methanol-choline oxidoreductase
+<END>
+<GI> HF571520:8 <COORDINATES> 2197290-2216996 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.303980; n0_4mer:D = 31.961333; n0_4mer:PS = 28.452004
+	[2197290:2197541:rev] hypothetical protein
+	[2197538:2198014:rev] hypothetical protein
+	[2198030:2198314:dir] hypothetical protein
+	[2198311:2198856:rev] hypothetical protein
+	[2199195:2199476:dir] hypothetical protein
+	[2199717:2199866:dir] hypothetical protein
+	[2199871:2200035:dir] hypothetical protein
+	[2200039:2200194:dir] hypothetical protein
+	[2200191:2200415:dir] hypothetical protein
+	[2200649:2201935:dir] conserved hypothetical protein
+	[2202438:2205434:rev] tetratricopeptide repeat-containing hypothetical protein
+	[2206339:2207478:rev] hypothetical protein
+	[2208860:2210287:rev] pentapeptide repeat-containing hypothetical protein
+	[2210406:2211746:dir] transposase (ISH6)
+	[2212252:2212452:dir] hypothetical protein
+	[2212572:2212925:rev] hypothetical protein
+	[2213104:2214468:dir] hypothetical protein
+	[2214621:2215079:dir] hypothetical protein
+	[2215406:2215543:dir] hypothetical protein
+	[2215544:2215885:rev] hypothetical protein
+	[2216304:2216522:dir] hypothetical protein
+	[2216547:2216996:dir] conserved hypothetical protein, putative transcriptional regulator
+<END>
+<GI> HF571520:9 <COORDINATES> 2661847-2683209 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.707419; n0_4mer:D = 35.361659; n0_4mer:PS = 28.510375
+	[2661847:2663118:rev] replication factor A
+	[2663228:2663890:dir] 5-amino-6-(5-phosphoribosylamino)uracil reductase
+	[2663919:2664212:rev] conserved hypothetical protein
+	[2664236:2664370:rev] hypothetical protein
+	[2664342:2664668:dir] ferredoxin
+	[2664743:2665702:dir] succinoglycan biosynthesis protein
+	[2665716:2666837:dir] glycosyltransferase
+	[2667330:2668118:dir] transposase (IS4-like)
+	[2668599:2669816:dir] glycosyltransferase
+	[2669901:2671043:dir] glycosyltransferase
+	[2671350:2672516:dir] glycosyltransferase
+	[2672598:2674142:dir] polysaccharide biosynthesis transport protein
+	[2674192:2675139:dir] glycosyltransferase
+	[2675165:2675488:rev] conserved hypothetical protein
+	[2675631:2677358:dir] rhomboid family protein
+	[2677392:2678012:rev] RNA methylase-like protein
+	[2678458:2679372:dir] conserved hypothetical membrane protein
+	[2679384:2680091:rev] ribonuclease P protein component 3
+	[2680091:2680522:rev] conserved hypothetical protein (DUF54)
+	[2680527:2680769:rev] hypothetical protein
+	[2680951:2681511:dir] NUDIX hydrolase family protein
+	[2681837:2682295:rev] aspartate carbamoyltransferase regulatory subunit
+	[2682292:2683209:rev] aspartate carbamoyltransferase catalytic subunit
+<END>
+<GI> HF571520:10 <COORDINATES> 2742234-2766587 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.852070; n0_4mer:D = 39.624645; n0_4mer:PS = 31.324867
+	[2742234:2743394:rev] quinoprotein (ISS)
+	[2744221:2745519:rev] glutamyl-tRNA reductase
+	[2745662:2746060:rev] conserved hypothetical protein
+	[2746208:2746402:rev] cold shock protein, DNA-binding
+	[2746405:2746599:rev] cold shock protein, DNA-binding
+	[2746708:2747637:dir] undecaprenyl pyrophosphate synthetase
+	[2747694:2748833:rev] aldo/keto reductase family oxidoreductase
+	[2748949:2749110:rev] hypothetical protein
+	[2756823:2756907:dir] tRNA-Leu
+	[2757450:2759279:rev] succinate dehydrogenase flavoprotein subunit
+	[2759284:2760219:rev] succinate dehydrogenase iron-sulfur protein
+	[2760216:2760584:rev] succinate dehydrogenase hydrophobic membrane anchor protein
+	[2760588:2760977:rev] succinate dehydrogenase cytochrome b556 subunit
+	[2761069:2763297:rev] beta-glucosidase, family GH3
+	[2763550:2763801:dir] hypothetical protein (UPF0150)
+	[2763849:2764043:dir] hypothetical protein (UPF0395)
+	[2764392:2764475:rev] tRNA-Leu
+	[2764598:2765080:dir] conserved hypothetical protein (DUF309)
+	[2765088:2765360:rev] conserved hypothetical protein
+	[2765823:2766587:rev] CBS/parB domain-containing protein
+<END>
+<GI> HF571520:11 <COORDINATES> 2809985-2980099 <STAT> n1_4mer:GRV/n1_4mer:RV = 7.996393; n0_4mer:D = 41.132043; n0_4mer:PS = 5.682329
+	[2809985:2810419:rev] conserved hypothetical protein
+	[2810536:2811285:dir] thymidylate synthase thyX
+	[2811389:2812492:dir] conserved hypothetical protein
+	[2812485:2812700:rev] hypothetical protein
+	[2812881:2814818:dir] conserved hypothetical protein, putative restriction endonuclease
+	[2814908:2815369:dir] methylated-DNA--protein-cysteine methyltransferase
+	[2815447:2815716:rev] hypothetical protein
+<END>
+<GI> HF571520:12 <COORDINATES> 2991000-3008599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.166111; n0_4mer:D = 30.939932; n0_4mer:PS = 21.031794
+
+<END>
+<GI> HF571520:13 <COORDINATES> 3099000-3124599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.797713; n0_4mer:D = 30.638983; n0_4mer:PS = 17.596540
+
+<END>
+<GI> HF571520:14 <COORDINATES> 3218000-3240099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.332294; n0_4mer:D = 28.985287; n0_4mer:PS = 23.845779
+
+<END>

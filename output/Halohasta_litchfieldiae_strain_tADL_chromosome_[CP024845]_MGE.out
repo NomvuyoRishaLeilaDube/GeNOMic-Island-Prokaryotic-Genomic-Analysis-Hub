@@ -1,0 +1,575 @@
+<GI> CP024845:1 <COORDINATES> 179672-225176 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.371447; n0_4mer:D = 55.169941; n0_4mer:PS = 26.316376
+	[179672:181135:dir] PFAM: Uncharacterised protein family UPF0027; tRNA-splicing ligase RtcB
+	[181151:182254:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[182366:183718:rev] PFAM: Sulfatase; arylsulfatase A-like enzyme
+	[183831:184811:dir] SPTR: Putative uncharacterized protein; UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase
+	[184875:185948:dir] PFAM: Glycosyl transferase; group 1; glycosyltransferase involved in cell wall biosynthesis
+	[185961:186338:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[186583:186939:dir] hypothetical protein
+	[187185:187730:rev] post-segregation antitoxin CcdA
+	[188056:189459:rev] SMART: HNH nuclease; HNH endonuclease
+	[189653:190678:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[190845:191198:rev] hypothetical protein
+	[191331:192395:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[192439:193575:dir] hypothetical protein
+	[193786:194145:rev] PFAM: Resolvase; N-terminal; resolvase-like protein
+	[195243:195641:dir] hypothetical protein
+	[195755:195898:dir] hypothetical protein
+	[196134:196685:dir] PFAM: Protein of unknown function DUF262; uncharacterized protein DUF262
+	[196813:198525:dir] InterPro IPR006311; hypothetical protein
+	[198613:199875:dir] PFAM: Protein of unknown function DUF1524 RloF; Protein of unknown function DUF262; uncharacterized protein DUF1524
+	[199892:200080:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[200147:200938:rev] SPTR: Endonuclease; hypothetical protein
+	[201041:201382:rev] manually curated; hypothetical protein
+	[201524:202918:dir] PFAM: DNA methylase N-4/N-6; DNA methylase
+	[203045:203353:dir] hypothetical protein
+	[203430:203882:rev] PFAM: Transcriptional regulator PadR N-terminal-like; PadR family transcriptional regulator
+	[203956:204156:dir] hypothetical protein
+	[204178:204576:rev] manually curated; Predicted transcriptional regulators
+	[204775:205557:dir] SPTR: Conserved protein; hypothetical protein
+	[205557:206495:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[206614:207612:dir] PFAM: Transposase; IS4-like; DDE family transposase
+	[207750:208112:dir] hypothetical protein
+	[208167:208673:rev] hypothetical protein
+	[209085:209669:dir] hypothetical protein
+	[210179:210760:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[210996:211607:dir] hypothetical protein
+	[211941:212975:rev] PFAM: Integrase; catalytic core; phage; site-specific recombinase XerD
+	[212972:213556:rev] hypothetical protein
+	[213811:215475:rev] PFAM: HEAT; HEAT repeat protein
+	[215603:216451:dir] PFAM: Initiation factor 2B related; translation initiation factor eIF-2B subunit delta
+	[216455:216637:rev] hypothetical protein
+	[217139:218275:rev] PFAM: Oxidoreductase; N-terminal; Oxidoreductase; C-terminal; putative dehydrogenase
+	[218282:218371:rev] manually curated; hypothetical protein
+	[218456:219472:rev] PFAM: Short-chain dehydrogenase/reductase SDR; NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+	[219482:220822:rev] PFAM: Vitamin K epoxide reductase; vitamin K epoxide reductase family protein
+	[220832:222802:rev] PFAM: Glycoside hydrolase 15-related; GH15 family glucan-1,4-alpha-glucosidase
+	[222911:223465:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[223499:224149:rev] KEGG: hmu:Hmuk_0423 protein of unknown function DUF1508; hypothetical protein
+	[224274:225176:dir] PFAM: NAD-dependent epimerase/dehydratase; dTDP-glucose 4,6-dehydratase
+<END>
+<GI> CP024845:2 <COORDINATES> 389280-408749 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.926391; n0_4mer:D = 34.705334; n0_4mer:PS = 26.026313
+	[389280:390407:rev] PFAM: Aminotransferase; class I/II; aspartate aminotransferase
+	[390669:391631:rev] PFAM: Pyrrolo-quinoline quinone repeat; outer membrane protein assembly factor BamB
+	[391832:392998:rev] SPTR: Transposase (ISH3); IS4 transposase
+	[393003:393677:rev] PFAM: UDP-glucose/GDP-mannose dehydrogenase; N-terminal; UDP-N-acetyl-D-galactosamine dehydrogenase
+	[393952:395022:rev] PFAM: Protein of unknown function DUF1616; putative membrane protein
+	[395127:397808:rev] 
+	[395943:397280:dir] SPTR: Transposase (ISH6); hypothetical protein
+	[398224:398841:dir] SPTR: Vng6082h; putative transcriptional regulators
+	[398842:399417:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[399660:399833:dir] hypothetical protein
+	[399889:400899:rev] PFAM: Integrase; catalytic core; phage; site-specific recombinase XerC
+	[401077:401451:rev] hypothetical protein
+	[401707:401865:dir] hypothetical protein
+	[402014:404266:rev] PFAM: Malic enzyme; NAD-binding; Malic enzyme; N-terminal; Phosphate acetyl/butaryl transferase; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)
+	[404630:406774:rev] TIGRFAM: Catalase-peroxidase haem; catalase-peroxidase
+	[407143:407409:dir] PFAM: ThiamineS; molybdopterin converting factor small subunit
+	[407445:408749:rev] PFAM: Acetamidase/Formamidase; acetamidase/formamidase
+<END>
+<GI> CP024845:3 <COORDINATES> 476691-503515 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.827266; n0_4mer:D = 34.184926; n0_4mer:PS = 31.454393
+	[476691:478358:rev] PFAM: ATP-binding region; ATPase-like; histidine kinase/DNA gyrase B/HSP90-like ATPase
+	[478475:479812:dir] SPTR: Transposase (ISH6); hypothetical protein
+	[480270:480806:dir] SPTR: Putative uncharacterized protein; HPP family protein
+	[480855:481385:rev] SPTR: PNRC100 replication protein H-like protein; hypothetical protein
+	[481545:482360:dir] TIGRFAM: Ribonuclease BN; membrane protein
+	[482465:483259:dir] PFAM: HTH transcriptional regulator; GntR; putative transcriptional regulator
+	[483561:483971:dir] TIGRFAM: Methionine sulphoxide reductase B; peptide-methionine (R)-S-oxide reductase
+	[483998:484627:dir] PFAM: Peptide methionine sulphoxide reductase MsrA; peptide-methionine (S)-S-oxide reductase
+	[484829:485023:dir] hypothetical protein
+	[485368:485604:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[486047:488014:dir] PFAM: 3-hydroxyacyl-CoA dehydrogenase; NAD binding; 3-hydroxyacyl-CoA dehydrogenase; C-terminal; Crotonase; core; 3-hydroxyacyl-CoA dehydrogenase /enoyl-CoA hydratase
+	[488137:488211:dir] tRNA-Glu
+	[488398:489501:dir] PFAM: Integrase; catalytic core; phage; site-specific recombinase XerD
+	[489505:490611:rev] PFAM: Integrase; catalytic core; phage; site-specific recombinase XerD
+	[490911:491465:rev] PFAM: DNA N-6-adenine-methyltransferase; ParB family chromosome partitioning protein
+	[492281:492832:dir] hypothetical protein
+	[493353:493424:dir] manually curated; transcription initiation factor TFIID TATA-box-binding protein
+	[493542:494708:rev] SPTR: Transposase (ISH3); IS4 transposase
+	[494755:494937:dir] manually curated; hypothetical protein
+	[495001:495549:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[495675:496088:dir] SPTR: Putative uncharacterized protein; DNA-binding MarR family transcriptional regulator
+	[496167:496532:dir] SPTR: Vng6365h; hypothetical protein
+	[496623:496751:dir] hypothetical protein
+	[496825:498285:dir] TIGRFAM: Cell division control protein 6 related; archaea; cell division control protein 6
+	[498934:499660:rev] 
+	[499667:499823:dir] 
+	[499898:503515:rev] SPTR: Periplasmic copper-binding protein; hypothetical protein
+<END>
+<GI> CP024845:4 <COORDINATES> 504900-527603 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.661869; n0_4mer:D = 32.815075; n0_4mer:PS = 26.961784
+	[504900:506546:rev] PFAM: Bacterio-opsin activator; HTH; Signal transduction response regulator; receiver region; GAF; GAF domain-containing protein
+	[506723:508492:rev] PFAM: ATP-binding region; ATPase-like; histidine kinase/DNA gyrase B/HSP90-like ATPase
+	[508933:509397:dir] manually curated; hypothetical protein
+	[509399:509874:dir] 
+	[509964:510821:rev] PFAM: Aldo/keto reductase; hypothetical protein
+	[510942:513620:rev] PFAM: ATPase; AAA-type; core; ATPase family protein associated with various cellular activities (AAA)
+	[513714:515036:dir] SPTR: Putative uncharacterized protein; uncharacterized protein DUF4157
+	[515040:515999:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[516045:516575:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[516577:517545:dir] manually curated; hypothetical protein
+	[517595:518185:rev] manually curated; hypothetical protein
+	[518393:518881:dir] manually curated; DNA polymerase I
+	[519422:520333:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[520474:521292:rev] PFAM: Transcriptional regulator TrmB; sugar-specific transcriptional regulator TrmB
+	[521327:521575:rev] manually curated; hypothetical protein
+	[521778:522299:rev] SMART: Transcription regulator; AsnC-type; DNA-binding Lrp family transcriptional regulator
+	[523163:523714:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[523722:524165:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[524268:525536:dir] TIGRFAM: PAS; PAS domain S-box-containing protein
+	[526016:526120:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[526458:527603:dir] SPTR: Filamentation induced by cAMP protein Fic; Fic family protein
+<END>
+<GI> CP024845:5 <COORDINATES> 1178810-1253949 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.686808; n0_4mer:D = 34.270016; n0_4mer:PS = 27.126608
+	[1178810:1180141:rev] TIGRFAM: PAS; methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+	[1180219:1183284:rev] PFAM: FAD-linked oxidase; C-terminal; FAD linked oxidase; N-terminal; Cysteine-rich region; CCG; FAD/FMN-containing dehydrogenase
+	[1183292:1185016:rev] TIGRFAM: L-lactate permease; lactate permease
+	[1185541:1185744:dir] manually curated; hypothetical protein
+	[1186002:1186172:rev] hypothetical protein
+	[1186317:1186976:dir] manually curated; putative transposase
+	[1187259:1187459:dir] hypothetical protein
+	[1187501:1188322:dir] PFAM: Transposase; IS4-like; IS5 family transposase
+	[1188382:1188555:dir] hypothetical protein
+	[1188729:1189727:dir] PFAM: Transposase; IS4-like; DDE family transposase
+	[1189731:1190165:rev] PFAM: Luciferase-like; subgroup; luciferase family oxidoreductase group 1
+	[1190268:1190504:rev] manually curated; phosphonate transport system permease protein
+	[1190514:1191818:rev] TIGRFAM: Transposase; IS605 OrfB; C-terminal; putative transposase
+	[1191948:1192157:rev] manually curated; phosphonate transport system permease protein
+	[1192164:1192520:rev] manually curated; hypothetical protein
+	[1192564:1193343:dir] PFAM: Short-chain dehydrogenase/reductase SDR; NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+	[1193681:1193785:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1194039:1194995:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1194998:1195276:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1195332:1195613:dir] TIGRFAM: Transcription regulator AbrB; AbrB family looped-hinge helix DNA binding protein
+	[1195610:1196101:dir] SPTR: Nucleic acid-binding protein; hypothetical protein
+	[1196270:1196674:dir] SPTR: Putative transcriptional regulator; hypothetical protein
+	[1196715:1198079:rev] PFAM: Restriction endonuclease; type IV-like; Mrr; restriction endonuclease Mrr
+	[1198236:1198721:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1198727:1199317:rev] SPTR: Putative uncharacterized protein; putative transcriptional regulator
+	[1199689:1200399:dir] SPTR: Putative uncharacterized protein; nucleotide-binding universal stress UspA family protein
+	[1200646:1201155:rev] manually curated; hypothetical protein
+	[1201152:1201736:rev] PFAM: Transcriptional regulator TrmB; sugar-specific transcriptional regulator TrmB
+	[1202114:1204276:dir] PFAM: DNA-directed DNA polymerase; family B; conserved region; DNA polymerase I
+	[1205179:1206471:dir] TIGRFAM: Cell division control protein 6 related; archaea; cell division control protein 6
+	[1206784:1207146:rev] SPTR: Vng6365h; hypothetical protein
+	[1207506:1207766:rev] SPTR: Phage PhiH1 repressor protein; hypothetical protein
+	[1207987:1208415:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1208412:1210166:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1210172:1211026:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1211029:1212117:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1212160:1213245:dir] SPTR: Vng6145h; hypothetical protein
+	[1213238:1215436:dir] SPTR: Transfer complex protein; type IV secretory pathway VirB4 component
+	[1215429:1219793:dir] SPTR: Conjugation protein; hypothetical protein
+	[1220142:1221416:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1221496:1221999:dir] KEGG: hsl:OE6085R hypothetical protein; hypothetical protein
+	[1222047:1222301:dir] manually curated; hypothetical protein
+	[1222333:1222584:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1222585:1223019:dir] PFAM: PilT protein; N-terminal; hypothetical protein
+	[1223208:1223642:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1223642:1223857:dir] hypothetical protein
+	[1224008:1224166:dir] hypothetical protein
+	[1224368:1225162:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1225247:1226272:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1227175:1228071:dir] PFAM: Nucleic acid binding; OB-fold; tRNA/helicase-type; hypothetical protein
+	[1228356:1228853:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1228846:1229526:rev] PFAM: Nucleotidyltransferase; HTH domain-containing protein
+	[1229889:1230062:rev] manually curated; cell division control protein 6
+	[1230247:1231080:dir] PFAM: UspA; nucleotide-binding universal stress UspA family protein
+	[1231241:1231666:dir] SPTR: Zinc finger SWIM domain protein; SWIM zinc finger protein
+	[1231708:1232664:dir] PFAM: Transcription factor TFIIB; cyclin-related; Zinc finger; TFIIB-type; transcription initiation factor IIB (TFIIB)
+	[1232782:1233660:dir] manually curated; hypothetical protein
+	[1233820:1234098:dir] manually curated; hypothetical protein
+	[1234149:1234370:dir] manually curated; hypothetical protein
+	[1234519:1235520:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1235591:1236520:dir] SPTR: LtrC-like protein; hypothetical protein
+	[1236717:1237277:rev] PFAM: TATA-box binding; TATA binding protein of transcription factor TFIID
+	[1237452:1238660:rev] PFAM: Pyrrolo-quinoline quinone repeat; outer membrane protein assembly factor BamB
+	[1238717:1239655:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1239853:1241103:dir] PFAM: Pyrrolo-quinoline quinone repeat; outer membrane protein assembly factor BamB
+	[1241225:1241428:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1241701:1241886:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1242049:1242162:rev] manually curated; hypothetical protein
+	[1242230:1242771:dir] 
+	[1242816:1243745:rev] SPTR: Site-specific recombinase; hypothetical protein
+	[1243969:1244484:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1244610:1244975:rev] manually curated; hypothetical protein
+	[1245354:1245515:dir] hypothetical protein
+	[1245894:1246760:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1246753:1247322:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1247594:1248451:dir] PFAM: Cobyrinic acid a; c-diamide synthase; cellulose biosynthesis protein BcsQ
+	[1248451:1248894:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1248891:1250195:rev] SPTR: Putative uncharacterized protein; site-specific recombinase XerD
+	[1250806:1251267:dir] PFAM: Transcription regulator; AsnC-type; C-terminal; DNA-binding Lrp family transcriptional regulator
+	[1251343:1251531:rev] hypothetical protein
+	[1251554:1251829:rev] PFAM: Transcriptional regulator PadR N-terminal-like; DNA-binding PadR family transcriptional regulator
+	[1251942:1252622:dir] PFAM: Integrase; catalytic core; putative transposase
+	[1252675:1253949:dir] TIGRFAM: Transposase; IS605 OrfB; C-terminal; putative transposase
+<END>
+<GI> CP024845:6 <COORDINATES> 1317859-1409133 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.903307; n0_4mer:D = 35.659508; n0_4mer:PS = 23.395050
+	[1317859:1320018:rev] TIGRFAM: CRISPR-associated protein Csh1; C-terminal; CRISPR-associated protein Cas8b/Csh1 subtype I-B
+	[1320005:1320811:rev] TIGRFAM: CRISPR-associated protein; Cas6; CRISPR-associated endoribonuclease Cas6
+	[1321274:1322107:dir] PFAM: Transposase; IS4-like; IS5 family transposase
+	[1322381:1323025:rev] PFAM: Bacterio-opsin activator; HTH; hypothetical protein
+	[1323253:1324053:rev] PFAM: Glycoside hydrolase; family 16; glycosyl hydrolase family 16
+	[1324187:1325434:rev] SPTR: Putative uncharacterized protein; glycosyl transferase family 2
+	[1326101:1326997:dir] PFAM: Nucleic acid binding; OB-fold; tRNA/helicase-type; hypothetical protein
+	[1327285:1327782:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1327775:1328455:rev] PFAM: Nucleotidyltransferase; HTH domain-containing protein
+	[1329408:1330343:dir] PFAM: UbiA prenyltransferase; 4-hydroxybenzoate polyprenyltransferase
+	[1330428:1330586:dir] manually curated; hypothetical protein
+	[1330633:1330998:dir] SPTR: Transposase (ISH3); hypothetical protein
+	[1331469:1331918:rev] hypothetical protein
+	[1332212:1332610:rev] PFAM: PilT protein; N-terminal; hypothetical protein
+	[1332591:1332962:rev] SPTR: Putative uncharacterized protein; putative transcriptional regulator
+	[1333190:1333795:dir] PFAM: Integrase; catalytic core; phage; phage integrase family protein
+	[1334129:1335937:dir] COGs: COG1782 metal-dependent RNase consists of a metallo-beta-lactamase domain and an RNA-binding KH domain; metallo-beta-lactamase family protein
+	[1336037:1336369:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1336371:1336739:rev] SPTR: Putative uncharacterized protein; Transcriptional regulators
+	[1337005:1337811:dir] PFAM: Cobyrinic acid a; c-diamide synthase; chromosome partitioning protein
+	[1337808:1338191:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1338271:1338699:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1338983:1339291:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1339294:1339905:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1339957:1340562:rev] PFAM: Integrase; catalytic core; phage; hypothetical protein
+	[1340843:1341007:dir] manually curated; putative transposase
+	[1341202:1341672:rev] TIGRFAM: Archaeal flagellin; N-terminal related; flagellin-like protein
+	[1341877:1342668:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1343114:1343221:dir] hypothetical protein
+	[1343469:1344017:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1344306:1345097:rev] PFAM: Transcriptional regulator TrmB; transcriptional regulator TrmB
+	[1345471:1346265:dir] PFAM: Transcriptional regulator TrmB; sugar-specific transcriptional regulator TrmB
+	[1346475:1346660:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1346727:1347137:rev] PFAM: Signal transduction response regulator; receiver region; response regulator receiver domain-containing protein
+	[1347493:1347978:dir] manually curated; thiosulfate/3-mercaptopyruvate sulfurtransferase
+	[1348186:1348371:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1348445:1349407:dir] HAMAP: Transcription initiation factor IIB; transcription initiation factor TFIIB
+	[1349820:1350221:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1350331:1351101:rev] SPTR: Putative sensor protein; hypothetical protein
+	[1351439:1351720:rev] hypothetical protein
+	[1351717:1353471:rev] PFAM: ATP-grasp fold; RimK-type; ATP-grasp fold; DUF201-type; alpha-L-glutamate ligase-like protein
+	[1353622:1353996:rev] PFAM: Signal transduction response regulator; receiver region; response regulator receiver domain-containing protein
+	[1354330:1357503:dir] PFAM: PKD; Pyrrolo-quinoline quinone repeat; PGF-pre-PGF domain-containing protein
+	[1357554:1359710:rev] TIGRFAM: PAS; PAS domain S-box-containing protein
+	[1359812:1361797:rev] TIGRFAM: PAS; PAS domain S-box-containing protein
+	[1362140:1362298:dir] hypothetical protein
+	[1362532:1363677:rev] SPTR: Transposase (ISH3); IS4 transposase
+	[1363712:1363939:dir] manually curated; histidine kinase/DNA gyrase B/HSP90-like ATPase
+	[1364165:1364683:rev] hypothetical protein
+	[1364860:1365690:dir] PFAM: Transposase; IS4-like; IS5 family transposase
+	[1366078:1366566:dir] TIGRFAM: Death-on-curing protein; death-on-curing protein
+	[1366592:1366732:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1366911:1367138:rev] hypothetical protein
+	[1367344:1367958:rev] hypothetical protein
+	[1368058:1368690:dir] SPTR: Predicted aminoglycoside phosphotransferase; hypothetical protein
+	[1368875:1370212:rev] SPTR: Transposase (ISH6); hypothetical protein
+	[1370648:1371199:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1371456:1372073:dir] PFAM: Integrase; catalytic core; phage; integrase/recombinase XerC/integrase/recombinase XerD
+	[1372070:1372495:dir] manually curated; hypothetical protein
+	[1372563:1372856:dir] PFAM: Transcriptional regulator PadR N-terminal-like; PadR family transcriptional regulator
+	[1373016:1373828:dir] SPTR: SWIM zinc finger domain protein; SWIM zinc finger protein
+	[1373828:1374607:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1374604:1374699:dir] manually curated; calcium binding protein
+	[1374702:1375094:rev] SMART: HTH transcriptional regulator; ArsR; DNA-binding transcriptional ArsR family regulator
+	[1375235:1376008:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1376242:1377630:dir] PFAM: Protein of unknown function DUF21; Cystathionine beta-synthase; core; Transporter-associated region; CBS domain containing-hemolysin-like protein
+	[1378049:1378450:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1378425:1378595:rev] hypothetical protein
+	[1378700:1379569:dir] PFAM: UspA; nucleotide-binding universal stress UspA family protein
+	[1379684:1380079:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1380548:1381162:dir] TIGRFAM: Phosphatidylserine decarboxylase-related protein; phosphatidylserine decarboxylase
+	[1381227:1382069:rev] PFAM: Transposase; IS4-like; IS5 family transposase
+	[1382318:1382500:rev] manually curated; hypothetical protein
+	[1382553:1383719:dir] SPTR: Transposase (ISH3); IS4 transposase
+	[1383860:1384489:rev] SPTR: Putative sensor protein; hypothetical protein
+	[1385409:1386596:dir] PFAM: ATP-grasp fold; DUF201-type; putative ATP-grasp superfamily ATP-dependent carboligase
+	[1386593:1387249:dir] PFAM: Protein-tyrosine phosphatase; low molecular weight; protein-tyrosine phosphatase
+	[1387674:1387870:dir] 
+	[1388319:1388864:rev] InterPro IPR000058; Cellobiohydrolase A (1,4-beta-cellobiosidase A)
+	[1389014:1389481:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1390011:1391210:dir] TIGRFAM: Cell division control protein 6 related; archaea; orc1/cdc6 family replication initiation protein
+	[1391643:1391900:rev] hypothetical protein
+	[1392181:1392267:rev] manually curated; hypothetical protein
+	[1392320:1393373:dir] 
+	[1393358:1394119:rev] PFAM: Transposase; IS4-like; IS5 family transposase
+	[1394349:1394780:rev] PFAM: PilT protein; N-terminal; hypothetical protein
+	[1394781:1395053:rev] TIGRFAM: Transcription regulator AbrB; AbrB family looped-hinge helix DNA binding protein
+	[1395529:1395741:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1395803:1396033:dir] hypothetical protein
+	[1396240:1396800:dir] HAMAP: TATA-box-binding protein; TATA binding protein of transcription factor TFIID
+	[1396998:1397927:rev] SPTR: LtrC-like protein; hypothetical protein
+	[1397998:1398411:rev] manually curated; hypothetical protein
+	[1398519:1400015:dir] manually curated; hypothetical protein
+	[1400052:1401050:dir] PFAM: Transposase; IS4-like; DDE family transposase
+	[1401105:1402835:rev] PFAM: Protein of unknown function DUF87; hypothetical protein
+	[1402832:1403500:rev] SPTR: Tlr0593 protein; hypothetical protein
+	[1403664:1404935:rev] PFAM: NurA domain; NurA domain-containing protein
+	[1404935:1407646:rev] PFAM: RecF/RecN/SMC protein; N-terminal; Rad50 zinc hook; exonuclease SbcC
+	[1407643:1409133:rev] PFAM: Metallophosphoesterase; calcineurin-like phosphoesterase family protein
+<END>
+<GI> CP024845:7 <COORDINATES> 1463151-1491346 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.978812; n0_4mer:D = 33.919018; n0_4mer:PS = 31.000528
+	[1463151:1468031:dir] PFAM: Peptidase S8/S53; subtilisin/kexin/sedolisin; PGF-pre-PGF domain-containing protein
+	[1468151:1468708:rev] SPTR: Phytanoyl-CoA-dioxygenase; putative 2-oxoglutarate-Fe(II)-dependent oxygenase superfamily protein
+	[1469121:1469738:dir] SPTR: N-6 DNA methylase; N-6 DNA methylase
+	[1469857:1470633:rev] LexA-binding, inner membrane-associated putative hydrolase
+	[1470702:1472174:rev] SPTR: Phage integrase; hypothetical protein
+	[1472440:1472703:dir] hypothetical protein
+	[1472730:1473899:rev] TIGRFAM: Transposase; IS605 OrfB; C-terminal; IS605 OrfB family transposase
+	[1475672:1476472:dir] PFAM: Cobyrinic acid a; c-diamide synthase; chromosome partitioning protein
+	[1476469:1476849:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1476927:1477127:dir] hypothetical protein
+	[1477178:1477594:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1477591:1478193:rev] PFAM: Integrase; catalytic core; phage; phage integrase family protein
+	[1478516:1479682:dir] SPTR: Transposase (ISH3); IS4 transposase
+	[1479869:1481161:dir] manually curated; hypothetical protein
+	[1481357:1482979:dir] hypothetical protein
+	[1483611:1484777:dir] SPTR: Transposase (ISH3); IS4 transposase
+	[1484918:1485346:rev] hypothetical protein
+	[1485786:1485917:dir] hypothetical protein
+	[1485932:1486276:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1486427:1486579:rev] hypothetical protein
+	[1487141:1487596:dir] hypothetical protein
+	[1487593:1489317:dir] Zn-dependent protease with chaperone function
+	[1489393:1489598:dir] 
+	[1489620:1490423:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1490420:1491346:rev] SPTR: Putative uncharacterized protein; MarR family protein
+<END>
+<GI> CP024845:8 <COORDINATES> 1501787-1521682 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.373814; n0_4mer:D = 34.130593; n0_4mer:PS = 42.931539
+	[1501787:1502293:rev] SPTR: Vng6128h; pRiA4b ORF-3-like protein
+	[1502296:1503261:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1503369:1503728:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1503744:1504652:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1504711:1505217:rev] SPTR: Putative uncharacterized protein; putative nucleic acid-binding protein
+	[1505214:1505582:rev] PFAM: Uncharacterised protein family UPF0175; uncharacterized protein UPF0175
+	[1505703:1506143:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1506143:1507021:rev] SPTR: SojC2; chromosome partitioning protein
+	[1507471:1507608:rev] hypothetical protein
+	[1507738:1508568:rev] SPTR: Putative restriction/modification enzyme; hypothetical protein
+	[1508572:1509393:dir] PFAM: Transposase; IS4-like; IS5 family transposase
+	[1509453:1509626:dir] hypothetical protein
+	[1509743:1511239:rev] SPTR: Putative uncharacterized protein; restriction endonuclease
+	[1511232:1511744:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1511932:1512144:dir] SPTR: Putative uncharacterized protein; winged helix-turn-helix DNA-binding protein
+	[1512255:1512632:rev] manually curated; CDC6-like protein
+	[1512636:1513310:rev] SPTR: Transposase; transposase-like protein
+	[1513631:1514260:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1514253:1514801:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1514932:1515156:dir] hypothetical protein
+	[1515607:1516152:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1516320:1516472:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1516996:1517190:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1517348:1517680:dir] PFAM: Transcriptional regulator PadR N-terminal-like; PadR family transcriptional regulator
+	[1518039:1518308:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1518579:1518863:dir] SPTR: Putative transcriptional regulator; AsnC family; M protein trans-acting positive regulator (MGA)
+	[1519153:1519779:dir] SPTR: Methyl-accepting chemotaxis sensory transducer; hypothetical protein
+	[1519786:1519965:dir] hypothetical protein
+	[1519976:1520998:dir] PFAM: ATP-binding region; ATPase-like; PAS fold-4; PAS domain-containing protein
+	[1521089:1521682:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+<END>
+<GI> CP024845:9 <COORDINATES> 1535775-1553898 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.525896; n0_4mer:D = 33.420477; n0_4mer:PS = 23.102692
+	[1535775:1537112:dir] SPTR: Transposase (ISH6); hypothetical protein
+	[1538155:1538970:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1539603:1540133:dir] hypothetical protein
+	[1540084:1540770:rev] hypothetical protein
+	[1541227:1541466:rev] manually curated; helix-turn-helix protein
+	[1541692:1541892:dir] hypothetical protein
+	[1541892:1543067:dir] SPTR: HNH endonuclease; hypothetical protein
+	[1543651:1544535:rev] SPTR: Transposase (ISH4); transposase-like protein
+	[1544703:1544777:rev] tRNA-Met
+	[1545113:1545592:rev] manually curated; hypothetical protein
+	[1545850:1546164:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1546258:1546599:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1546740:1547708:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1547712:1548857:rev] PFAM: Filamentation induced by cAMP/death on curing; related; Transcriptional regulator TrmB; Fic family protein
+	[1549104:1550348:rev] SPTR: Phage integrase; phage integrase family protein
+	[1550581:1551087:rev] SPTR: Putative uncharacterized protein; putative nucleic acid-binding protein
+	[1551084:1551452:rev] PFAM: Uncharacterised protein family UPF0175; uncharacterized protein UPF0175
+	[1551581:1551859:dir] manually curated; hypothetical protein
+	[1552005:1552799:rev] PFAM: Protein of unknown function DUF2210; putative RNase H-like nuclease
+	[1552900:1553898:dir] PFAM: Transposase; IS4-like; DDE family transposase
+<END>
+<GI> CP024845:10 <COORDINATES> 1607500-1633020 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.154113; n0_4mer:D = 39.144577; n0_4mer:PS = 26.864011
+	[1607582:1609039:dir] SPTR: UspA domain protein; CBS-domain-containing membrane protein
+	[1609036:1610022:rev] TIGRFAM: Magnesium/cobalt transport protein CorA; magnesium transporter
+	[1610019:1610180:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1610338:1611252:dir] PFAM: RIO-like kinase; RIO2 kinase; winged helix; N-terminal; RIO kinase 2
+	[1611397:1612131:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1612318:1616211:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1616374:1617378:dir] TIGRFAM: Cell division control protein 6 related; archaea; orc1/cdc6 family replication initiation protein
+	[1617859:1618551:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1618668:1619156:rev] PFAM: Filamentation induced by cAMP/death on curing; related; Fic/DOC family protein
+	[1619356:1620003:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1620039:1620584:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1620928:1622658:dir] PFAM: Transposase; IS4-like; transposase-like protein DUF772
+	[1623019:1623552:dir] PFAM: ThiJ/PfpI; protease I
+	[1623804:1624832:dir] TIGRFAM: Luciferase family oxidoreductase; group 1; luciferase family oxidoreductase group 1
+	[1624900:1625184:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1625207:1626304:rev] PFAM: Protein of unknown function DUF81; putative membrane protein YfcA
+	[1626477:1626656:dir] hypothetical protein
+	[1626729:1627568:dir] PFAM: HpcH/HpaI aldolase; citrate lyase subunit beta/citryl-CoA lyase
+	[1627572:1628618:rev] PFAM: Transcriptional regulator TrmB; sugar-specific transcriptional regulator TrmB
+	[1628682:1630868:rev] PFAM: Glycosyl hydrolase; family 13; catalytic region; Alpha-amylase; C-terminal all beta; glycosidase
+	[1630972:1633020:dir] SPTR: Glucan 14-alpha-glucosidase; GH15 family glucan-1,4-alpha-glucosidase
+<END>
+<GI> CP024845:11 <COORDINATES> 1919741-1943098 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.599357; n0_4mer:D = 31.028089; n0_4mer:PS = 26.190766
+	[1919741:1920136:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1920212:1920577:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1920581:1921072:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1921178:1921648:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1921701:1922081:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1922425:1923675:rev] PFAM: Pyrrolo-quinoline quinone repeat; outer membrane protein assembly factor BamB
+	[1923785:1923976:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1924115:1924336:rev] manually curated; hypothetical protein
+	[1924471:1925469:rev] PFAM: Transposase; IS4-like; DDE family transposase
+	[1925665:1926549:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1926551:1927177:rev] manually curated; hypothetical protein
+	[1927359:1927817:rev] PFAM: Transcription regulator; AsnC-type; C-terminal; DNA-binding Lrp family transcriptional regulator
+	[1928071:1928364:rev] hypothetical protein
+	[1928434:1928670:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1928886:1929884:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1930054:1930413:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1930410:1930904:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1931587:1932849:dir] TIGRFAM: Cell division control protein 6 related; archaea; cell division control protein 6
+	[1932982:1933170:dir] manually curated; cell division control protein 6
+	[1933366:1933866:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1933867:1933965:rev] hypothetical protein
+	[1934078:1934425:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1934513:1934668:rev] manually curated; hypothetical protein
+	[1934670:1934882:dir] manually curated; hypothetical protein
+	[1935227:1936165:rev] SPTR: LtrC-like protein; hypothetical protein
+	[1936254:1936601:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1936673:1937740:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1937799:1938020:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1938087:1939247:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1939377:1939505:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1939505:1940173:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1940212:1941672:dir] PFAM: Restriction endonuclease; type IV-like; Mrr; restriction endonuclease Mrr
+	[1941724:1941996:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1942028:1943098:rev] PFAM: Metallophosphoesterase; calcineurin-like phosphoesterase family protein
+<END>
+<GI> CP024845:12 <COORDINATES> 1944019-1968232 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.470520; n0_4mer:D = 38.257760; n0_4mer:PS = 34.674747
+	[1944019:1944579:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1944618:1945040:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1945115:1945777:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1945846:1946226:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1946318:1946548:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1946645:1947538:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1947672:1948472:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1948725:1948958:dir] PFAM: HTH transcriptional regulator; ArsR; ArsR family transcriptional regulator
+	[1948981:1949976:rev] SMART: Cyclin; transcription initiation factor TFIIB
+	[1950169:1950726:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1950847:1951452:dir] manually curated; helix-turn-helix protein
+	[1951453:1952169:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1952792:1953022:dir] SPTR: Transcriptional regulator protein-like protein; regulatory ArsR family protein
+	[1953058:1954482:dir] PFAM: Resolvase; N-terminal; Recombinase; DNA invertase Pin-like site-specific DNA recombinase
+	[1954602:1955363:rev] PFAM: Transcription factor TFIIB; cyclin-related; transcription initiation factor TFIIIB Brf1 subunit/transcription initiation factor TFIIB
+	[1955360:1956310:rev] PFAM: Resolvase; N-terminal; Recombinase; site-specific DNA recombinase
+	[1956315:1957418:rev] SPTR: Putative uncharacterized protein; CRISPR-associated protein Cas4
+	[1957575:1957829:rev] manually curated; hypothetical protein
+	[1958021:1958305:dir] manually curated; hypothetical protein
+	[1958615:1959952:rev] SPTR: Transposase (ISH6); hypothetical protein
+	[1960017:1960169:rev] hypothetical protein
+	[1960424:1960612:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[1960650:1961327:rev] PFAM: Protein of unknown function DUF502; putative membrane protein
+	[1961443:1963029:rev] TIGRFAM: D-3-phosphoglycerate dehydrogenase; D-3-phosphoglycerate dehydrogenase
+	[1963252:1963905:dir] TIGRFAM: Phosphoserine phosphatase SerB; HAD-superfamily hydrolase; subfamily IB; PSPase-like; phosphoserine phosphatase
+	[1964368:1964916:rev] SPTR: Singapore isolate B (sub-type 7) whole genome shotgun sequence assembly; scaffold_11; AN1-like zinc finger protein
+	[1964955:1965542:rev] SPTR: AN1-type Zinc finger protein; hypothetical protein
+	[1965695:1968232:dir] PFAM: DNA/RNA helicase; C-terminal; DNA/RNA helicase; DEAD/DEAH box type; N-terminal; ERCC4 domain; Helix-hairpin-helix motif; Fanconi anemia group M protein
+<END>
+<GI> CP024845:13 <COORDINATES> 2275860-2326599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.491322; n0_4mer:D = 39.367932; n0_4mer:PS = 30.806778
+	[2275860:2277044:rev] SPTR: Mur ligase family CapB protein; Mur ligase-like protein
+	[2277048:2278238:rev] SPTR: Putative uncharacterized protein; capsule biosynthesis CapC-like protein
+	[2278418:2278789:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2278793:2280319:rev] PFAM: Aldehyde dehydrogenase; aldehyde dehydrogenase (NAD+)
+	[2280473:2281540:dir] PFAM: Alcohol dehydrogenase; zinc-binding; Alcohol dehydrogenase GroES-like; alcohol dehydrogenase
+	[2281619:2281864:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2282268:2283014:dir] PFAM: Nucleotidyl transferase; glucose-1-phosphate thymidylyltransferase
+	[2283170:2284753:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2285448:2286692:rev] TIGRFAM: Transposase; IS605 OrfB; C-terminal; putative transposase
+	[2286694:2287107:rev] manually curated; putative transposase
+	[2287307:2287687:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2287684:2287878:rev] hypothetical protein
+	[2288961:2289140:dir] hypothetical protein
+	[2289302:2289813:rev] 
+	[2289814:2289969:rev] manually curated; hypothetical protein
+	[2289976:2291313:rev] SPTR: Transposase (ISH6); hypothetical protein
+	[2291368:2291568:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2291728:2293044:dir] TIGRFAM: Transposase; IS605 OrfB; C-terminal; putative transposase
+	[2293167:2293634:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2293627:2293911:rev] manually curated; AbrB family looped-hinge helix DNA binding protein
+	[2294077:2294173:dir] 
+	[2294349:2294470:dir] 
+	[2294663:2295742:rev] hypothetical protein
+	[2295991:2296239:dir] hypothetical protein
+	[2296236:2297162:dir] hypothetical protein
+	[2297155:2299623:dir] KEGG: hla:Hlac_2966 hypothetical protein; hypothetical protein
+	[2299711:2300085:rev] SPTR: Putative uncharacterized protein; PIN domain-containing protein
+	[2300086:2300316:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2301183:2302391:dir] TIGRFAM: Cell division control protein 6 related; archaea; cell division control protein 6
+	[2302747:2302941:rev] manually curated; hypothetical protein
+	[2302989:2304785:rev] TIGRFAM: Glucosamine-fructose-6-phosphate aminotransferase; isomerising; glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+	[2304785:2306005:rev] PFAM: Nucleotidyl transferase; Bacterial transferase hexapeptide repeat; glucose-1-phosphate thymidylyltransferase
+	[2306293:2308002:dir] PFAM: ABC transporter-like; ATP-binding cassette, subfamily B, MsbA
+	[2308635:2309972:dir] SPTR: Transposase (ISH6); hypothetical protein
+	[2310028:2311035:dir] PFAM: N-acetylneuraminic acid synthase; N-terminal; SAF domain; N-acetylneuraminate synthase
+	[2311096:2311776:dir] PFAM: Methyltransferase type 11; methyltransferase family protein
+	[2311903:2313063:dir] manually curated; UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)/GDP/UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolysing)
+	[2313289:2313990:dir] PFAM: Acylneuraminate cytidylyltransferase; N-acylneuraminate cytidylyltransferase/CMP-N,N'-diacetyllegionaminic acid synthase
+	[2314294:2315292:rev] PFAM: Transposase; IS4-like; DDE family transposase
+	[2315329:2315835:rev] PFAM: NAD-dependent epimerase/dehydratase; UDP-glucose 4-epimerase
+	[2315916:2317331:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2317606:2318655:rev] TIGRFAM: Transposase; IS605 OrfB; C-terminal; IS605 OrfB family transposase
+	[2318756:2320006:rev] hypothetical protein
+	[2320067:2321197:dir] PFAM: Glycosyl transferase; group 1; glycosyltransferase involved in cell wall biosynthesis
+	[2321172:2322350:rev] PFAM: Glycosyl transferase; group 1; glycosyltransferase involved in cell wall biosynthesis
+	[2322362:2323315:rev] PFAM: Glycosyl transferase; family 2; glycosyl transferase family 2
+	[2323423:2326449:dir] PFAM: Oligosaccharyl transferase; STT3 subunit; dolichyl-diphosphooligosaccharide--protein glycosyltransferase
+<END>
+<GI> CP024845:14 <COORDINATES> 2365359-2390141 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.083367; n0_4mer:D = 40.191456; n0_4mer:PS = 23.109314
+	[2365359:2366072:rev] PFAM: ABC transporter-like; branched-chain amino acid transport system ATP-binding protein
+	[2366069:2366947:rev] PFAM: ABC transporter-like; amino acid/amide ABC transporter ATP-binding protein 1 (HAAT family)
+	[2366940:2368181:rev] PFAM: Bacterial inner-membrane translocator; branched-chain amino acid transport system permease protein
+	[2368181:2369092:rev] PFAM: Bacterial inner-membrane translocator; branched-chain amino acid transport system permease protein
+	[2369100:2370374:rev] PFAM: Extracellular ligand-binding receptor; branched-chain amino acid transport system substrate-binding protein
+	[2370473:2371357:dir] PFAM: Proline dehydrogenase; L-proline dehydrogenase
+	[2371359:2371694:rev] manually curated; Predicted DNA binding protein
+	[2371687:2371860:rev] hypothetical protein
+	[2371920:2372741:rev] PFAM: Transposase; IS4-like; IS5 family transposase
+	[2372892:2373521:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2373832:2374626:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2374767:2375624:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2375742:2376014:rev] manually curated; hypothetical protein
+	[2376288:2378636:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2378757:2379482:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2379489:2380619:rev] PFAM: Glycosyl transferase; group 1; glycosyltransferase involved in cell wall biosynthesis
+	[2380565:2383345:rev] 
+	[2381592:2382929:dir] SPTR: Transposase (ISH6); hypothetical protein
+	[2383622:2384647:rev] SPTR: Putative uncharacterized protein; Uncharacterized protein involved in methicillin resistance
+	[2384784:2386007:rev] PFAM: ATP-grasp fold; DUF201-type; putative ATP-grasp superfamily ATP-dependent carboligase
+	[2386263:2387474:rev] KEGG: nmg:Nmag_1350 hypothetical protein; acetyltransferase (GNAT) family protein
+	[2387471:2388322:rev] PFAM: Polysaccharide deacetylase; polysaccharide deacetylase
+	[2388315:2389373:rev] PFAM: Glycosyl transferase; family 2; glycosyltransferase involved in cell wall biosynthesis
+	[2389375:2390073:rev] manually curated; UDP-N-acetyl-D-galactosamine dehydrogenase
+	[2390073:2390141:dir] manually curated; transcription initiation factor TFIID TATA-box-binding protein
+<END>
+<GI> CP024845:15 <COORDINATES> 2739223-2760099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.338361; n0_4mer:D = 34.203247; n0_4mer:PS = 34.535266
+	[2739223:2739528:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2739554:2742007:rev] HAMAP: UPF0753 protein; hypothetical protein
+	[2741997:2743571:rev] PFAM: NADH:ubiquinone/plastoquinone oxidoreductase; NAD(P)H-quinone oxidoreductase subunit 5
+	[2743888:2744904:dir] PFAM: Amidohydrolase 1; cytosine/adenosine deaminase-related metal-dependent hydrolase
+	[2744910:2745374:rev] SMART: Transcription regulator; AsnC-type; DNA-binding Lrp family transcriptional regulator
+	[2746259:2747644:rev] hypothetical protein
+	[2747716:2747922:dir] manually curated; ADP-ribosyl-[dinitrogen reductase] hydrolase
+	[2748187:2748636:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2748633:2749208:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2750310:2752616:rev] SPTR: Putative uncharacterized protein; hypothetical protein
+	[2752721:2753719:dir] PFAM: Transposase; IS4-like; DDE family transposase
+	[2753728:2754096:rev] hypothetical protein
+	[2754731:2754799:dir] manually curated; transcription initiation factor TFIID TATA-box-binding protein
+	[2754914:2756080:rev] SPTR: Transposase (ISH3); IS4 transposase
+	[2756195:2756557:dir] hypothetical protein
+	[2756796:2757113:rev] hypothetical protein
+	[2757512:2758345:rev] PFAM: Transposase; IS4-like; IS5 family transposase
+	[2758756:2758995:dir] hypothetical protein
+	[2759033:2759602:dir] manually curated; integrase/recombinase XerC/integrase/recombinase XerD
+	[2759612:2759953:dir] SPTR: Putative uncharacterized protein; hypothetical protein
+<END>

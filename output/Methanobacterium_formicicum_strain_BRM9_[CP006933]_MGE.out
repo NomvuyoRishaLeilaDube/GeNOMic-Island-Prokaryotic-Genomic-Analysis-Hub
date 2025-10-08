@@ -1,0 +1,423 @@
+<GI> CP006933:1 <COORDINATES> 275887-320831 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.052861; n0_4mer:D = 29.790793; n0_4mer:PS = 27.650945
+	[275887:276705:dir] CBS domain-containing protein
+	[277008:278156:dir] ATP dependent DNA ligase
+	[278437:279246:dir] pheA; prephenate dehydratase PheA
+	[279239:279892:dir] hypothetical protein
+	[280079:280615:dir] hypothetical protein
+	[281178:281678:dir] transcription elongation factor NusA-like protein
+	[281788:282933:dir] coaBC; coenzyme A biosynthesis bifunctional protein CoaBC
+	[283391:284821:dir] 16S ribosomal RNA
+	[284939:285012:dir] tRNA-Ala
+	[285239:288223:dir] 23S ribosomal RNA
+	[288419:288541:dir] 5S ribosomal RNA
+	[289259:289378:dir] 5S ribosomal RNA
+	[289772:291538:rev] adhesin-like protein
+	[291927:294629:rev] adhesin-like protein
+	[295144:296058:dir] hypothetical protein
+	[296073:298775:dir] hsdR; type I restriction-modification system R subunit HsdR
+	[298811:300355:dir] hsdM; type I restriction-modification system M subunit HsdM
+	[300388:300684:dir] hypothetical protein
+	[300698:301102:dir] type I restriction-modification system S ubunit HsdS; nonfunctional
+	[301136:302689:rev] transposase
+	[302993:303685:dir] type I restriction-modification system S ubunit HsdS; nonfunctional
+	[303669:304862:rev] phage integrase family protein
+	[305012:306286:rev] hsdS; type I restriction-modification system S ubunit HsdS
+	[306670:307659:dir] hypothetical protein
+	[307673:308170:dir] hypothetical protein
+	[308394:309749:dir] divergent AAA domain-containing protein
+	[310072:310248:dir] hypothetical protein
+	[310837:311058:dir] hypothetical protein
+	[311204:311977:dir] hypothetical protein
+	[311988:313439:rev] ATPase
+	[313827:314255:dir] hypothetical protein
+	[314789:316954:dir] katG; catalase/peroxidase HPI KatG
+	[317125:317706:rev] hypothetical protein
+	[318043:318417:dir] roadblock/LC7 domain-containing protein
+	[318431:318940:dir] hypothetical protein
+	[318958:319446:dir] GTP-binding protein
+	[319478:319828:dir] roadblock/LC7 domain-containing protein
+	[319848:320225:dir] roadblock/LC7 domain-containing protein
+	[320457:320831:dir] roadblock/LC7 domain-containing protein
+<END>
+<GI> CP006933:2 <COORDINATES> 362826-402460 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.660403; n0_4mer:D = 32.028355; n0_4mer:PS = 51.988242
+	[362826:364265:dir] adhesin-like protein
+	[364403:365293:rev] hypothetical protein
+	[365614:365793:rev] hypothetical protein
+	[365932:366825:rev] hypothetical protein
+	[366977:367276:rev] hypothetical protein
+	[367548:368570:rev] purA; adenylosuccinate synthase PurA
+	[368729:370072:rev] ATPase AAA family
+	[370673:372352:rev] gltX; glutamyl-tRNA synthetase GltX
+	[372463:373452:rev] idsA; bifunctional short chain isoprenyl diphosphate synthase IdsA
+	[373455:374804:rev] RNA-metabolising metallo-beta-lactamase
+	[374801:375856:rev] fni; isopentenyl diphosphate delta-isomerase Fni
+	[376109:376903:rev] isopentenyl diphosphate kinase
+	[377016:377993:rev] mvk; mevalonate kinase Mvk
+	[378170:379012:rev] hypothetical protein
+	[379791:380387:rev] rps2p; ribosomal protein S2P Rps2p
+	[380458:380649:rev] 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+	[380979:382229:rev] eno1; phosphopyruvate hydratase Eno1
+	[382323:382499:rev] rpoK; DNA-directed RNA polymerase subunit K RpoK
+	[382722:382889:rev] rpoN; DNA-directed RNA polymerase subunit N RpoN
+	[382963:383364:rev] rps9p; ribosomal protein S9P Rps9p
+	[383378:383800:rev] ribosomal protein L13P Rpl13p
+	[383815:384165:rev] ribosomal protein L18e Rpl18e
+	[384168:384968:rev] rpoD; DNA-directed RNA polymerase subunit D RpoD
+	[384986:385384:rev] ribosomal protein S11P Rps11p
+	[385394:385975:rev] rps4p; ribosomal protein S4P Rps4p
+	[385994:386446:rev] ribosomal protein S13P Rps13p
+	[386644:386728:rev] tRNA-Ser
+	[386906:387868:rev] cbf5p; H/ACA RNA-protein complex component Cbf5p
+	[387961:388188:rev] ribosomal protein L14e Rpl14e
+	[388176:388706:rev] cmk; cytidylate kinase Cmk
+	[388720:389004:rev] ribosomal protein L34e Rpl34e
+	[389108:389677:rev] hypothetical protein
+	[389806:390363:rev] adk; adenylate kinase Adk
+	[390364:391707:rev] secY; preprotein translocase subunit SecY
+	[391751:392188:rev] ribosomal protein L15P Rpl15p
+	[392260:392712:rev] ribosomal protein L30P Rpl30p
+	[392722:393369:rev] rps5p; ribosomal protein S5P Rps5p
+	[393369:393950:rev] ribosomal protein L18P Rpl18p
+	[393965:394411:rev] ribosomal protein L19e Rpl19e
+	[394688:395014:rev] ribosomal protein L32e Rpl32e
+	[395020:395553:rev] rpl6p; ribosomal protein L6P Rpl6p
+	[395565:395957:rev] rps8p; ribosomal protein S8P Rps8p
+	[395968:396120:rev] ribosomal protein S14P Rps14p
+	[396121:396642:rev] rpl5p; ribosomal protein L5P Rpl5p
+	[396644:397369:rev] rps4e; ribosomal protein S4e Rps4e
+	[397371:397724:rev] ribosomal protein L24P Rpl24p
+	[397733:398131:rev] ribosomal protein L14P Rpl14p
+	[398128:398451:rev] ribosomal protein S17P Rps17p
+	[398456:398740:rev] ribonuclease P subunit P29
+	[398964:399269:rev] translation initiation factor aSUI1
+	[399275:399481:rev] ribosomal protein L29P Rpl29p
+	[399529:400761:rev] rps3p; ribosomal protein S3P Rps3p
+	[400758:401222:rev] ribosomal protein L22P Rpl22p
+	[401235:401645:rev] ribosomal protein S19P Rps19p
+	[401735:402460:rev] rpl2p; ribosomal protein L2P Rpl2p
+<END>
+<GI> CP006933:3 <COORDINATES> 450059-468466 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.210184; n0_4mer:D = 26.945525; n0_4mer:PS = 13.771470
+	[450059:451297:rev] hypothetical protein
+	[451497:452642:rev] glycosyl transferase GT28 family
+	[452944:453126:dir] hypothetical protein
+	[453220:453783:rev] hypothetical protein
+	[453995:454177:dir] hypothetical protein
+	[454378:454560:dir] hypothetical protein
+	[454619:456865:rev] oligosaccharyl transferase
+	[456900:458456:rev] hypothetical protein
+	[458677:459324:dir] hexapeptide repeat-containing acetyltransferase
+	[459447:460388:dir] glycosyl transferase GT2 family
+	[461312:462628:dir] nucleotide sugar dehydrogenase
+	[462643:464187:dir] oxidoreductase GFO/IDH/MOCA family/hexapeptide repeat-containing acetyltransferase
+	[464184:465299:dir] aminotransferase DegT/DnrJ/EryC1/StrS family
+	[465328:466323:dir] glycosyl transferase GT4 family
+	[466352:467050:dir] SAM-dependent methyltransferase
+	[467171:468466:dir] polysaccharide biosynthesis protein
+<END>
+<GI> CP006933:4 <COORDINATES> 620765-639624 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.973843; n0_4mer:D = 27.030642; n0_4mer:PS = 20.821659
+	[620765:621856:rev] ATPase
+	[621926:622396:rev] PEBP family protein
+	[622697:622903:dir] hfoA1; archaeal histone A1 HfoA1
+	[623250:625025:dir] ATPase RIL
+	[625254:625643:rev] hypothetical protein
+	[626132:627019:dir] TPR repeat-containing protein
+	[627255:628592:dir] hypothetical protein
+	[628823:629608:dir] TPR repeat-containing protein
+	[629676:630167:dir] hypothetical protein
+	[630221:630604:dir] hypothetical protein
+	[630982:631380:dir] transposase
+	[631702:632385:rev] transposase
+	[632613:633791:rev] aspartate aminotransferase
+	[633968:634666:rev] radB; DNA repair and recombination protein RadB
+	[634876:635496:rev] Sua5/YciO/YrdC/YwlC family translation factor
+	[635551:636126:dir] pgsA1; phosphatidylglycerophosphate synthase PgsA1
+	[636205:636447:dir] hypothetical protein
+	[636515:637171:dir] hypothetical protein
+	[637321:637983:dir] hypothetical protein
+	[638048:638410:rev] response regulator domain containing protein
+	[638527:639624:rev] fbp; fructose 1,6-bisphosphatase Fbp
+<END>
+<GI> CP006933:5 <COORDINATES> 676887-699599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.662670; n0_4mer:D = 29.557292; n0_4mer:PS = 11.014518
+	[676887:678293:rev] exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase
+	[678332:679219:rev] glycosyl transferase GT2 family
+	[679538:680170:dir] hypothetical protein
+	[680201:681151:rev] glycosyl transferase GT2 family
+	[681208:681954:rev] polysaccharide/polyol phosphate ABC transporter ATP-binding protein
+	[681974:682774:rev] polysaccharide/polyol phosphate ABC transporter permease protein
+	[682777:684114:rev] nucleotide sugar dehydrogenase
+	[684161:685921:rev] hypothetical protein
+	[686096:688231:rev] glycosyl transferase GT2 family
+	[688426:689775:dir] methyltransferase FkbM family
+	[689873:692773:rev] glycosyl transferase GT2 family
+	[693129:693836:dir] cell envelope-related transcriptional attenuator
+	[693908:695065:rev] cdc6 family replication initiation protein Cdc6-2
+	[695149:695901:rev] hypothetical protein
+	[695972:697117:dir] aminotransferase class V family
+	[697354:697635:dir] nucleotidyltransferase domain-containing protein
+	[697628:697966:dir] hypothetical protein
+	[698087:699442:rev] radical SAM domain-containing protein
+<END>
+<GI> CP006933:6 <COORDINATES> 744468-781483 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.624895; n0_4mer:D = 28.962294; n0_4mer:PS = 28.737172
+	[744468:744932:rev] cache domain-containing protein
+	[745180:745782:dir] hypothetical protein
+	[746749:746871:rev] 5S ribosomal RNA
+	[747067:750050:rev] 23S ribosomal RNA
+	[750277:750350:rev] tRNA-Ala
+	[750440:751913:rev] 16S ribosomal RNA
+	[752642:753607:dir] mer; 5,10-methylenetetrahydromethanopterin reductase Mer
+	[753817:754656:rev] radical SAM domain-containing protein
+	[754776:755867:dir] radical SAM domain-containing protein
+	[756113:759115:dir] signal transduction histidine kinase
+	[759202:760590:rev] glutamate decarboxylase
+	[761018:761443:dir] cbiX; sirohydrochlorin cobaltochelatase CbiX
+	[761809:763800:dir] hypothetical protein
+	[764428:764652:rev] dmpI2; 4-oxalocrotonate tautomerase family enzyme DmpI2
+	[764806:765198:dir] HxlR family transcriptional regulator
+	[765211:765366:dir] hypothetical protein
+	[765416:765946:rev] HEPN domain-containing protein
+	[765903:766511:rev] nucleotidyltransferase domain-containing protein
+	[766820:768109:dir] cytidyltransferase-related domain-containing protein
+	[768259:768480:rev] hypothetical protein
+	[768564:769445:rev] hypothetical protein
+	[769526:773746:rev] hypothetical protein
+	[774338:774736:dir] hypothetical protein
+	[774755:775378:rev] cytochrome C-type biogenesis protein DsbD
+	[775557:775982:rev] trxA; thioredoxin TrxA
+	[776187:777050:rev] hypothetical protein
+	[777381:778433:rev] peptidase M50 family
+	[778504:778704:rev] thiS; thiamine biosynthesis protein ThiS
+	[778850:779779:rev] PP-loop family protein
+	[779909:781483:rev] dihydropteroate synthase-related protein
+<END>
+<GI> CP006933:7 <COORDINATES> 1176500-1205599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.071371; n0_4mer:D = 31.205253; n0_4mer:PS = 14.307975
+	[1176810:1179200:dir] adhesin-like protein
+	[1179270:1179857:rev] virulence factor RhuM protein
+	[1180128:1181144:rev] cell surface protein
+	[1181444:1181890:dir] acetyltransferase GNAT family
+	[1182035:1182817:dir] SAM-dependent methyltransferase
+	[1183178:1183762:rev] hypothetical protein
+	[1183762:1188501:rev] DEAD/DEAH box helicase domain-containing protein
+	[1188504:1189445:rev] hypothetical protein
+	[1189442:1192114:rev] hypothetical protein
+	[1192156:1193205:rev] hypothetical protein
+	[1193202:1193795:rev] hypothetical protein
+	[1193770:1194567:rev] hypothetical protein
+	[1195204:1195371:dir] ADP-ribosylglycohydrolase; nonfunctional
+	[1195466:1196800:rev] glutamate dehydrogenase
+	[1197430:1197915:dir] TspO/MBR family protein
+	[1198242:1199252:dir] Fic family protein
+	[1199528:1199863:dir] nucleotidyltransferase domain-containing protein
+	[1199818:1200237:dir] HEPN domain-containing protein
+	[1200614:1200946:rev] hypothetical protein
+	[1200959:1201363:rev] hypothetical protein
+	[1201466:1201723:dir] hypothetical protein
+	[1201950:1203713:dir] ATP-dependent DNA helicase
+	[1204010:1205518:dir] cell surface protein
+<END>
+<GI> CP006933:8 <COORDINATES> 1333402-1356838 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.151853; n0_4mer:D = 29.824930; n0_4mer:PS = 38.500568
+	[1333402:1334598:dir] glycosyl transferase GT4 family
+	[1334621:1335655:rev] glycosyl transferase GT2 family
+	[1335696:1336898:rev] glycosyl transferase GT4 family
+	[1336939:1337985:rev] glycosyl transferase GT2 family
+	[1338110:1338856:rev] glycosyl transferase GT2 family
+	[1339669:1342626:dir] adhesin-like protein with transglutaminase and PMBR domains
+	[1342661:1343308:rev] methyltransferase
+	[1343311:1344744:rev] polysaccharide biosynthesis protein
+	[1345036:1345767:dir] glycosyl transferase GT2 family
+	[1346066:1349983:dir] adhesin-like protein with PMBR domains
+	[1350483:1353509:dir] adhesin-like protein with PMBR domains
+	[1353685:1354104:dir] hypothetical protein
+	[1354164:1355099:dir] NAD-dependent epimerase/dehydratase
+	[1355126:1356838:dir] hypothetical protein
+<END>
+<GI> CP006933:9 <COORDINATES> 1479500-1498371 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.730521; n0_4mer:D = 28.004925; n0_4mer:PS = 17.095058
+	[1484822:1487263:rev] CRISPR-associated helicase Cas3
+	[1487267:1487986:rev] hypothetical protein
+	[1487983:1488633:rev] CRISPR-associated protein Cas5
+	[1488642:1489577:rev] CRISPR-associated regulatory protein DevR family
+	[1489570:1491072:rev] hypothetical protein
+	[1491139:1491645:rev] CRISPR-associated protein Cas6
+	[1492452:1493393:rev] pyridoxamine 5'-phosphate oxidase family protein
+	[1493750:1494709:dir] exonuclease-like protein
+	[1494812:1496518:rev] PHP domain-containing protein
+	[1496676:1497377:rev] hypothetical protein
+	[1497577:1497996:dir] thioesterase superfamily protein
+	[1497997:1498371:dir] hypothetical protein
+<END>
+<GI> CP006933:10 <COORDINATES> 1587000-1626750 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.038616; n0_4mer:D = 30.174962; n0_4mer:PS = 17.450636
+	[1587405:1587629:rev] TRAM domain-containing protein
+	[1587734:1587958:rev] TRAM domain-containing protein
+	[1588289:1588939:dir] pyrF; orotidine 5'-phosphate decarboxylase PyrF
+	[1588883:1589479:rev] hypothetical protein
+	[1589519:1590424:rev] dys; deoxyhypusine synthase Dys
+	[1590834:1591715:rev] transcriptional regulator with CBS domains
+	[1592093:1592572:rev] hypothetical protein
+	[1592578:1594377:rev] ThiF family protein
+	[1594377:1595474:rev] hypothetical protein
+	[1595516:1597039:rev] hypothetical protein
+	[1597207:1598334:rev] phage integrase family protein
+	[1598673:1599059:dir] hypothetical protein
+	[1599062:1599487:dir] hypothetical protein
+	[1599566:1599946:dir] hypothetical protein
+	[1600060:1601664:dir] hypothetical protein
+	[1601842:1602417:rev] hypothetical protein
+	[1602807:1605578:rev] ATPase
+	[1605754:1606728:dir] hypothetical protein
+	[1606824:1607354:rev] hypothetical protein
+	[1607548:1608351:rev] hypothetical protein
+	[1608656:1609387:dir] hypothetical protein
+	[1609546:1610097:dir] hypothetical protein
+	[1610094:1610807:dir] hypothetical protein
+	[1610969:1611769:dir] TauE family transporter
+	[1612188:1613180:rev] transposase
+	[1613350:1614096:rev] hypothetical protein
+	[1614830:1615309:rev] hypothetical protein
+	[1615331:1615558:rev] hypothetical protein
+	[1616175:1617158:rev] TPR repeat-containing protein
+	[1617495:1617929:rev] hypothetical protein
+	[1618026:1618652:rev] DJ-1/PfpI family protein
+	[1619025:1620011:dir] choloylglycine hydrolase
+	[1620090:1620245:dir] hypothetical protein; nonfunctional
+	[1620402:1621031:dir] CAAX amino terminal protease family protein
+	[1621508:1622167:rev] zinc-dependent phospholipase
+	[1622496:1622921:dir] hypothetical protein
+	[1623011:1623901:rev] transporter CDF family
+	[1623951:1625138:rev] argD1; acetylornithine aminotransferase ArgD1
+	[1625365:1625553:rev] hypothetical protein
+	[1625647:1626750:rev] arsB; arsenical-resistance protein ArsB
+<END>
+<GI> CP006933:11 <COORDINATES> 1687664-1709848 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.887674; n0_4mer:D = 27.462439; n0_4mer:PS = 18.096292
+	[1687664:1688320:dir] polB2; DNA polymerase family B PolB2
+	[1688441:1689121:dir] hydrolase HAD superfamily
+	[1689195:1690742:dir] ATPase with chaperone activity
+	[1690852:1692054:dir] phage integrase
+	[1692162:1692728:dir] hypothetical protein
+	[1692729:1693955:dir] hypothetical protein
+	[1694005:1695012:rev] hypothetical protein
+	[1695636:1695812:rev] hypothetical protein
+	[1696063:1696263:dir] hypothetical protein
+	[1696270:1696443:dir] hypothetical protein
+	[1696448:1696801:dir] hypothetical protein
+	[1696798:1697004:dir] hypothetical protein
+	[1697006:1697380:dir] hypothetical protein
+	[1697383:1697673:dir] hypothetical protein
+	[1697678:1697836:dir] hypothetical protein
+	[1697927:1698100:dir] hypothetical protein
+	[1698058:1698825:dir] hypothetical protein
+	[1698829:1699629:dir] hypothetical protein
+	[1699633:1700073:dir] hypothetical protein
+	[1700070:1700282:dir] hypothetical protein
+	[1700416:1701861:dir] histidine kinase/PAS domain-containing protein
+	[1701996:1702448:dir] hypothetical protein
+	[1702515:1702985:dir] hypothetical protein
+	[1703478:1703708:dir] hypothetical protein
+	[1703733:1704011:dir] hypothetical protein
+	[1704308:1704937:dir] hypothetical protein
+	[1704903:1706471:dir] terminase large subunit
+	[1706468:1708048:dir] phage portal protein
+	[1707990:1709561:dir] phage-related protein
+	[1709558:1709848:dir] hypothetical protein
+<END>
+<GI> CP006933:12 <COORDINATES> 1771857-1790216 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.569155; n0_4mer:D = 25.687014; n0_4mer:PS = 47.691558
+	[1771857:1772753:rev] TPR repeat-containing protein
+	[1772935:1775313:rev] ATP-dependent protease S16 family
+	[1775527:1775901:rev] ArsR family transcriptional regulator
+	[1776168:1776494:rev] hypothetical protein
+	[1776761:1777039:rev] hypothetical protein
+	[1777139:1777495:rev] pfdB; prefoldin beta subunit PfdB
+	[1777603:1777875:rev] hypothetical protein
+	[1777872:1778387:rev] ribosomal biogenesis protein
+	[1778425:1778556:rev] DNA-directed RNA polymerase subunit P RpoP
+	[1778557:1778826:rev] ribosomal protein L37Ae Rpl37ae
+	[1778962:1779768:rev] exosome complex RNA-binding protein Rrp42
+	[1779770:1780522:rev] exosome complex exonuclease Rrp41
+	[1780526:1781260:rev] exosome complex RNA-binding protein Rrp4
+	[1781290:1781985:rev] exosome subunit
+	[1781989:1782744:rev] psmA; proteasome alpha subunit PsmA
+	[1782830:1783207:rev] ribonuclease P subunit P14
+	[1783255:1783983:rev] ribonuclease P subunit P30
+	[1783987:1784409:rev] exosome subunit
+	[1784409:1784954:rev] ribosomal protein L15e Rpl15e
+	[1785221:1786645:rev] MatE efflux family protein
+	[1786741:1787190:rev] MarR family transcriptional regulator
+	[1787677:1789731:rev] histidine kinase/PAS domain-containing protein
+	[1789896:1790216:rev] carboxymuconolactone decarboxylase family protein
+<END>
+<GI> CP006933:13 <COORDINATES> 1925319-1950599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.101696; n0_4mer:D = 30.088765; n0_4mer:PS = 15.668017
+	[1925319:1925837:dir] hypothetical protein
+	[1926063:1926758:dir] ABC transporter permease protein
+	[1926748:1927401:dir] ABC transporter ATP-binding protein
+	[1927421:1928263:rev] hypothetical protein
+	[1928370:1928696:rev] hypothetical protein
+	[1929078:1929278:rev] hypothetical protein
+	[1929385:1930065:rev] pyrH; uridylate kinase PyrH
+	[1930629:1931372:dir] CRISPR-associated protein Cas6
+	[1931374:1933448:dir] hypothetical protein; nonfunctional due to frameshift
+	[1933441:1934388:dir] CRISPR-associated protein Cas7
+	[1934394:1935230:dir] CRISPR-associated protein Cas5
+	[1935212:1938031:dir] CRISPR-associated helicase Cas3
+	[1938600:1938833:dir] AbrB family transcriptional regulator
+	[1938830:1939219:dir] PIN domain-containing protein
+	[1939220:1939738:dir] CRISPR-associated protein Cas4
+	[1939762:1940595:dir] CRISPR-associated protein Cas1
+	[1940730:1940993:dir] CRISPR-associated protein Cas2
+<END>
+<GI> CP006933:14 <COORDINATES> 2113695-2132099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.829693; n0_4mer:D = 33.242137; n0_4mer:PS = 53.248467
+	[2113695:2114720:rev] CAAX amino terminal protease family protein
+	[2114976:2115425:dir] polyketide cyclase/dehydrase
+	[2115512:2116195:dir] hypothetical protein
+	[2116604:2117518:dir] hypothetical protein
+	[2117651:2117735:rev] tRNA-Ser
+	[2117922:2118230:rev] ribosomal protein S10P Rps10p
+	[2118316:2119557:rev] translation elongation factor aEF-1 alpha
+	[2119784:2121958:rev] translation elongation factor aEF-2
+	[2122012:2122575:rev] rps7p; ribosomal protein S7P Rps7p
+	[2122589:2123014:rev] ribosomal protein S12P Rps12p
+	[2123132:2123563:rev] transcription elongation factor NusA-like protein
+	[2123568:2123864:rev] ribosomal protein L30e Rpl30e
+	[2123876:2125027:rev] rpoA2; DNA-directed RNA polymerase subunit A'' RpoA2
+	[2125107:2127722:rev] rpoA1; DNA-directed RNA polymerase subunit A' RpoA1
+	[2127766:2129577:rev] rpoB1; DNA-directed RNA polymerase subunit B' RpoB1
+	[2129640:2131130:rev] rpoB2; DNA-directed RNA polymerase subunit B'' RpoB2
+	[2131323:2131559:rev] rpoH; DNA-directed RNA polymerase subunit H RpoH
+	[2131584:2131657:rev] tRNA-Lys
+	[2131665:2131736:rev] tRNA-Asp
+	[2131907:2131980:rev] tRNA-Tyr
+	[2132025:2132099:rev] tRNA-Pro
+<END>
+<GI> CP006933:15 <COORDINATES> 2364856-2388099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.950810; n0_4mer:D = 25.486381; n0_4mer:PS = 25.405043
+	[2364856:2366226:dir] nox; NADH oxidase Nox
+	[2366295:2366906:rev] rubredoxin
+	[2367002:2367418:rev] rubrerythrin
+	[2367508:2368731:rev] F420H2 oxidase FprA
+	[2369061:2369831:dir] ArsR family transcriptional regulator
+	[2369968:2370942:rev] metX2; homoserine O-acetyltransferase MetX2
+	[2370974:2371606:rev] hypothetical protein
+	[2371938:2372462:dir] hypothetical protein
+	[2372471:2372764:dir] hypothetical protein
+	[2372938:2373651:rev] cbiL; precorrin-2 C20-methyltransferase CbiL
+	[2373805:2374677:rev] hypothetical protein
+	[2374805:2375782:rev] hypothetical protein
+	[2375806:2380059:rev] WD40 domain-containing cell surface protein
+	[2380493:2382241:dir] ATP-dependent DNA helicase
+	[2382361:2387544:dir] DNA helicase
+	[2387654:2388019:rev] rhodanese domain-containing protein
+<END>
+<GI> CP006933:16 <COORDINATES> 2402500-2427599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.212289; n0_4mer:D = 28.926099; n0_4mer:PS = 18.170605
+	[2402548:2403819:rev] hypothetical protein
+	[2404100:2404924:dir] hisF2; imidazoleglycerol-phosphate synthase cyclase subunit HisF2
+	[2405068:2405568:dir] hypothetical protein
+	[2405744:2407324:rev] adhesin-like protein with PMBR domains
+	[2407443:2407859:rev] hypothetical protein
+	[2407923:2414702:rev] adhesin-like protein with cysteine protease and PMBR domains
+	[2415491:2416459:dir] transposase
+	[2417079:2417411:rev] rhodanese domain-containing protein
+	[2417864:2419447:dir] NAD-dependent malic enzyme
+	[2419635:2420600:dir] hypothetical protein
+	[2420663:2421364:dir] hypothetical protein
+	[2421370:2422671:rev] acetyl-CoA hydrolase/transferase
+	[2422730:2423386:rev] hypothetical protein
+	[2423720:2425015:dir] hypothetical protein
+	[2425219:2426319:rev] hypothetical protein
+	[2426321:2427364:rev] radical SAM domain-containing protein
+<END>

@@ -1,0 +1,24 @@
+<GI> CP096019:1 <COORDINATES> 2521446-2590599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.298972; n0_4mer:D = 45.961208; n0_4mer:PS = -0.675871
+	[2521446:2522186:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; superoxide dismutase
+	[2522193:2523764:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; TrkH family potassium uptake protein
+	[2523761:2525089:rev] trkA; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0015079 - potassium ion transmembrane transporter activity [Evidence IEA]; GO_process: GO:0006813 - potassium ion transport [Evidence IEA]; Trk system potassium transporter TrkA
+	[2525253:2525807:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016787 - hydrolase activity [Evidence IEA]; NUDIX domain-containing protein
+	[2525895:2526080:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2526221:2526472:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; MTH865 family protein
+	[2526748:2526854:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Glu
+<END>
+<GI> CP096019:2 <COORDINATES> 3036000-3055099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.016839; n0_4mer:D = 43.681907; n0_4mer:PS = 29.974723
+
+<END>
+<GI> CP096019:3 <COORDINATES> 3332000-3560099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.586611; n0_4mer:D = 45.861105; n0_4mer:PS = -0.596828
+
+<END>
+<GI> CP096019:4 <COORDINATES> 3931500-3949099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.378440; n0_4mer:D = 43.573687; n0_4mer:PS = 29.485930
+
+<END>
+<GI> CP096019:5 <COORDINATES> 3958500-4165099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.494633; n0_4mer:D = 45.967515; n0_4mer:PS = -0.704340
+
+<END>
+<GI> CP096019:6 <COORDINATES> 4513000-4555099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.481082; n0_4mer:D = 45.917641; n0_4mer:PS = -0.617357
+
+<END>

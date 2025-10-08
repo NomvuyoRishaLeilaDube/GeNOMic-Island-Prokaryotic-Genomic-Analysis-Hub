@@ -1,0 +1,479 @@
+<GI> CP003929:1 <COORDINATES> 194698-214943 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.694087; n0_4mer:D = 31.257296; n0_4mer:PS = 19.210622
+	[194698:197625:dir] IMG reference gene:2506728918; PFAM: RNA polymerase Rpb1, domain 2; RNA polymerase Rpb1, domain 4; RNA polymerase Rpb1, domain 1; RNA polymerase Rpb1, domain 3; RNA polymerase Rpb1, domain 5; TIGRFAM: DNA-directed RNA polymerase subunit A'; DNA-directed RNA polymerase, subunit A'
+	[197618:198814:dir] IMG reference gene:2506728919; PFAM: RNA polymerase Rpb1, domain 5; TIGRFAM: DNA-directed RNA polymerase, subunit A''; DNA-directed RNA polymerase, subunit A'
+	[198818:199249:dir] IMG reference gene:2506728920; PFAM: KH domain; TIGRFAM: NusA family KH domain protein, archaeal; NusA family KH domain protein
+	[199386:199814:dir] IMG reference gene:2506728921; PFAM: Ribosomal protein S12; TIGRFAM: ribosomal protein S23 (S12); ribosomal protein S23
+	[199817:200425:dir] IMG reference gene:2506728922; PFAM: Ribosomal protein S7p/S5e; TIGRFAM: ribosomal protein S7(archaeal)/S5(eukaryotic); ribosomal protein S7/S5
+	[200471:202468:rev] IMG reference gene:2506728923; hypothetical protein
+	[202804:202929:dir] IMG reference gene:2506728924; hypothetical protein
+	[202931:204991:rev] IMG reference gene:2506728925; hypothetical protein
+	[205076:205777:rev] IMG reference gene:2506728926; manually curated; hypothetical protein
+	[205890:206648:rev] IMG reference gene:2506728927; hypothetical protein
+	[206851:209037:dir] IMG reference gene:2506728928; PFAM: Elongation factor Tu domain 2; Elongation factor G C-terminus; Elongation factor Tu GTP binding domain; Elongation factor G, domain IV; TIGRFAM: translation elongation factor aEF-2; small GTP-binding protein domain; translation elongation factor 2 (EF-2/EF-G)
+	[209317:210696:rev] IMG reference gene:2506728929; PFAM: Seryl-tRNA synthetase N-terminal domain; tRNA synthetase class II core domain (G, H, P, S and T); TIGRFAM: seryl-tRNA synthetase; seryl-tRNA synthetase
+	[210807:212039:dir] IMG reference gene:2506728930; PFAM: TrkA-C domain; PhoU domain; hypothetical protein
+	[212057:212197:rev] IMG reference gene:2506728931; hypothetical protein
+	[212403:212981:rev] IMG reference gene:2506728932; PFAM: Divalent cation transporter; cation transporter
+	[212981:213550:rev] IMG reference gene:2506728933; PFAM: Divalent cation transporter; cation transporter
+	[213755:213922:dir] IMG reference gene:2506728934; hypothetical protein
+	[213909:214943:dir] IMG reference gene:2506728935; PFAM: CBS domain; Divalent cation transporter; TIGRFAM: Mg2+ transporter (mgtE); Mg2+ transporter MgtE
+<END>
+<GI> CP003929:2 <COORDINATES> 298523-323797 <STAT> n1_4mer:GRV/n1_4mer:RV = 5.093248; n0_4mer:D = 44.858255; n0_4mer:PS = 24.615572
+	[298523:300934:dir] IMG reference gene:2506729022; PFAM: E1-E2 ATPase; Heavy-metal-associated domain; haloacid dehalogenase-like hydrolase; TIGRFAM: copper-(or silver)-translocating P-type ATPase; heavy metal translocating P-type ATPase; ATPase, P-type (transporting), HAD superfamily, subfamily IC; copper/silver-translocating P-type ATPase
+	[300935:301165:rev] IMG reference gene:2506729023; PFAM: Iron-binding zinc finger CDGSH type; iron-binding zinc finger protein, CDGSH type
+	[301306:301545:dir] IMG reference gene:2506729024; hypothetical protein
+	[301673:303172:dir] IMG reference gene:2506729025; PFAM: Amidase; amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit
+	[303222:303551:dir] IMG reference gene:2506729026; hypothetical protein
+	[303665:303784:rev] IMG reference gene:2506729027; hypothetical protein
+	[303904:304320:rev] IMG reference gene:2506729028; PFAM: Universal stress protein family; universal stress protein UspA-like protein
+	[304750:305355:dir] IMG reference gene:2506729029; PFAM: Protein of unknown function (DUF1326); hypothetical protein
+	[305441:306169:dir] IMG reference gene:2506729030; PFAM: Predicted metal-binding integral membrane protein (DUF2182); putative metal-binding integral membrane protein
+	[306588:307595:dir] IMG reference gene:2506729031; PFAM: Phage integrase, N-terminal SAM-like domain; Phage integrase family; manually curated; site-specific recombinase XerD
+	[307687:308640:dir] IMG reference gene:2506729032; hypothetical protein
+	[309364:311205:rev] IMG reference gene:2506729033; hypothetical protein
+	[311933:313246:dir] IMG reference gene:2506729034; hypothetical protein
+	[313856:313927:rev] IMG reference gene:2506729035; tRNA-Thr
+	[314085:314156:rev] IMG reference gene:2506729036; tRNA-Thr
+	[314231:314908:rev] IMG reference gene:2506729037; hypothetical protein
+	[314969:315667:dir] IMG reference gene:2506729038; PFAM: Enoyl-CoA hydratase/isomerase family; enoyl-CoA hydratase/carnithine racemase
+	[315734:316261:dir] IMG reference gene:2506729039; PFAM: Acetyltransferase (GNAT) family; acetyltransferase, ribosomal protein N-acetylase
+	[316282:317076:rev] IMG reference gene:2506729040; PFAM: NAD synthase; TIGRFAM: NAD+ synthetase; NH(3)-dependent NAD(+) synthetase
+	[317235:317305:dir] IMG reference gene:2506729041; tRNA-Gly
+	[317323:317493:rev] IMG reference gene:2506729042; hypothetical protein
+	[317618:318352:dir] IMG reference gene:2506729043; PFAM: Acetyltransferase (GNAT) family; sortase-like acyltransferase
+	[318374:319735:rev] IMG reference gene:2506729044; hypothetical protein
+	[319836:320081:rev] IMG reference gene:2506729045; hypothetical protein
+	[320196:321020:dir] IMG reference gene:2506729046; PFAM: ATP-NAD kinase; putative sugar kinase
+	[321021:321653:rev] IMG reference gene:2506729047; PFAM: DSBA-like thioredoxin domain; putative dithiol-disulfide isomerase involved in polyketide biosynthesis
+	[321716:322498:rev] IMG reference gene:2506729048; hypothetical protein
+	[322853:323797:rev] IMG reference gene:2506729049; PFAM: Predicted nucleotidyltransferase; putative nucleotidyltransferase
+<END>
+<GI> CP003929:3 <COORDINATES> 817312-842136 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.581908; n0_4mer:D = 35.655298; n0_4mer:PS = 25.269383
+	[817312:818934:rev] IMG reference gene:2506729562; PFAM: AMP-binding enzyme; acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+	[819035:820639:rev] IMG reference gene:2506729563; PFAM: AMP-binding enzyme; acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+	[821011:821082:dir] IMG reference gene:2506729564; tRNA-Ala
+	[821303:821482:rev] IMG reference gene:2506729565; hypothetical protein
+	[821559:822353:rev] IMG reference gene:2506729566; hypothetical protein
+	[822399:823331:rev] IMG reference gene:2506729567; PFAM: EamA-like transporter family; DMT(drug/metabolite transporter) superfamily permease
+	[823397:823564:rev] IMG reference gene:2506729568; hypothetical protein
+	[823565:824128:rev] IMG reference gene:2506729569; PFAM: SWIM zinc finger; zinc finger protein, SWIM type
+	[824240:824485:dir] IMG reference gene:2506729570; PFAM: Sugar-specific transcriptional regulator TrmB; response regulator of citrate/malate metabolism
+	[824798:825451:dir] IMG reference gene:2506729571; hypothetical protein
+	[825866:826873:rev] IMG reference gene:2506729572; PFAM: Phage integrase, N-terminal SAM-like domain; Phage integrase family; site-specific recombinase XerD
+	[827287:828270:dir] IMG reference gene:2506729573; hypothetical protein
+	[828504:829460:dir] IMG reference gene:2506729574; hypothetical protein
+	[829554:830560:rev] IMG reference gene:2506729575
+	[830712:831404:rev] IMG reference gene:2506729576
+	[831460:831789:dir] IMG reference gene:2506729577; hypothetical protein
+	[831786:832253:dir] IMG reference gene:2506729578
+	[832452:832805:dir] IMG reference gene:2506729579
+	[832993:833901:rev] IMG reference gene:2506729580; hypothetical protein
+	[834706:835023:dir] IMG reference gene:2506729581; hypothetical protein
+	[835339:835734:rev] IMG reference gene:2506729582; PFAM: PIN domain; putative nucleic acid-binding protein, contains PIN domain
+	[835731:835934:rev] IMG reference gene:2506729583; hypothetical protein
+	[836040:836915:rev] IMG reference gene:2506729584; hypothetical protein
+	[837050:839710:rev] IMG reference gene:2506729585; PFAM: DNA methylase; Protein of unknown function (DUF1156); adenine-specific DNA methylase containing a Zn-ribbon
+	[840041:841129:dir] IMG reference gene:2506729586; PFAM: Dehydrogenase E1 component; pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component alpha subunit
+	[841126:842136:dir] IMG reference gene:2506729587; PFAM: Transketolase, C-terminal domain; Transketolase, pyrimidine binding domain; pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component beta subunit
+<END>
+<GI> CP003929:4 <COORDINATES> 1020990-1044671 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.368524; n0_4mer:D = 31.938230; n0_4mer:PS = 22.387353
+	[1020990:1021970:dir] IMG reference gene:2506729777; PFAM: Pyridoxal-phosphate dependent enzyme; cysteine synthase
+	[1022004:1022183:rev] IMG reference gene:2506729778; hypothetical protein
+	[1022285:1022695:rev] IMG reference gene:2506729779; PFAM: CoA binding domain; putative CoA-binding protein
+	[1022738:1023349:rev] IMG reference gene:2506729780; RecA-superfamily ATPase possibly involved in signal transduction
+	[1023462:1024316:rev] IMG reference gene:2506729781; PFAM: UbiA prenyltransferase family; 4-hydroxybenzoate polyprenyltransferase-like prenyltransferase
+	[1024358:1024549:rev] IMG reference gene:2506729782; hypothetical protein
+	[1024730:1024804:dir] IMG reference gene:2506729783; tRNA-Arg
+	[1025220:1025399:dir] IMG reference gene:2506729784
+	[1025523:1026647:rev] IMG reference gene:2506729785; PFAM: Phage integrase family; site-specific recombinase XerC
+	[1026907:1027023:dir] IMG reference gene:2506729786; hypothetical protein
+	[1027142:1027804:dir] IMG reference gene:2506729787; hypothetical protein
+	[1027801:1028052:dir] IMG reference gene:2506729788; hypothetical protein
+	[1028064:1028684:dir] IMG reference gene:2506729789; hypothetical protein
+	[1028757:1029206:dir] IMG reference gene:2506729790; hypothetical protein
+	[1029539:1029964:dir] IMG reference gene:2506729791; PFAM: CBS domain; Mg/Co/Ni transporter MgtE with CBS domain
+	[1030241:1030909:rev] IMG reference gene:2506729792; PFAM: PhoU domain; TIGRFAM: phosphate transport system regulatory protein PhoU; phosphate uptake regulator, PhoU
+	[1031180:1031908:rev] IMG reference gene:2506729793; PFAM: Divalent cation transporter; Mg/Co/Ni transporter MgtE with CBS domain
+	[1031898:1032041:rev] IMG reference gene:2506729794; hypothetical protein
+	[1032807:1033241:rev] IMG reference gene:2506729795; PFAM: Universal stress protein family; universal stress protein UspA-like protein
+	[1033302:1034336:rev] IMG reference gene:2506729796; PFAM: Divalent cation transporter; CBS domain; TIGRFAM: Mg2+ transporter (mgtE); manually curated; Mg2+ transporter MgtE
+	[1034607:1035074:rev] IMG reference gene:2506729797
+	[1035287:1035435:rev] IMG reference gene:2506729798
+	[1035518:1036519:dir] IMG reference gene:2506729799; PFAM: Phage integrase family; manually curated; site-specific recombinase XerD
+	[1036585:1036689:dir] IMG reference gene:2506729800; hypothetical protein
+	[1036693:1037574:rev] IMG reference gene:2506729801; hypothetical protein
+	[1037754:1038763:rev] IMG reference gene:2506729802
+	[1039205:1039885:dir] IMG reference gene:2506729803; PFAM: Nucleotidyltransferase domain; putative nucleotidyltransferase
+	[1039888:1040382:dir] IMG reference gene:2506729804; hypothetical protein
+	[1040412:1040793:rev] IMG reference gene:2506729805
+	[1040826:1041458:dir] IMG reference gene:2506729806; hypothetical protein
+	[1041463:1042086:rev] IMG reference gene:2506729807; PFAM: MaoC like domain; acyl dehydratase
+	[1042175:1042999:rev] IMG reference gene:2506729808; putative hydrolase or acyltransferase of alpha/beta superfamily
+	[1043094:1044671:rev] IMG reference gene:2506729809; PFAM: Permease family; xanthine/uracil permease
+<END>
+<GI> CP003929:5 <COORDINATES> 1118602-1163099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.171452; n0_4mer:D = 38.353627; n0_4mer:PS = 27.366097
+	[1118602:1119954:rev] IMG reference gene:2506729888; hypothetical protein
+	[1119954:1120232:rev] IMG reference gene:2506729889; hypothetical protein
+	[1120232:1123705:rev] IMG reference gene:2506729890; hypothetical protein
+	[1123702:1125447:rev] IMG reference gene:2506729891; hypothetical protein
+	[1125460:1125978:rev] IMG reference gene:2506729892; hypothetical protein
+	[1126196:1126495:dir] IMG reference gene:2506729893; hypothetical protein
+	[1126996:1129857:dir] IMG reference gene:2506729894; PFAM: Restriction endonuclease; restriction endonuclease
+	[1130277:1131098:rev] IMG reference gene:2506729895; hypothetical protein
+	[1131250:1131768:rev] IMG reference gene:2506729896; hypothetical protein
+	[1131768:1132079:rev] IMG reference gene:2506729897; hypothetical protein
+	[1132080:1132373:rev] IMG reference gene:2506729898; hypothetical protein
+	[1132962:1133990:dir] IMG reference gene:2506729899; PFAM: Phage integrase family; site-specific recombinase XerD
+	[1134297:1134410:dir] IMG reference gene:2506729900; hypothetical protein
+	[1134442:1135959:rev] IMG reference gene:2506729901; hypothetical protein
+	[1136317:1140564:dir] IMG reference gene:2506729902; PFAM: N-6 DNA Methylase; Eco57I restriction endonuclease; type I restriction-modification system methyltransferase subunit
+	[1141505:1143229:rev] IMG reference gene:2506729903; PFAM: X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain; X-Pro dipeptidyl-peptidase (S15 family); TIGRFAM: putative hydrolase, CocE/NonD family; manually curated; putative acyl esterase
+	[1143598:1144986:rev] IMG reference gene:2506729904; PFAM: Archaeal ATPase; Archaea bacterial proteins of unknown function; putative ATPase (AAA+ superfamily)
+	[1145858:1145998:dir] IMG reference gene:2506729905; hypothetical protein
+	[1146488:1147834:rev] IMG reference gene:2506729906; PFAM: FAD binding domain; manually curated; 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase
+	[1147852:1148127:rev] IMG reference gene:2506729907; hypothetical protein
+	[1148234:1149091:rev] IMG reference gene:2506729908; PFAM: Uncharacterized protein conserved in archaea (DUF2250); hypothetical protein
+	[1149479:1149680:dir] IMG reference gene:2506729909
+	[1149683:1149853:dir] IMG reference gene:2506729910; manually curated; hypothetical protein
+	[1150038:1150877:rev] IMG reference gene:2506729911; hypothetical protein
+	[1150993:1151631:dir] IMG reference gene:2506729912; hypothetical protein
+	[1151972:1152223:dir] IMG reference gene:2506729913; hypothetical protein
+	[1152231:1152611:dir] IMG reference gene:2506729914; PFAM: PIN domain; putative nucleic acid-binding protein, contains PIN domain
+	[1152760:1152993:dir] IMG reference gene:2506729915; hypothetical protein
+	[1153154:1153830:rev] IMG reference gene:2506729916
+	[1153938:1154402:rev] IMG reference gene:2506729917; PFAM: Bacterial regulatory protein, arsR family; AsnC family; transcriptional regulator
+	[1155573:1157552:dir] IMG reference gene:2506729918; PFAM: Copper amine oxidase, N2 domain; Copper amine oxidase, N3 domain; Copper amine oxidase, enzyme domain; Cu2+-containing amine oxidase
+	[1157608:1158594:rev] IMG reference gene:2506729919; PFAM: TFIIB zinc-binding; Transcription factor TFIIB repeat; transcription initiation factor TFIIIB, Brf1 subunit/transcription initiation factor TFIIB
+	[1158955:1160922:rev] IMG reference gene:2506729920; PFAM: Domain of unknown function (DUF3448); AMP-binding enzyme; acyl-CoA synthetase/AMP-acid ligase
+	[1161313:1161849:dir] IMG reference gene:2506729921; PFAM: Domain of unknown function; putative transcriptional regulator, contains C-terminal CBS domains
+	[1161994:1162989:rev] IMG reference gene:2506729922; PFAM: Deoxyhypusine synthase; TIGRFAM: deoxyhypusine synthase; deoxyhypusine synthase
+<END>
+<GI> CP003929:6 <COORDINATES> 1188582-1267116 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.844178; n0_4mer:D = 41.438878; n0_4mer:PS = 27.447227
+	[1188582:1189919:dir] IMG reference gene:2506729950; PFAM: Polysaccharide deacetylase; Polysaccharide deacetylase
+	[1189990:1190211:dir] IMG reference gene:2506729951; hypothetical protein
+	[1190314:1191153:rev] IMG reference gene:2506729952; PFAM: Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily; putative ring-cleavage extradiol dioxygenase
+	[1192247:1192938:dir] IMG reference gene:2506729953
+	[1193075:1193905:rev] IMG reference gene:2506729954; glutaredoxin-like protein
+	[1194031:1195152:rev] IMG reference gene:2506729955; PFAM: Succinylglutamate desuccinylase / Aspartoacylase family; putative deacylase
+	[1195156:1195956:rev] IMG reference gene:2506729956; PFAM: D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain; D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain; phosphoglycerate dehydrogenase-like oxidoreductase
+	[1196042:1197388:rev] IMG reference gene:2506729957; PFAM: MmgE/PrpD family; uncharacterized protein involved in propionate catabolism
+	[1197773:1198192:rev] IMG reference gene:2506729958; PFAM: Universal stress protein family; manually curated; universal stress protein UspA-like protein
+	[1198235:1198999:rev] IMG reference gene:2506729959; PFAM: IclR helix-turn-helix domain; Bacterial transcriptional regulator; transcriptional regulator
+	[1199134:1200339:rev] IMG reference gene:2506729960; PFAM: Major Facilitator Superfamily; sugar phosphate permease
+	[1200469:1201284:dir] IMG reference gene:2506729961; PFAM: short chain dehydrogenase; dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like protein
+	[1201337:1202422:dir] IMG reference gene:2506729962; PFAM: Mandelate racemase / muconate lactonizing enzyme, C-terminal domain; Mandelate racemase / muconate lactonizing enzyme, N-terminal domain; enolase superfamily enzyme related to L-alanine-DL-glutamate epimerase
+	[1202710:1203714:dir] IMG reference gene:2506729963; PFAM: Tripartite tricarboxylate transporter family receptor; manually curated; hypothetical protein
+	[1203812:1204333:dir] IMG reference gene:2506729964; PFAM: Tripartite tricarboxylate transporter TctB family; hypothetical protein
+	[1204419:1205930:dir] IMG reference gene:2506729965; PFAM: Tripartite tricarboxylate transporter TctA family; hypothetical protein
+	[1206398:1207705:dir] IMG reference gene:2506729966; PFAM: Major Facilitator Superfamily; sugar phosphate permease
+	[1207908:1209425:rev] IMG reference gene:2506729967; PFAM: Tripartite tricarboxylate transporter TctA family; hypothetical protein
+	[1209426:1209980:rev] IMG reference gene:2506729968; hypothetical protein
+	[1210008:1211018:rev] IMG reference gene:2506729969; PFAM: Tripartite tricarboxylate transporter family receptor; hypothetical protein
+	[1211155:1212663:rev] IMG reference gene:2506729970; PFAM: Amidase; amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit
+	[1213933:1214600:rev] IMG reference gene:2506729971
+	[1214700:1215110:rev] IMG reference gene:2506729972
+	[1215111:1215788:rev] IMG reference gene:2506729973; transposase
+	[1216724:1218376:rev] IMG reference gene:2506729974; hypothetical protein
+	[1218507:1218791:rev] IMG reference gene:2506729975; hypothetical protein
+	[1219439:1219639:dir] IMG reference gene:2506729976; hypothetical protein
+	[1219832:1220170:dir] IMG reference gene:2506729977; hypothetical protein
+	[1220559:1222082:rev] IMG reference gene:2506729978; PFAM: FGGY family of carbohydrate kinases, N-terminal domain; FGGY family of carbohydrate kinases, C-terminal domain; pentulose/hexulose kinase
+	[1222117:1223445:rev] IMG reference gene:2506729979; PFAM: Class II Aldolase and Adducin N-terminal domain; TIGRFAM: L-ribulose-5-phosphate 4-epimerase; ribulose-5-phosphate 4-epimerase-like epimerase or aldolase
+	[1223518:1224696:rev] IMG reference gene:2506729980; PFAM: ABC transporter; TOBE domain; carbohydrate ABC transporter ATP-binding protein, CUT1 family
+	[1224696:1225766:rev] IMG reference gene:2506729981; PFAM: D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain; D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain; manually curated; phosphoglycerate dehydrogenase-like oxidoreductase
+	[1225852:1226724:rev] IMG reference gene:2506729982; PFAM: Binding-protein-dependent transport system inner membrane component; carbohydrate ABC transporter membrane protein 2, CUT1 family
+	[1226721:1227647:rev] IMG reference gene:2506729983; PFAM: Binding-protein-dependent transport system inner membrane component; carbohydrate ABC transporter membrane protein 1, CUT1 family
+	[1227675:1229048:rev] IMG reference gene:2506729984; PFAM: Bacterial extracellular solute-binding protein; manually curated; carbohydrate ABC transporter substrate-binding protein, CUT1 family
+	[1229314:1230828:dir] IMG reference gene:2506729985; PFAM: FGGY family of carbohydrate kinases, N-terminal domain; FGGY family of carbohydrate kinases, C-terminal domain; pentulose/hexulose kinase
+	[1230980:1232131:dir] IMG reference gene:2506729986; PFAM: Mandelate racemase / muconate lactonizing enzyme, C-terminal domain; Mandelate racemase / muconate lactonizing enzyme, N-terminal domain; enolase superfamily enzyme related to L-alanine-DL-glutamate epimerase
+	[1232280:1233062:dir] IMG reference gene:2506729987; PFAM: IclR helix-turn-helix domain; Bacterial transcriptional regulator; transcriptional regulator
+	[1233407:1234034:rev] IMG reference gene:2506729988
+	[1234239:1235586:rev] IMG reference gene:2506729989
+	[1235879:1237726:dir] IMG reference gene:2506729990; PFAM: Pentapeptide repeats (8 copies); Ion channel; putative low-complexity protein
+	[1237995:1238727:rev] IMG reference gene:2506729991
+	[1238925:1239704:dir] IMG reference gene:2506729992
+	[1239748:1240422:dir] IMG reference gene:2506729993; manually curated; transposase
+	[1240449:1241471:dir] IMG reference gene:2506729994; hypothetical protein
+	[1241865:1243208:rev] IMG reference gene:2506729995; PFAM: Cytochrome P450; cytochrome P450
+	[1243239:1244387:rev] IMG reference gene:2506729996; hypothetical protein
+	[1244500:1245348:dir] IMG reference gene:2506729997; PFAM: UbiA prenyltransferase family; 4-hydroxybenzoate polyprenyltransferase-like prenyltransferase
+	[1245812:1246333:dir] IMG reference gene:2506729998; hypothetical protein
+	[1246488:1247297:dir] IMG reference gene:2506729999; hypothetical protein
+	[1247576:1248191:rev] IMG reference gene:2506730000
+	[1248465:1249883:rev] IMG reference gene:2506730001; PFAM: HNH endonuclease; putative restriction endonuclease
+	[1250774:1251442:rev] IMG reference gene:2506730002; hypothetical protein
+	[1251523:1252596:rev] IMG reference gene:2506730003; hypothetical protein
+	[1253090:1254148:rev] IMG reference gene:2506730004; hypothetical protein
+	[1254300:1256548:dir] IMG reference gene:2506730005
+	[1256777:1257118:rev] IMG reference gene:2506730006; hypothetical protein
+	[1257207:1257725:rev] IMG reference gene:2506730007; PFAM: Sugar-specific transcriptional regulator TrmB; putative transcriptional regulator
+	[1258496:1260007:dir] IMG reference gene:2506730008; PFAM: SWIM zinc finger; hypothetical protein
+	[1260121:1261917:dir] IMG reference gene:2506730009; PFAM: ThiC family; TIGRFAM: thiamine biosynthesis protein ThiC; hydroxymethylpyrimidine synthase
+	[1262089:1262232:dir] IMG reference gene:2506730010; hypothetical protein
+	[1262233:1263462:dir] IMG reference gene:2506730011; PFAM: Helix-turn-helix domain; Putative transposase DNA-binding domain; Probable transposase; TIGRFAM: transposase, IS605 OrfB family, central region; transposase, IS605 OrfB family, central region
+	[1263476:1263901:rev] IMG reference gene:2506730012; hypothetical protein
+	[1264336:1264593:dir] IMG reference gene:2506730013; hypothetical protein
+	[1264597:1267116:rev] IMG reference gene:2506730014; PFAM: E1-E2 ATPase; Heavy-metal-associated domain; haloacid dehalogenase-like hydrolase; TIGRFAM: copper ion binding protein; heavy metal translocating P-type ATPase; ATPase, P-type (transporting), HAD superfamily, subfamily IC; heavy metal-(Cd/Co/Hg/Pb/Zn)-translocating P-type ATPase; heavy metal-translocating P-type ATPase, Cd/Co/Hg/Pb/Zn-transporting
+<END>
+<GI> CP003929:7 <COORDINATES> 1915500-1940527 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.519912; n0_4mer:D = 44.051708; n0_4mer:PS = 31.588500
+	[1915973:1916422:dir] IMG reference gene:2506730704
+	[1917271:1917557:dir] IMG reference gene:2506730705
+	[1917608:1919908:rev] IMG reference gene:2506730706; PFAM: E1-E2 ATPase; Heavy-metal-associated domain; haloacid dehalogenase-like hydrolase; TIGRFAM: heavy metal translocating P-type ATPase; ATPase, P-type (transporting), HAD superfamily, subfamily IC; heavy metal translocating P-type ATPase
+	[1920312:1920953:dir] IMG reference gene:2506730707; PFAM: Domain of unknown function (DUF305); hypothetical protein
+	[1921079:1921633:rev] IMG reference gene:2506730708; hypothetical protein
+	[1921630:1921938:rev] IMG reference gene:2506730709; hypothetical protein
+	[1921988:1922112:dir] IMG reference gene:2506730710
+	[1922179:1922445:dir] IMG reference gene:2506730711; hypothetical protein
+	[1923101:1924198:dir] IMG reference gene:2506730712; PFAM: Type I restriction enzyme R protein N terminus (HSDR_N); hypothetical protein
+	[1924288:1924935:dir] IMG reference gene:2506730713; hypothetical protein
+	[1924986:1926125:rev] IMG reference gene:2506730714; hypothetical protein
+	[1927017:1927096:dir] IMG reference gene:2506730715; tRNA-Met
+	[1927224:1928261:dir] IMG reference gene:2506730716; hypothetical protein
+	[1928295:1929062:dir] IMG reference gene:2506730717; hypothetical protein
+	[1929073:1929786:dir] IMG reference gene:2506730718; hypothetical protein
+	[1930196:1930438:rev] IMG reference gene:2506730719; hypothetical protein
+	[1930642:1931307:dir] IMG reference gene:2506730720; PFAM: Glycosyl transferase family 2; glycosyl transferase
+	[1931361:1931747:dir] IMG reference gene:2506730721; PFAM: Pyridoxamine 5'-phosphate oxidase; putative flavin-nucleotide-binding protein
+	[1931777:1932820:rev] IMG reference gene:2506730722; PFAM: Deoxyhypusine synthase; TIGRFAM: deoxyhypusine synthase; deoxyhypusine synthase
+	[1932919:1933770:rev] IMG reference gene:2506730723; hypothetical protein
+	[1934058:1934831:rev] IMG reference gene:2506730724; PFAM: NIF3 (NGG1p interacting factor 3); TIGRFAM: dinuclear metal center protein, YbgI/SA1388 family; dinuclear metal center protein, YbgI/SA1388 family
+	[1934881:1935372:rev] IMG reference gene:2506730725; PFAM: Universal stress protein family; universal stress protein UspA-like protein
+	[1935497:1937971:rev] IMG reference gene:2506730726; PFAM: Cytochrome c oxidase subunit III; Cytochrome C and Quinol oxidase polypeptide I; heme/copper-type cytochrome/quinol oxidase, subunit 1
+	[1938217:1938867:rev] IMG reference gene:2506730727; PFAM: Methyltransferase domain; methyltransferase family protein
+	[1938983:1939177:rev] IMG reference gene:2506730728; PFAM: 'Cold-shock' DNA-binding domain; cold shock protein
+	[1939287:1940192:dir] IMG reference gene:2506730729; PFAM: Acetamidase/Formamidase family; putative acetamidase/formamidase
+	[1940189:1940527:rev] IMG reference gene:2506730730; hypothetical protein
+<END>
+<GI> CP003929:8 <COORDINATES> 2179191-2229461 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.317184; n0_4mer:D = 46.658616; n0_4mer:PS = 33.917932
+	[2179191:2179616:dir] IMG reference gene:2506730973; PFAM: Response regulator receiver domain; response regulator with CheY-like receiver domain and winged-helix DNA-binding domain
+	[2179909:2180184:dir] IMG reference gene:2506730974; hypothetical protein
+	[2180177:2180356:dir] IMG reference gene:2506730975; hypothetical protein
+	[2180406:2180840:rev] IMG reference gene:2506730976; PFAM: Protein of unknown function, DUF393; Protein of unknown function, DUF393
+	[2180989:2182230:dir] IMG reference gene:2506730977; hypothetical protein
+	[2182425:2183603:dir] IMG reference gene:2506730978; PFAM: DegT/DnrJ/EryC1/StrS aminotransferase family; putative PLP-dependent enzyme possibly involved in cell wall biogenesis
+	[2183625:2183729:rev] IMG reference gene:2506730979; hypothetical protein
+	[2183970:2184854:dir] IMG reference gene:2506730980; PFAM: CAAX amino terminal protease family; CAAX amino terminal protease family
+	[2185502:2186572:dir] IMG reference gene:2506730981; PFAM: Phage integrase, N-terminal SAM-like domain; Phage integrase family; site-specific recombinase XerD
+	[2186882:2186974:dir] IMG reference gene:2506730982; hypothetical protein
+	[2186967:2187797:dir] IMG reference gene:2506730983; PFAM: Protein of unknown function DUF45; putative metal-dependent hydrolase
+	[2188392:2188538:rev] IMG reference gene:2506730984; hypothetical protein
+	[2189838:2191220:rev] IMG reference gene:2506730985; hypothetical protein
+	[2192051:2192161:dir] IMG reference gene:2506730986; hypothetical protein
+	[2192335:2193630:rev] IMG reference gene:2506730987; PFAM: DNA methylase; DNA modification methylase
+	[2193746:2194777:rev] IMG reference gene:2506730988; hypothetical protein
+	[2194777:2196978:rev] IMG reference gene:2506730989; hypothetical protein
+	[2197410:2198099:dir] IMG reference gene:2506730990; PFAM: Resolvase, N terminal domain; site-specific recombinase, DNA invertase Pin
+	[2199519:2200508:dir] IMG reference gene:2506730991; hypothetical protein
+	[2201562:2202023:dir] IMG reference gene:2506730992; hypothetical protein
+	[2202098:2202883:rev] IMG reference gene:2506730993; PFAM: Protein of unknown function (DUF2971); Protein of unknown function (DUF2971)
+	[2203055:2205199:rev] IMG reference gene:2506730994; PFAM: D5 N terminal like; TIGRFAM: phage/plasmid primase, P4 family, C-terminal domain; phage/plasmid primase, P4 family, C-terminal domain protein
+	[2205878:2206015:rev] IMG reference gene:2506730995; hypothetical protein
+	[2206012:2206170:rev] IMG reference gene:2506730996; hypothetical protein
+	[2206167:2207084:rev] IMG reference gene:2506730997; hypothetical protein
+	[2207247:2207342:dir] IMG reference gene:2506730998; hypothetical protein
+	[2207525:2207830:rev] IMG reference gene:2506730999; hypothetical protein
+	[2208175:2208435:rev] IMG reference gene:2506731000; hypothetical protein
+	[2208428:2208811:rev] IMG reference gene:2506731001; hypothetical protein
+	[2208958:2209263:rev] IMG reference gene:2506731002; hypothetical protein
+	[2209828:2210022:rev] IMG reference gene:2506731003; PFAM: mttA/Hcf106 family; TIGRFAM: twin arginine-targeting protein translocase, TatA/E family; twin arginine-targeting protein translocase, TatA/E family
+	[2210073:2210660:rev] IMG reference gene:2506731004; hypothetical protein
+	[2211881:2212990:rev] IMG reference gene:2506731005; hypothetical protein
+	[2213034:2214128:rev] IMG reference gene:2506731006; hypothetical protein
+	[2214125:2214913:rev] IMG reference gene:2506731007; hypothetical protein
+	[2215541:2215753:rev] IMG reference gene:2506731008; hypothetical protein
+	[2215750:2217813:rev] IMG reference gene:2506731009; hypothetical protein
+	[2217957:2218169:rev] IMG reference gene:2506731010; hypothetical protein
+	[2218281:2218982:rev] IMG reference gene:2506731011; hypothetical protein
+	[2219065:2219676:rev] IMG reference gene:2506731012; hypothetical protein
+	[2219836:2219979:dir] IMG reference gene:2506731013
+	[2220002:2220130:dir] IMG reference gene:2506731014; hypothetical protein
+	[2220399:2220471:rev] IMG reference gene:2506731015; tRNA-Arg
+	[2220544:2220858:rev] IMG reference gene:2506731016; hypothetical protein
+	[2220953:2221852:rev] IMG reference gene:2506731017; PFAM: NAD binding domain of 6-phosphogluconate dehydrogenase; 6-phosphogluconate dehydrogenase, C-terminal domain; TIGRFAM: 6-phosphogluconate dehydrogenase (decarboxylating); manually curated; 6-phosphogluconate dehydrogenase, decarboxylating
+	[2221967:2222398:rev] IMG reference gene:2506731018; hypothetical protein
+	[2222477:2222941:rev] IMG reference gene:2506731019; hypothetical protein
+	[2222989:2223543:rev] IMG reference gene:2506731020; hypothetical protein
+	[2223651:2224250:dir] IMG reference gene:2506731021; hypothetical protein
+	[2224264:2224716:rev] IMG reference gene:2506731022; putative ring-cleavage extradiol dioxygenase
+	[2225069:2225551:rev] IMG reference gene:2506731023; PFAM: dUTPase; deoxycytidine deaminase
+	[2225804:2227759:dir] IMG reference gene:2506731024; PFAM: Aconitase C-terminal domain; Aconitase family (aconitate hydratase); TIGRFAM: aconitate hydratase, putative, Aquifex type; aconitase
+	[2227903:2228463:dir] IMG reference gene:2506731025; PFAM: Predicted membrane-bound metal-dependent hydrolase (DUF457); putative membrane-bound metal-dependent hydrolase (DUF457)
+	[2228541:2229461:dir] IMG reference gene:2506731026; PFAM: Luciferase-like monooxygenase; TIGRFAM: luciferase-type oxidoreductase, BA3436 family; luciferase-type oxidoreductase, BA3436 family
+<END>
+<GI> CP003929:9 <COORDINATES> 2426372-2446036 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.543437; n0_4mer:D = 30.099404; n0_4mer:PS = 22.115970
+	[2426372:2427367:rev] IMG reference gene:2506731244; PFAM: ABC transporter; ABC-type multidrug transport system, ATPase component
+	[2427345:2428211:rev] IMG reference gene:2506731245; PFAM: CAAX amino terminal protease family; putative metal-dependent membrane protease
+	[2428589:2429602:dir] IMG reference gene:2506731246; PFAM: ABC transporter; ABC-type multidrug transport system, ATPase component
+	[2429629:2430402:dir] IMG reference gene:2506731247; PFAM: ABC-2 type transporter; ABC-2 type transporter
+	[2430803:2431603:dir] IMG reference gene:2506731248; PFAM: SWIM zinc finger; hypothetical protein
+	[2431836:2432437:dir] IMG reference gene:2506731249
+	[2432415:2432678:dir] IMG reference gene:2506731250; hypothetical protein
+	[2432783:2432858:rev] IMG reference gene:2506731251; tRNA-Cys
+	[2433036:2433155:rev] IMG reference gene:2506731252; 5S ribosomal RNA
+	[2433274:2436186:rev] IMG reference gene:2506731253; 23S ribosomal RNA
+	[2436424:2436495:rev] IMG reference gene:2506731254; tRNA-Ala
+	[2436742:2438103:rev] IMG reference gene:2506731255; 16S ribosomal RNA
+	[2438524:2439330:rev] IMG reference gene:2506731256; PFAM: Creatinine amidohydrolase; uncharacterized protein, putative amidase
+	[2439455:2439892:dir] IMG reference gene:2506731257; PFAM: Ribbon-helix-helix protein, copG family; NikR C terminal nickel binding domain; TIGRFAM: nickel-responsive transcriptional regulator NikR; putative transcriptional regulator with CopG/Arc/MetJ DNA-binding domain and metal-binding domain
+	[2439934:2440311:dir] IMG reference gene:2506731258; PFAM: Cupin domain; cupin domain-containing protein
+	[2440356:2442362:rev] IMG reference gene:2506731259; hypothetical protein
+	[2442430:2442656:dir] IMG reference gene:2506731260
+	[2442717:2443370:dir] IMG reference gene:2506731261; PFAM: KDPG and KHG aldolase; TIGRFAM: Entner-Doudoroff aldolase; 2-keto-3-deoxy-phosphogluconate aldolase
+	[2443568:2444638:dir] IMG reference gene:2506731262; PFAM: Alcohol dehydrogenase GroES-like domain; theronine dehydrogenase-like Zn-dependent dehydrogenase
+	[2444798:2446036:dir] IMG reference gene:2506731263; PFAM: Mandelate racemase / muconate lactonizing enzyme, C-terminal domain; Mandelate racemase / muconate lactonizing enzyme, N-terminal domain; enolase superfamily enzyme related to L-alanine-DL-glutamate epimerase
+<END>
+<GI> CP003929:10 <COORDINATES> 2893620-2948214 <STAT> n1_4mer:GRV/n1_4mer:RV = 5.929573; n0_4mer:D = 45.952691; n0_4mer:PS = 29.490778
+	[2893620:2895504:dir] IMG reference gene:2506731709
+	[2895911:2896258:rev] IMG reference gene:2506731710; hypothetical protein
+	[2896493:2897197:dir] IMG reference gene:2506731711; hypothetical protein
+	[2897379:2898218:dir] IMG reference gene:2506731712; PFAM: Succinylglutamate desuccinylase / Aspartoacylase family; putative deacylase
+	[2898345:2899811:rev] IMG reference gene:2506731713; PFAM: Polysaccharide biosynthesis protein; membrane protein involved in the export of O-antigen and teichoic acid
+	[2899904:2901175:dir] IMG reference gene:2506731714; PFAM: Asparagine synthase; asparagine synthase (glutamine-hydrolyzing)
+	[2901428:2902366:dir] IMG reference gene:2506731715; PFAM: Glycosyl transferase family 2; glycosyl transferase
+	[2902398:2903348:dir] IMG reference gene:2506731716; PFAM: Glycosyl transferase family 2; glycosyl transferase
+	[2903440:2904261:dir] IMG reference gene:2506731717; hypothetical protein
+	[2904287:2905750:rev] IMG reference gene:2506731718; PFAM: Polysaccharide biosynthesis protein; membrane protein involved in the export of O-antigen and teichoic acid
+	[2905858:2906592:rev] IMG reference gene:2506731719; hypothetical protein
+	[2906644:2907930:rev] IMG reference gene:2506731720; PFAM: Polysaccharide pyruvyl transferase; hypothetical protein
+	[2908057:2908243:rev] IMG reference gene:2506731721
+	[2908420:2909226:rev] IMG reference gene:2506731722; hypothetical protein
+	[2909288:2909491:rev] IMG reference gene:2506731723; hypothetical protein
+	[2910159:2910893:rev] IMG reference gene:2506731724; PFAM: Nucleotidyl transferase; TIGRFAM: glucose-1-phosphate thymidylylransferase, long form; dTDP-glucose pyrophosphorylase
+	[2911088:2911650:rev] IMG reference gene:2506731725
+	[2911922:2913190:rev] IMG reference gene:2506731726; PFAM: Subtilase family; subtilisin-like serine protease
+	[2913648:2914058:rev] IMG reference gene:2506731727
+	[2914139:2914321:rev] IMG reference gene:2506731728; hypothetical protein
+	[2914976:2915242:rev] IMG reference gene:2506731729; hypothetical protein
+	[2915767:2916825:rev] IMG reference gene:2506731730
+	[2916868:2917587:rev] IMG reference gene:2506731731
+	[2918225:2919118:dir] IMG reference gene:2506731732; PFAM: Polysaccharide deacetylase; putative xylanase/chitin deacetylase
+	[2919121:2920353:dir] IMG reference gene:2506731733; hypothetical protein
+	[2920464:2921423:dir] IMG reference gene:2506731734; PFAM: Glycosyl transferases group 1; glycosyltransferase
+	[2921420:2922403:dir] IMG reference gene:2506731735; PFAM: Glycosyl transferases group 1; glycosyltransferase
+	[2922409:2923110:dir] IMG reference gene:2506731736; hypothetical protein
+	[2923194:2925137:dir] IMG reference gene:2506731737; hypothetical protein
+	[2925308:2925756:rev] IMG reference gene:2506731738
+	[2925803:2926660:dir] IMG reference gene:2506731739
+	[2927205:2928092:dir] IMG reference gene:2506731740; hypothetical protein
+	[2928168:2929190:dir] IMG reference gene:2506731741; PFAM: Polysaccharide pyruvyl transferase; hypothetical protein
+	[2929209:2930711:dir] IMG reference gene:2506731742; PFAM: Polysaccharide biosynthesis protein; membrane protein involved in the export of O-antigen and teichoic acid
+	[2930944:2932230:dir] IMG reference gene:2506731743; PFAM: UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain; UDP-glucose/GDP-mannose dehydrogenase family, central domain; UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain; TIGRFAM: nucleotide sugar dehydrogenase; nucleotide sugar dehydrogenase
+	[2932243:2933142:rev] IMG reference gene:2506731744; hypothetical protein
+	[2933167:2933886:rev] IMG reference gene:2506731745; hypothetical protein
+	[2933883:2934764:rev] IMG reference gene:2506731746; hypothetical protein
+	[2934761:2935153:rev] IMG reference gene:2506731747; hypothetical protein
+	[2935943:2936185:rev] IMG reference gene:2506731748
+	[2936320:2936946:rev] IMG reference gene:2506731749; hypothetical protein
+	[2937703:2937945:dir] IMG reference gene:2506731750; hypothetical protein
+	[2938067:2938723:rev] IMG reference gene:2506731751; hypothetical protein
+	[2939115:2940335:rev] IMG reference gene:2506731752; PFAM: ATPase family associated with various cellular activities (AAA); CDC6, C terminal; TIGRFAM: orc1/cdc6 family replication initiation protein; orc1/cdc6 family replication initiation protein
+	[2940653:2940946:rev] IMG reference gene:2506731753
+	[2941249:2942823:dir] IMG reference gene:2506731754; PFAM: Polysaccharide biosynthesis protein; membrane protein involved in the export of O-antigen and teichoic acid
+	[2942931:2943089:rev] IMG reference gene:2506731755; hypothetical protein
+	[2944115:2944438:rev] IMG reference gene:2506731756; hypothetical protein
+	[2944809:2944994:rev] IMG reference gene:2506731757; hypothetical protein
+	[2945158:2945610:dir] IMG reference gene:2506731758; hypothetical protein
+	[2945914:2946300:dir] IMG reference gene:2506731759; hypothetical protein
+	[2946293:2946559:rev] IMG reference gene:2506731760; hypothetical protein
+	[2947378:2948214:rev] IMG reference gene:2506731761; hypothetical protein
+<END>
+<GI> CP003929:11 <COORDINATES> 2961346-2983099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.360418; n0_4mer:D = 32.600384; n0_4mer:PS = 41.886953
+	[2961346:2962566:rev] IMG reference gene:2506731772; PFAM: ATPase family associated with various cellular activities (AAA); CDC6, C terminal; TIGRFAM: orc1/cdc6 family replication initiation protein; orc1/cdc6 family replication initiation protein
+	[2962714:2963028:rev] IMG reference gene:2506731773; hypothetical protein
+	[2963918:2964391:rev] IMG reference gene:2506731774; hypothetical protein
+	[2964924:2965016:rev] IMG reference gene:2506731775; hypothetical protein
+	[2965307:2965876:dir] IMG reference gene:2506731776; hypothetical protein
+	[2966458:2967642:dir] IMG reference gene:2506731777; PFAM: Predicted permease; cell division protein
+	[2967772:2967924:dir] IMG reference gene:2506731778; hypothetical protein
+	[2968447:2970048:dir] IMG reference gene:2506731779; hypothetical protein
+	[2970275:2971003:dir] IMG reference gene:2506731780; PFAM: Methyltransferase domain; methylase involved in ubiquinone/menaquinone biosynthesis
+	[2971188:2971472:rev] IMG reference gene:2506731781
+	[2971708:2972919:dir] IMG reference gene:2506731782; hypothetical protein
+	[2973051:2974508:dir] IMG reference gene:2506731783; PFAM: Bacterial sugar transferase; glycosyl transferase possibly involved in lipopolysaccharide synthesis
+	[2974690:2975817:dir] IMG reference gene:2506731784; PFAM: Glycosyl transferases group 1; glycosyltransferase
+	[2975914:2976645:rev] IMG reference gene:2506731785; thymidylate kinase
+	[2976680:2977783:rev] IMG reference gene:2506731786; PFAM: Glycosyl transferases group 1; glycosyltransferase
+	[2977834:2978799:rev] IMG reference gene:2506731787; PFAM: Glycosyl transferase family 2; glycosyl transferase
+	[2978971:2979642:dir] IMG reference gene:2506731788; hypothetical protein
+	[2979710:2981173:rev] IMG reference gene:2506731789; PFAM: Polysaccharide biosynthesis protein; membrane protein involved in the export of O-antigen and teichoic acid
+	[2981197:2982405:rev] IMG reference gene:2506731790; hypothetical protein
+<END>
+<GI> CP003929:12 <COORDINATES> 3014591-3042349 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.756267; n0_4mer:D = 36.723310; n0_4mer:PS = 32.286130
+	[3014591:3015193:rev] IMG reference gene:2506731818; hypothetical protein
+	[3015893:3016309:rev] IMG reference gene:2506731819; putative transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain
+	[3016537:3016668:dir] IMG reference gene:2506731820; hypothetical protein
+	[3016851:3017192:rev] IMG reference gene:2506731821; manually curated; hypothetical protein
+	[3017386:3017478:dir] IMG reference gene:2506731822; hypothetical protein
+	[3018206:3018732:dir] IMG reference gene:2506731823
+	[3018882:3019688:dir] IMG reference gene:2506731824; PFAM: IclR helix-turn-helix domain; Bacterial transcriptional regulator; transcriptional regulator
+	[3019971:3022541:dir] IMG reference gene:2506731825; PFAM: Glycine cleavage T-protein C-terminal barrel domain; Aminomethyltransferase folate-binding domain; FAD dependent oxidoreductase; manually curated; glycine cleavage system T protein (aminomethyltransferase)
+	[3022611:3023864:dir] IMG reference gene:2506731826; PFAM: Pyridoxal-phosphate dependent enzyme; TIGRFAM: threonine dehydratase, medium form; threonine dehydratase, medium form
+	[3023919:3024308:rev] IMG reference gene:2506731827; PFAM: Endoribonuclease L-PSP; TIGRFAM: endoribonuclease L-PSP, putative; endoribonuclease L-PSP, putative
+	[3024446:3025696:dir] IMG reference gene:2506731828; PFAM: Serine hydroxymethyltransferase; glycine/serine hydroxymethyltransferase
+	[3026025:3026681:dir] IMG reference gene:2506731829; PFAM: HTH DNA binding domain; manually curated; putative DNA binding protein
+	[3026684:3027922:rev] IMG reference gene:2506731830; PFAM: Membrane dipeptidase (Peptidase family M19); Zn-dependent dipeptidase, microsomal dipeptidase
+	[3028587:3030185:dir] IMG reference gene:2506731831; PFAM: BCCT family transporter; TIGRFAM: choline/carnitine/betaine transport; choline/carnitine/betaine transport
+	[3030461:3031240:rev] IMG reference gene:2506731832; PFAM: Creatinine amidohydrolase; uncharacterized protein, putative amidase
+	[3031406:3031843:rev] IMG reference gene:2506731833; PFAM: Universal stress protein family; manually curated; universal stress protein UspA-like protein
+	[3031860:3032443:rev] IMG reference gene:2506731834
+	[3032936:3034171:dir] IMG reference gene:2506731835; PFAM: Peptidase family M20/M25/M40; Peptidase dimerisation domain; TIGRFAM: amidase, hydantoinase/carbamoylase family; amidase, hydantoinase/carbamoylase family
+	[3034172:3035515:rev] IMG reference gene:2506731836; PFAM: Peptidase family M20/M25/M40; Peptidase dimerisation domain; TIGRFAM: amidohydrolase; amidohydrolase
+	[3035606:3036322:dir] IMG reference gene:2506731837; hypothetical protein
+	[3036324:3037061:dir] IMG reference gene:2506731838; hypothetical protein
+	[3037206:3037736:dir] IMG reference gene:2506731839; transposase
+	[3038057:3039109:dir] IMG reference gene:2506731840; PFAM: Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase; His Kinase A (phosphoacceptor) domain; PAS fold; TIGRFAM: PAS domain S-box; PAS/PAC sensor signal transduction histidine kinase
+	[3039407:3040309:dir] IMG reference gene:2506731841; hypothetical protein
+	[3040368:3041132:dir] IMG reference gene:2506731842; PFAM: IclR helix-turn-helix domain; Bacterial transcriptional regulator; transcriptional regulator
+	[3041141:3042349:rev] IMG reference gene:2506731843; PFAM: Uncharacterised protein family (UPF0261); hypothetical protein
+<END>
+<GI> CP003929:13 <COORDINATES> 3467905-3485853 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.483271; n0_4mer:D = 29.921571; n0_4mer:PS = 23.602144
+	[3467905:3468780:rev] IMG reference gene:2506732255; hypothetical protein
+	[3469110:3470063:dir] IMG reference gene:2506732256; PFAM: Protein of unknown function (DUF1616); putative membrane protein
+	[3470240:3470875:dir] IMG reference gene:2506732257; transposase
+	[3471843:3473015:rev] IMG reference gene:2506732258; hypothetical protein
+	[3473464:3473676:rev] IMG reference gene:2506732259; hypothetical protein
+	[3474100:3474504:dir] IMG reference gene:2506732260
+	[3474665:3475540:rev] IMG reference gene:2506732261; transcriptional regulator
+	[3476071:3476829:dir] IMG reference gene:2506732262; PFAM: ABC transporter; ABC-type antimicrobial peptide transport system, ATPase component
+	[3476819:3477352:dir] IMG reference gene:2506732263; hypothetical protein
+	[3477358:3479169:rev] IMG reference gene:2506732264; PFAM: ABC transporter; ABC-type multidrug transport system, ATPase and permease component
+	[3479366:3480001:rev] IMG reference gene:2506732265; PFAM: Transposase IS66 family; transposase
+	[3480010:3480624:dir] IMG reference gene:2506732266
+	[3480809:3481840:rev] IMG reference gene:2506732267; PFAM: Glycosyl transferase family 2; putative glycosyltransferase
+	[3482030:3483178:dir] IMG reference gene:2506732268; PFAM: Glycosyl transferases group 1; glycosyltransferase
+	[3483286:3484716:dir] IMG reference gene:2506732269; PFAM: O-Antigen ligase; lipid A core-O-antigen ligase-like enyme
+	[3484741:3485853:rev] IMG reference gene:2506732270; hypothetical protein
+<END>
+<GI> CP003929:14 <COORDINATES> 3492000-3510675 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.245948; n0_4mer:D = 29.830375; n0_4mer:PS = 14.502375
+	[3492207:3493169:dir] IMG reference gene:2506732276; PFAM: NAD dependent epimerase/dehydratase family; nucleoside-diphosphate-sugar epimerase
+	[3493278:3494384:dir] IMG reference gene:2506732277; PFAM: Glycosyl transferases group 1; glycosyltransferase
+	[3494775:3495737:dir] IMG reference gene:2506732278; PFAM: Glycosyl transferase family 8; LPS:glycosyltransferase
+	[3496061:3497081:dir] IMG reference gene:2506732279
+	[3497334:3498332:dir] IMG reference gene:2506732280
+	[3498387:3498596:rev] IMG reference gene:2506732281; hypothetical protein
+	[3498672:3499775:rev] IMG reference gene:2506732282; transposase
+	[3500021:3501007:rev] IMG reference gene:2506732283; PFAM: Glycosyl transferase family 2; glycosyl transferase
+	[3501117:3501941:dir] IMG reference gene:2506732284; PFAM: Bacitracin resistance protein BacA; putative bacitracin resistance protein
+	[3501967:3503040:rev] IMG reference gene:2506732285; PFAM: Bacterial sugar transferase; glycosyl transferase possibly involved in lipopolysaccharide synthesis
+	[3503396:3504061:rev] IMG reference gene:2506732286
+	[3504325:3504848:rev] IMG reference gene:2506732287
+	[3504967:3505104:rev] IMG reference gene:2506732288; hypothetical protein
+	[3505330:3506099:rev] IMG reference gene:2506732289
+	[3507698:3508882:dir] IMG reference gene:2506732290; PFAM: Nucleotidyl transferase; Bacterial transferase hexapeptide (three repeats); Nucleoside-diphosphate-sugar pyrophosphorylase family protein
+	[3508882:3510675:dir] IMG reference gene:2506732291; PFAM: SIS domain; Glutamine amidotransferases class-II; TIGRFAM: glucosamine--fructose-6-phosphate aminotransferase (isomerizing); glucosamine--fructose-6-phosphate aminotransferase, isomerizing
+<END>
+<GI> CP003929:15 <COORDINATES> 4007731-4044099 <STAT> n1_4mer:GRV/n1_4mer:RV = 9.750957; n0_4mer:D = 35.037358; n0_4mer:PS = 14.570305
+	[4007731:4009335:dir] IMG reference gene:2506732786; PFAM: Binding-protein-dependent transport system inner membrane component; ABC-type Fe3+ transport system, permease component
+	[4009473:4010051:dir] IMG reference gene:2506732787; hypothetical protein
+	[4010048:4010830:rev] IMG reference gene:2506732788; hypothetical protein
+	[4010830:4010919:rev] IMG reference gene:2506732789; hypothetical protein
+	[4011077:4012075:rev] IMG reference gene:2506732790; PFAM: Zn-ribbon containing protein (DUF2072); Zn-ribbon containing protein (DUF2072)
+	[4012075:4012476:rev] IMG reference gene:2506732791; PFAM: Uncharacterized protein conserved in archaea (DUF2073); hypothetical protein
+	[4012483:4013121:rev] IMG reference gene:2506732792; PFAM: GTPase of unknown function; TIGRFAM: small GTP-binding protein domain; small GTP-binding protein
+<END>
+<GI> CP003929:16 <COORDINATES> 4198500-4224099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.779063; n0_4mer:D = 28.243555; n0_4mer:PS = 20.355707
+
+<END>
+<GI> CP003929:17 <COORDINATES> 4245500-4267599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.200990; n0_4mer:D = 32.945149; n0_4mer:PS = 26.690218
+
+<END>

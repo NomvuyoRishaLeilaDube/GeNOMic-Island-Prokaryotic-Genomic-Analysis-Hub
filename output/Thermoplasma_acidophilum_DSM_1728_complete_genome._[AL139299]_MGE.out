@@ -1,0 +1,203 @@
+<GI> AL139299:1 <COORDINATES> 271930-298086 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.997401; n0_4mer:D = 30.084856; n0_4mer:PS = 17.266227
+	[271930:272151:dir] Ta0262; no similarity; hypothetical protein
+	[272307:273338:dir] Ta0263; similarity to known protein: dipeptide ABC transporter, permease protein (dppB) homolog - Archaeoglobus fulgidus; PIR:G69470; dipeptide transport system permease protein (DPPB) related protein
+	[273467:274264:dir] Ta0264; strong similarity to known protein: dipeptide transport system permease protein dppC - Escherichia coli; PIR2:S47764; probable dipeptide transport system permease protein dppC
+	[274275:275240:dir] Ta0265; strong similarity to known protein: oligopeptide transport ATP-binding protein oppD - Escherichia coli; PIR:A64872; probable sporulation protein (spo0KD)
+	[275233:276177:dir] Ta0266; similarity to known protein: oligopeptide transport ATP-binding protein appF - Bacillus subtilis; PIR2:I40544; oligopeptide transport ATP-binding protein appF related protein
+	[276209:276571:dir] Ta0267; no similarity; hypothetical protein
+	[276690:277685:dir] Ta0268; similarity to known protein: M.mazei orfA, orfB, and orfC of archaeal ABC-transporter system; TREMBL:MMABCTRAN_2; ABC-transporter (orf B) related protein
+	[277658:279808:dir] Ta0269; similarity to known protein: M.mazei orfA, orfB, and orfC of archaeal ABC-transporter system; TREMBL:MMABCTRAN_3; ABC-transporter (orf C) related protein
+	[279864:281978:dir] Ta0270; similarity to known protein: Bacillus subtilis spo0K operon; TREMBL:BSSPOOK_5; sporulation protein (spo0KD) related protein
+	[281953:282294:dir] Ta0271; no similarity; hypothetical membrane protein
+	[283293:287243:dir] Ta0272; no similarity; hypothetical membrane protein
+	[287492:287869:dir] Ta0273; no similarity; hypothetical protein
+	[287921:288223:dir] Ta0274; no similarity; hypothetical protein
+	[288720:290870:dir] Ta0275; no similarity; hypothetical protein
+	[290965:291897:rev] Ta0276; similarity to known protein: Homo sapiens mRNA for MOCS1A & MOCS1B proteins, complete CDSs; TREMBL:HSAJ4328_1; molybdenum cofactor synthesis-step 1 (MOCS1) related protein
+	[291967:292506:rev] Ta0277; weak similarity to known protein. Relation: weak similarity to diamine N-acetyltransferase (EC 2.3.1.57) - Escherichia coli, PIR2:A55345.; hypothetical protein
+	[292538:292861:rev] Ta0278; no similarity; hypothetical protein
+	[293715:295115:dir] Ta0279; strong similarity to unknown protein: conserved hypothetical protein AF0862 - Archaeoglobus fulgidus; PIR:F69357; conserved hypothetical protein
+	[295309:298086:dir] Ta0280; no similarity; hypothetical membrane protein
+<END>
+<GI> AL139299:2 <COORDINATES> 377783-421730 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.403803; n0_4mer:D = 32.722777; n0_4mer:PS = 18.371784
+	[377783:378244:dir] Ta0357; similarity to known protein: thiol-specific antioxidant - rat; PIR2:A57716; thiol-specific antioxidant related protein
+	[378428:378748:rev] Ta0358; strong similarity to known protein: 50S RIBOSOMAL PROTEIN L12P - Sulfolobus solfataricus; SWISSPROT:RL12_SULSO; probable 50S ribosomal protein L12
+	[378761:379705:rev] Ta0359; similarity to known protein: ACIDIC RIBOSOMAL PROTEIN P0 HOMOLOG (L10E) (RIBOSOMAL PROTEIN L10) - Sulfolobus solfataricus; SWISSPROT:RLA0_SULSO; acidic ribosomal protein P0 related protein
+	[379702:380355:rev] Ta0360; strong similarity to known protein: 50S RIBOSOMAL PROTEIN L1P (HL8) - Halobacterium cutirubrum; SWISSPROT:RL1_HALCU; probable 50S ribosomal protein L1
+	[380369:380827:rev] Ta0361; strong similarity to known protein: 50S RIBOSOMAL PROTEIN L11P - Sulfolobus solfataricus; SWISSPROT:RL11_SULSO; probable 50S ribosomal protein L11
+	[380999:382015:rev] Ta0362; no similarity; hypothetical protein
+	[382302:383318:dir] Ta0363; similarity to known protein: Ustilgo maydis aspartate semialdehyde dehydrogenase (ASADH) mRNA, completecds; TREMBL:UM44901_1; aspartate-semialdehyde dehydrogenase related protein
+	[383315:384133:dir] Ta0364; similarity to known protein: A.thaliana mRNA for aspartate kinase; TREMBL:ATAKLYS1_1; aspartate kinase related protein
+	[384321:385604:dir] Ta0365; weak similarity to unknown protein; hypothetical protein
+	[385601:386044:rev] Ta0366; no similarity; hypothetical protein
+	[386297:388153:dir] Ta0367; no similarity; hypothetical membrane protein
+	[388210:388854:dir] Ta0368; no similarity; hypothetical protein
+	[389058:389438:rev] Ta0369; no similarity; hypothetical protein
+	[389390:389791:rev] Ta0370; no similarity; hypothetical protein
+	[392567:393628:dir] Ta0371; similarity to unknown protein: trifolitoxin synthesis protein TfxB - Rhizobium leguminosarum; PIR:B47116; conserved hypothetical protein
+	[393792:394751:dir] Ta0372; similarity to unknown protein: trifolitoxin synthesis protein TfxC - Rhizobium leguminosarum; PIR:C47116; conserved hypothetical protein
+	[394869:395975:dir] Ta0373; similarity to unknown protein: macrolide-efflux determinant related PAB0754 - Pyrococcus abyssi (strain Orsay); PIR:D75093; conserved hypothetical protein
+	[395959:396444:dir] Ta0374; weak similarity to known protein; hypothetical protein
+	[397452:397916:rev] Ta0375; similarity to known protein: PROTEASE SYNTHASE AND SPORULATION NEGATIVE REGULATORY PROTEIN PAI 1 - Bacillus subtilis; SWISSPROT:PAIA_BACSU; protease synthase and sporulation negative regulatory protein (paiA) related
+	[398640:402779:rev] Ta0376; weak similarity to known protein; lhypothetical protein
+	[402979:403416:dir] Ta0377; no similarity; hypothetical protein
+	[403755:404531:dir] Ta0378; similarity to unknown protein: signal sequence peptidase (sec11) homolog - Archaeoglobus fulgidus; PIR:F69473; conserved hypothetical membrane protein
+	[404736:405083:rev] Ta0379; weak similarity to unknown protein; hypothetical protein
+	[406072:406674:dir] Ta0380; weak similarity to known protein; hypothetical protein
+	[407303:407590:dir] Ta0381; similarity to unknown protein: probable transposase - Streptomyces coelicolor; PIR:T36649; conserved hypothetical protein
+	[407691:408029:dir] Ta0382; weak similarity to unknown protein; hypothetical protein
+	[408558:409118:dir] Ta0383; no similarity; hypothetical protein
+	[409176:409895:dir] Ta0384; no similarity; hypothetical membrane protein
+	[410421:410720:dir] Ta0385; similarity to unknown protein: conserved hypothetical protein AF1663 - Archaeoglobus fulgidus; PIR:F69457; conserved hypothetical protein
+	[410721:411410:rev] Ta0386; weak similarity to unknown protein; hypothetical protein
+	[411551:412627:dir] Ta0387; similarity to unknown protein: hypothetical protein MJ1159 - Methanococcus jannaschii; PIR:F64444; conserved hypothetical protein
+	[412624:413442:dir] Ta0388; weak similarity to unknown protein; hypothetical protein
+	[413685:413960:dir] Ta0389; similarity to known protein: DNA-DIRECTED RNA POLYMERASE SUBUNIT H (EC 2.7.7.6) - Sulfolobus acidocaldarius; SWISSPROT:RPOH_SULAC; DNA-DIRECTED RNA POLYMERASE CHAIN H related protein
+	[413957:417544:dir] Ta0390; similarity to known protein: DNA-DIRECTED RNA POLYMERASE II 135 KDA POLYPEPTIDE (EC 2.7.7.6)(RNA POLYMERASE II SUBUNIT 2) - Arabidopsis thaliana (Mouse-ear cress); SWISSPROT:RPB2_ARATH; probable DNA-directed RNA polymerase chain B
+	[417541:420198:dir] Ta0391; similarity to known protein: DNA-DIRECTED RNA POLYMERASE II LARGEST SUBUNIT (EC 2.7.7.6)(VERSION 2) - Arabidopsis thaliana (Mouse-ear cress); SWISSPROT:RPB0_ARATH; probable DNA-directed RNA polymerase, chain A
+	[420195:421730:dir] Ta0392; similarity to known protein: DNA-DIRECTED RNA POLYMERASE III LARGEST SUBUNIT (EC 2.7.7.6) (RPC155) - Homo sapiens (Human); SWISSPROT:RPC1_HUMAN; probable DNA-directed RNA polymerase, chain A
+<END>
+<GI> AL139299:3 <COORDINATES> 733000-761599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.430538; n0_4mer:D = 28.877371; n0_4mer:PS = 8.431181
+	[734096:734875:dir] Ta0693; similarity to unknown protein: UDPglucose 4-epimerase (EC 5.1.3.2) - Methanococcus jannaschii; PIR:D64326; conserved hypothetical protein
+	[735061:735819:dir] Ta0694; no similarity; hypothetical protein
+	[736120:737271:dir] Ta0695; weak similarity to known protein. Relation: weak similarity to putative glcnac transferase - Escherichia coli; TREMBL:AF013583_4.; conserved hypothetical protein
+	[737320:738444:dir] Ta0696; weak similarity to known protein; conserved hypothetical protein
+	[738745:739137:rev] Ta0697; similarity to known protein: TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS905 - Lactococcus lactis (subsp. lactis) (Streptococcus lactis); SWISSPROT:TRA5_LACLA; transposase related protein
+	[739292:739660:dir] Ta0698; no similarity; hypothetical protein
+	[739973:740302:dir] Ta0699; weak similarity to known protein; hypothetical protein
+	[740272:740742:dir] Ta0700; weak similarity to known protein; hypothetical protein
+	[741174:742151:rev] Ta0701; weak similarity to known protein; conserved hypothetical protein
+	[743496:744392:dir] Ta0702; weak similarity to known protein; conserved hypothetical protein
+	[744825:746363:rev] Ta0703; similarity to known protein: Streptococcus pneumoniae type 33F DNA, capsular gene cluster; TREMBL:SPAJ6986_13; repeating unit transporter related protein
+	[747197:748378:rev] Ta0704; weak similarity to known protein; hypothetical protein
+	[748438:748692:rev] Ta0705; weak similarity to unknown protein; hypothetical protein
+	[748828:749121:rev] Ta0706; weak similarity to known protein. Relation: weak similarity to dolichyl phosphoryl mannose synthase - smut fungus (Ustilago maydis); PIR2:S71642.; hypothetical protein
+	[749530:750684:rev] Ta0707; weak similarity to unknown protein; conserved hypothetical protein
+	[751271:751639:dir] Ta0708; no similarity; hypothetical protein
+	[751936:754050:rev] Ta0709; weak similarity to known protein. Relation: weak similarity to endopeptidase K (EC 3.4.21.64) precursor - imperfect fungus (Tritirachium album); PIR:SUTIKA.; hypothetical protein
+	[754207:755259:dir] Ta0710; weak similarity to known protein. Relation: weak similarity to ss-1, 4-galactosyltransferase - Streptococcus pneumoniae; TREMBL:SPCPS14E_11.; hypothetical protein
+	[755502:755741:rev] Ta0711; no similarity; hypothetical protein
+	[755846:756049:rev] Ta0712; weak similarity to known protein. Relation: weak similarity to 40 kda membrane-bound galactosyl- transferase - Shigella dysenteriae; S73325_2.; hypothetical protein
+	[756284:756700:dir] Ta0713; no similarity; hypothetical protein
+	[758591:759382:dir] Ta0714; weak similarity to unknown protein; hypothetical protein
+	[759358:759798:dir] Ta0715; weak similarity to unknown protein. Relation: shows weak similarities to proteins, characterized by the analysis of gene clusters, which are thought to be mannosyl- or galactosyl transferases and involved in lipopolysaccharaide biosynthesis.; hypothetical protein
+	[759801:760061:rev] Ta0716; similarity to unknown protein; conserved hypothetical protein
+	[760198:760533:rev] Ta0717; weak similarity to unknown protein; hypothetical protein
+<END>
+<GI> AL139299:4 <COORDINATES> 828000-869709 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.628841; n0_4mer:D = 36.821414; n0_4mer:PS = 35.091521
+	[828411:829724:dir] Ta0783; weak similarity to unknown protein; hypothetical protein
+	[829848:830789:dir] Ta0784; no similarity; hypothetical protein
+	[830903:831493:dir] Ta0785; similarity to unknown protein: hypothetical protein PH1610 - Pyrococcus horikoshii; PIR:B71040; conserved hypothetical membrane protein
+	[831528:832229:rev] Ta0786; similarity to unknown protein: hypothetical protein PAB2110 - Pyrococcus abyssi (strain Orsay); PIR:A75150; conserved hypothetical protein
+	[832259:835681:rev] Ta0787; similarity to known protein: chromosome segregation protein (smc1) homolog - Archaeoglobus fulgidus; PIR:E69444; chromosome segregation protein related ptotein
+	[835742:837052:rev] Ta0788; similarity to known protein: tabA protein - Pseudomonas syringae; PIR:S27649ORF_prediction: This ORF might start 35 aa later (starting with amino acids MGIYD...). In this case the ORFs N-terminus would better fit the N-termini of related known diaminopimelate decarboxylases, however - overall the ORF would be about 20 aa shorter. Codon usage curves and the frequency of rare codons do not clearly favor one of the alternatives, we kept the longer ORF version.; diaminopimelate decarboxylase related protein
+	[837170:838945:dir] Ta0789; similarity to known protein: amino acid transporter homolog ybeC - Bacillus subtilis; PIR:D69748; amino acid transport protein related protein
+	[838948:839541:rev] Ta0790; similarity to known protein: endonuclease III - Thermotoga maritima (strain MSB8); PIR:F72387; endonuclease III related protein
+	[839602:842745:rev] Ta0791; strong similarity to known protein: carbamoyl-phosphate synthase (glutamine-hydrolyzing) (EC 6.3.5.5) - Bacillus caldolyticus; PIR:I40169; probable carbamoyl-phosphate synthase, large subunit
+	[842729:843790:rev] Ta0792; similarity to known protein: carbamoyl-phosphate synthase, small (or glutamine) subunit (carA) homolog - Archaeoglobus fulgidus; PIR:H69408Function: Urea cycle and metabolism of amino groups, Glutamate metabolism, Arginine and proline metabolism, Nitrogen metabolism.; carbamoyl phosphate synthetase small subunit related protein
+	[843851:845350:rev] Ta0793; similarity to known protein: multidrug resistance protein homolog - Archaeoglobus fulgidus; PIR:G69392; multidrug resistance protein related protein
+	[850102:850737:rev] Ta0795; similarity to unknown protein: sugar fermentation stimulation protein - Methanobacterium thermoautotrophicum (strain Delta H); PIR:A69070; probable sugar fermentation stimulation protein
+	[850884:851744:dir] Ta0796; similarity to unknown protein: hypothetical protein APE1441 - Aeropyrum pernix (strain K1); PIR:H72622; conserved hypothetical membrane protein
+	[851747:852127:rev] Ta0797; similarity to unknown protein: conserved hypothetical protein - Deinococcus radiodurans (strain R1); PIR:D75292; conserved hypothetical protein
+	[852182:852475:rev] Ta0798; weak similarity to unknown protein; hypothetical protein
+	[852647:854743:dir] Ta0799; similarity to known protein: CDC21 PROTEIN.CDC21 PROTEIN - Schizosaccharomyces pombe (Fission yeast).Schizosaccharomyces pombe (Fission yeast); SWISSPROT:CC21_SCHPO; DNA replication licensing factor MCM related protein
+	[854740:855042:dir] Ta0800; strong similarity to unknown protein: hypothetical protein PAB1715 - Pyrococcus abyssi (strain Orsay); PIR:E75074; conserved hypothetical protein
+	[855042:855731:dir] Ta0801; similarity to known protein: Pseudomonas putida o251 homolog, poly(hydroxyalcanoate) granule associatedprotein GA1 (GA1), and poly(hydroxyalcanoate) granule associated proteinGA2 (GA2) genes, complete cds; poly(hydroxyalkanoate) synthase (phaC2)gene, partial cds; and unknown genes; TREMBL:AF042276_2; ubiquinone/menaquinone methyltransferase related protein
+	[856642:857295:dir] Ta0803; similarity to known protein: TRYPTOPHAN SYNTHASE ALPHA CHAIN (EC 4.2.1.20).TRYPTOPHAN SYNTHASE ALPHA CHAIN (EC 4.2.1.20) - Sulfolobus solfataricus.Sulfolobus solfataricus; SWISSPROT:TRPA_SULSO; tryptophan synthase alpha chain related protein
+	[857300:858268:dir] Ta0804; similarity to known protein: ANTHRANILATE PHOSPHORIBOSYLTRANSFERASE (EC 2.4.2.18) - Bacillus stearothermophilus; SWISSPROT:TRPD_BACST; anthranilate phosphoribosyltransferase related protein
+	[858303:858842:dir] Ta0805; weak similarity to known protein. Relation: weak similarity to phosphoribosylanthranilate isomerase - Aquifex aeolicus, PIR:A70478.; hypothetical protein
+	[858814:859884:dir] Ta0806; similarity to known protein: anthranilate synthase (EC 4.1.3.27) component I - Clostridium thermocellum; PIR:JX0065; anthranilate synthase component I related protein
+	[859881:860432:dir] Ta0807; strong similarity to known protein: Pyrococcus kodakaraensis trp operon genes (trpC, trpD, trpE, trpG, trpF, trpB, trpA), complete cds; TREMBL:AB030011_4; probable anthranilate synthase component II
+	[860429:861142:dir] Ta0808; similarity to known protein: indole-3-glycerol-phosphate synthase (EC 4.1.1.48) TrpC - Sulfolobus solfataricus; PIR:C40635; indole-3-glycerol-phosphate synthase related protein
+	[861266:862747:dir] Ta0809; strong similarity to known protein: lactaldehyde dehydrogenase (EC 1.2.1.22) aldA - Escherichia coli; PIR:A38165Function: involved in ascorbate and aldarate metabolism, fatty acid metabolism, bile acid biosynthesis, valine, leucine and isoleucine degradation, arginine and proline metabolism, histidine metabolism and tryptophan metabolism; beta-Alanine metabolism, Glycerolipid metabolism, Pyruvate metabolism, Propanoate metabolism, Butanoate metabolism.; probable aldehyde dehydrogenase
+	[862786:864597:rev] Ta0810; strong similarity to known protein: TUNGSTEN-CONTAINING ALDEHYDE FERREDOXIN OXIDOREDUCTASE (EC 1.2.7.-) - Pyrococcus furiosus; SWISSPROT:AOR_PYRFUFunction: involved in aldehyde oxidation.; probable aldehyde ferredoxin oxidoreductase
+	[864725:865888:dir] Ta0811; similarity to known protein: glycine hydroxymethyltransferase (EC 2.1.2.1) - Methanobacterium thermoautotrophicum (strain Marburg); PIR:S62190Function: involved in glycine, serine and threonine metabolism, also involved in vitamin B6 metabolism.; glycine hydroxymethyltransferase related protein
+	[865878:866966:dir] Ta0812; similarity to unknown protein: hypothetical protein MJ1404 - Methanococcus jannaschii; PIR:C64475; conserved hypothetical protein
+	[867053:868420:dir] Ta0813; strong similarity to unknown protein: tldD-related protein PH0848 - Pyrococcus horikoshii; PIR:D71135; conserved hypothetical protein
+	[868417:869709:dir] Ta0814; similarity to unknown protein: hypothetical protein PH0849 - Pyrococcus horikoshii; PIR:E71135; conserved hypothetical protein
+<END>
+<GI> AL139299:5 <COORDINATES> 1305781-1328655 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.837649; n0_4mer:D = 31.380874; n0_4mer:PS = 49.120532
+	[1305781:1307205:dir] Ta1242; strong similarity to known protein: amidophosphoribosyltransferase (EC 2.4.2.14) 2 precursor - Arabidopsis thaliana; PIR:T05294Function: Involved in glutamate metabolism.; probable amidophosphoribosyltransferase
+	[1307206:1307988:rev] Ta1243; similarity to known protein: NUCLEOLAR PROTEIN NOP56 - Homo sapiens (Human); SWISSPROT:NO56_HUMANFunction: probably involved in RNA splicing.; nucleolar protein Nop56 related protein
+	[1307738:1308805:rev] Ta1244; similarity to known protein: DYSKERIN (NUCLEOLAR PROTEIN NAP57) (CBF5 HOMOLOG).DYSKERIN (NUCLEOLAR PROTEIN NAP57) (CBF5 HOMOLOG) - Homo sapiens (Human).Homo sapiens (Human); SWISSPROT:DKC1_HUMAN; dyskerin (nucleolar protein Nap57) related protein
+	[1308883:1309449:rev] Ta1245; strong similarity to known protein: CYTIDYLATE KINASE (EC 2.7.4.14) (CK) (CYTIDINE MONOPHOSPHATE KINASE)(CMP KINASE).CYTIDYLATE KINASE (EC 2.7.4.14) (CK) (CYTIDINE MONOPHOSPHATE KINASE)(CMP KINASE) - Sulfolobus acidocaldarius.Sulfolobus acidocaldarius; SWISSPROT:KCY_SULAC; probable cytidylate kinase
+	[1309463:1310158:rev] Ta1246; similarity to unknown protein: hypothetical protein PAB2141 - Pyrococcus abyssi (strain Orsay); PIR:G75144; conserved hypothetical membrane protein
+	[1310145:1310696:rev] Ta1247; strong similarity to known protein: ADENYLATE KINASE (EC 2.7.4.3) (ATP-AMP TRANSPHOSPHORYLASE) - Methanococcus igneus; SWISSPROT:KAD_METIG; probable adenylate kinase
+	[1310697:1312304:rev] Ta1248; similarity to known protein: PROTEIN TRANSPORT PROTEIN SEC61 ALPHA SUBUNIT - Rattus norvegicus (Rat); SWISSPROT:S61A_RATORF_prediction: This ORF might be 51 aa longer starting with MTEAGRNNSV... The frequency of rare codons actually would not rule out the earlier start, however codon usage is rather moderate in this region and closely related other ORFs do start similarly from the region of the later start point, therefore we suggest the later start.; protein translocase SEC61 (secY), subunit alpha related protein
+	[1312438:1312872:rev] Ta1249; similarity to known protein: 60S RIBOSOMAL PROTEIN L28 (L27A) (L29) (YL24) (RP62) - Saccharomyces cerevisiae (Baker's yeast); SWISSPROT:RL28_YEAST; ribosomal protein L15 related protein
+	[1312853:1313281:rev] Ta1250; similarity to known protein: 60S RIBOSOMAL PROTEIN L28 (L27A) (L29) (YL24) (RP62) - Saccharomyces cerevisiae (Baker's yeast); SWISSPROT:RL28_YEAST; 50S ribosomal protein L30 related protein
+	[1313328:1313993:rev] Ta1251; strong similarity to known protein: ribosomal protein S5 [similarity] - Haloarcula marismortui; PIR:S16542; probable 30S ribosomal protein S5
+	[1313990:1314481:rev] Ta1252; strong similarity to known protein: 50S RIBOSOMAL PROTEIN L18P (HMAL18) (HL12) - Haloarcula marismortui (Halobacterium marismortui); SWISSPROT:RL18_HALMA; probable 50S ribosomal protein L18
+	[1314478:1314927:rev] Ta1253; strong similarity to known protein: 50S RIBOSOMAL PROTEIN L19E (HMAL19) (HL24) - Haloarcula marismortui (Halobacterium marismortui); SWISSPROT:RL19_HALMA; probable 50S ribosomal protein L19
+	[1314933:1315325:rev] Ta1254; similarity to known protein: 50S RIBOSOMAL PROTEIN L32E - Sulfolobus acidocaldarius; SWISSPROT:RL32_SULAC; 50S ribosomal protein L32 related protein
+	[1315327:1315863:rev] Ta1255; strong similarity to known protein: ribosomal protein L6 - Methanococcus vannielii; PIR:R5MX6; probable 50S ribosomal protein L6
+	[1315873:1316262:rev] Ta1256; strong similarity to known protein: ribosomal protein S8 - Methanococcus vannielii; PIR:R3MX8; probable 30S ribosomal protein S8
+	[1316272:1316433:rev] Ta1257; strong similarity to known protein: ribosomal protein S14 [similarity] - Haloarcula marismortui; PIR:S16536; probable 30S ribosomal protein S14
+	[1316438:1316950:rev] Ta1258; known protein: ribosomal protein L5 - Thermoplasma acidophilum; PIR:T37468; 50S RIBOSOMAL PROTEIN L5
+	[1316947:1317660:rev] Ta1259; known protein: ribosomal protein s4e - Thermoplasma acidophilum; PIR:T37467; 30S RIBOSOMAL PROTEIN S4E
+	[1317644:1318096:dir] Ta1260; no similarity; hypothetical protein
+	[1318082:1318480:rev] Ta1261; strong similarity to known protein: ribosomal protein L14 [similarity] - Haloarcula marismortui; PIR1:R5HS14; probable 50S ribosomal protein L14
+	[1318477:1318806:rev] Ta1262; strong similarity to known protein: ribosomal protein S17 [validated] - Haloarcula marismortui; PIR:R3HS17; probable ribosomal protein S17
+	[1318634:1319095:dir] Ta1263; no similarity; hypothetical protein
+	[1319092:1319724:dir] Ta1264; no similarity; hypothetical membrane protein
+	[1319503:1320180:rev] Ta1265; strong similarity to known protein: ribosomal protein S3 [validated] - Haloarcula marismortui; PIR:R3HS3S; probable 30S ribosomal protein S3
+	[1320177:1320632:rev] Ta1266; strong similarity to known protein: 50S RIBOSOMAL PROTEIN L22P (HHAL22) - Halobacterium halobium; SWISSPROT:RL22_HALHA; probable 50S ribosomal protein L22
+	[1320629:1321084:rev] Ta1267; strong similarity to known protein: 30S RIBOSOMAL PROTEIN S19 (HHAS19) - Halobacterium halobium; SWISSPROT:RS19_HALHA; probable 30S ribosomal protein S19
+	[1321074:1321775:rev] Ta1268; strong similarity to known protein: ribosomal protein L2 [similarity] - Haloarcula marismortui; PIR:R5HS2L; probable 50S ribosomal protein L2
+	[1321784:1322038:rev] Ta1269; strong similarity to known protein: ribosomal protein L23 - Methanococcus vannielii; PIR:R5MX23; probable 50S ribosomal protein L23
+	[1322035:1322802:rev] Ta1270; strong similarity to known protein: ribosomal protein L4.eR [validated] - Haloarcula marismortui; PIR:R5HS6H; probable 50S ribosomal protein L4
+	[1322799:1323794:rev] Ta1271; similarity to known protein: ribosomal protein L3 [similarity] - Haloarcula marismortui; PIR:R5HS3L; 50S ribosomal protein L3 related protein
+	[1324080:1324940:rev] Ta1272; similarity to unknown protein: hypothetical protein b2304 - Escherichia coli (strain K-12); PIR:F65002. Relation: similarity to E. coli putative sugar nucleotide epimerase (GB:AE000319) and to members of the PIR cell division inhibitor yfhF-Superfamily.; hypothetical protein
+	[1325142:1325966:dir] Ta1273; similarity to unknown protein: alkaline phosphatase homolog ybfM - Bacillus subtilis; PIR:G69749. Relation: similarity to various alkaline phosphatase homologs (e.g. PIR:G69749) and weak similarity to a DedA protein homolog (TREMBL:BCDEDA_1).; hypothetical membrane protein
+	[1326038:1327573:dir] Ta1274; similarity to known protein: STEROL-REGULATORY ELEMENT-BINDING PROTEINS INTRAMEMBRANE PROTEASE(EC 3.4.24.-) (SITE-2 PROTEASE) - Homo sapiens (Human); SWISSPROT:MS2P_HUMANFunction: similar to S2P, that encodes a putative metalloprotease required for intramembrane proteolysis of sterol-regulatory element-binding proteins (SREBPs) at Site-2. SREBPs are membrane-bound transcription factors that activate genes regulating cholesterol metabolism. The active NH2-terminal domains of SREBPs are released from membranes by sequential cleavage at two sites: Site-1, within the lumen of the endoplasmic reticulum; and Site-2, within a transmembrane segment. The human S2P gene was cloned by complementation of mutant CHO cells that cannot cleave SREBPs at Site-2 and are cholesterol auxotrophs. S2P defines a new family of polytopic membrane proteins that contain an HEXXH sequence characteristic of zinc metalloproteases. Mutation of the putative zinc-binding residues abolishes S2P activity. S2P encodes an unusual metalloprotease that cleaves proteins within transmembrane segments.; sterol-regulatory element-binding proteins intramembrane protease related protein
+	[1327717:1328655:rev] Ta1275; similarity to known protein: probable membrane protein YPL207w - yeast (Saccharomyces cerevisiae); PIR2:S65226. Relation: YPL207w identified by EUROFAN I systematic functional analysis project as putative HAP2 target (http://www.mips.biochem.mpg.de/proj/eurofan/eur fan_1/b4/).; putative target YPL207w of the HAP2 transcriptional complex related protein
+<END>
+<GI> AL139299:6 <COORDINATES> 1331056-1354540 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.548046; n0_4mer:D = 28.663059; n0_4mer:PS = 48.586917
+	[1331056:1332060:rev] Ta1278; similarity to known protein: Anabaena PCC7120 HupD (hupD) gene, partial cds, and HupE (hupE), HupA(hupA) and HupB (hupB) genes, complete cds; TREMBL:AF006594_2; hydrogenase expression/formation protein (Anabaena hupE) related protein
+	[1332236:1333774:dir] Ta1279; similarity to unknown protein; conserved hypothetical membrane protein
+	[1333827:1335410:dir] Ta1280; similarity to known protein: oligopeptide transport protein oppF - Lactococcus lactis subsp. lactis; PIR2:B53290; oligopeptide ABC transporter, ABC-binding protein related protein
+	[1335407:1336198:rev] Ta1281; strong similarity to known protein: PHOSPHOMETHYLPYRIMIDINE KINASE (EC 2.7.4.7) (HMP-PHOSPHATE KINASE)(HMP-P KINASE).PHOSPHOMETHYLPYRIMIDINE KINASE (EC 2.7.4.7) (HMP-PHOSPHATE KINASE)(HMP-P KINASE) - Salmonella typhimurium.Salmonella typhimurium; SWISSPROT:THID_SALTY; probable phosphomethylpyrimidine kinase
+	[1336313:1337038:rev] Ta1282; strong similarity to unknown protein: hypothetical protein PH1471 - Pyrococcus horikoshii; PIR:B71022; conserved hypothetical protein
+	[1337878:1338201:dir] Ta1284; strong similarity to known protein: methionine--tRNA ligase (EC 6.1.1.10) - Bacillus stearothermophilus; PIR:S16682; fragment of probable methionine--tRNA ligase
+	[1338198:1339454:dir] Ta1285; similarity to known protein: replication factor C chain RFC1 - yeast (Saccharomyces cerevisiae); PIR2:S44763; replication factor C subunit related protein
+	[1339507:1340130:dir] Ta1286; known protein: ribosomal protein L15.eR - Thermoplasma acidophilum; PIR:JC4150; ribosomal protein L15E
+	[1340336:1341715:rev] Ta1287; similarity to known protein: probable sugar transport protein c0110 - Sulfolobus solfataricus; PIR:S74046; probable inorganic phosphate transport protein related protein
+	[1341851:1342552:dir] Ta1288; known protein: multicatalytic endopeptidase complex (EC 3.4.99.46) alpha chain - Thermoplasma acidophilum; PIR:S55350; proteasome alpha subunit
+	[1342590:1343153:dir] Ta1291; strong similarity to unknown protein: conserved hypothetical protein MTH685 - Methanobacterium thermoautotrophicum (strain Delta H); PIR:C69191; conserved hypothetical protein
+	[1342640:1342948:rev] Ta1290; no similarity. Relation: weak similarity to NADH dehydrogenase 4 - hardbacked tick, PIR2:T11162.; hypothetical protein
+	[1343335:1344045:dir] Ta1292; strong similarity to unknown protein: hypothetical protein PH1551 - Pyrococcus horikoshii; PIR:G71032; conserved hypothetical protein
+	[1344005:1344751:dir] Ta1293; similarity to known protein: probable membrane protein YGR195w - yeast (Saccharomyces cerevisiae); PIR2:S59180; RNase PH (yeast SIK6) related protein
+	[1344814:1345536:dir] Ta1294; similarity to known protein: probable membrane protein YDR280w - yeast (Saccharomyces cerevisiae); PIR2:S70136; rRNA processing protein (yeast RRP45) related protein
+	[1345542:1345784:dir] Ta1295; strong similarity to known protein: ribosomal protein L37a.e, cytosolic - yeast (Saccharomyces cerevisiae); PIR:S54068; probable ribosomal protein L37
+	[1345922:1347091:dir] Ta1296; strong similarity to unknown protein: hypothetical protein PH0962 - Pyrococcus horikoshii; PIR:E71087; conserved hypothetical protein
+	[1347091:1347387:dir] Ta1297; strong similarity to known protein: ribosomal protein L21.eR [validated] - Haloarcula marismortui; PIR1:R5HS31; probable ribosomal protein L21E
+	[1347384:1347701:dir] Ta1298; weak similarity to unknown protein; hypothetical protein
+	[1347715:1348263:dir] Ta1299; strong similarity to unknown protein: hypothetical protein PH1822 - Pyrococcus horikoshii; PIR:F71193; conserved hypothetical protein
+	[1348278:1348979:dir] Ta1300; similarity to known protein: rRNA (adenine-N6, N6-)-dimethyltransferase (EC 2.1.1.-) DIM1 - yeast (Saccharomyces cerevisiae); PIR1:S47985; rRNA (adenine-N6, N6-)-dimethyltransferase (DIM1, yeast) related protein
+	[1348912:1349736:rev] Ta1301; similarity to known protein: membrane protein 7, erythrocyte - human; PIR2:S17659; membrane protein 7, erythrocyte (human) related protein
+	[1350372:1350755:dir] Ta1302; no similarity; hypothetical protein
+	[1350999:1351985:rev] Ta1304; similarity to unknown protein: hypothetical protein Rv0115 - Mycobacterium tuberculosis (strain H37RV); PIR:F70840; conserved hypothetical protein
+	[1352081:1353037:dir] Ta1305; weak similarity to unknown protein. Relation: weak similarity to probable single-stranded-DNA-specific exonuclease (recJ) - syphilis spirochete, PIR2:D71289.; hypothetical protein
+	[1353038:1353523:rev] Ta1306; weak similarity to unknown protein. Relation: weak similarity to conserved hypothetical protein MTH1600 - Methanobacterium thermoautotrophicum, PIR2:G69080.; hypothetical protein
+	[1353719:1354540:dir] Ta1307; weak similarity to unknown protein; hypothetical protein
+<END>
+<GI> AL139299:7 <COORDINATES> 1431956-1454921 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.027960; n0_4mer:D = 29.210238; n0_4mer:PS = 16.250457
+	[1431956:1432756:dir] Ta1386; no similarity; hypothetical protein
+	[1433158:1434246:dir] Ta1387; weak similarity to known protein. Relation: weak similarity to 364K Golgi complex-associated protein - rat, PIR2:JC5837.; hypothetical protein
+	[1434396:1435001:rev] Ta1388; weak similarity to unknown protein; hypothetical protein
+	[1435478:1436209:dir] Ta1389; no similarity; hypothetical protein
+	[1435789:1437066:rev] Ta1390; similarity to unknown protein: hypothetical protein 468 - Sphingomonas aromaticivorans plasmid pNL1; PIR:T31178; conserved hypothetical protein
+	[1437699:1439078:rev] Ta1391; similarity to known protein: phosphate transport protein - Glomus versiforme; PIR2:S67491; phosphate transporter related protein
+	[1439466:1439753:dir] Ta1392; similarity to unknown protein: altronate dehydratase (EC 4.2.1.7) - Escherichia coli; PIR:H65097; conserved hypothetical protein
+	[1439747:1440910:dir] Ta1393; similarity to unknown protein: probable altronate hydrolase C-terminus Cj0483 [imported] - Campylobacter jejuni (strain NCTC 11168); PIR:F81393; conserved hypothetical protein
+	[1440956:1441609:dir] Ta1394; similarity to known protein: NTA OPERON TRANSCRIPTIONAL REGULATOR - Chelatobacter heintzii; SWISSPROT:NTRA_CHEHE; Nta operon transcriptional regulator related protein
+	[1441606:1442700:rev] Ta1395; similarity to known protein: mandelate racemase (EC 5.1.2.2) - Pseudomonas putida; PIR:A28700; mandelate racemase related protein
+	[1443256:1444497:dir] Ta1396; no similarity; hypothetical protein
+	[1444460:1445671:rev] Ta1397; no similarity; hypothetical protein
+	[1445702:1447297:rev] Ta1398; weak similarity to known protein. Relation: weak similarity to polymerase - Berne virus, PIR2:S11238.; hypothetical protein
+	[1447266:1449137:rev] Ta1399; no similarity; hypothetical protein
+	[1449542:1449922:rev] Ta1400; no similarity; hypothetical protein
+	[1449933:1450574:rev] Ta1401; weak similarity to known protein. Relation: weak similarity to dnaK-type molecular chaperone hsc70-3 - tomato, PIR2:JC4786.; hypothetical protein
+	[1451539:1452555:rev] Ta1402; weak similarity to unknown protein; hypothetical protein
+	[1452618:1454921:rev] Ta1403; similarity to known protein: thermopsin (EC 3.4.99.43) precursor - Sulfolobus acidocaldarius; PIR:A35009; thermopsin precursor related protein
+<END>

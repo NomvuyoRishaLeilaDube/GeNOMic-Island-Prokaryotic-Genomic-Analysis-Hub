@@ -1,0 +1,398 @@
+<GI> AP027739:1 <COORDINATES> 37507-61997 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.631165; n0_4mer:D = 23.148711; n0_4mer:PS = 36.191984
+	[37507:38229:dir] frameshifted, insertion/deletion at around 37405; hypothetical protein
+	[38371:39789:dir] hypothetical protein
+	[39830:40732:dir] hypothetical protein
+	[40803:41669:dir] fumarate hydratase
+	[41676:42521:dir] citryl-CoA lyase
+	[42640:42954:dir] ATP synthase archaeal subunit H
+	[42965:44974:dir] ATP synthase subunit I
+	[44976:45458:dir] ATP synthase subunit K
+	[45463:46086:dir] ATP synthase subunit E
+	[46106:47263:dir] ATP synthase subunit C
+	[47260:47577:dir] ATP synthase subunit F
+	[47574:49328:dir] ATP synthase subunit A
+	[49331:50722:dir] V-type ATP synthase subunit B
+	[50767:51420:dir] V-type ATP synthase subunit D
+	[51413:51796:dir] hypothetical protein
+	[51870:52280:rev] hypothetical protein
+	[52324:52659:rev] hypothetical protein
+	[52723:53130:dir] hypothetical protein
+	[53292:53489:dir] hypothetical protein
+	[53530:54684:rev] ATP-dependent carboligase
+	[54705:54778:rev] tRNA-Gln
+	[54878:55582:rev] hypothetical protein
+	[55635:56324:rev] hypothetical protein
+	[56775:58145:dir] hypothetical protein
+	[58219:58368:rev] hypothetical protein
+	[59100:61997:dir] hypothetical protein
+<END>
+<GI> AP027739:2 <COORDINATES> 167000-190106 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.800192; n0_4mer:D = 30.729478; n0_4mer:PS = 42.605677
+	[167165:167587:rev] universal stress protein
+	[167621:168583:rev] cation transporter
+	[168764:169195:rev] universal stress protein
+	[169206:170210:rev] cation transporter
+	[170481:171434:rev] tetrahydromethanopterin S-methyltransferase subunit H
+	[171452:171706:rev] tetrahydromethanopterin S-methyltransferase subunit G
+	[171710:171913:rev] tetrahydromethanopterin S-methyltransferase subunit F
+	[171927:172262:rev] frameshifted, insertion/deletion at around 172345; hypothetical protein
+	[172304:172648:rev] frameshifted, insertion/deletion at around 172345; hypothetical protein
+	[172661:172960:rev] tetrahydromethanopterin S-methyltransferase subunit B
+	[172972:173784:rev] tetrahydromethanopterin S-methyltransferase subunit C
+	[173784:174278:rev] frameshifted, insertion/deletion at around 174292; hypothetical protein
+	[174269:174508:rev] frameshifted, insertion/deletion at around 174292; hypothetical protein
+	[174521:175408:rev] tetrahydromethanopterin S-methyltransferase subunit E
+	[175463:176701:rev] frameshifted, insertion/deletion at around 176763; hypothetical protein
+	[176758:177117:rev] frameshifted, insertion/deletion at around 176766; hypothetical protein
+	[177130:177879:rev] methyl-coenzyme M reductase
+	[177882:178478:rev] methyl-coenzyme M reductase
+	[178480:178914:rev] methyl-coenzyme M reductase
+	[178947:180278:rev] methyl-coenzyme M reductase
+	[180565:181815:dir] methanogenesis-associated radical SAM protein
+	[181964:182872:dir] frameshifted, insertion/deletion at around 182827; hypothetical protein
+	[182887:183330:dir] frameshifted, insertion/deletion at around 182830; hypothetical protein
+	[183400:184092:rev] MBL fold hydrolase
+	[184102:185235:rev] cation transporter
+	[185357:186286:rev] hypothetical protein
+	[186299:187162:rev] cell division inhibitor-like protein
+	[187270:187563:rev] frameshifted, insertion/deletion at around 187565; hypothetical protein
+	[187554:187715:rev] hypothetical protein
+	[187716:188576:rev] ATP-binding protein
+	[188640:188849:rev] hypothetical protein
+	[189037:189372:rev] hypothetical protein
+	[189942:190106:dir] hypothetical protein
+<END>
+<GI> AP027739:3 <COORDINATES> 259266-278739 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.666651; n0_4mer:D = 26.700815; n0_4mer:PS = 45.944999
+	[259266:259937:dir] fibrillarin-like rRNA methylase
+	[259987:261132:rev] pantothenate metabolism flavoprotein
+	[261217:261717:rev] transcription elongation factor NusA
+	[262276:262812:rev] hypothetical protein
+	[262925:263572:rev] hypothetical protein
+	[263565:264206:rev] frameshifted, insertion/deletion at around 264250; chorismate mutase
+	[264197:264373:rev] hypothetical protein
+	[264483:265193:rev] frameshifted, insertion/deletion at around 265270; hypothetical protein
+	[265187:265633:rev] frameshifted, insertion/deletion at around 265270; hypothetical protein
+	[265732:266553:rev] inosine-5-monophosphate dehydrogenase
+	[266569:267411:rev] inosine-5-monophosphate dehydrogenase
+	[267446:268387:rev] CBS domain-containing protein
+	[268499:269320:rev] inosine-5-monophosphate dehydrogenase
+	[269323:269883:rev] inosine-5-monophosphate dehydrogenase
+	[269895:270356:rev] hypothetical protein
+	[270612:271091:rev] 6-carboxy-5,6,7,8-tetrahydropterin synthase
+	[271190:271381:rev] frameshifted, insertion/deletion at around 271422; hypothetical protein
+	[271402:271644:rev] frameshifted, insertion/deletion at around 271422; hypothetical protein
+	[271811:272200:rev] hypothetical protein
+	[272234:273259:dir] DNA polymerase subunit beta
+	[273346:274632:dir] homoserine dehydrogenase
+	[274846:275169:rev] cupin
+	[275310:275813:rev] hypothetical protein
+	[276098:276379:dir] hypothetical protein
+	[276487:277146:rev] hypothetical protein
+	[277285:278100:rev] mutM_1; formamidopyrimidine-DNA glycosylase
+	[278185:278739:rev] hypothetical protein
+<END>
+<GI> AP027739:4 <COORDINATES> 446159-467781 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.585692; n0_4mer:D = 26.496383; n0_4mer:PS = 41.916538
+	[446159:447379:dir] tRNA pseudouridine(54/55) synthase Pus10
+	[447711:448004:dir] 50S ribosomal protein L21e
+	[448010:448345:dir] DNA-directed RNA polymerase subunit F
+	[448445:449023:dir] DNA-binding protein
+	[449059:449901:dir] dimethyladenosine transferase
+	[449898:450221:dir] carboxymuconolactone decarboxylase
+	[450366:450962:dir] methyltransferase
+	[451436:451777:dir] hypothetical protein
+	[451816:455604:dir] hypothetical protein
+	[455559:457388:dir] frameshifted, insertion/deletion at around 455553,455554,455526,455436,455415,455547; hypothetical protein
+	[457405:458334:dir] hypothetical protein
+	[458357:459394:dir] hypothetical protein
+	[459406:460302:dir] hypothetical protein
+	[460371:461246:dir] hypothetical protein
+	[461294:461524:dir] hypothetical protein
+	[461768:463186:dir] hypothetical protein
+	[463248:464231:dir] hypothetical protein
+	[464218:465408:dir] hypothetical protein
+	[465423:466352:dir] hypothetical protein
+	[466533:466685:dir] hypothetical protein
+	[466771:467781:rev] hypothetical protein
+<END>
+<GI> AP027739:5 <COORDINATES> 834425-853406 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.189332; n0_4mer:D = 27.849013; n0_4mer:PS = 50.215946
+	[834425:834868:dir] frameshifted, insertion/deletion at around 834859; hypothetical protein
+	[834865:835101:dir] frameshifted, insertion/deletion at around 834859; hypothetical protein
+	[835159:836391:dir] phosphoglycerate kinase
+	[836603:836677:dir] tRNA-Thr
+	[836750:836826:dir] tRNA-Pro
+	[836859:836933:dir] tRNA-Tyr
+	[837106:837179:dir] tRNA-Asp
+	[837186:837259:dir] tRNA-Lys
+	[837284:837520:dir] DNA-directed RNA polymerase subunit H
+	[837709:839199:dir] DNA-directed RNA polymerase subunit B''
+	[839278:841089:dir] DNA-directed RNA polymerase subunit B'
+	[841147:842793:dir] frameshifted, insertion/deletion at around 842709; hypothetical protein
+	[842790:843761:dir] frameshifted, insertion/deletion at around 842709; hypothetical protein
+	[843829:844980:dir] DNA-directed RNA polymerase subunit A''
+	[844992:845288:dir] 50S ribosomal protein L30e
+	[845293:845724:dir] transcription elongation factor NusA
+	[845839:846264:dir] 30S ribosomal protein S12
+	[846278:846841:dir] 30S ribosomal protein S7
+	[846896:849088:dir] elongation factor EF-2
+	[849328:850569:dir] elongation factor 1-alpha
+	[850655:850963:dir] 30S ribosomal protein S10
+	[851135:851221:dir] tRNA-Ser
+	[851357:852010:rev] hypothetical protein
+	[852255:853406:dir] hypothetical protein
+<END>
+<GI> AP027739:6 <COORDINATES> 1002820-1021155 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.508245; n0_4mer:D = 25.428624; n0_4mer:PS = 25.962358
+	[1002820:1003419:dir] orotate phosphoribosyltransferase
+	[1003598:1004740:rev] peptide chain release factor 1
+	[1005176:1005547:rev] HEPN domain-containing protein
+	[1005540:1005842:rev] hypothetical protein
+	[1006517:1010188:rev] helicase
+	[1013989:1014252:rev] CRISPR-associated protein Cas2
+	[1014256:1015227:rev] CRISPR-associated protein Cas1
+	[1015320:1015748:rev] hypothetical protein
+	[1015908:1016426:rev] CRISPR-associated protein Cas4
+	[1016427:1016816:rev] hypothetical protein
+	[1016813:1017046:rev] hypothetical protein
+	[1017315:1019558:rev] CRISPR-associated helicase/endonuclease Cas3
+	[1019543:1020160:rev] cas5b; type I-B CRISPR-associated protein Cas5
+	[1020157:1021155:rev] cas7i; type I-B CRISPR-associated protein Cas7/Cst2/DevR
+<END>
+<GI> AP027739:7 <COORDINATES> 1167480-1187256 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.901208; n0_4mer:D = 23.972519; n0_4mer:PS = 44.591302
+	[1167480:1169537:dir] hypothetical protein
+	[1169963:1170259:dir] frameshifted, insertion/deletion at around 1170202; hypothetical protein
+	[1170330:1171850:dir] MATE family efflux transporter
+	[1172031:1172576:dir] 50S ribosomal protein L15e
+	[1172576:1172809:dir] frameshifted, insertion/deletion at around 1172767; hypothetical protein
+	[1172827:1172997:dir] frameshifted, insertion/deletion at around 1172767; hypothetical protein
+	[1173013:1173270:dir] hypothetical protein
+	[1173267:1173743:dir] frameshifted, insertion/deletion at around 1173264; hypothetical protein
+	[1173733:1174110:dir] ribonuclease P protein component 2
+	[1174201:1174956:dir] proteasome endopeptidase complex,subunit alpha
+	[1174960:1175655:dir] RNA-associated protein
+	[1175694:1176422:dir] RNA-binding protein
+	[1176427:1177173:dir] exosome complex exonuclease Rrp41
+	[1177175:1177975:dir] RNA-binding protein
+	[1178111:1178380:dir] 50S ribosomal protein L37ae
+	[1178666:1179196:dir] ribosomal biosynthesis protein
+	[1179183:1179437:dir] hypothetical protein
+	[1179534:1179893:dir] prefoldin subunit beta
+	[1179904:1180179:dir] hypothetical protein
+	[1180304:1180762:rev] hypothetical protein
+	[1181070:1181387:dir] hypothetical protein
+	[1181588:1184014:dir] lon; endopeptidase La
+	[1184664:1185551:dir] hypothetical protein
+	[1185641:1186441:rev] hypothetical protein
+	[1186867:1187256:dir] hypothetical protein
+<END>
+<GI> AP027739:8 <COORDINATES> 1620498-1647217 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.537541; n0_4mer:D = 30.441087; n0_4mer:PS = 47.532875
+	[1620498:1620728:rev] frameshifted, insertion/deletion at around 1620874; hypothetical protein
+	[1620824:1620997:rev] frameshifted, insertion/deletion at around 1620874; hypothetical protein
+	[1620994:1621335:rev] iron hydrogenase
+	[1621637:1622308:rev] hypothetical protein
+	[1623082:1623363:rev] hypothetical protein
+	[1623506:1624465:rev] UDP-glucose 4-epimerase-like protein
+	[1624569:1624991:rev] hypothetical protein
+	[1625284:1627398:rev] hypothetical protein
+	[1627452:1627838:rev] hypothetical protein
+	[1627940:1628812:rev] hypothetical protein
+	[1629428:1630645:rev] hypothetical protein
+	[1630747:1631133:rev] hypothetical protein
+	[1631235:1632107:rev] hypothetical protein
+	[1632760:1634982:rev] hypothetical protein
+	[1635452:1636579:dir] hypothetical protein
+	[1636638:1637849:rev] hypothetical protein
+	[1638463:1638657:dir] hypothetical protein
+	[1639018:1639509:rev] frameshifted, insertion/deletion at around 1639637; hypothetical protein
+	[1639626:1640123:rev] frameshifted, insertion/deletion at around 1639637; hypothetical protein
+	[1640257:1640595:rev] hypothetical protein
+	[1640538:1641302:rev] hypothetical protein
+	[1641372:1641929:rev] frameshifted, insertion/deletion at around 1642087; hypothetical protein
+	[1642052:1642234:rev] hypothetical protein
+	[1642396:1643514:rev] dolichol-P-glucose synthetase
+	[1643665:1645068:rev] hypothetical protein
+	[1645065:1645295:rev] hypothetical protein
+	[1645397:1645666:rev] membrane protein
+	[1645879:1646379:rev] hypothetical protein
+	[1646651:1647217:rev] hypothetical protein
+<END>
+<GI> AP027739:9 <COORDINATES> 1759068-1782770 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.057146; n0_4mer:D = 24.366862; n0_4mer:PS = 18.536213
+	[1759068:1760321:rev] hypothetical protein
+	[1760359:1761630:rev] hypothetical protein
+	[1761617:1762201:rev] hypothetical protein
+	[1762202:1762795:rev] hypothetical protein
+	[1763114:1763281:dir] hypothetical protein
+	[1763323:1764213:rev] hypothetical protein
+	[1765083:1765604:rev] hypothetical protein
+	[1765849:1766004:dir] hypothetical protein
+	[1766005:1767372:dir] hypothetical protein
+	[1767477:1768388:dir] hypothetical protein
+	[1768629:1771820:dir] ATP-dependent helicase
+	[1771821:1774286:dir] hypothetical protein
+	[1774373:1775344:dir] frameshifted, insertion/deletion at around 1774265; hypothetical protein
+	[1775371:1775778:dir] hypothetical protein
+	[1775977:1776177:dir] hypothetical protein
+	[1776087:1777055:dir] hypothetical protein
+	[1777067:1777579:dir] hypothetical protein
+	[1777597:1779027:dir] hypothetical protein
+	[1779072:1779746:dir] hypothetical protein
+	[1779746:1780528:dir] hypothetical protein
+	[1780545:1782770:dir] hypothetical protein
+<END>
+<GI> AP027739:10 <COORDINATES> 1997424-2020184 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.561737; n0_4mer:D = 24.051556; n0_4mer:PS = 35.168717
+	[1997424:1998308:rev] hypothetical protein
+	[1998305:1999378:rev] hypothetical protein
+	[1999388:2000434:rev] hypothetical protein
+	[2000437:2001447:rev] hypothetical protein
+	[2001444:2002580:rev] hypothetical protein
+	[2002613:2003077:rev] frameshifted, insertion/deletion at around 2003163; hypothetical protein
+	[2003149:2003319:rev] hypothetical protein
+	[2003429:2004586:rev] hypothetical protein
+	[2004891:2005109:dir] hypothetical protein
+	[2005119:2005520:rev] frameshifted, insertion/deletion at around 2005636; hypothetical protein
+	[2005517:2006911:rev] frameshifted, insertion/deletion at around 2005633; hypothetical protein
+	[2006908:2007333:rev] hypothetical protein
+	[2007935:2011828:dir] hypothetical protein
+	[2012144:2012410:dir] hypothetical protein
+	[2012482:2013069:dir] hypothetical protein
+	[2013119:2014060:rev] frameshifted, insertion/deletion at around 2014134; hypothetical protein
+	[2014033:2014995:rev] frameshifted, insertion/deletion at around 2014134; hypothetical protein
+	[2015091:2015378:rev] hydrogenase expression protein HypA
+	[2015693:2016457:rev] hypothetical protein
+	[2016828:2017724:rev] hypothetical protein
+	[2017875:2020184:dir] hypothetical protein
+<END>
+<GI> AP027739:11 <COORDINATES> 2024380-2071163 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.923984; n0_4mer:D = 26.809442; n0_4mer:PS = 44.895888
+	[2024380:2025147:rev] precorrin-4 C(11)-methyltransferase
+	[2025199:2026089:rev] hypothetical protein
+	[2026670:2026846:rev] hypothetical protein
+	[2026843:2027022:rev] hypothetical protein
+	[2027372:2028262:rev] hypothetical protein
+	[2028499:2028795:rev] TIGR04076 family protein
+	[2028853:2029431:rev] frameshifted, insertion/deletion at around 2029504,2029507; hypothetical protein
+	[2029472:2029873:rev] frameshifted, insertion/deletion at around 2029513; hypothetical protein
+	[2030177:2031517:rev] ATPase AAA
+	[2031900:2033579:rev] glutamate--tRNA ligase
+	[2033719:2034075:rev] frameshifted, insertion/deletion at around 2034179; hypothetical protein
+	[2034132:2034716:rev] frameshifted, insertion/deletion at around 2034179; hypothetical protein
+	[2034716:2035660:rev] frameshifted, insertion/deletion at around 2035686; hypothetical protein
+	[2035675:2036064:rev] frameshifted, insertion/deletion at around 2035689; hypothetical protein
+	[2036061:2037116:rev] type 2 isopentenyl-diphosphate Delta-isomerase
+	[2037487:2038215:rev] hypothetical protein
+	[2038313:2039404:rev] mevalonate kinase
+	[2039801:2040640:rev] hypothetical protein
+	[2040744:2040971:rev] hypothetical protein
+	[2040928:2041524:rev] 30S ribosomal protein S2
+	[2041661:2041852:rev] ferredoxin
+	[2041985:2043235:rev] enolase
+	[2043420:2043617:rev] DNA-directed RNA polymerase subunit K
+	[2043879:2044046:rev] DNA-directed RNA polymerase subunit N
+	[2044112:2044513:rev] 30S ribosomal protein S9
+	[2044527:2044952:rev] 50S ribosomal protein L13
+	[2044964:2045314:rev] 50S ribosomal protein L18e
+	[2045317:2046114:rev] DNA-directed RNA polymerase subunit D
+	[2046133:2046531:rev] 30S ribosomal protein S11
+	[2046541:2047122:rev] 30S ribosomal protein S4
+	[2047141:2047593:rev] 30S ribosomal protein S13
+	[2047865:2047951:rev] tRNA-Ser
+	[2048153:2048371:rev] frameshifted, insertion/deletion at around 2048343; hypothetical protein
+	[2048299:2049114:rev] frameshifted, insertion/deletion at around 2048343; rRNA pseudouridine synthase
+	[2049181:2049411:rev] 50S ribosomal protein L14e
+	[2049553:2049927:rev] frameshifted, insertion/deletion at around 2049633,2049594; hypothetical protein
+	[2050010:2050204:rev] frameshifted, insertion/deletion at around 2050021; hypothetical protein
+	[2050341:2050910:rev] membrane protein
+	[2050994:2051224:rev] frameshifted, insertion/deletion at around 2051382; hypothetical protein
+	[2051338:2051550:rev] frameshifted, insertion/deletion at around 2051382; hypothetical protein
+	[2051552:2051701:rev] frameshifted, insertion/deletion at around 2051721; hypothetical protein
+	[2051707:2052516:rev] frameshifted, insertion/deletion at around 2051720,2052617; hypothetical protein
+	[2052603:2052896:rev] frameshifted, insertion/deletion at around 2052617; hypothetical protein
+	[2052938:2053378:rev] 50S ribosomal protein L15
+	[2053474:2053932:rev] 50S ribosomal protein L30
+	[2053943:2054590:rev] 30S ribosomal protein S5
+	[2054590:2055171:rev] 50S ribosomal protein L18
+	[2055185:2055631:rev] 50S ribosomal protein L19e
+	[2055908:2056237:rev] 50S ribosomal protein L32e
+	[2056244:2056777:rev] 50S ribosomal protein L6
+	[2056789:2057181:rev] 30S ribosomal protein S8
+	[2057344:2057868:rev] 50S ribosomal protein L5
+	[2057869:2058594:rev] 30S ribosomal protein S4e
+	[2058596:2058949:rev] 50S ribosomal protein L24
+	[2059092:2059355:rev] frameshifted, insertion/deletion at around 2059127; hypothetical protein
+	[2059358:2059675:rev] 30S ribosomal protein S17
+	[2059680:2059964:rev] ribonuclease P
+	[2060175:2060480:rev] stress response translation initiation inhibitor YciH
+	[2060486:2060692:rev] 50S ribosomal protein L29
+	[2060741:2062654:rev] hypothetical protein
+	[2062651:2063115:rev] 50S ribosomal protein L22
+	[2063129:2063539:rev] 30S ribosomal protein S19
+	[2063630:2064355:rev] 50S ribosomal protein L2
+	[2064370:2064630:rev] 50S ribosomal protein L23
+	[2064640:2064924:rev] frameshifted, insertion/deletion at around 2065130; hypothetical protein
+	[2065032:2065433:rev] frameshifted, insertion/deletion at around 2065130; hypothetical protein
+	[2065447:2066457:rev] 50S ribosomal protein L3
+	[2066703:2067482:rev] RNA-binding protein
+	[2067792:2068412:rev] RNA methyltransferase
+	[2068635:2070122:dir] biotin carboxylase
+	[2070192:2071163:dir] biotin--[acetyl-CoA-carboxylase] ligase
+<END>
+<GI> AP027739:12 <COORDINATES> 2264000-2286433 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.729417; n0_4mer:D = 23.777967; n0_4mer:PS = 44.280668
+	[2264004:2265200:dir] threonine synthase
+	[2265436:2265639:dir] histone
+	[2265948:2266193:dir] hypothetical protein
+	[2266999:2267361:dir] hypothetical protein
+	[2267774:2269147:dir] hypothetical protein
+	[2269338:2269559:rev] hypothetical protein
+	[2270061:2270432:dir] 50S ribosomal protein L7ae
+	[2270481:2270687:dir] 30S ribosomal protein S28e
+	[2270705:2270866:dir] 50S ribosomal protein L24e
+	[2270863:2271321:dir] nucleoside-diphosphate kinase
+	[2271434:2273212:dir] translation initiation factor aIF-2
+	[2273316:2273693:dir] 30S ribosomal protein S6e
+	[2273712:2274938:dir] translation initiation factor IF-2 subunit gamma
+	[2275181:2275324:dir] frameshifted, insertion/deletion at around 2275082; hypothetical protein
+	[2275496:2276014:dir] inorganic pyrophosphatase
+	[2276089:2276676:dir] DNA-directed RNA polymerase
+	[2276677:2276859:dir] DNA-directed RNA polymerase subunit E''
+	[2276924:2277130:dir] hypothetical protein
+	[2277139:2277363:dir] frameshifted, insertion/deletion at around 2277118; hypothetical protein
+	[2277376:2277681:dir] 30S ribosomal protein S24e
+	[2277718:2277882:dir] 30S ribosomal protein S27ae
+	[2277941:2279344:dir] argininosuccinate lyase
+	[2279521:2280207:dir] metal-dependent hydrolase
+	[2280342:2280536:rev] hypothetical protein
+	[2280601:2284194:rev] hypothetical protein
+	[2284575:2284715:dir] DUF3096 domain-containing protein
+	[2284841:2285875:rev] ATPase
+	[2285963:2286433:rev] hypothetical protein
+<END>
+<GI> AP027739:13 <COORDINATES> 2425958-2448953 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.841579; n0_4mer:D = 29.296571; n0_4mer:PS = 33.368254
+	[2425958:2426803:dir] hypothetical protein
+	[2426938:2427270:rev] frameshifted, insertion/deletion at around 2427278; hypothetical protein
+	[2427174:2427764:rev] frameshifted, insertion/deletion at around 2427278; hypothetical protein
+	[2428092:2429987:dir] DNA mismatch repair protein MutS
+	[2430080:2430544:rev] hypothetical protein
+	[2430640:2431179:rev] hypothetical protein
+	[2431395:2431880:dir] frameshifted, insertion/deletion at around 2431838; hypothetical protein
+	[2432736:2432851:rev] 5S ribosomal RNA
+	[2432951:2435891:rev] 23S ribosomal RNA
+	[2436009:2436086:rev] tRNA-Ala
+	[2436149:2437619:rev] 16S ribosomal RNA
+	[2438772:2438906:rev] hypothetical protein
+	[2438968:2440827:rev] asparagine synthetase B
+	[2440824:2441825:rev] hypothetical protein
+	[2442276:2443241:dir] 5,10-methylenetetrahydromethanopterin reductase
+	[2443378:2444010:rev] hypothetical protein
+	[2444035:2444265:rev] hypothetical protein
+	[2444597:2444902:rev] hypothetical protein
+	[2444964:2445374:rev] hypothetical protein
+	[2445665:2446357:rev] splB; radical SAM protein
+	[2446865:2447509:dir] frameshifted, insertion/deletion at around 2446856,2447483; hypothetical protein
+	[2447548:2447751:dir] hypothetical protein
+	[2448309:2448953:dir] hypothetical protein
+<END>
+<GI> AP027739:14 <COORDINATES> 2508253-2542999 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.470425; n0_4mer:D = 46.528453; n0_4mer:PS = 4.292662
+	[2508253:2509500:rev] membrane protein
+	[2509741:2510010:rev] effector protein
+	[2510422:2511066:rev] delta 1-pyrroline-5-carboxylate synthetase
+	[2511214:2511555:rev] peptidyl-tRNA hydrolase
+	[2511763:2512956:rev] methanogenesis marker 1 protein
+	[2513012:2513617:rev] site-2 protease family protein
+	[2513734:2514714:dir] aminopeptidase
+<END>

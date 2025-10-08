@@ -1,0 +1,48 @@
+<GI> CP136752:1 <COORDINATES> 250318-273297 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.773991; n0_4mer:D = 22.484497; n0_4mer:PS = 32.286072
+	[250318:250539:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; transcriptional regulator
+	[250579:251073:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008080 - N-acetyltransferase activity [Evidence IEA]; N-acetyltransferase
+	[251200:251835:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; iron-containing redox enzyme family protein
+	[251872:251945:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ile
+	[252258:252479:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; type II toxin-antitoxin system HicB family antitoxin
+	[252472:252618:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[253301:254377:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; transcriptional regulator
+	[254372:255460:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; site-2 protease family protein
+	[255616:255713:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Glu
+	[255771:256508:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; polyprenyl synthetase family protein
+	[256610:258094:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0008137 - NADH dehydrogenase (ubiquinone) activity [Evidence IEA]; GO_function: GO:0016655 - oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor [Evidence IEA]; GO_function: GO:0048038 - quinone binding [Evidence IEA]; GO_function: GO:0050136 - NADH dehydrogenase (quinone) activity [Evidence IEA]; NADH-quinone oxidoreductase subunit N
+	[258097:260166:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0050136 - NADH dehydrogenase (quinone) activity [Evidence IEA]; NADH-quinone oxidoreductase subunit L
+	[260169:261710:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008137 - NADH dehydrogenase (ubiquinone) activity [Evidence IEA]; GO_process: GO:0042773 - ATP synthesis coupled electron transport [Evidence IEA]; NADH-quinone oxidoreductase subunit M
+	[261710:262015:rev] nuoK; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016651 - oxidoreductase activity, acting on NAD(P)H [Evidence IEA]; GO_process: GO:0042773 - ATP synthesis coupled electron transport [Evidence IEA]; NADH-quinone oxidoreductase subunit NuoK
+	[261996:262508:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0008137 - NADH dehydrogenase (ubiquinone) activity [Evidence IEA]; GO_function: GO:0048038 - quinone binding [Evidence IEA]; NADH-quinone oxidoreductase subunit J
+	[262501:262998:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit I
+	[262998:264296:rev] nuoH; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; NADH-quinone oxidoreductase subunit NuoH
+	[264296:265438:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit D
+	[265435:266001:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008137 - NADH dehydrogenase (ubiquinone) activity [Evidence IEA]; NADH-quinone oxidoreductase subunit C
+	[266009:266524:rev] nuoB; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008137 - NADH dehydrogenase (ubiquinone) activity [Evidence IEA]; GO_function: GO:0048038 - quinone binding [Evidence IEA]; GO_function: GO:0051536 - iron-sulfur cluster binding [Evidence IEA]; NADH-quinone oxidoreductase subunit NuoB
+	[266531:266863:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit A
+	[267014:267487:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016209 - antioxidant activity [Evidence IEA]; GO_function: GO:0016491 - oxidoreductase activity [Evidence IEA]; redoxin domain-containing protein
+	[267583:269337:dir] glmS; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004360 - glutamine-fructose-6-phosphate transaminase (isomerizing) activity [Evidence IEA]; GO_process: GO:0006040 - amino sugar metabolic process [Evidence IEA]; GO_process: GO:0009252 - peptidoglycan biosynthetic process [Evidence IEA]; glutamine--fructose-6-phosphate transaminase (isomerizing)
+	[269324:270391:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; TIGR00303 family protein
+	[270384:270989:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; MBL fold metallo-hydrolase
+	[270986:271627:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NAD(P)H-hydrate epimerase
+	[271776:272126:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[272674:273297:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; RNA-binding protein
+<END>
+<GI> CP136752:2 <COORDINATES> 992100-1012555 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.437243; n0_4mer:D = 21.856761; n0_4mer:PS = 32.647095
+	[992100:993590:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; type II/IV secretion system ATPase subunit
+	[993767:994579:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005515 - protein binding [Evidence IEA]; tetratricopeptide repeat protein
+	[994576:995274:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[995419:995580:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[995634:996011:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; carbonic anhydrase
+	[996184:996351:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[996346:997548:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[997607:999055:rev] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008483 - transaminase activity [Evidence IEA]; GO_function: GO:0030170 - pyridoxal phosphate binding [Evidence IEA]; aminotransferase class III-fold pyridoxal phosphate-dependent enzyme
+	[999283:1000753:dir] Derived by automated computational analysis using gene prediction method: cmsearch.; 16S ribosomal RNA
+	[1000906:1003906:dir] Derived by automated computational analysis using gene prediction method: cmsearch.; 23S ribosomal RNA
+	[1003967:1005184:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1005147:1006535:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1006569:1006961:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; nuclear transport factor 2 family protein
+	[1007064:1009214:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_component: GO:0033573 - high-affinity iron permease complex [Evidence IEA]; GO_function: GO:0005381 - iron ion transmembrane transporter activity [Evidence IEA]; GO_process: GO:0034755 - iron ion transmembrane transport [Evidence IEA]; FTR1 family protein
+	[1009195:1011318:dir] Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016787 - hydrolase activity [Evidence IEA]; hydantoinase/oxoprolinase family protein
+	[1011374:1012555:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; PEFG-CTERM sorting domain-containing protein
+<END>

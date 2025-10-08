@@ -1,0 +1,191 @@
+<GI> AY596297:1 <COORDINATES> 879303-907099 <STAT> n1_4mer:GRV/n1_4mer:RV = 5.063852; n0_4mer:D = 51.306860; n0_4mer:PS = 27.193629
+	[879303:881012:dir] unknown
+	[881028:882176:rev] unknown
+	[882280:883119:rev] suhB1; inositol-1-monophosphatase
+	[883191:883406:rev] unknown
+	[884016:884117:dir] unknown
+	[884204:884308:dir] unknown
+	[884544:884756:rev] unknown
+	[885451:886512:dir] rfbB1; dTDP-glucose 4-6-dehydratase
+	[886485:887486:dir] rffG; dTDP-glucose dehydratase
+	[887770:887910:dir] unknown
+	[888331:889740:rev] unknown
+	[892287:893816:rev] unknown
+	[895032:896192:rev] gtr-7; glycosyltransferase
+	[896327:896422:rev] unknown
+	[896495:897556:dir] lpg2; LPS glycosyltransferase
+	[897596:898363:rev] glycosyltransferase
+	[898429:899403:rev] dpm1; dolichyl-phosphate beta-D-mannosyltransferase
+	[899675:900514:dir] dpm2; dolichyl-P-glucose synthetase
+	[900543:901529:rev] unknown
+	[901756:903201:dir] unknown
+	[903198:903698:dir] unknown
+	[903695:904648:dir] unknown
+	[904663:905673:rev] moxR6; methanol dehydrogenase regulatory protein
+	[905666:906760:rev] unknown
+	[906760:907035:rev] unknown
+<END>
+<GI> AY596297:2 <COORDINATES> 1295805-1320196 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.312289; n0_4mer:D = 38.624757; n0_4mer:PS = 30.594469
+	[1295805:1297898:dir] nuoL2; NADH dehydrogenase I L subunit
+	[1297899:1299434:dir] ndhD; NADH dehydrogenase subunit 4
+	[1299435:1300985:dir] ndhG3; NADH dehydrogenase/oxidoreductase
+	[1301035:1301982:rev] metallo-beta-lactamase superfamily protein
+	[1302131:1302400:dir] unknown
+	[1302449:1302523:dir] codon recognized: GUG; tRNA-Val
+	[1302957:1303829:rev] unknown
+	[1303913:1304155:rev] unknown
+	[1304155:1304289:rev] unknown
+	[1304717:1305553:dir] unknown
+	[1305661:1305774:dir] unknown
+	[1305771:1306244:rev] unknown
+	[1306241:1307290:rev] unknown
+	[1308450:1309475:rev] tnp; phage integrase
+	[1309746:1310495:dir] unknown
+	[1310552:1311151:dir] trxB2; thioredoxin reductase
+	[1311246:1311659:dir] doxD5; terminal quinol oxidase subunit
+	[1311680:1312294:rev] acrR; transcription regulator acrR family
+	[1312406:1312753:rev] unknown
+	[1312808:1313185:rev] unknown
+	[1313261:1314502:rev] unknown
+	[1314593:1315051:dir] unknown
+	[1315132:1316382:rev] fdfT; farnesyl-diphosphate farnesyltransferase
+	[1316703:1318040:dir] sacB; levansucrase
+	[1318085:1320196:rev] scrB; sucrose-6-phosphate hydrolase
+<END>
+<GI> AY596297:3 <COORDINATES> 1401414-1434752 <STAT> n1_4mer:GRV/n1_4mer:RV = 5.465788; n0_4mer:D = 50.013925; n0_4mer:PS = 28.589353
+	[1401414:1402625:dir] cdc6g; cell division control protein 6
+	[1402965:1403417:dir] cdc6f; CDC6 homolog 2; cell division control protein 6 homolog 2
+	[1403647:1405452:dir] trp-7; ABC transporter ATP-binding protein
+	[1405493:1406137:dir] wcaH; GDP-mannose mannosyl hydrolase
+	[1406210:1407271:dir] rfbB2; DTDP-glucose-46-dehydratase
+	[1407268:1408236:dir] galE8; UDP-glucose 4-epimerase
+	[1408652:1409275:rev] unknown
+	[1409327:1409719:rev] unknown
+	[1411418:1412350:rev] unknown
+	[1412941:1413765:rev] tnp; putative transposase
+	[1413830:1414075:rev] unknown
+	[1414314:1414481:dir] unknown
+	[1416511:1416927:dir] tnp; similar to VNG6486H and VNG6040H; putative transposase
+	[1416928:1417059:dir] unknown
+	[1417867:1419048:rev] unknown
+	[1420700:1421842:rev] icsA; LPS glycosyltransferase
+	[1421885:1422997:rev] lpb2; LPS biosynthesis protein
+	[1423526:1423750:dir] graD4a; glucose-1-phosphate thymidylyltransferase
+	[1423955:1425367:dir] unknown
+	[1425526:1426560:rev] glmS1; isomerizing; glucosamine-fructose-6-phosphate aminotransferase
+	[1427389:1428270:rev] unknown
+	[1429413:1430876:rev] secY; protein translocase subunit SecY
+	[1430883:1431380:rev] rpl15P; 50S ribosomal protein L15P
+	[1431380:1431844:rev] rpl30P; 50S ribosomal protein L30P
+	[1431844:1432482:rev] rps5P; 30S ribosomal protein S5P
+	[1432479:1433042:rev] rpl18P; HSal18; 50S ribosomal protein L18P
+	[1433042:1433491:rev] rpl19E; 50S ribosomal protein L19e
+	[1433491:1434216:rev] rpl32E; 50S ribosomal protein L32E
+	[1434216:1434752:rev] rpl6P; 50S ribosomal protein L6P
+<END>
+<GI> AY596297:4 <COORDINATES> 1629153-1650099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.702296; n0_4mer:D = 39.861989; n0_4mer:PS = 29.518995
+	[1629153:1630082:rev] yurF; ABC transporter ATP-binding protein
+	[1630208:1634374:rev] polB1; DNA polymerase B elongation subunit
+	[1635741:1636460:rev] unknown
+	[1636496:1637188:rev] unknown
+	[1637650:1637802:rev] unknown
+	[1640069:1641091:rev] tnp; phage integrase/site-specific recombinase
+	[1641234:1641635:dir] unknown
+	[1641663:1642085:dir] unknown
+	[1642111:1644837:rev] smc1; structural maintenance of chromosomes
+	[1644800:1646074:rev] yhcR2; phosphoesterase
+	[1646159:1646545:rev] unknown
+	[1646714:1646842:dir] unknown
+	[1646933:1647454:dir] unknown
+	[1647484:1647924:dir] unknown
+	[1647917:1648861:dir] unknown
+	[1649015:1649779:dir] virB11; type IV secretion system protein
+<END>
+<GI> AY596297:5 <COORDINATES> 2060621-2084173 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.930515; n0_4mer:D = 43.260579; n0_4mer:PS = 26.620608
+	[2060621:2062543:rev] trp3; ABC transport protein
+	[2062583:2063170:rev] unknown
+	[2063268:2063341:dir] codon recognized: GUA; tRNA-Val
+	[2063746:2063865:dir] unknown
+	[2063955:2064028:dir] codon recognized: UUC; tRNA-Phe
+	[2064377:2064667:dir] unknown
+	[2064879:2066924:dir] mcm1; MCM / cell division control protein 21
+	[2068626:2069159:dir] unknown
+	[2069430:2070293:rev] unknown
+	[2070444:2071043:dir] boa; bacterio-opsin activator-like protein
+	[2071051:2071572:rev] unknown
+	[2071751:2072359:rev] unknown
+	[2073356:2073730:dir] unknown
+	[2073736:2075616:dir] repC; replication factor C
+	[2075686:2075910:rev] unknown
+	[2076803:2076982:rev] unknown
+	[2077024:2077212:dir] unknown
+	[2077225:2078472:rev] tnp; phage integrase
+	[2078665:2079234:dir] unknown
+	[2079339:2079584:dir] unknown
+	[2079871:2080593:rev] hspC; small heat shock protein
+	[2080592:2083657:dir] glcD2; putative oxidoreductase
+	[2083649:2084173:rev] unknown
+<END>
+<GI> AY596297:6 <COORDINATES> 2117671-2143599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.154299; n0_4mer:D = 43.755700; n0_4mer:PS = 27.202664
+	[2117671:2119518:dir] putative serine/threonine phosphatase
+	[2119515:2120843:dir] unknown
+	[2121198:2122220:rev] tnp; phage integrase
+	[2122646:2122945:dir] phrH3; PhiH1 repressor-like
+	[2122953:2123189:rev] unknown
+	[2124334:2125386:rev] cdc6e; Orc / cell division control protein 6
+	[2126270:2127004:rev] unknown
+	[2127411:2127770:dir] unknown
+	[2128312:2128569:rev] unknown
+	[2128950:2130461:dir] unknown
+	[2130467:2131153:rev] unknown
+	[2131282:2132916:dir] unknown
+	[2132919:2133479:dir] unknown
+	[2133578:2134852:dir] tnp; putative ISH8 transposase
+	[2135176:2135649:dir] unknown
+	[2137394:2137582:rev] unknown
+	[2137705:2138136:dir] unknown
+	[2138142:2138372:dir] unknown
+	[2138540:2140171:dir] unknown
+	[2140179:2140730:dir] unknown
+	[2140727:2141521:dir] unknown
+	[2141514:2142023:dir] unknown
+	[2142115:2142684:dir] unknown
+<END>
+<GI> AY596297:7 <COORDINATES> 3126429-3260099 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.600613; n0_4mer:D = 45.786332; n0_4mer:PS = -0.696634
+	[3126429:3127643:dir] pan2; proteasome regulatory subunit 2; proteasome-activating nucleotidase 2
+	[3127771:3128352:dir] unknown
+	[3128405:3129628:dir] putative HD family metal dependent phosphohydrolase
+	[3129926:3130675:dir] trzA4; chlorohydrolase family protein
+	[3130709:3131161:dir] unknown
+	[3131234:3131713:dir] usp18; universal stress protein
+<END>
+<GI> AY596297:8 <COORDINATES> 3529500-3564599 <STAT> n1_4mer:GRV/n1_4mer:RV = 6.044518; n0_4mer:D = 44.713944; n0_4mer:PS = 2.434540
+
+<END>
+<GI> AY596297:9 <COORDINATES> 3576000-3612099 <STAT> n1_4mer:GRV/n1_4mer:RV = 6.202735; n0_4mer:D = 45.198855; n0_4mer:PS = 1.034006
+
+<END>
+<GI> AY596297:10 <COORDINATES> 3627500-3659599 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.953687; n0_4mer:D = 45.086176; n0_4mer:PS = 0.165469
+
+<END>
+<GI> AY596297:11 <COORDINATES> 3683500-3721099 <STAT> n1_4mer:GRV/n1_4mer:RV = 5.879743; n0_4mer:D = 45.108828; n0_4mer:PS = -0.016787
+
+<END>
+<GI> AY596297:12 <COORDINATES> 3755000-3822599 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.700080; n0_4mer:D = 44.718746; n0_4mer:PS = 0.449888
+
+<END>
+<GI> AY596297:13 <COORDINATES> 3860500-3885599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.223159; n0_4mer:D = 42.758426; n0_4mer:PS = 28.747824
+
+<END>
+<GI> AY596297:14 <COORDINATES> 3938500-4028099 <STAT> n1_4mer:GRV/n1_4mer:RV = 5.262486; n0_4mer:D = 45.575887; n0_4mer:PS = -0.129505
+
+<END>
+<GI> AY596297:15 <COORDINATES> 4163500-4353599 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.109610; n0_4mer:D = 45.734720; n0_4mer:PS = -0.496530
+
+<END>
+<GI> AY596297:16 <COORDINATES> 4506000-4545099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.594276; n0_4mer:D = 36.520231; n0_4mer:PS = 32.747038
+
+<END>
+<GI> AY596297:17 <COORDINATES> 4561000-4583599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.639414; n0_4mer:D = 44.324031; n0_4mer:PS = 35.714128
+
+<END>

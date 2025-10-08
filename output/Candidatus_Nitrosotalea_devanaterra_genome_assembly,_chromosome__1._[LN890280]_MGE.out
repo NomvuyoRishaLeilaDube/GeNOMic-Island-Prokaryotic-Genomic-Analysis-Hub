@@ -1,0 +1,164 @@
+<GI> LN890280:1 <COORDINATES> 143378-166099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.535021; n0_4mer:D = 25.097276; n0_4mer:PS = 37.361433
+	[143378:144382:dir] Oxidoreductase-like protein
+	[144389:145429:dir] NeuB; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme; N-acetylneuraminate synthase
+	[145438:146184:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type e : enzyme; Acylneuraminate cytidylyltransferase
+	[146190:147257:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative N-acetylneuraminate synthase
+	[147392:148402:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type e : enzyme; SAM-dependent methyltransferase
+	[148411:149193:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type t : transporter; Capsular polysaccharide export system, ATPase component
+	[149196:149987:rev] CtrC; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type t : transporter; Capsular polysaccharide export system, permease component
+	[149947:150063:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[150117:151283:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pe : putative enzyme; Putative glycosyltransferase, cell wall synthesis-related
+	[151363:152238:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type e : enzyme; Glycosyltransferase, cell wall synthesis-related
+	[152413:157815:dir] slp1; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; PubMedId : 23995944; Product type pm : putative membrane component; Putative S-layer protein
+	[158286:158585:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[158588:159010:dir] coxB; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type e : enzyme; putative heme-copper oxidase subunit II
+	[159066:160607:dir] coxA; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type e : enzyme; heme-copper oxidase subunit I
+	[160609:161586:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative rusticyanin
+	[161589:162035:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[162025:162582:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[162674:163279:dir] Cyclase/dehydrase
+	[163336:163427:dir] tRNA-Lys
+	[163453:163707:rev] RelE protein
+	[163708:163941:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[164451:164648:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[164667:165581:rev] ilvE; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative branched-chain-amino-acid aminotransferase
+	[165684:165890:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+<END>
+<GI> LN890280:2 <COORDINATES> 390000-412801 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.563332; n0_4mer:D = 19.339737; n0_4mer:PS = 33.834815
+	[390174:390668:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[390787:391002:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[391435:392076:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[392060:392377:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[392465:392911:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[393007:394008:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type t : transporter; ABC transporter, ATPase component
+	[394005:394784:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type t : transporter; ABC transporter, permease component
+	[394889:400153:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[400215:401492:dir] hemL; Glutamate-1-semialdehyde 2,1-aminomutase
+	[401489:402424:dir] hemC; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative porphobilinogen deaminase
+	[402421:403161:dir] Uroporphyrinogen-III methylase
+	[403164:403958:dir] hemD; Uroporphyrinogen-III synthase
+	[403988:405175:dir] dpm; Dolichol-phosphate mannosyltransferase
+	[405335:406735:dir] sufB; Evidence 2b : Function of strongly homologous gene; PubMedId : 10322040, 12089140; Product type pt : putative transporter; FeS assembly protein SufB
+	[406764:408164:dir] sufD; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type s : structure; FeS assembly protein SufD
+	[408161:408481:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative Rieske [2Fe-2S] domain protein
+	[408483:409727:dir] sufS; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 10322040, 10329673, 10684605, 10739946, 10829016, 12089140, 14644425; Product type e : enzyme; selenocysteine lyase, PLP-dependent
+	[409724:410164:dir] nifU; NifU-like protein
+	[410166:410504:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[410497:411705:rev] pgk; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme; Phosphoglycerate kinase
+	[411842:412501:dir] PAP2 family protein
+	[412490:412801:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+<END>
+<GI> LN890280:3 <COORDINATES> 819420-843759 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.895699; n0_4mer:D = 19.552529; n0_4mer:PS = 35.186990
+	[819420:821585:dir] purL; Phosphoribosylformylglycinamidine synthase 2
+	[821578:823020:dir] Amidophosphoribosyltransferase
+	[823022:823267:dir] Transcriptional regulator
+	[823349:824188:dir] purC; Phosphoribosylaminoimidazole-succinocarboxamide synthase
+	[824527:825063:dir] Transcriptional regulator, ArsR family
+	[825066:825482:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[825534:826271:dir] psmA; Proteasome subunit alpha
+	[826311:827126:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[827355:828353:dir] rpl; 50S ribosomal protein L3
+	[828350:829165:dir] rpl; 50S ribosomal protein L4
+	[829162:829428:dir] rpl23p; 50S ribosomal protein L23P
+	[829470:829865:dir] rps; 30S ribosomal protein S19
+	[829871:830326:dir] rpl22p; 50S ribosomal protein L22P
+	[830329:831090:dir] rps; 30S ribosomal protein S3
+	[831090:831293:dir] rpl29p; 50S ribosomal protein L29P
+	[831290:831556:dir] rnp; Ribonuclease P protein component 1
+	[831553:831876:dir] rps17p; 30S ribosomal protein S17P
+	[831876:832313:dir] rpl; 50S ribosomal protein L14
+	[832317:832835:dir] rpl24p; 50S ribosomal protein L24P
+	[832835:833551:dir] rps4e; 30S ribosomal protein S4e
+	[833557:834078:dir] rpl; 50S ribosomal protein L5
+	[834080:834256:dir] Ribosomal protein S14
+	[834264:834656:dir] rps; 30S ribosomal protein S8
+	[834646:835203:dir] rpl; 50S ribosomal protein L6
+	[835248:835321:dir] tRNA-Asn
+	[835525:835788:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[836982:837278:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[837448:838194:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[838217:838447:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[838600:838941:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[838934:839602:rev] SNF7
+	[839727:840863:rev] Redoxin domain protein
+	[840869:841600:rev] ccdA; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pe : putative enzyme; Disulfide Bond oxidoreductase D family protein
+	[841662:842789:rev] 8-amino-7-oxononanoate synthase
+	[842779:843759:rev] bioB; Biotin synthase
+<END>
+<GI> LN890280:4 <COORDINATES> 1287290-1310603 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.475195; n0_4mer:D = 20.099708; n0_4mer:PS = 38.116701
+	[1287290:1288351:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative carbamoylphosphate synthase large subunit
+	[1288363:1290006:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[1290025:1290987:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative UDP-glucose 4-epimerase
+	[1290984:1292471:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative glycosyl transferase group 1
+	[1292468:1293088:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1293229:1294989:dir] glmS2; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme; Glutamine-fructose-6-phosphate aminotransferase [isomerizing]
+	[1295196:1295351:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1295436:1296881:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pcp : putative cell process; Putative gas vesicle regulatory protein GvpD
+	[1296948:1297754:dir] Signal transduction histidine kinase, with phosphoacceptor and ATP binding domain (fragment)
+	[1297759:1298124:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative signal transduction response regulator
+	[1298142:1298936:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1299096:1299317:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pcp : putative cell process; Putative gas vesicle structural protein GvpA
+	[1299333:1299584:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1299574:1299843:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pcp : putative cell process; Putative gas vesicle structural protein GvpJ
+	[1299853:1300338:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pcp : putative cell process; Putative gas vesicle protein GvpK
+	[1300335:1301075:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative gas vesicle synthesis protein GvpL_GvpF
+	[1301086:1301307:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pcp : putative cell process; Putative gas vesicle protein GvpG
+	[1301309:1302430:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pe : putative enzyme; putative Histidine kinase
+	[1302467:1304482:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type ps : putative structure; Spherulin-4-like protein
+	[1304691:1304969:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1305010:1306914:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1307082:1307282:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1307439:1307777:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1307972:1308427:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1308582:1308851:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1308907:1309206:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1309461:1310603:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+<END>
+<GI> LN890280:5 <COORDINATES> 1333640-1361824 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.227436; n0_4mer:D = 28.626581; n0_4mer:PS = 35.763883
+	[1333640:1342282:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1342817:1343050:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1343118:1343921:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[1343925:1344224:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1344631:1347617:rev] ribosomal RNA 23S ribosomal RNA
+	[1347565:1347684:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1347782:1349251:rev] ribosomal RNA 16S ribosomal RNA
+	[1349562:1350872:dir] hemL; Glutamate-1-semialdehyde 2,1-aminomutase 2
+	[1350914:1351405:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1351449:1352171:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1352284:1352856:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1352942:1353895:dir] tfb; Transcription initiation factor IIB
+	[1353968:1356136:rev] Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme; AAA family ATPase
+	[1356188:1356577:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1356574:1356687:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1356732:1357388:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1357411:1357584:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1357623:1357913:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1358001:1358477:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative MarR family transcriptional regulator
+	[1358583:1358879:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1358977:1359747:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1359785:1360150:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1360210:1360326:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1360376:1361824:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative Histidine kinase
+<END>
+<GI> LN890280:6 <COORDINATES> 1617366-1636965 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.714832; n0_4mer:D = 19.747082; n0_4mer:PS = 32.616640
+	[1617366:1618550:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1618589:1619224:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1619622:1620476:dir] Formyl transferase domain-containing protein
+	[1620477:1621187:dir] Creatininase
+	[1621248:1621478:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative snRNP Sm-like protein
+	[1621654:1622592:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[1622593:1623267:dir] rpiA; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme; Ribose-5-phosphate isomerase A
+	[1623288:1624196:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1624582:1624911:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1624908:1625186:rev] acyP; Acylphosphatase
+	[1625226:1625957:rev] rpl; 50S ribosomal protein L2
+	[1626059:1628260:dir] Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme; AAA family ATPase
+	[1628293:1629579:dir] gatD; Glutamyl-tRNA(Gln) amidotransferase subunit D
+	[1629612:1631519:dir] gatE; Glutamyl-tRNA(Gln) amidotransferase subunit E
+	[1631525:1631612:rev] tRNA-Leu
+	[1631679:1632233:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1632239:1633348:rev] dnaJ; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 10210198, 10891270, 1826368, 3003084, 3003085, 8764403, 9822822; Product type f : factor; chaperone Hsp40, co-chaperone with DnaK
+	[1633383:1635230:rev] dnaK; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type f : factor; Chaperone protein DnaK
+	[1635223:1635792:rev] Protein GrpE
+	[1635832:1636965:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+<END>

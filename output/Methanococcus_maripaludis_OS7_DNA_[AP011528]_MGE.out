@@ -1,0 +1,277 @@
+<GI> AP011528:1 <COORDINATES> 40936-62559 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.853509; n0_4mer:D = 32.949729; n0_4mer:PS = 43.968293
+	[40936:42651:dir] hypothetical protein
+	[42638:44614:dir] hypothetical protein
+	[44738:45421:dir] hypothetical protein
+	[46363:46635:rev] hypothetical protein
+	[46703:50098:rev] polC; DNA polymerase II large subunit
+	[50275:50504:rev] RNaseP; RNA component of RNaseP
+	[50566:50680:rev] rrnB5S; 5S ribosomal RNA
+	[50742:53698:rev] rrnB23S; 23S ribosomal RNA
+	[53805:53877:rev] tRNA-Ala
+	[53981:55372:rev] rrnB16S; 16S ribosomal RNA
+	[55628:56635:rev] potassium uptake protein
+	[56708:58159:dir] putative CobB/CobQ-like glutamine amidotransferase
+	[58206:58544:rev] hypothetical protein
+	[58587:59219:rev] hypothetical protein
+	[59443:61461:dir] mcm; minichromosome maintenance protein
+	[61477:62559:dir] hypothetical protein
+<END>
+<GI> AP011528:2 <COORDINATES> 854832-879031 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.395584; n0_4mer:D = 22.659290; n0_4mer:PS = 27.524668
+	[854832:856064:dir] hypothetical protein
+	[856111:856488:dir] hypothetical protein
+	[856611:857492:dir] hypothetical protein
+	[857494:857898:dir] hypothetical protein
+	[858345:859193:rev] frhB; protein synonym:8-hydroxy-5-deazaflavin-reducing hydrogenase subunit beta; coenzyme F420 hydrogenase subunit beta
+	[859215:859943:rev] frhG; protein synonym:8-hydroxy-5-deazaflavin-reducing hydrogenase subunit gamma; coenzyme F420 hydrogenase subunit gamma
+	[859954:860454:rev] frhD; protein synonym:8-hydroxy-5-deazaflavin-reducing hydrogenase subunit delta; coenzyme F420-reducing hydrogenase delta subunit
+	[860468:861700:rev] frhA; protein synonym:8-hydroxy-5-deazaflavin-reducing hydrogenase subunit alpha; coenzyme F420 hydrogenase subunit alpha
+	[862158:862580:dir] vhcD; coenzyme F420-non-reducing hydrogenase subunit delta
+	[862597:863499:dir] vhcG; coenzyme F420-non-reducing hydrogenase subunit gamma
+	[863521:864936:dir] vhcA; coenzyme F420-non-reducing hydrogenase subunit alpha
+	[864945:866138:dir] vhcB; protein synonym:polyferredoxin protein; coenzyme F420-non-reducing hydrogenase subunit beta
+	[866229:868193:dir] hdrA; protein synonym:CoB--CoM heterodisulfide reductase iron-sulfur subunit A; heterodisulfide reductase subunit A
+	[868240:869544:dir] fwdB; tungsten containing formylmethanofuran dehydrogenase subunit B
+	[869812:870078:rev] hypothetical protein
+	[870359:870652:dir] hypothetical protein
+	[870667:871011:rev] hypothetical protein
+	[871280:871939:dir] mtbC; putative cobalamin-dependent methionine synthase
+	[871964:873055:dir] putative uroporphyrinogen decarboxylase
+	[873179:874207:dir] mtbA; protein synonym:methylcobamide:CoM methyltransferase II isozyme A; methylcobamide:CoM methyltransferase
+	[874208:875986:dir] putative ferredoxin
+	[876038:876946:dir] putative cobalamin synthesis protein
+	[876952:877815:rev] putative uroporphyrinogen decarboxylase
+	[877883:879031:rev] fragment; protein synonym:major facilitator superfamily MFS_1; MFS transporter
+<END>
+<GI> AP011528:3 <COORDINATES> 890000-912991 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.899480; n0_4mer:D = 20.117947; n0_4mer:PS = 34.699720
+	[890042:890776:dir] hypothetical protein
+	[890819:891175:rev] hypothetical protein
+	[891433:891702:dir] hypothetical protein
+	[891753:892352:rev] hypothetical protein
+	[892427:892900:rev] msrA; protein synonym:peptide Met(O) reductase; protein synonym:peptide-methionine (S)-S-oxide reductase; protein synonym:protein-methionine-S-oxide reductase; methionine sulfoxide reductase msrA
+	[893154:893777:dir] putative lysine exporter
+	[893840:895096:dir] putative amino acid permease
+	[895137:895766:rev] hypothetical protein
+	[895794:896273:rev] hypothetical protein
+	[896617:897444:dir] nifH; protein synonym:nitrogenase component II; nitrogenase
+	[897487:897804:dir] nifI1; nitrogen regulatory protein P-II
+	[897814:898179:dir] nifI2; nitrogen regulatory protein P-II
+	[898229:899662:dir] nifD; protein synonym:dinitrogenase; protein synonym:nitrogenase component I; nitrogenase molybdenum-iron protein alpha chain
+	[899655:901043:dir] nifK; protein synonym:dinitrogenase; protein synonym:nitrogenase component I; nitrogenase molybdenum-iron protein beta chain
+	[901066:902508:dir] nifE; nitrogenase iron-molybdenum cofactor biosynthesis protein
+	[902526:903902:dir] nifN; nitrogenase iron-molybdenum cofactor biosynthesis protein
+	[903868:904188:dir] nifX; dinitrogenase iron-molybdenum cofactor biosynthesis protein
+	[904765:906066:dir] kamA; lysine 2,3-aminomutase
+	[906067:906891:dir] putative GCN5-related N-acetyltransferase
+	[907039:907227:dir] hypothetical protein
+	[907265:908431:dir] napA; Na+/H+ exchanger
+	[908496:909899:rev] bioA; protein synonym:7,8-diamino-pelargonic acid aminotransferase; protein synonym:DAPA aminotransferase; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+	[910072:910959:rev] otaC; glycine betaine/L-proline ABC transporter substrate-binding protein
+	[910975:911808:rev] otaB; glycine betaine/L-proline ABC transporter permease protein
+	[911822:912991:rev] otaA; glycine betaine/L-proline ABC transporter ATP-binding protein
+<END>
+<GI> AP011528:4 <COORDINATES> 1004480-1027490 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.645374; n0_4mer:D = 21.566037; n0_4mer:PS = 24.942746
+	[1004480:1005145:rev] CRISPR-associated protein Cas5
+	[1005154:1006029:rev] CRISPR-associated protein Csh2
+	[1006029:1007732:rev] CRISPR-associated protein Csh1
+	[1007762:1008790:dir] CRISPR-associated protein Cas1
+	[1008795:1009085:dir] CRISPR-associated protein Cas2
+	[1009060:1009689:dir] CRISPR-associated protein Cas4
+	[1018752:1019000:dir] hypothetical protein
+	[1018997:1019299:dir] putative addiction module toxin, RelE/StbE
+	[1019997:1020470:rev] hypothetical protein
+	[1021027:1021893:dir] sucD; protein synonym:succinate--CoA ligase subunit alpha; succinyl-CoA synthetase subunit alpha
+	[1021940:1024456:dir] topA; DNA topoisomerase I
+	[1024458:1025111:rev] putative cytochrome c biogenesis protein
+	[1025131:1025478:rev] trxA; thioredoxin
+	[1025495:1026397:rev] trxB; thioredoxin reductase
+	[1026483:1027490:rev] hypothetical protein
+<END>
+<GI> AP011528:5 <COORDINATES> 1105235-1130461 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.670183; n0_4mer:D = 25.955739; n0_4mer:PS = 32.418078
+	[1105235:1108165:dir] hypothetical protein
+	[1108187:1108786:dir] tmk; protein synonym:putative dTMP kinase; putative thymidylate kinase
+	[1108858:1109271:dir] hypothetical protein
+	[1109309:1110115:dir] hypothetical protein
+	[1110197:1110472:dir] hypothetical protein
+	[1111093:1111401:dir] ntpF; A1A0 ATPase subunit H
+	[1111435:1113495:dir] ntpI; A1A0 ATPase subunit I
+	[1113548:1114216:dir] ntpK; V-type sodium ATP synthase subunit K precursor
+	[1114277:1114888:dir] ntpE; A1A0 ATPase subunit IE
+	[1114899:1116074:dir] ntpC; A1A0 ATPase subunit C
+	[1116096:1116395:dir] ntpF; A1A0 ATPase subunit F
+	[1116411:1118171:dir] ntpA; A1A0 ATPase subunit A
+	[1118206:1119594:dir] ntpB; A1A0 ATPase subunit B
+	[1119641:1120285:dir] ntpD; A1A0 ATPase subunit D
+	[1120307:1120672:dir] hypothetical protein
+	[1120729:1121118:dir] hypothetical protein
+	[1121316:1121585:dir] hypothetical protein
+	[1121621:1122268:rev] hypothetical protein
+	[1122345:1123139:rev] surE; protein synonym:nucleoside 5'-monophosphate phosphohydrolase; protein synonym:stationary-phase survival protein SurE; 5'-nucleotidase surE
+	[1123473:1124267:dir] hypothetical protein
+	[1124308:1125189:rev] hdrB; protein synonym:CoB--CoM heterodisulfide reductase subunit B; heterodisulfide reductase subunit B
+	[1125225:1125779:rev] hdrC; protein synonym:CoB--CoM heterodisulfide reductase subunit C; heterodisulfide reductase subunit C
+	[1125911:1126216:dir] hypothetical protein
+	[1126239:1127435:dir] hypothetical protein
+	[1127362:1127805:dir] hypothetical protein
+	[1127856:1128776:dir] hypothetical protein
+	[1128769:1129416:dir] nth; putative endonuclease III
+	[1129597:1130004:dir] hypothetical protein
+	[1130009:1130461:rev] hypothetical protein
+<END>
+<GI> AP011528:6 <COORDINATES> 1273830-1297334 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.426392; n0_4mer:D = 21.710846; n0_4mer:PS = 34.054087
+	[1273830:1275140:dir] lysA; protein synonym:DAP decarboxylase; diaminopimelate decarboxylase
+	[1275392:1275949:rev] putative nuclease
+	[1275959:1276339:rev] hypothetical protein
+	[1276350:1277447:rev] cbiD; putative cobalt-precorrin-6A synthase
+	[1277487:1278506:rev] pepQ; protein synonym:prolidase; protein synonym:proline dipeptidase; Xaa-Pro dipeptidase
+	[1278562:1279851:rev] aroA; protein synonym:5-enolpyruvylshikimate-3-phosphate synthase; 3-phosphoshikimate 1-carboxyvinyltransferase
+	[1280031:1281371:dir] glnA; protein synonym:glutamate--ammonia ligase; glutamine synthetase
+	[1281582:1281956:dir] rps6e; 30S ribosomal protein S6e
+	[1282118:1283350:dir] eif2g; protein synonym:aIF2-gamma; protein synonym:eIF-2-gamma; translation initiation factor 2 gamma subunit
+	[1283387:1284451:dir] hypothetical protein
+	[1284587:1285276:dir] hypothetical protein
+	[1285339:1286388:dir] hypothetical protein
+	[1286407:1287585:dir] hypothetical protein
+	[1287624:1288013:dir] hypothetical protein
+	[1288057:1288734:rev] hypothetical protein
+	[1288834:1290312:rev] cobQ; cobyric acid synthase
+	[1290436:1291551:rev] hisC; protein synonym:imidazole acetol-phosphate transaminase; histidinol-phosphate aminotransferase
+	[1291588:1292247:rev] hypothetical protein
+	[1292265:1293512:rev] hypothetical protein
+	[1293639:1295648:rev] putative helicase
+	[1295772:1297334:rev] alpha-glucan phosphorylase
+<END>
+<GI> AP011528:7 <COORDINATES> 1417865-1446599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.910835; n0_4mer:D = 23.541435; n0_4mer:PS = 36.761626
+	[1417865:1419016:dir] thiI; putative thiamine biosynthesis protein
+	[1419032:1419712:dir] catB; chloramphenicol acetyltransferase
+	[1419730:1420665:rev] hypothetical protein
+	[1420681:1420935:rev] hypothetical protein
+	[1420980:1421378:rev] ferredoxin
+	[1421392:1422933:rev] hypothetical protein
+	[1423225:1423461:dir] rpoH; DNA-directed RNA polymerase subunit H
+	[1423543:1425042:dir] rpoB2; DNA-directed RNA polymerase subunit B2
+	[1425086:1426921:dir] rpoB1; DNA-directed RNA polymerase subunit B1
+	[1426973:1429642:dir] rpoA1; DNA-directed RNA polymerase subunit A
+	[1429687:1430847:dir] rpoA2; DNA-directed RNA polymerase subunit A2
+	[1431045:1431365:dir] rpl30e; 50S ribosomal protein L30e
+	[1431382:1431903:dir] hypothetical protein
+	[1431913:1432356:dir] rps12p; 30S ribosomal protein S12P
+	[1432390:1432956:dir] rps7p; 30S ribosomal protein S7P
+	[1433058:1435241:dir] fusA; protein synonym:elongation factor 2; translation elongation factor aEF-2
+	[1435325:1436611:dir] tuf; translation elongation factor aEF-1 subunit alpha
+	[1436660:1436968:dir] rps10p; 30S ribosomal protein S10P
+	[1437255:1438568:dir] algC; phosphoglucomutase/phosphomannomutase
+	[1438631:1439716:rev] purP; protein synonym:5-aminoimidazole-4-carboxamide-1-beta-D- ribofuranosyl 5'-monophosphate--formate ligase; 5-formaminoimidazole-4-carboxamide-1-(beta)-D- ribofuranosyl 5'-monophosphate synthetase
+	[1439835:1440563:dir] rnhB; protein synonym:RNase HII; ribonuclease HII
+	[1440563:1441444:dir] hypothetical protein
+	[1441533:1441775:dir] hypothetical protein
+	[1441809:1442876:dir] hypothetical protein
+	[1443096:1443272:dir] hypothetical protein
+	[1443293:1443925:rev] thyA; thymidylate synthase
+	[1443999:1445117:dir] putative amidohydrolase
+	[1445178:1446446:dir] beta-lactamase like-protein
+<END>
+<GI> AP011528:8 <COORDINATES> 1461934-1487906 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.294320; n0_4mer:D = 21.623196; n0_4mer:PS = 39.577404
+	[1461934:1465503:dir] smc; protein synonym:chromosome segregation protein; chromosome partition protein
+	[1465537:1466784:dir] putative peptidase
+	[1466785:1467423:dir] putative amino acid kinase
+	[1467442:1467606:dir] hypothetical protein
+	[1467638:1467907:dir] ef1b; translation elongation factor aEF-1 subunit beta
+	[1468195:1468359:dir] hypothetical protein
+	[1468391:1468660:dir] ef1b; translation elongation factor aEF-1 subunit beta
+	[1468752:1468961:dir] hypothetical protein
+	[1468981:1469442:dir] rpl22p; 50S ribosomal protein L22P
+	[1469453:1470088:dir] rps3p; 30S ribosomal protein S3P
+	[1470099:1470314:dir] rpl29p; 50S ribosomal protein L29P
+	[1470398:1470706:dir] putative translation initiation factor SUI1
+	[1470776:1471072:dir] rnp1; protein synonym:RNase P component 1; ribonuclease P protein component 1
+	[1471238:1471567:dir] rps17p; 30S ribosomal protein S17P
+	[1471588:1471986:dir] rpl14p; 50S ribosomal protein L14P
+	[1472006:1472365:dir] rpl24p; 50S ribosomal protein L24P
+	[1472377:1473111:dir] rps4e; 30S ribosomal protein S4e
+	[1473140:1473685:dir] rpl5p; 50S ribosomal protein L5P
+	[1473695:1473856:dir] rps14p; 30S ribosomal protein S14P
+	[1473875:1474267:dir] rps8p; 30S ribosomal protein S8P
+	[1474289:1474837:dir] rpl6p; 50S ribosomal protein L6P
+	[1474847:1475254:dir] rpl32e; 50S ribosomal protein L32e
+	[1475281:1475730:dir] rpl19e; 50S ribosomal protein L19e
+	[1475754:1476335:dir] rpl18p; 50S ribosomal protein L18P
+	[1476346:1477023:dir] rps5p; 30S ribosomal protein S5P
+	[1477054:1477518:dir] rpl30p; 50S ribosomal protein L30P
+	[1477533:1477964:dir] rpl15p; 50S ribosomal protein L15P
+	[1478192:1479520:dir] secY; protein synonym:protein transport protein SEC61 subunit alpha; preprotein translocase subunit SecY
+	[1479561:1480460:rev] glycosyl transferase
+	[1480557:1483115:dir] putative oligosaccharyl transferase STT3 subunit
+	[1483229:1483768:dir] hypothetical protein
+	[1483792:1484412:dir] dcd; bifunctional protein; protein synonym:dUMP-forming dCTP deaminase; bifunctional deaminase/diphosphatase
+	[1484416:1485792:dir] hypothetical protein
+	[1485865:1486026:dir] secG; protein synonym:protein transport protein SEC61 subunit beta; preprotein translocase subunit SecG
+	[1486081:1486398:rev] rpoM; DNA-directed RNA polymerase subunit M
+	[1486470:1487906:rev] TRK system potassium uptake protein
+<END>
+<GI> AP011528:9 <COORDINATES> 1592885-1617099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.813658; n0_4mer:D = 29.755680; n0_4mer:PS = 34.783252
+	[1592885:1593106:rev] hypothetical protein
+	[1593244:1594596:rev] srp54; signal recognition 54 kDa protein
+	[1594623:1595180:rev] aromatic acid decarboxylase
+	[1595363:1595737:rev] fragment; putative nitroreductase
+	[1595734:1595964:rev] fragment; putative nitroreductase
+	[1596204:1596288:rev] tRNA-Leu
+	[1596418:1596532:dir] tRNA-Met
+	[1596607:1597917:rev] hypothetical protein
+	[1598177:1599508:dir] mcrB; methyl-coenzyme M reductase I subunit beta
+	[1599520:1599999:dir] mcrD; methyl-coenzyme M reductase I protein D
+	[1600008:1600604:dir] mcrC; methyl-coenzyme M reductase I protein C
+	[1600614:1601396:dir] mcrG; methyl-coenzyme M reductase I subunit gamma
+	[1601445:1603106:dir] mcrA; methyl-coenzyme M reductase I subunit alpha
+	[1603374:1604273:dir] mtrE; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit E; tetrahydromethanopterin S-methyltransferase subunit E
+	[1604300:1605007:dir] mtrD; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit D; tetrahydromethanopterin S-methyltransferase subunit D
+	[1605045:1605833:dir] mtrC; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit C; tetrahydromethanopterin S-methyltransferase subunit C
+	[1605844:1606170:dir] mtrB; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit B; tetrahydromethanopterin S-methyltransferase subunit B
+	[1606192:1606911:dir] mtrA; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit A; tetrahydromethanopterin S-methyltransferase subunit A
+	[1606928:1607689:dir] mtrA; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit A; tetrahydromethanopterin S-methyltransferase subunit A
+	[1607694:1607918:dir] mtrG; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit G; tetrahydromethanopterin S-methyltransferase subunit G
+	[1607943:1608902:dir] mtrH; protein synonym:N5-methyltetrahydromethanopterin--coenzyme M methyltransferase subunit H; tetrahydromethanopterin S-methyltransferase subunit H
+	[1608988:1609521:rev] hypothetical protein
+	[1609499:1609807:rev] hypothetical protein
+	[1609818:1610573:rev] putative deoxyribonuclease
+	[1610582:1611583:rev] hypothetical protein
+	[1611606:1611902:dir] hypothetical protein
+	[1611914:1612474:rev] bioD; dethiobiotin synthetase
+	[1612549:1613661:rev] bioF; 8-amino-7-oxononanoate synthase
+	[1613670:1614404:rev] bioW; 6-carboxyhexanoate-CoA ligase
+	[1614591:1614746:dir] hypothetical protein
+	[1614762:1616384:rev] elp3; elongator complex protein 3
+	[1616515:1617030:dir] protein synonym:NAD(+) diphosphorylase; protein synonym:NAD(+) pyrophosphorylase; nicotinamide-nucleotide adenylyltransferase
+<END>
+<GI> AP011528:10 <COORDINATES> 1715494-1737740 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.004813; n0_4mer:D = 25.192121; n0_4mer:PS = 29.772810
+	[1715494:1715712:rev] hypothetical protein
+	[1715743:1715967:rev] hypothetical protein
+	[1716104:1716267:rev] tRNA-Trp
+	[1716376:1716573:dir] hypothetical protein
+	[1716591:1717592:dir] truB; protein synonym:psi55 synthase; protein synonym:tRNA pseudouridine 55 synthase; protein synonym:tRNA pseudouridylate synthase; protein synonym:tRNA-uridine isomerase; putative tRNA pseudouridine synthase B
+	[1717610:1717816:dir] ferredoxin
+	[1717828:1718511:dir] hypothetical protein
+	[1718524:1719081:rev] comE; sulfopyruvate decarboxylase subunit beta
+	[1719083:1719751:rev] hisA; protein synonym:phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino) methylideneamino] imidazole-4-carboxamide isomerase
+	[1719967:1721271:rev] fwdB; tungsten containing formylmethanofuran dehydrogenase subunit B
+	[1721301:1722488:rev] vhuB; protein synonym:polyferredoxin protein; coenzyme F420-non-reducing hydrogenase subunit beta
+	[1722577:1722711:rev] vhuU; coenzyme F420-non-reducing hydrogenase subunit U
+	[1722726:1723982:rev] vhuA; coenzyme F420-non-reducing hydrogenase subunit alpha
+	[1724024:1724890:rev] vhuG; coenzyme F420-non-reducing hydrogenase subunit gamma
+	[1724990:1725394:rev] vhuD; coenzyme F420-non-reducing hydrogenase subunit delta
+	[1725596:1727572:rev] hdrA; protein synonym:CoB--CoM heterodisulfide reductase iron-sulfur subunit A; heterodisulfide reductase subunit A
+	[1728270:1728806:dir] hypothetical protein
+	[1729135:1729326:dir] hypothetical protein
+	[1729327:1730928:dir] Na+/solute symporter
+	[1731099:1731581:dir] hypothetical protein
+	[1731593:1732606:dir] hom; homoserine dehydrogenase
+	[1732705:1732790:dir] tRNA-Sec
+	[1732815:1733711:dir] hypothetical protein
+	[1733708:1734166:rev] hypothetical protein
+	[1734176:1734841:rev] hypothetical protein
+	[1734847:1735002:rev] putative nucleolar RNA-binding protein Nop10p
+	[1735011:1735808:rev] eif2a; protein synonym:aIF2-alpha; protein synonym:eIF-2-alpha; translation initiation factor 2 subunit alpha
+	[1735922:1736107:rev] rps27e; 30S ribosomal protein S27e
+	[1736130:1736411:rev] rpl44e; 50S ribosomal protein L44E
+	[1736368:1736955:rev] hypothetical protein
+	[1736988:1737740:rev] pcn; protein synonym:proliferating cell nuclear antigen homolog; DNA polymerase sliding clamp
+<END>

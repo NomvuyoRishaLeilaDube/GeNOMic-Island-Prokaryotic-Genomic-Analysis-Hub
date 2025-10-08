@@ -1,0 +1,274 @@
+<GI> CP000678:1 <COORDINATES> 307800-346954 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.124675; n0_4mer:D = 19.139270; n0_4mer:PS = 33.971109
+	[307800:308051:rev] COG4040; conserved hypothetical membrane protein Msm_0324
+	[308056:308553:rev] COG4041; conserved hypothetical membrane protein Msm_0325
+	[308553:308930:rev] COG4042; conserved hypothetical membrane protein Msm_0326
+	[309035:309964:dir] COG0451; UDP-glucose 4-epimerase (NAD dependent)
+	[309976:310350:rev] conserved hypothetical protein Msm_0328
+	[310577:311137:dir] COG1396; DNA binding protein (regulator), xenobiotic response element family
+	[311157:312827:dir] COG0365; acetyl-CoA synthetase, AMP-forming-related, Acs
+	[312836:313075:dir] COG1146; 2-oxoisovalerate ferredoxin oxidoreductase, delta subunit
+	[313080:314180:dir] COG0674; 2-oxoisovalerate ferredoxin oxidoreductase, alpha subunit
+	[314193:315653:dir] COG1013; 2-oxoisovalerate ferredoxin oxidoreductase, beta subunit
+	[315669:316979:dir] L-asparaginase, GatD
+	[316992:318857:dir] COG2511; glutamyl-tRNA(Gln) amidotransferase, subunit E, GatE
+	[319022:319225:rev] hypothetical protein Msm_0336
+	[319368:319583:dir] putative adhesin-like protein
+	[319693:319947:dir] hypothetical protein Msm_0338
+	[320063:320248:dir] hypothetical protein Msm_0339
+	[320359:321273:dir] COG0492; thioredoxin reductase (NADPH), TrxB
+	[321472:321960:dir] hypothetical protein Msm_0341
+	[322236:323441:rev] putative transposase
+	[323685:324257:dir] COG0518; GMP synthase (glutamine-hydrolysing), subunit A, GuaA
+	[324250:324516:dir] hypothetical protein Msm_0344
+	[324535:325461:dir] COG0519; GMP synthase (glutamine-hydrolysing), PP-ATPase domain/subunit, GuaA
+	[325549:326724:dir] COG1602; conserved hypothetical protein Msm_0346
+	[326732:327706:dir] COG0399; putative pyridoxal phosphate-dependent enzyme
+	[327690:328034:rev] COG1617; conserved hypothetical protein Msm_0348
+	[327994:328179:rev] hypothetical protein Msm_0349
+	[328189:329661:rev] COG0119; 2-isopropylmalate synthase, LeuA
+	[329753:329872:rev] 5S ribosomal RNA -1
+	[330029:332858:rev] 23S ribosomal RNA -1
+	[332875:332997:dir] conserved hypothetical protein Msm_0351
+	[333327:333400:rev] tRNA-Ala
+	[333483:334957:rev] 16S ribosomal RNA -1
+	[335521:336558:rev] COG1041; predicted DNA modification methylase
+	[336587:337288:rev] conserved hypothetical protein Msm_0353
+	[337767:339029:rev] COG1222; ATP-dependent 26S proteasome regulatory subunit, RPT1
+	[339225:339707:dir] COG1813; predicted transcription factor (eukaryotic MBF1 related)
+	[339708:340142:rev] COG1844; conserved hypothetical protein Msm_0356
+	[340184:341407:rev] conserved hypothetical membrane protein Msm_0357
+	[341462:341902:rev] conserved hypothetical membrane protein Msm_0358
+	[341986:343422:rev] COG0769; cell wall biosynthesis protein, MurD-like peptide ligase family
+	[343453:344535:rev] COG0472; cell wall biosynthesis protein, phospho-N-acetylmuramoyl-pentapeptide-transferase family
+	[344605:345708:rev] COG0458; carbamoyl-phosphate synthase, large subunit, CarB
+	[345705:346130:rev] COG0680; coenzyme F420-reducing hydrogenase (Ni,Fe-hydrogenase maturation protease), delta subunit
+	[346187:346954:rev] COG4076; predicted RNA methylase
+<END>
+<GI> CP000678:2 <COORDINATES> 476897-498989 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.783926; n0_4mer:D = 16.466034; n0_4mer:PS = 29.610793
+	[476897:477364:dir] COG0716; flavodoxin, FldA
+	[477370:477738:dir] conserved hypothetical protein Msm_0504
+	[477751:478158:dir] hypothetical protein Msm_0505
+	[478161:479252:rev] COG1759; ATP-utilizing enzyme, ATP-grasp superfamily
+	[479450:479989:dir] COG0622; predicted phosphoesterase, YfcE
+	[479993:480625:dir] COG0293; cell division protein J (23S rRNA methylase), FtsJ
+	[480622:481044:rev] conserved hypothetical protein Msm_0509
+	[481181:483181:dir] COG1241; predicted ATPase involved in DNA replication control, MCM2/3/5 family
+	[483287:483694:dir] COG1601; translation initiation factor 2, beta subunit (aIF-2beta)
+	[483715:484767:dir] NMD3-related protein (nonsense mediated mRNA decay)
+	[484773:485732:dir] COG0162; tyrosyl-tRNA synthetase, TyrS
+	[485736:485945:dir] conserved hypothetical protein Msm_0514
+	[486239:487624:dir] methanol:cobalamin methyltransferase. MtaB
+	[487643:488470:dir] COG5012; corrinoid protein (methionine synthase-related), MtaC
+	[488477:490081:dir] COG3894; methyltransferase activation protein, MapA
+	[490090:491094:dir] COG0407; methylcobalamin:coenzyme M methyltransferase, MtaA
+	[491091:491642:rev] conserved hypothetical protein Msm_0519
+	[491647:492225:rev] COG0125; thymidylate kinase, Tmk
+	[492404:493882:dir] COG4713; conserved hypothetical membrane protein Msm_0521
+	[494114:496627:dir] COG0826; collagenase, peptidase family U32
+	[496614:498989:dir] COG0826; collagenase, peptidase family U32
+<END>
+<GI> CP000678:3 <COORDINATES> 510707-532277 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.193339; n0_4mer:D = 19.461333; n0_4mer:PS = 41.030750
+	[510707:511780:rev] hypothetical protein Msm_0536
+	[511889:512251:rev] TPR-repeat protein
+	[512568:512882:dir] COG1180; pyruvate formate-lyase activating enzyme, PflA
+	[512962:513861:dir] putative DNA-directed DNA polymerase
+	[514090:515544:rev] COG2865; predicted transcriptional regulator
+	[516111:516232:rev] 5S ribosomal RNA -2B
+	[516297:516413:rev] 5S ribosomal RNA -2A
+	[516561:519382:rev] 23S ribosomal RNA -2
+	[519407:519529:dir] hypothetical protein Msm_0541
+	[520016:521491:rev] 16S ribosomal RNA -2
+	[522158:523123:dir] COG2141; coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase, Mer
+	[523153:523944:rev] COG1533; DNA repair photolyase, SplB
+	[524136:525218:dir] COG1244; predicted Fe-S oxidoreductase
+	[525255:526547:rev] conserved hypothetical protein Msm_0545
+	[526686:527168:dir] conserved hypothetical protein Msm_0546
+	[527193:528473:dir] COG1323; predicted nucleotidyltransferase, cytidyltransferase-related
+	[528463:529197:rev] COG2084; 6-phosphogluconate dehydrogenase, beta-hydroxyacid dehydrogenase related, MmsB
+	[529194:529805:rev] COG0785; cytochrome C-type biogenesis protein, DsbD
+	[529815:530276:rev] COG2143; protein disulfide-isomerase, thioredoxin-related
+	[530285:531151:rev] COG1578; conserved hypothetical protein Msm_0551
+	[531152:531355:rev] COG2104; sulfur transfer protein involved in thiamine biosynthesis
+	[531360:532277:rev] COG0037; ATPase, PP-loop superfamily
+<END>
+<GI> CP000678:4 <COORDINATES> 616432-639182 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.811767; n0_4mer:D = 16.554444; n0_4mer:PS = 29.716513
+	[616432:617478:rev] COG0707; cell wall biosynthesis protein, UDP-glycosyltransferase family
+	[617485:618447:rev] putative cell wall biosynthesis protein
+	[618552:619613:rev] COG1537; cell division protein (RNA-binding), PelA
+	[619660:620970:dir] COG0287; prephenate dehydrogenase (NADP+)
+	[621352:623544:dir] COG0464; cell division control protein Cdc48, AAA+ ATPase family
+	[623656:624489:dir] COG4022; conserved hypothetical protein Msm_0643
+	[624511:625785:dir] COG0422; thiamine biosynthesis protein, ThiC
+	[625786:627441:dir] COG1793; ATP-dependent DNA ligase, Cdc9
+	[627435:628073:rev] COG1738; conserved hypothetical protein Msm_0646
+	[628177:628572:dir] COG4085; predicted RNA-binding protein, contains TRAM domain
+	[628702:630081:dir] COG1109; phosphomannomutase, ManB
+	[630062:630961:rev] conserved hypothetical protein Msm_0649
+	[630954:631577:rev] COG1309; transcriptional regulator, TetR/AcrR family
+	[631717:632853:rev] COG0457; O-linked GlcNAc transferase
+	[632876:633580:rev] COG1180; pyruvate formate-lyase activating enzyme, PflA
+	[633580:634680:rev] COG0079; histidinol-phosphate aminotransferase, HisC
+	[634690:635166:rev] COG0663; carbonic anhydrases/acetyltransferase, isoleucine patch superfamily
+	[635178:636467:rev] COG1208; glucose-1-phosphate thymidylyltransferase
+	[636593:637966:rev] COG1109; phosphomannomutase, ManB
+	[637944:639182:rev] COG3635; phosphoglycerate mutase, AP superfamily
+<END>
+<GI> CP000678:5 <COORDINATES> 705911-732091 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.895582; n0_4mer:D = 17.625601; n0_4mer:PS = 27.860428
+	[705911:706873:rev] COG0130; tRNA pseudouridine synthase B, TruB
+	[706952:707173:rev] COG2163; ribosomal protein L14e
+	[707173:707691:rev] COG1102; cytidylate kinase, Cmk
+	[707691:707957:rev] COG2174; ribosomal protein L34e
+	[708075:708650:rev] COG1422; conserved hypothetical membrane protein Msm_0736
+	[708660:709220:rev] COG2019; adenylate kinase, AdkA
+	[709261:710625:rev] COG0201; preprotein translocase, SecY subunit, SecY
+	[710663:711100:rev] COG0200; ribosomal protein L15p
+	[711110:711568:rev] COG1841; ribosomal protein L30p
+	[711582:712223:rev] COG0098; ribosomal protein S5p, RpsE
+	[712226:712807:rev] COG0256; ribosomal protein L18p, RplR
+	[712819:713265:rev] COG2147; ribosomal protein L19e
+	[713392:713721:rev] COG1717; ribosomal protein L32e
+	[713737:714273:rev] COG0097; ribosomal protein L6p, RplF
+	[714282:714674:rev] COG0096; ribosomal protein S8p
+	[714687:714830:rev] COG0199; ribosomal protein S14p
+	[714847:715359:rev] COG0094; ribosomal protein L5p
+	[715356:716084:rev] COG1471; ribosomal protein S4e
+	[716086:716439:rev] COG0198; ribosomal protein L24p
+	[716448:716846:rev] COG0093; ribosomal protein L14p
+	[716852:717169:rev] COG0186; ribosomal protein S17p
+	[717183:717461:rev] COG1588; ribonuclease P, subunit P29
+	[717535:717876:rev] COG0023; translation initiation factor SUI1
+	[717877:718083:rev] COG0255; ribosomal protein L29p
+	[718122:718874:rev] COG0092; ribosomal protein S3p
+	[718874:719338:rev] COG0091; ribosomal protein L22p
+	[719351:719761:rev] COG0185; ribosomal protein S19p
+	[719777:720502:rev] COG0090; ribosomal protein L2p
+	[720515:720775:rev] COG0089; ribosomal protein L23p
+	[720800:721564:rev] COG0088; ribosomal protein L1e
+	[721567:722577:rev] COG0087; ribosomal protein L3p
+	[722915:723742:rev] COG2106; conserved hypothetical protein Msm_0763
+	[723961:724575:rev] COG2263; ribosomal L11 RNA methyltransferase (SAM-dependent)
+	[724646:726139:dir] COG0439; pyruvate carboxylase (acetyl-CoA/biotin carboxylase), subunit A, PycA
+	[726156:727073:dir] COG0340; biotin-[acetyl-CoA-carboxylase] ligase/biotin operon regulator bifunctional protein, BirA
+	[727063:728217:rev] COG1921; selenocysteine synthase, SelA
+	[728218:728544:rev] conserved hypothetical protein Msm_0768
+	[728635:729156:rev] COG1838; fumarate hydratase, class I
+	[729343:730788:rev] COG1123; cobalt ABC transporter, ATPase component, CbiO
+	[730781:731500:rev] COG0619; cobalt ABC transporter, permease component, CbiQ
+	[731510:732091:rev] COG0477; predicted permease, major facilitator superfamily
+<END>
+<GI> CP000678:6 <COORDINATES> 853932-876143 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.331613; n0_4mer:D = 16.269455; n0_4mer:PS = 29.108296
+	[853932:854459:dir] putative zinc-binding protein
+	[854449:854886:rev] COG0456; acetyltransferase
+	[854963:855349:dir] COG1255; conserved hypothetical protein Msm_0894
+	[855361:857817:dir] COG0474; cation transport ATPase, HAD family
+	[857814:858608:dir] COG2099; precorrin-6X reductase, CbiJ
+	[858620:858702:rev] tRNA-Ser
+	[858758:858840:rev] tRNA-Ser
+	[858879:859187:rev] COG0051; ribosomal protein S10p
+	[859258:860538:rev] COG5256; translation elongation factor 1-alpha (EF-Tu)
+	[860651:862843:rev] COG0480; translation elongation factor EF-2, FusA
+	[862868:863428:rev] COG0049; ribosomal protein S7p
+	[863442:863867:rev] COG0048; ribosomal protein S12p
+	[864381:866036:rev] COG4058; methyl-coenzyme M reductase, alpha subunit, McrA
+	[866026:866832:rev] COG4057; methyl-coenzyme M reductase, gamma subunit, McrG
+	[866847:867353:rev] COG4055; methyl-coenzyme M reductase, D subunit, McrD
+	[867365:868690:rev] COG4054; methyl-coenzyme M reductase, beta subunit, McrB
+	[869655:870086:rev] COG0195; transcription termination factor, NusA
+	[870093:870392:rev] COG1911; ribosomal protein L17Ae
+	[870401:871612:rev] COG0086; DNA-dependent RNA polymerase, subunit A, RpoA
+	[871621:874305:rev] COG0086; DNA-dependent RNA polymerase, subunit A', RpoA
+	[874332:876143:rev] COG0085; DNA-dependent RNA polymerase, subunit B', RpoB
+<END>
+<GI> CP000678:7 <COORDINATES> 967600-987655 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.536498; n0_4mer:D = 17.203307; n0_4mer:PS = 32.097698
+	[967600:968844:rev] COG0719; ABC transporter involved in Fe-S cluster assembly, permease component
+	[968816:969574:rev] COG0396; ABC transporter involved in Fe-S cluster assembly, ATPase component
+	[969741:970007:rev] COG1873; photosynthetic reaction centre cytoplasmic domain containing protein
+	[970069:970686:rev] COG2266; GTP:adenosylcobinamide-phosphate guanylyltransferase
+	[970708:972177:rev] COG4065; conserved hypothetical protein Msm_1006
+	[972338:973276:rev] COG1962; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit H, MtrH
+	[973289:973534:rev] COG4064; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit G, MtrG
+	[973547:973753:rev] COG4218; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit F, MtrF
+	[973766:974482:rev] COG4063; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit A, MtrA
+	[974483:974812:rev] COG4062; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit B, MtrB
+	[974829:975641:rev] COG4061; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit C, MtrC
+	[975643:976344:rev] COG4060; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit D, MtrD
+	[976358:977272:rev] COG4059; N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit E, MtrE
+	[977489:979144:rev] COG4058; methyl-coenzyme M reductase, alpha subunit, McrA
+	[979147:979908:rev] COG4057; methyl-coenzyme M reductase, gamma subunit, McrG
+	[979911:980510:rev] COG4056; methyl-coenzyme M reductase, C subunit, McrC
+	[980512:980979:rev] COG4055; methyl-coenzyme M reductase, D subunit, McrD
+	[981008:982339:rev] COG4054; methyl-coenzyme M reductase, beta subunit, McrB
+	[982929:984176:dir] COG1625; Fe-S oxidoreductase, Radical SAM family
+	[984191:985111:rev] related to methyl coenzyme M reductase subunit C (McrC); COG4052; uncharacterized protein
+	[985160:985675:rev] conserved hypothetical protein Msm_1022
+	[985735:986427:dir] 2-phosphosulpholactate phosphatase, ComB, (coenzyme M biosynthesis)
+	[986477:987655:dir] COG1916; pheromone shutdown protein, TraB family
+<END>
+<GI> CP000678:8 <COORDINATES> 1409912-1432308 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.063336; n0_4mer:D = 14.466804; n0_4mer:PS = 30.746741
+	[1409912:1410826:rev] COG0524; sugar kinase, ribokinase/pfkB superfamily
+	[1410973:1411842:rev] COG0583; transcriptional regulator, LysR family
+	[1411916:1412506:dir] COG0794; predicted sugar phosphate isomerase involved in capsule formation, GutQ
+	[1412515:1413264:rev] COG1526; formate dehydrogenase accessory protein FdhD, FdhD
+	[1413398:1414498:dir] COG0614; iron(III) ABC transporter, substrate-binding component
+	[1414508:1415521:dir] COG0609; iron(III) ABC transporter, permease component
+	[1415512:1416315:dir] COG1120; iron(III) ABC transporter, ATPase component
+	[1416325:1416903:dir] COG2191; tungsten formylmethanofuran dehydrogenase, subunit E, FwdE
+	[1416976:1421088:rev] adhesin-like protein
+	[1421219:1423522:rev] adhesin-like protein
+	[1423923:1425872:dir] adhesin-like protein
+	[1425978:1426637:dir] COG0577; putative antimicrobial peptide ABC transporter, permease component
+	[1426649:1427290:dir] COG0811; biopolymer transport protein
+	[1427296:1427595:dir] COG4744; conserved hypothetical protein Msm_1402
+	[1428150:1428953:dir] COG2116; formate/nitrite transporter, FdhC
+	[1428988:1431096:dir] COG0243; formate dehydrogenase, alpha subunit, FdhA
+	[1431103:1432308:dir] COG1035; formate dehydrogenase, beta subunit, FdhB
+<END>
+<GI> CP000678:9 <COORDINATES> 1697221-1731121 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.702244; n0_4mer:D = 16.415131; n0_4mer:PS = 25.851806
+	[1697221:1698444:dir] COG1672; putative ATPase (AAA+ superfamily)
+	[1698623:1698796:rev] hypothetical protein Msm_1647
+	[1698975:1699118:dir] hypothetical protein Msm_1648
+	[1699115:1699339:dir] hypothetical protein Msm_1649
+	[1699340:1699615:dir] hypothetical protein Msm_1650
+	[1699612:1699791:dir] hypothetical protein Msm_1651
+	[1699788:1700087:dir] hypothetical protein Msm_1652
+	[1700087:1700404:dir] hypothetical protein Msm_1653
+	[1700424:1701035:dir] putative Gp40-related protein, ERF family single-strand annealing protein (phage)
+	[1701038:1701232:dir] hypothetical protein Msm_1655
+	[1701229:1701483:dir] hypothetical protein Msm_1656
+	[1701480:1701899:dir] conserved hypothetical protein Msm_1657
+	[1702051:1702296:dir] hypothetical protein Msm_1658
+	[1702293:1702466:dir] hypothetical protein Msm_1659
+	[1702463:1702648:dir] hypothetical protein Msm_1660
+	[1702654:1702995:dir] hypothetical protein Msm_1661
+	[1703009:1703155:dir] hypothetical protein Msm_1662
+	[1703327:1703590:dir] hypothetical protein Msm_1663
+	[1703577:1703807:dir] hypothetical protein Msm_1664
+	[1703812:1704126:dir] hypothetical protein Msm_1665
+	[1704123:1704467:dir] hypothetical protein Msm_1666
+	[1704608:1704859:dir] hypothetical protein Msm_1667
+	[1705326:1705411:dir] tRNA-Ser
+	[1705453:1705626:dir] hypothetical protein Msm_1668
+	[1705616:1705915:dir] hypothetical protein Msm_1669
+	[1706074:1706667:dir] hypothetical protein Msm_1670
+	[1706664:1708022:dir] COG5362; large terminase subunit
+	[1708025:1709431:dir] COG5518; bacteriophage capsid portal protein
+	[1709428:1711056:dir] conserved hypothetical protein Msm_1673
+	[1711113:1711439:dir] hypothetical protein Msm_1674
+	[1711630:1711977:dir] putative structural protein (prophage psiM100)
+	[1711980:1712594:dir] hypothetical protein Msm_1676
+	[1712653:1713663:dir] putative major capsid protein gp5 (phage psiM2)
+	[1713954:1714319:dir] hypothetical protein Msm_1678
+	[1714359:1714802:dir] hypothetical protein Msm_1679
+	[1714799:1715260:dir] hypothetical protein Msm_1680
+	[1715266:1716507:dir] hypothetical protein Msm_1681
+	[1716590:1717024:dir] hypothetical protein Msm_1682
+	[1717011:1717244:dir] hypothetical protein Msm_1683
+	[1717244:1721725:dir] phage-related minor tail protein
+	[1721732:1722469:dir] hypothetical protein Msm_1685
+	[1722447:1725317:dir] hypothetical protein Msm_1686
+	[1725323:1727866:dir] conserved hypothetical protein Msm_1687
+	[1727863:1729512:dir] hypothetical protein Msm_1688
+	[1729521:1730132:dir] putative collagen-like protein B
+	[1730158:1730310:dir] hypothetical protein Msm_1690
+	[1730303:1731121:dir] putative PeiW-related protein (phage psiM100)
+<END>

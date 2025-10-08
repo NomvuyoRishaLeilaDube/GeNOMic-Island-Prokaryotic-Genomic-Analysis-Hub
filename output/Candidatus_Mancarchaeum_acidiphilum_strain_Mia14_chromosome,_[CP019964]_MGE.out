@@ -1,0 +1,297 @@
+<GI> CP019964:1 <COORDINATES> 17852-39599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.154883; n0_4mer:D = 25.560554; n0_4mer:PS = 49.882920
+	[17852:18049:dir] hypothetical protein
+	[18075:19373:rev] COG0541; arCOG01228; signal recognition particle subunit SRP54
+	[19406:19648:rev] COG1873; arCOG02155; PRC-barrel domain-containing protein
+	[19709:20266:rev] hypothetical protein
+	[20259:20486:rev] COG2036; arCOG02144; archaeal histone
+	[20501:20560:rev] C/D box methylation guide snoRNA
+	[20713:21048:dir] COG0526; arCOG01972; thioredoxin
+	[21078:22352:dir] COG0124; arCOG00404; histidyl-tRNA synthetase
+	[22486:22800:dir] COG1911; arCOG01752; 50S ribosomal protein L30e
+	[22813:23241:dir] COG0048; arCOG04255; 30S ribosomal protein S12p
+	[23238:24137:dir] COG0049; arCOG04254; 30S ribosomal protein S7p
+	[24150:26342:dir] COG0480; arCOG01559; translation elongation factor aEF-2
+	[26488:26910:dir] COG1358; arCOG01751; 50S ribosomal protein L7Ae
+	[26907:27155:dir] COG2053; arCOG04314; 30S ribosomal protein S28e
+	[27165:27374:dir] COG2075; arCOG01950; 50S ribosomal protein L24e
+	[27733:28998:dir] COG0334; arCOG01352; glutamate dehydrogenase
+	[28998:29828:dir] COG0005; arCOG01327; 5'-deoxy-5'-methylthioadenosine phosphorylase II
+	[29838:30869:rev] arCOG07813; LamG domain protein
+	[31029:31268:dir] hypothetical protein
+	[31318:31418:rev] codon recognized: AGC; tRNA-Ser
+	[31552:31839:rev] ffs; archaeal signal recognition particle RNA
+	[32000:32416:dir] COG1601; arCOG01640; translation initiation factor aIF2 subunit beta
+	[32428:32730:dir] COG0361; arCOG01179; translation initiation factor aIF1A
+	[32843:34060:dir] COG1474; arCOG00467; Orc1/Cdc6 family replication initiation protein
+	[34073:34591:dir] hypothetical protein
+	[34595:34939:dir] COG1369; arCOG01365; ribonuclease P protein subunit aPop5
+	[35161:35856:dir] COG0638; arCOG00971; proteasome subunit alpha
+	[35873:36559:dir] COG1500; arCOG04187; SBDS family ribosome maturation protein
+	[36564:37175:dir] COG1097; arCOG00678; exosome complex RNA-binding protein Rrp4
+	[37188:37931:dir] COG0689; arCOG01575; exosome complex exonuclease Rrp41
+	[37943:38722:dir] COG2123; arCOG01574; exosome complex RNA-binding protein Rrp42
+	[38728:39003:dir] COG1997; arCOG04208; 50S ribosomal protein L37ae
+	[39007:39381:dir] arCOG07348; hypothetical protein
+	[39431:39562:dir] COG1996; arCOG04341; DNA-directed RNA polymerase subunit P
+<END>
+<GI> CP019964:2 <COORDINATES> 43872-65628 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.644547; n0_4mer:D = 24.394455; n0_4mer:PS = 48.965905
+	[43872:45026:dir] COG1467; arCOG04110; DNA primase small subunit
+	[45065:45325:dir] membrane protein
+	[45338:45709:rev] hypothetical protein
+	[45867:47087:dir] COG2237; arCOG04151; multipass membrane protein
+	[47103:47492:dir] COG1588; arCOG00784; ribonuclease P protein subunit aPop4
+	[47639:47938:dir] COG0186; arCOG04096; 30S ribosomal protein S17p
+	[47940:48338:dir] COG0093; arCOG04095; 50S ribosomal protein L14p
+	[48348:48887:dir] COG0198; arCOG04094; 50S ribosomal protein L24p
+	[48890:49573:dir] COG1471; arCOG04093; 30S ribosomal protein S4e
+	[49575:50093:dir] COG0094; arCOG04092; 50S ribosomal protein L5p
+	[50096:50254:dir] COG0199; arCOG00782; 30S ribosomal protein S14p
+	[50259:50642:dir] COG0096; arCOG04091; 30S ribosomal protein S8p
+	[50664:51194:dir] COG0097; arCOG04090; 50S ribosomal protein L6p
+	[51199:51567:dir] COG1717; arCOG00781; 50S ribosomal protein L32e
+	[51564:52037:dir] COG2147; arCOG04089; 50S ribosomal protein L19e
+	[52037:52585:dir] COG0256; arCOG04088; 50S ribosomal protein L18p
+	[52588:53280:dir] COG0098; arCOG04087; 30S ribosomal protein S5p
+	[53363:53725:dir] COG1145; arCOG02180; ferredoxin
+	[53952:56639:dir] COG1201; arCOG00557; Lhr-like helicase
+	[56636:57385:dir] COG1407; arCOG01150; metallophosphoesterase superfamily enzyme
+	[57391:58833:rev] COG0750; arCOG04064; S2P/M50B family signal peptide peptidase RseP
+	[59228:59626:dir] COG0231; arCOG04277; translation initiation factor aIF5A
+	[59638:59940:dir] COG2004; arCOG04182; 30S ribosomal protein S24e
+	[59957:60115:dir] COG1998; arCOG04183; 30S ribosomal protein S27ae
+	[60126:60839:dir] COG1266; arCOG02769; M79 family prenyl-processing membrane peptidase
+	[61035:62276:dir] COG0675; arCOG00684; IS200/IS605 family transposase OrfB
+	[62273:63001:dir] COG0565; arCOG01018; SpoU family RNA 2'-O ribose methyltransferase
+	[63003:63371:rev] COG2450; arCOG02263; putative cell division protein SepF-like protein
+	[63542:63922:dir] COG3189; arCOG06027; DUF488 superfamily protein
+	[63943:64365:rev] COG1832; arCOG04227; putative CoA-binding protein
+	[64418:64804:dir] COG1412; arCOG04312; rRNA-processing protein FCF1
+	[64817:65416:dir] COG1095; arCOG00675; DNA-directed RNA polymerase subunit E'
+	[65434:65628:dir] COG2093; arCOG04077; DNA-directed RNA polymerase subunit E''
+<END>
+<GI> CP019964:3 <COORDINATES> 99929-128498 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.587103; n0_4mer:D = 23.568215; n0_4mer:PS = 45.943477
+	[99929:100265:dir] IS200/IS605 family transposase OrfB 3' fragment; COG0675; arCOG00684
+	[100305:101297:dir] hypothetical protein
+	[101372:103810:dir] COG1287; arCOG02044; oligosaccharyltransferase AglB
+	[103779:104954:rev] COG0301; arCOG00038; tRNA S(4)U 4-thiouridine synthase
+	[105142:105693:dir] hypothetical protein
+	[105877:106074:dir] COG2443; arCOG02204; preprotein translocase subunit SecE
+	[106115:106888:dir] COG1293; arCOG01695; putative RNA modification enzyme NFACT subunit B
+	[106941:107258:rev] membrane protein
+	[107262:107346:rev] codon recognized: CUG; tRNA-Leu
+	[107588:110479:dir] arCOG03418; S-layer-like protein
+	[110651:111583:dir] COG0714; arCOG00434; MoxR-like ATPase
+	[111592:112092:dir] hypothetical protein
+	[112148:113449:dir] COG0172; arCOG00403; seryl-tRNA synthetase
+	[113532:114731:dir] COG1503; arCOG01742; peptide chain release factor 1
+	[114786:115331:rev] hypothetical protein
+	[115358:117421:rev] membrane protein
+	[117568:117894:dir] COG1460; arCOG01016; DNA-directed RNA polymerase subunit F
+	[117935:118516:dir] COG1491; arCOG04130; putative RNA-binding protein
+	[118527:118811:rev] COG2139; arCOG04129; 50S ribosomal protein L21e
+	[119017:119367:dir] COG2101; arCOG01764; TATA-box binding protein (TBP), component of TFIID and TFIIIB
+	[119481:119553:dir] codon recognized: GGC; tRNA-Gly
+	[119632:119949:dir] COG1433; arCOG02734; NifX family protein
+	[120081:128498:dir] cell surface protein
+<END>
+<GI> CP019964:4 <COORDINATES> 132803-156511 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.443179; n0_4mer:D = 25.000000; n0_4mer:PS = 49.230519
+	[132803:134263:rev] COG0016; arCOG00410; phenylalanyl-tRNA synthetase subunit alpha
+	[134269:135045:rev] membrane protein
+	[135227:137656:dir] COG0525; arCOG00808; valyl-tRNA synthetase
+	[137889:138356:dir] COG0184; arCOG04185; 30S ribosomal protein S15p
+	[138361:138927:dir] COG1890; arCOG04186; 30S ribosomal protein S3Ae
+	[138985:139326:rev] COG0697; arCOG00271; SMR2 family DMT superfamily transporter
+	[139336:139695:rev] COG0697; arCOG00272; SMR2 family DMT superfamily transporter
+	[139705:139977:dir] membrane protein
+	[140042:142264:dir] COG0550,COG0551; arCOG01527; DNA topoisomerase I
+	[142265:142903:dir] COG2519; arCOG00978; tRNA(1-methyladenosine) methyltransferase
+	[142927:145365:dir] COG0484; hypothetical protein
+	[145505:145596:dir] codon recognized: CAG; tRNA-Gln
+	[145656:146369:dir] COG1994; arCOG00614; S2P/M50B family intramembrane-cleaving metalloendopeptidase
+	[146435:147769:dir] coiled coil protein
+	[147762:149438:dir] COG4962; arCOG01819; type II secretion system ATPase GspE
+	[149435:150136:dir] hypothetical protein
+	[150133:151155:dir] COG2064; arCOG01812; type II secretion system membrane protein GspF
+	[151160:152146:dir] COG2064; arCOG01811; type II secretion system membrane protein GspF
+	[152344:154140:rev] arCOG07813; LamG domain protein
+	[154131:155975:rev] arCOG07813; LamG domain protein
+	[155972:156511:rev] hypothetical protein
+<END>
+<GI> CP019964:5 <COORDINATES> 203487-227410 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.897906; n0_4mer:D = 27.884415; n0_4mer:PS = 49.633610
+	[203487:203669:rev] COG5466; arCOG05278; putative small metal-binding protein
+	[203809:204099:rev] COG2151; arCOG01845; metal-sulfur cluster biosynthetic enzyme
+	[204145:204792:rev] COG0605; arCOG04147; superoxide dismutase
+	[204979:205950:rev] COG0470; arCOG00469; replication factor C small subunit
+	[206008:206289:rev] COG1873; arCOG02155; PRC-barrel domain-containing protein
+	[206570:207598:dir] COG1405; arCOG01981; transcription initiation factor IIB
+	[207688:208251:dir] membrane protein
+	[208363:208608:dir] COG3269; arCOG01641; TRAM superfamily RNA-binding protein
+	[208728:209372:dir] COG0638; arCOG00970; proteasome subunit beta
+	[209445:211400:dir] COG1782; arCOG00543; putative metal-dependent RNase
+	[211652:212038:dir] hypothetical protein
+	[212185:212418:dir] COG2012; arCOG04258; DNA-directed RNA polymerase subunit H
+	[212447:213907:dir] COG0085; arCOG01762; DNA-directed RNA polymerase subunit B''
+	[213918:215759:dir] COG0085; arCOG01762; DNA-directed RNA polymerase subunit B'
+	[215769:218291:dir] COG0086; arCOG04257; DNA-directed RNA polymerase subunit A'
+	[218302:219360:dir] COG0086; arCOG04256; DNA-directed RNA polymerase subunit A''
+	[219421:219669:dir] COG1958; arCOG00998; LSm family RNA-binding protein
+	[219689:219776:dir] codon recognized: GCC; tRNA-Ala
+	[220131:221396:rev] COG0281; arCOG00853; malate dehydrogenase (oxaloacetate-decarboxylating)
+	[221624:222385:dir] COG1226; arCOG01958; VIC family potassium channel
+	[222406:222858:dir] COG1881; arCOG04702; PEBP family protease inhibitor
+	[222970:223067:dir] codon recognized: UUG; tRNA-Leu
+	[223104:223802:dir] peptidase C39-like superfamily protein
+	[223898:223989:rev] codon recognized: ACG; tRNA-Thr
+	[224213:227410:dir] COG3291; arCOG02545; NosD-like parallel beta-helix repeat membrane-crossing protein
+<END>
+<GI> CP019964:6 <COORDINATES> 318946-353613 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.881737; n0_4mer:D = 24.044396; n0_4mer:PS = 43.580622
+	[318946:319779:dir] COG1354; arCOG02610; chromosome segregation and condensation protein ScpA
+	[319769:320251:dir] COG1386; arCOG02613; chromosome segregation and condensation protein B
+	[320256:320327:dir] codon recognized: GUG; tRNA-Val
+	[320609:321124:rev] hypothetical protein 5' fragment
+	[321125:322141:rev] hypothetical protein
+	[322279:322695:rev] COG3431; arCOG06050; DUF373 superfamily multipass membrane protein
+	[322719:323150:rev] COG0328; arCOG02942; ribonuclease HI
+	[323312:323533:dir] COG0636; arCOG02455; A-type Na(+),H(+)-transporting-ATP synthase subunit K
+	[323567:324127:dir] COG1390; arCOG00869; A-type Na(+),H(+)-transporting-ATP synthase subunit E
+	[324132:325205:dir] COG1527; arCOG02459; A-type Na(+),H(+)-transporting-ATP synthase subunit C
+	[325209:325559:dir] COG1436; arCOG04102; A-type Na(+),H(+)-transporting-ATP synthase subunit F
+	[325564:327318:dir] COG1155; arCOG00868; A-type Na(+),H(+)-transporting-ATP synthase subunit A
+	[327319:328698:dir] COG1156; arCOG00865; A-type Na(+),H(+)-transporting-ATP synthase subunit B
+	[328695:329321:dir] COG1394; arCOG04101; A-type Na(+),H(+)-transporting-ATP synthase subunit D
+	[329314:329535:dir] A-type Na(+),H(+)-transporting-ATP synthase subunit G
+	[329528:329893:dir] COG2811; arCOG03363; A-type Na(+),H(+)-transporting-ATP synthase subunit H
+	[329895:331865:dir] COG1269; arCOG04138; A-type Na(+),H(+)-transporting-ATP synthase subunit I
+	[331862:332512:rev] COG0528; arCOG00858; uridylate kinase
+	[332541:333425:rev] COG0010; arCOG01700; agmatinase
+	[333480:333800:rev] COG3369; arCOG01667; CDGSH-type zinc finger domain protein
+	[333841:334431:rev] COG5663; arCOG10136; 5'-nucleotidase
+	[334558:335025:dir] hypothetical protein
+	[335027:335374:rev] COG4043; arCOG03834; ASCH family RNA-binding protein
+	[335539:335988:dir] COG0250; arCOG01920; transcription antiterminator NusG
+	[336011:336478:dir] COG0080; arCOG04372; 50S ribosomal protein L11p
+	[336501:336851:dir] COG0607; arCOG02021; rhodanese-related sulfurtransferase
+	[336989:337711:dir] COG2231; arCOG00461; endonuclease III
+	[337815:339236:dir] hypothetical protein
+	[339540:340451:dir] COG0506; arCOG06322; proline dehydrogenase
+	[340438:341478:dir] COG0451; arCOG01369; nucleoside-diphosphate-sugar epimerase
+	[341478:342305:dir] COG1646; arCOG01085; geranylgeranylglyceryl phosphate synthase
+	[342311:343441:dir] COG1293; arCOG01695; putative RNA modification enzyme NFACT subunit A
+	[343612:344016:dir] COG2125; arCOG01946; 30S ribosomal protein S6e
+	[344025:345260:dir] COG5257; arCOG01563; translation initiation factor aIF2 subunit gamma
+	[345434:346339:dir] hypothetical protein
+	[346381:346842:rev] COG1047; arCOG00981; FKBP-type peptidyl-prolyl cis-trans isomerase
+	[346965:347282:dir] COG1694; arCOG01084; NTP pyrophosphatase, house-cleaning of non-canonical NTPs
+	[347295:347525:dir] hypothetical protein
+	[347590:350211:rev] COG0308; arCOG02969; tricorn interacting aminopeptidase
+	[350402:351220:rev] hypothetical protein
+	[351345:351665:dir] COG3370; arCOG01668; DrsE family protein
+	[351826:353613:rev] COG0477; arCOG00144; DHA2 family major facilitator superfamily permease
+<END>
+<GI> CP019964:7 <COORDINATES> 493961-516099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.934539; n0_4mer:D = 26.636065; n0_4mer:PS = 40.067812
+	[493961:494794:dir] hypothetical protein
+	[494845:496104:dir] hypothetical protein
+	[496165:497433:dir] hypothetical protein
+	[497505:498494:rev] arCOG06957; multipass membrane protein
+	[498539:498946:rev] COG0393; arCOG02287; putative heavy-metal binding protein
+	[499035:499748:rev] membrane protein
+	[499795:500388:rev] arCOG06946; multipass membrane protein
+	[500460:501650:rev] COG1524; arCOG01378; type I phosphodiesterase/nucleotide pyrophosphatase
+	[501835:503007:rev] COG1524; arCOG01378; type I phosphodiesterase/nucleotide pyrophosphatase
+	[503094:503399:dir] multipass membrane protein
+	[503422:504792:rev] COG1249; arCOG01068; 2-oxoacid dehydrogenase multienzyme complex, dihydrolipoamide dehydrogenase (E3) component
+	[504812:506098:rev] COG0508; arCOG01706; 2-oxoacid dehydrogenase multienzyme complex, dihydrolipoyl acyltransferase (E2) component
+	[506117:507082:rev] COG0022; arCOG01052; 2-oxoacid dehydrogenase multienzyme complex, 2-oxoacid decarboxylase (E1) component subunit beta
+	[507102:508175:rev] COG1071; arCOG01054; 2-oxoacid dehydrogenase multienzyme complex, 2-oxoacid decarboxylase (E1) component subunit alpha
+	[508312:509124:rev] COG0586; arCOG03117; DedA family protein
+	[509262:510100:rev] hypothetical protein 3' fragment; arCOG07726
+	[510234:511259:rev] COG0463; arCOG01397; glycosyltransferase
+	[511291:512439:rev] COG0438; arCOG05431; glycosyltransferase
+	[512551:514872:dir] arCOG06018; multipass membrane protein
+	[514917:516026:dir] COG0438; arCOG01403; glycosyltransferase
+<END>
+<GI> CP019964:8 <COORDINATES> 522041-542408 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.439535; n0_4mer:D = 25.407344; n0_4mer:PS = 24.205141
+	[522041:524875:rev] COG0495; arCOG00809; leucyl-tRNA synthetase
+	[525070:525247:rev] IS200/IS605 family transposase OrfB 3' fragment; COG0675; arCOG00684
+	[525222:525476:rev] AAA+ superfamily ATPase 5' fragment; COG1373; arCOG03167
+	[526022:526465:dir] hypothetical protein
+	[526642:528930:dir] COG0209; arCOG03713; adenosylcobalamin-dependent ribonucleoside-diphosphate reductase
+	[528937:529764:rev] multipass membrane protein
+	[529845:530714:rev] COG1989; arCOG02298; type IV prepilin peptidase
+	[530926:531093:dir] IS200/IS605 family transposase OrfB 3' fragment; COG0675; arCOG00684
+	[531188:531607:dir] hypothetical protein
+	[531612:532724:rev] COG1697; arCOG04143; DNA topoisomerase VI subunit A
+	[532726:534708:rev] COG1067; arCOG02160; Lon-B peptidase
+	[534944:536014:rev] COG1063; arCOG01459; glucose 1-dehydrogenase
+	[536131:536222:rev] codon recognized: AUC; tRNA-Ile
+	[536418:536600:rev] hypothetical protein 5' fragment
+	[536813:538186:rev] COG1522; arCOG01580; Lrp-AsnC family transcriptional regulator
+	[538460:539806:rev] COG1522; arCOG01580; Lrp-AsnC family transcriptional regulator
+	[539971:540564:rev] COG1435; arCOG04798; thymidine kinase
+	[540607:540996:dir] COG0073; arCOG01136; EMAP domain tRNA-binding protein
+	[541014:542408:dir] COG0531; arCOG00009; CAT family APC superfamily transporter
+<END>
+<GI> CP019964:9 <COORDINATES> 551285-570542 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.725865; n0_4mer:D = 22.327943; n0_4mer:PS = 41.856499
+	[551285:552610:dir] COG0531; arCOG00009; U-APC2 family APC superfamily transporter
+	[552626:553333:dir] COG0596; arCOG01648; tricorn interacting prolyl aminopeptidase
+	[553356:553985:rev] COG5483; arCOG00723; DUF488 family protein
+	[554019:555260:rev] COG1215; arCOG01389; glycosyltransferase
+	[555416:555487:rev] codon recognized: GUC; tRNA-Val
+	[555572:556483:rev] COG1234; arCOG00501; ribonuclease Z
+	[556532:558688:rev] COG0464; arCOG01308; CDC48 family ATPase of the AAA+ class
+	[558957:559064:rev] hypothetical protein
+	[559286:560116:dir] COG1608; arCOG00860; isopentenyl phosphate kinase
+	[560451:562556:rev] COG1204; arCOG00553; ski2-like helicase
+	[562574:563116:rev] COG0717; arCOG04048; deoxycytidine triphosphate deaminase
+	[563233:564657:rev] COG1690; arCOG04246; RNA-3'-PO4:RNA-5'-OH ligase RtcB
+	[564791:566011:rev] COG0675; arCOG00684; IS200/IS605 family transposase OrfB
+	[566121:566396:rev] arCOG05329; hypothetical protein
+	[566575:568104:dir] multipass membrane protein
+	[568113:568694:rev] COG0596; arCOG01648; tricorn interacting prolyl aminopeptidase
+	[568860:570542:dir] COG1032; arCOG01357; radical SAM superfamily enzyme
+<END>
+<GI> CP019964:10 <COORDINATES> 613500-635275 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.652903; n0_4mer:D = 25.377621; n0_4mer:PS = 42.450021
+	[613520:614536:dir] COG1131; arCOG00194; DrugE1 family ABC transporter ATPase
+	[614541:615311:dir] COG0842; arCOG01467; DrugE1 family ABC transporter permease
+	[615519:616739:dir] COG0675; arCOG00684; IS200/IS605 family transposase OrfB
+	[616739:617698:dir] COG3276; arCOG01564; SelB-II domain-containing translation elongation factor
+	[617700:618287:rev] COG0553; arCOG04818; type III restriction endonuclease/helicase
+	[618391:621540:dir] COG0060; arCOG00807; isoleucyl-tRNA synthetase
+	[621685:621906:dir] hypothetical protein
+	[622100:623383:dir] COG0621; arCOG01358; tRNA A37 methylthiotransferase MiaB
+	[623432:624772:dir] COG0252; arCOG01924; glutamyl-tRNA(Gln) amidotransferase subunit D
+	[624781:626655:dir] COG2511; arCOG01719; glutamyl-tRNA(Gln) amidotransferase subunit E
+	[626694:627308:dir] hypothetical protein
+	[627484:628086:dir] hypothetical protein
+	[628194:629435:dir] COG0470; arCOG00470; replication factor C large subunit
+	[629458:630879:rev] COG1107; arCOG00429; RecJ-like exonuclease
+	[630876:631940:rev] membrane protein
+	[631973:632722:rev] COG0467; arCOG01171; RecA-superfamily ATPase
+	[632902:633753:dir] membrane protein
+	[633785:634477:dir] COG1709; arCOG04060; XRE family transcriptional regulator
+	[634550:635275:rev] COG1018; arCOG02200; ferredoxin-NADP reductase
+<END>
+<GI> CP019964:11 <COORDINATES> 826961-845375 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.662215; n0_4mer:D = 23.662451; n0_4mer:PS = 33.508954
+	[826961:827698:dir] arCOG03700; sulfocyanin
+	[827713:828291:dir] COG0500; arCOG02703; SAM-dependent methyltransferase
+	[828281:828760:dir] arCOG10299; multipass membrane protein
+	[828763:829836:dir] multipass membrane protein
+	[829870:830721:dir] COG1230; arCOG01477; CDF family transporter
+	[830820:830902:rev] C/D box methylation guide snoRNA
+	[830995:832284:dir] COG0582; arCOG01241; integrase
+	[833416:834018:dir] AAA ATPase 3' fragment; COG0433; arCOG05334
+	[834039:834185:dir] hypothetical protein
+	[834211:834438:dir] membrane protein
+	[834563:835315:dir] COG1192; arCOG00586; ParA family chromosome partitioning ATPase
+	[835315:835587:dir] hypothetical protein
+	[835666:836898:dir] COG4487; arCOG03832; DUF2130 superfamily
+	[837029:837697:dir] hypothetical protein
+	[837779:838393:dir] COG1961; arCOG03162; site-specific recombinase, DNA invertase Pin-like protein
+	[838593:838832:dir] hypothetical protein
+	[838873:839133:dir] hypothetical protein
+	[839387:840238:dir] Orc1/Cdc6 family replication initiation protein 5' fragment; COG1474; arCOG00467
+	[840240:840404:rev] zinc-binding pyruvate-formate lyase-activating enzyme 5' fragment; COG1180; arCOG00946
+	[840509:843370:rev] rrlA; 23S ribosomal RNA
+	[843650:844903:dir] COG0585; arCOG04252; tRNA pseudouridine synthase TruD
+	[845019:845375:dir] COG1308; arCOG04061; nascent polypeptide-associated complex protein
+<END>

@@ -1,0 +1,242 @@
+<GI> AE000782 AE000943-AE001114:1 <COORDINATES> 60485-80944 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.124605; n0_4mer:D = 29.831388; n0_4mer:PS = 32.124498
+	[60485:60769:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0054
+	[60772:61170:rev] similar to GB:L77117 PID:1592056 percent identity: 48.00; identified by sequence similarity; putative; conserved hypothetical protein
+	[61191:61331:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0056
+	[61335:61586:rev] similar to GB:L77117 SP:P54051 PID:1591302 percent identity: 47.56; identified by sequence similarity; putative; LSU ribosomal protein L37AE (rpl37AE)
+	[61625:62149:rev] similar to GB:L77117 PID:1592059 percent identity: 36.08; identified by sequence similarity; putative; conserved hypothetical protein
+	[62116:62520:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0059
+	[62618:62899:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0060
+	[62899:63489:dir] similar to SP:P37345 PID:1244710 GB:U00096 PID:1787340 percent identity: 34.87; identified by sequence similarity; putative; thymidylate kinase (tmk)
+	[63463:64353:rev] similar to PID:688456 percent identity: 42.55; identified by sequence similarity; putative; conserved hypothetical protein
+	[64406:64591:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0063
+	[64619:65281:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0064
+	[65075:65488:rev] similar to GB:L77117 SP:Q58384 PID:1591637 percent identity: 29.77; identified by sequence similarity; putative; conserved hypothetical protein
+	[65485:65673:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0066
+	[65799:66485:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0067
+	[66497:67450:rev] similar to GB:L77117 SP:Q57826 PID:1591087 percent identity: 26.95; identified by sequence similarity; putative; conserved hypothetical protein
+	[67451:67813:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0069
+	[67800:68861:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0070
+	[68830:71109:rev] similar to GB:L77117 SP:Q57828 PID:1591089 percent identity: 29.59; identified by sequence similarity; putative; ATP-dependent RNA helicase, putative
+	[71266:71991:rev] similar to GB:L77117 SP:Q57820 PID:1591082 percent identity: 41.53; identified by sequence similarity; putative; conserved hypothetical protein
+	[73048:73134:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0073
+	[73268:73342:rev] codon recognized: AUC; tRNA-Ile
+	[73396:74295:dir] similar to SP:P42975 PID:1146239 PID:755608 PID:773349 GB:AL009126 percent identity: 36.59; identified by sequence similarity; putative; biotin operon repressor/biotin--[acetyl CoA carboxylase] ligase (birA)
+	[74322:75563:dir] similar to GB:L77117 SP:Q58387 PID:1591640 percent identity: 30.21; identified by sequence similarity; putative; conserved hypothetical protein
+	[75544:75954:dir] similar to GB:D14422 SP:P30132 PID:216575 PID:882606 GB:U00096 percent identity: 32.71; identified by sequence similarity; putative; iron-sulfur cluster binding protein
+	[75951:77687:dir] similar to PID:736274 percent identity: 32.65; identified by sequence similarity; putative; aldehyde ferredoxin oxidoreductase (aor-2)
+	[77684:78424:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0078
+	[78494:79789:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0079
+	[79817:80944:dir] similar to GB:L77117 SP:Q58131 PID:1591438 percent identity: 48.28; identified by sequence similarity; putative; acetylornithine aminotransferase (argD-1)
+<END>
+<GI> AE000782 AE000943-AE001114:2 <COORDINATES> 273717-294242 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.886877; n0_4mer:D = 29.362232; n0_4mer:PS = 14.002924
+	[273717:274094:rev] similar to GB:L77117 SP:Q58022 PID:1591314 percent identity: 31.71; identified by sequence similarity; putative; conserved hypothetical protein
+	[274087:274395:rev] similar to GB:L77117 SP:Q58021 PID:1591313 percent identity: 41.11; identified by sequence similarity; putative; conserved hypothetical protein
+	[274604:274756:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0300
+	[274995:275198:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0301
+	[275415:276389:dir] similar to GB:L77117 PID:1591706 percent identity: 43.83; identified by sequence similarity; putative; UDP-glucose dehydrogenase (ugd-1)
+	[276358:277551:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0303
+	[277582:278661:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0304
+	[278708:278851:rev] similar to GB:L77117 SP:Q57808 PID:1499149 percent identity: 27.66; identified by sequence similarity; putative; ISA1214-2, ISORF2
+	[278918:279886:dir] similar to percent identity: 33.33; identified by sequence similarity; putative; ISA1214-2, putative transposase
+	[280145:280906:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0307
+	[281004:281312:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0308
+	[281399:282298:dir] similar to GP:1143021 percent identity: 33.51; identified by sequence similarity; putative; ISA0963-2, putative transposase
+	[282240:282905:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0310
+	[282847:286375:rev] This region contains an authentic frame shift and is not the result of a sequencing artifact.; similar to GP:1235662 percent identity: 30.64; identified by sequence similarity; putative;O-antigen biosynthesis protein (rfbC), authentic frameshift
+	[286442:287284:rev] similar to GP:624080 percent identity: 38.24; identified by sequence similarity; putative; conserved hypothetical protein
+	[287674:288126:dir] similar to SP:Q60288 PID:1522666 GB:L77118 SP:Q60288 PID:1522666 percent identity: 38.36; identified by sequence similarity; putative; conserved hypothetical protein
+	[288258:288452:dir] similar to SP:Q60265 PID:1522643 percent identity: 42.11; identified by sequence similarity; putative; conserved hypothetical protein
+	[288430:288861:dir] similar to SP:Q60288 PID:1522666 GB:L77118 SP:Q60288 PID:1522666 percent identity: 40.80; identified by sequence similarity; putative; conserved hypothetical protein
+	[288877:289218:dir] similar to SP:Q60265 PID:1522643 percent identity: 37.78; identified by sequence similarity; putative; conserved hypothetical protein
+	[289215:289664:dir] similar to SP:Q60288 PID:1522666 GB:L77118 SP:Q60288 PID:1522666 percent identity: 34.82; identified by sequence similarity; putative; conserved hypothetical protein
+	[289904:290359:dir] similar to SP:Q60288 PID:1522666 GB:L77118 SP:Q60288 PID:1522666 percent identity: 32.19; identified by sequence similarity; putative; conserved hypothetical protein
+	[290407:290619:dir] similar to GB:L77117 PID:1591638 percent identity: 40.32; identified by sequence similarity; putative; conserved hypothetical protein
+	[290721:291002:dir] similar to GB:L77117 SP:Q58384 PID:1591637 percent identity: 39.78; identified by sequence similarity; putative; conserved hypothetical protein
+	[291051:292025:rev] similar to GP:1666509 percent identity: 30.69; identified by sequence similarity; putative; glycosyl transferase
+	[292019:292879:rev] similar to GB:L07293 PID:152781 percent identity: 27.54; identified by sequence similarity; putative; rhamnosyl transferase (rfbQ)
+	[292876:294242:rev] This region contains an authentic frame shift and is not the result of a sequencing artifact.; similar to GB:X73124 SP:P39631 PID:580881 GB:AL009126 percent identity: 36.32; identified by sequence similarity; putative
+<END>
+<GI> AE000782 AE000943-AE001114:3 <COORDINATES> 532515-565155 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.275059; n0_4mer:D = 33.954908; n0_4mer:PS = 22.261339
+	[532515:533360:dir] similar to GB:L77117 PID:1591834 percent identity: 31.56; identified by sequence similarity; putative; ATP phosphoribosyltransferase (hisG)
+	[533278:533685:rev] similar to GB:L77117 PID:1591960 percent identity: 35.90; identified by sequence similarity; putative; conserved hypothetical protein
+	[533652:534926:rev] similar to GB:L77117 SP:Q58657 PID:1591895 percent identity: 64.41; identified by sequence similarity; putative; translation initiation factor eIF-2, subunit gamma (eif2G)
+	[534971:535357:dir] similar to GP:1707712 percent identity: 38.75; identified by sequence similarity; putative; conserved hypothetical protein
+	[535413:535670:dir] similar to GB:L77117 SP:Q58701 PID:1591944 percent identity: 35.90; identified by sequence similarity; putative; conserved hypothetical protein
+	[535926:537374:dir] similar to GB:L77117 PID:1591720 percent identity: 24.05; identified by sequence similarity; putative; polysaccharide biosynthesis protein, putative
+	[537633:539030:dir] similar to GB:L77117 PID:1591706 percent identity: 44.10; identified by sequence similarity; putative; UDP-glucose dehydrogenase (ugd-2)
+	[539408:539671:dir] similar to PID:1673361 percent identity: 38.00; identified by sequence similarity; putative; conserved hypothetical protein
+	[539668:540120:dir] similar to PID:1001780 PID:1006611 percent identity: 38.31; identified by sequence similarity; putative; conserved hypothetical protein
+	[540613:541365:rev] similar to PID:1653697 percent identity: 32.10; identified by sequence similarity; putative; dolichol phosphate mannose synthase, putative
+	[541398:542330:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0600
+	[542327:543361:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0601
+	[543530:544720:rev] similar to GB:L77117 PID:1500505 percent identity: 29.63; identified by sequence similarity; putative; LPS biosynthesis protein, putative
+	[544900:544995:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0603
+	[544970:545332:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0604
+	[546159:546335:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0605
+	[546307:547398:rev] similar to GB:X61917 PID:47012 percent identity: 29.04; identified by sequence similarity; putative; first mannosyl transferase (wbaZ-2)
+	[547400:548440:rev] similar to PID:1652520 percent identity: 29.68; identified by sequence similarity; putative; LPS glycosyltransferase, putative
+	[548993:549208:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0608
+	[549498:549608:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0609
+	[550058:550285:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0610
+	[550776:551444:dir] similar to SP:P40588 SP:P47187 PID:1015923 percent identity: 22.33; identified by sequence similarity; putative; conserved hypothetical protein
+	[551483:551869:rev] similar to GP:780458 percent identity: 32.20; identified by sequence similarity; putative; conserved hypothetical protein
+	[551859:552176:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0613
+	[552522:552803:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0614
+	[552908:553297:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0615
+	[553294:554895:rev] similar to PID:1652163 percent identity: 28.15; identified by sequence similarity; putative; conserved hypothetical protein
+	[554919:555995:rev] similar to GB:L77117 PID:1500505 percent identity: 29.04; identified by sequence similarity; putative; LPS biosynthesis protein, putative
+	[556102:556392:rev] similar to GP:1707702 percent identity: 34.57; identified by sequence similarity; putative; conserved hypothetical protein
+	[556482:556592:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0619
+	[556782:557675:dir] similar to GB:L20758 SP:P33695 PID:393244 PID:605654 percent identity: 24.78; identified by sequence similarity; putative; succinoglycan biosynthesis protein (exoM)
+	[557941:558013:rev] codon recognized: CAA; tRNA-Gln
+	[558053:558670:rev] similar to GB:L77117 SP:Q57599 PID:1590900 percent identity: 39.29; identified by sequence similarity; putative; ribonuclease HII (rnhB)
+	[558670:559971:rev] similar to GB:L77117 SP:Q57565 PID:1590878 percent identity: 51.15; identified by sequence similarity; putative; signal recognition particle, subunit SRP54 (srp54)
+	[560042:561712:dir] similar to GB:L77117 SP:Q57635 PID:1590924 percent identity: 44.40; identified by sequence similarity; putative; DNA ligase (lig)
+	[561709:562266:dir] similar to GB:L77117 SP:Q58203 PID:1499615 percent identity: 35.82; identified by sequence similarity; putative; conserved hypothetical protein
+	[562263:563099:dir] similar to GB:L77117 SP:Q57630 PID:1498938 percent identity: 32.93; identified by sequence similarity; putative; conserved hypothetical protein
+	[563091:563747:rev] similar to PID:1653802 percent identity: 34.25; identified by sequence similarity; putative; conserved hypothetical protein
+	[564133:565155:rev] similar to percent identity: 45.45; identified by sequence similarity; putative; iron-sulfur cluster binding protein
+<END>
+<GI> AE000782 AE000943-AE001114:4 <COORDINATES> 829159-848498 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.505121; n0_4mer:D = 29.468628; n0_4mer:PS = 49.451821
+	[829159:830403:dir] similar to GB:L77117 SP:Q58080 PID:1591380 percent identity: 44.81; identified by sequence similarity; putative; molybdenum cofactor biosynthesis protein (moeA-2)
+	[830400:832364:dir] similar to GB:L77117 SP:Q58296 PID:1591564 percent identity: 50.83; identified by sequence similarity; putative; molybdenum cofactor biosynthesis protein (moeA-1)
+	[832406:834406:dir] similar to GB:L77117 SP:Q58010 PID:1591298 percent identity: 34.43; identified by sequence similarity; putative; conserved hypothetical protein
+	[834429:835301:dir] similar to GB:L77117 PID:1591667 percent identity: 59.03; identified by sequence similarity; putative; branched-chain amino acid aminotransferase (ilvE)
+	[835294:835809:dir] similar to GB:L77117 PID:1500498 percent identity: 31.88; identified by sequence similarity; putative; conserved hypothetical protein
+	[835806:836786:dir] similar to GB:L77117 PID:1500499 percent identity: 47.85; identified by sequence similarity; putative; homoserine dehydrogenase (hom)
+	[836770:837492:dir] similar to GB:L77117 PID:1591577 percent identity: 29.60; identified by sequence similarity; putative; conserved hypothetical protein
+	[837550:838821:dir] similar to GB:L77117 SP:Q57770 PID:1591042 percent identity: 74.35; identified by sequence similarity; putative; translation elongation factor EF-1, subunit alpha (tuf)
+	[838843:839163:dir] similar to GB:D32120 SP:P48854 PID:509675 percent identity: 71.00; identified by sequence similarity; putative; SSU ribosomal protein S10P (rps10P)
+	[839164:840084:dir] similar to GB:L77117 SP:Q58897 PID:1592137 percent identity: 36.13; identified by sequence similarity; putative; conserved hypothetical protein
+	[840081:841163:rev] similar to GB:L77117 SP:Q57815 PID:1591076 percent identity: 39.83; identified by sequence similarity; putative; DNA topoisomerase VI, subunit A (top6A)
+	[841216:841560:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0941
+	[841557:842342:dir] similar to GB:L77117 SP:Q57979 PID:1591265 percent identity: 50.20; identified by sequence similarity; putative; surE stationary-phase survival protein (surE)
+	[842320:842997:dir] similar to GB:L77117 PID:1500500 percent identity: 48.87; identified by sequence similarity; putative; ribose 5-phosphate isomerase (rpi)
+	[843002:844147:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0944
+	[844116:845321:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0945
+	[845388:848498:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_0946
+<END>
+<GI> AE000782 AE000943-AE001114:5 <COORDINATES> 940088-960195 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.663160; n0_4mer:D = 28.286114; n0_4mer:PS = 47.399196
+	[940088:942121:rev] similar to GB:Z34005 SP:P39209 GB:D30762 PID:496484 PID:710635 percent identity: 27.53; identified by sequence similarity; putative; methyl-accepting chemotaxis protein (tlpC-1)
+	[942211:943500:rev] similar to PID:1652841 percent identity: 25.26; identified by sequence similarity; putative; chemotaxis histidine kinase, putative
+	[943504:944352:dir] similar to PID:777753 PID:870709 PID:1311638 percent identity: 30.43; identified by sequence similarity; putative; chemotaxis histidine kinase, putative
+	[944369:945181:rev] similar to PID:1177141 percent identity: 33.21; identified by sequence similarity; putative; chemotaxis protein methyltransferase (cheR)
+	[945172:945645:rev] similar to GB:M20144 SP:P40404 PID:289303 GB:AL009126 percent identity: 39.87; identified by sequence similarity; putative; conserved hypothetical protein
+	[945645:946262:rev] similar to GB:M20144 SP:P40403 PID:289302 GB:AL009126 percent identity: 26.56; identified by sequence similarity; putative; conserved hypothetical protein
+	[946246:948216:rev] similar to PID:940147 SP:Q56310 percent identity: 41.92; identified by sequence similarity; putative; chemotaxis histidine kinase (cheA)
+	[948206:949255:rev] similar to SP:P04042 GB:X52093 percent identity: 43.32; identified by sequence similarity; putative; protein-glutamate methylesterase (cheB)
+	[949258:949623:rev] similar to PID:940149 percent identity: 62.93; identified by sequence similarity; putative; chemotaxis response regulator (cheY)
+	[949628:950437:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1043
+	[950451:950933:rev] similar to GB:M26411 SP:P21821 PID:148348 percent identity: 40.41; identified by sequence similarity; putative; purine-binding chemotaxis protein (cheW)
+	[950947:953451:rev] similar to GB:Z34005 SP:P39209 GB:D30762 PID:496484 PID:710635 percent identity: 29.58; identified by sequence similarity; putative; methyl-accepting chemotaxis protein (tlpC-2)
+	[953538:954209:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1046
+	[954206:954850:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1047
+	[954864:956489:rev] similar to GB:L77117 PID:1591576 percent identity: 28.23; identified by sequence similarity; putative; conserved hypothetical protein
+	[956493:958379:rev] similar to GB:L77117 SP:Q58310 PID:1591575 percent identity: 46.48; identified by sequence similarity; putative; type II secretion system protein (gspE-4)
+	[958482:959216:rev] similar to GB:L77117 PID:1591574 percent identity: 29.44; identified by sequence similarity; putative; conserved hypothetical protein
+	[959228:959713:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1051
+	[959707:960195:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1052
+<END>
+<GI> AE000782 AE000943-AE001114:6 <COORDINATES> 1246806-1272621 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.629881; n0_4mer:D = 31.332077; n0_4mer:PS = 45.294522
+	[1246806:1249226:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1398
+	[1249226:1251067:rev] similar to SP:P42110 SP:P42111 PID:563945 PID:904175 PID:904190 percent identity: 34.01; identified by sequence similarity; putative; conserved hypothetical protein
+	[1251153:1251719:rev] similar to GB:L77117 PID:1500511 percent identity: 32.53; identified by sequence similarity; putative; conserved hypothetical protein
+	[1251694:1252911:rev] similar to GB:L77117 PID:1591556 percent identity: 35.19; identified by sequence similarity; putative; iron (III) ABC transporter, ATP-binding protein (hemV-3)
+	[1252908:1253894:rev] similar to GB:L42023 PID:1007599 PID:1221614 PID:1205706 SP:Q57130 percent identity: 35.22; identified by sequence similarity; putative; iron (III) ABC transporter, permease protein (hemU-2)
+	[1253914:1254573:rev] similar to GB:L77117 PID:1592100 percent identity: 58.99; identified by sequence similarity; putative; conserved hypothetical protein
+	[1254573:1254806:rev] similar to GB:L10328 SP:P03809 GB:K00826 PID:290592 PID:455179 percent identity: 45.10; identified by sequence similarity; putative; transcriptional regulatory protein, AsnC family
+	[1254836:1255300:rev] similar to GB:L77117 PID:1592081 percent identity: 46.05; identified by sequence similarity; putative; conserved hypothetical protein
+	[1255333:1257660:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1406
+	[1257753:1258217:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1407
+	[1258196:1258630:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1408
+	[1258647:1261556:rev] similar to SP:P14827 GB:X17111 PID:41315 percent identity: 31.36; identified by sequence similarity; putative; modification methylase, type III R/M system
+	[1261645:1262718:rev] similar to GP:1143021 percent identity: 33.52; identified by sequence similarity; putative; ISA0963-5, putative transposase
+	[1262640:1262712:dir] codon recognized: GGC; tRNA-Gly
+	[1263003:1264061:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1411
+	[1264202:1265347:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1412
+	[1265344:1272621:rev] similar to PID:602882 percent identity: 29.91; identified by sequence similarity; putative; surface layer protein B (slgB-2)
+<END>
+<GI> AE000782 AE000943-AE001114:7 <COORDINATES> 1695222-1733197 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.792668; n0_4mer:D = 29.692218; n0_4mer:PS = 47.600533
+	[1695222:1696418:rev] similar to GP:1707742 percent identity: 47.06; identified by sequence similarity; putative; daunorubicin resistance ATP-binding protein (drrA)
+	[1696296:1696369:dir] codon recognized: AAA; tRNA-Lys
+	[1696393:1696623:dir] similar to GB:L77117 SP:Q58443 PID:1591692 percent identity: 59.46; identified by sequence similarity; putative; DNA-directed RNA polymerase, subunit H (rpoH)
+	[1696656:1698194:dir] similar to SP:P15352 PID:43540 percent identity: 57.14; identified by sequence similarity; putative; DNA-directed RNA polymerase, subunit B'' (rpoB2)
+	[1698195:1700009:dir] similar to GB:X57144 SP:P15351 PID:43541 percent identity: 65.33; identified by sequence similarity; putative; DNA-directed RNA polymerase, subunit B' (rpoB1)
+	[1700021:1702624:dir] similar to SP:P31813 GB:X67313 PID:48141 percent identity: 63.57; identified by sequence similarity; putative; DNA-directed RNA polymerase, subunit A' (rpoA1)
+	[1702621:1703763:dir] similar to GB:L77117 SP:Q58446 PID:1591697 percent identity: 55.71; identified by sequence similarity; putative; DNA-directed RNA polymerase, subunit A'' (rpoA2)
+	[1703760:1704020:dir] similar to GB:L77117 SP:P54061 PID:1591698 percent identity: 41.67; identified by sequence similarity; putative; LSU ribosomal protein L30E (rpl30E)
+	[1704036:1704455:dir] similar to SP:P29157 GB:X60305 GB:X67313 PID:48144 PID:58411 percent identity: 48.94; identified by sequence similarity; putative; transcription termination-antitermination factor NusA, putative
+	[1704455:1704889:dir] similar to SP:P29161 GB:X60305 GB:X67313 PID:48145 PID:58412 percent identity: 74.10; identified by sequence similarity; putative; SSU ribosomal protein S12P (rps12P)
+	[1704894:1705478:dir] similar to GB:L77117 SP:P54063 PID:1591701 percent identity: 59.57; identified by sequence similarity; putative; SSU ribosomal protein S7P (rps7P)
+	[1705484:1707670:dir] similar to SP:P29050 GB:X67205 PID:45950 percent identity: 62.50; identified by sequence similarity; putative; translation elongation factor EF-2 (fus)
+	[1707687:1708316:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1895
+	[1708350:1708955:dir] similar to GB:L77117 PID:1499931 percent identity: 37.06; identified by sequence similarity; putative; iron-sulfur flavoprotein (isf-3)
+	[1708952:1710019:rev] similar to GP:1881240 percent identity: 26.03; identified by sequence similarity; putative; conserved hypothetical protein
+	[1710094:1710447:dir] similar to PID:940149 percent identity: 48.70; identified by sequence similarity; putative; response regulator
+	[1710490:1711689:dir] similar to GB:L77117 PID:1591836 percent identity: 55.26; identified by sequence similarity; putative; conserved hypothetical protein
+	[1711670:1712212:rev] similar to GB:L77117 SP:Q58071 PID:1591369 percent identity: 48.59; identified by sequence similarity; putative; cytidylate kinase (cmk)
+	[1712214:1712879:rev] similar to GB:L77117 SP:Q57904 PID:1591183 percent identity: 27.49; identified by sequence similarity; putative; conserved hypothetical transmembrane protein
+	[1712876:1714357:rev] similar to SP:P28542 PID:43609 percent identity: 50.00; identified by sequence similarity; putative; protein translocase, subunit SEC61 alpha (secY)
+	[1714372:1714911:rev] similar to GB:L77117 SP:P54047 PID:1591179 percent identity: 53.79; identified by sequence similarity; putative; LSU ribosomal protein L15P (rpl15P)
+	[1714908:1715366:rev] similar to GB:L77117 SP:P54046 PID:1591178 percent identity: 55.92; identified by sequence similarity; putative; LSU ribosomal protein L30P (rpl30P)
+	[1715372:1715968:rev] similar to GB:L77117 SP:P54045 PID:1591177 percent identity: 60.00; identified by sequence similarity; putative; SSU ribosomal protein S5P (rps5P)
+	[1715965:1716534:rev] similar to GB:L77117 SP:P54044 PID:1591176 percent identity: 57.84; identified by sequence similarity; putative; LSU ribosomal protein L18P (rpl18P)
+	[1716534:1716983:rev] similar to GB:L77117 SP:P54043 PID:1591175 percent identity: 55.48; identified by sequence similarity; putative; LSU ribosomal protein L19E (rpl19E)
+	[1716980:1717369:rev] similar to GB:L77117 SP:P54010 PID:1591174 percent identity: 51.22; identified by sequence similarity; putative; LSU ribosomal protein L32E (rpl32E)
+	[1717379:1717969:rev] similar to GB:L77117 SP:P54042 PID:1591173 percent identity: 53.71; identified by sequence similarity; putative; LSU ribosomal protein L6P (rpl6P)
+	[1717920:1718315:rev] similar to GB:L77117 SP:P54041 PID:1591172 percent identity: 64.57; identified by sequence similarity; putative; SSU ribosomal protein S8P (rps8E)
+	[1718315:1718470:rev] similar to SP:P14041 PID:44762 percent identity: 61.54; identified by sequence similarity; putative; SSU ribosomal protein S14P (rps14P)
+	[1718467:1719003:rev] similar to GB:S77838 SP:P41202 PID:243187 PID:2052259 percent identity: 51.74; identified by sequence similarity; putative; LSU ribosomal protein L5P (rpl5P)
+	[1719007:1719714:rev] similar to GB:L77117 SP:P54039 PID:1591170 percent identity: 48.92; identified by sequence similarity; putative; SSU ribosomal protein S4E (rps4E)
+	[1719711:1720073:rev] similar to GB:L77117 SP:P54038 PID:1591169 percent identity: 57.76; identified by sequence similarity; putative; LSU ribosomal protein L24P (rpl24P)
+	[1720084:1720482:rev] similar to GB:L77117 SP:P54037 PID:1591168 percent identity: 66.67; identified by sequence similarity; putative; LSU ribosomal protein L14P (rpl14P)
+	[1720463:1720798:rev] similar to GB:L77117 SP:P54036 PID:1591167 percent identity: 59.05; identified by sequence similarity; putative; SSU ribosomal protein S17P (rps17P)
+	[1720795:1721103:rev] similar to GB:L77117 PID:1591166 percent identity: 42.53; identified by sequence similarity; putative; conserved hypothetical protein
+	[1721079:1721285:rev] similar to SP:P10971 GB:J05222 PID:148808 percent identity: 44.62; identified by sequence similarity; putative; LSU ribosomal protein L29P (rpl29P)
+	[1721206:1721895:rev] similar to GB:L77117 SP:P54034 PID:1591163 percent identity: 50.00; identified by sequence similarity; putative; SSU ribosomal protein S3P (rps3P)
+	[1721895:1722362:rev] similar to GB:L77117 SP:P54033 PID:1591162 percent identity: 55.17; identified by sequence similarity; putative; LSU ribosomal protein L22P (rpl22P)
+	[1722362:1722763:rev] similar to GB:L77117 SP:P54018 PID:1592272 percent identity: 60.90; identified by sequence similarity; putative; SSU ribosomal protein S19P (rps19P)
+	[1722768:1723481:rev] similar to SP:P20276 GB:J05222 PID:148804 percent identity: 60.43; identified by sequence similarity; putative; LSU ribosomal protein L2P (rpl2P)
+	[1723493:1723744:rev] similar to GB:L77117 SP:P54016 PID:1498951 percent identity: 55.56; identified by sequence similarity; putative; LSU ribosomal protein L23P (rpl23P)
+	[1723732:1724490:rev] similar to GB:L77117 SP:P54015 PID:1498950 percent identity: 56.40; identified by sequence similarity; putative; LSU ribosomal protein L4P (rpl4P)
+	[1724493:1725488:rev] similar to GB:L77117 SP:P54014 PID:1590928 percent identity: 56.50; identified by sequence similarity; putative; LSU ribosomal protein L3P (rpl3P)
+	[1725485:1726255:rev] similar to SP:P20571 PID:1181552 percent identity: 40.40; identified by sequence similarity; putative; conserved hypothetical protein
+	[1726313:1726933:rev] similar to GB:L77117 SP:Q58100 PID:1592301 percent identity: 27.27; identified by sequence similarity; putative; conserved hypothetical protein
+	[1727076:1727444:dir] similar to GB:L77117 PID:1591794 percent identity: 52.59; identified by sequence similarity; putative; tungsten formylmethanofuran dehydrogenase, subunit D (fwdD-2)
+	[1727445:1728710:dir] similar to GP:1781026 percent identity: 49.40; identified by sequence similarity; putative; tungsten formylmethanofuran dehydrogenase, subunit B (fwdB-2)
+	[1728714:1730405:dir] similar to GB:L77117 PID:1591795 percent identity: 48.91; identified by sequence similarity; putative; tungsten formylmethanofuran dehydrogenase, subunit A (fwdA)
+	[1730410:1731123:dir] similar to GB:L77117 PID:1591797 percent identity: 44.09; identified by sequence similarity; putative; tungsten formylmethanofuran dehydrogenase, subunit C (fwdC)
+	[1731208:1732737:dir] similar to GP:1770038 percent identity: 30.96; identified by sequence similarity; putative; long-chain-fatty-acid--CoA ligase (fadD-8)
+	[1732712:1733197:rev] similar to GB:D10208 SP:P49251 PID:216722 percent identity: 38.94; identified by sequence similarity; putative; monoamine oxidase regulatory protein, putative
+<END>
+<GI> AE000782 AE000943-AE001114:8 <COORDINATES> 1778173-1803371 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.928464; n0_4mer:D = 36.308366; n0_4mer:PS = 30.205122
+	[1778173:1778652:dir] similar to GB:L77117 SP:Q58006 PID:1591294 percent identity: 38.46; identified by sequence similarity; putative; conserved hypothetical protein
+	[1778680:1778988:dir] similar to SP:P36654 GB:X77707 GB:Z36905 PID:535291 PID:536981 percent identity: 32.32; identified by sequence similarity; putative; periplasmic divalent cation tolerance protein (cutA)
+	[1778922:1779680:dir] similar to GP:1707808 percent identity: 44.92; identified by sequence similarity; putative; conserved hypothetical protein
+	[1779783:1780439:rev] similar to SP:P29961 GB:X63462 PID:46026 percent identity: 29.02; identified by sequence similarity; putative; heme exporter protein C (helC)
+	[1780476:1781270:rev] similar to GB:L11577 SP:P42361 percent identity: 29.88; identified by sequence similarity; putative; ABC transporter, permease protein
+	[1781254:1782015:rev] similar to GP:1777934 percent identity: 41.30; identified by sequence similarity; putative; ABC transporter, ATP-binding protein
+	[1782012:1782980:rev] similar to GP:1777933 percent identity: 25.39; identified by sequence similarity; putative; ABC transporter, periplasmic binding protein
+	[1782947:1783366:rev] similar to GP:1777937 percent identity: 28.35; identified by sequence similarity; putative; iron-dependent repressor (troR)
+	[1783412:1784410:dir] similar to PID:1653755 percent identity: 61.82; identified by sequence similarity; putative; ketol-acid reductoisomerase (ilvC)
+	[1784407:1785018:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1986
+	[1785025:1785675:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1987
+	[1785820:1788751:rev] 23S ribosomal RNA
+	[1788864:1788935:rev] codon recognized: GCA; tRNA-Ala
+	[1788987:1790478:rev] 16S ribosomal RNA
+	[1790775:1791302:rev] similar to GB:L77117 SP:Q57692 PID:1499018 percent identity: 42.77; identified by sequence similarity; putative; conserved hypothetical protein
+	[1791350:1792111:dir] similar to GB:L77117 SP:Q58235 PID:1591512 percent identity: 34.38; identified by sequence similarity; putative; peptidyl-prolyl cis-trans isomerase (slyD)
+	[1792318:1794426:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1990
+	[1794419:1794775:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1991
+	[1794786:1795727:dir] similar to GP:499141 percent identity: 31.25; identified by sequence similarity; putative; calcium-binding protein, putative
+	[1795732:1796112:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1993
+	[1796109:1796819:dir] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1994
+	[1796894:1798369:dir] similar to GB:L77117 SP:Q58715 PID:1591959 percent identity: 52.49; identified by sequence similarity; putative; sodium- and chloride-dependent transporter
+	[1798573:1798827:rev] similar to GB:L77117 PID:1499973 percent identity: 50.00; identified by sequence similarity; putative; virulence associated protein C (vapC-1)
+	[1798793:1799014:rev] similar to GB:L77117 PID:1591761 percent identity: 61.76; identified by sequence similarity; putative; conserved hypothetical protein
+	[1799094:1800158:rev] similar to GP:1890198 percent identity: 29.58; identified by sequence similarity; putative; iron-sulfur binding reductase
+	[1800257:1800673:rev] hypothetical protein; identified by GeneMark; putative; predicted coding region AF_1999
+	[1800661:1801878:rev] similar to GB:L77117 PID:1592034 percent identity: 67.33; identified by sequence similarity; putative; S-adenosylhomocysteinase hydrolase (ahcY-2)
+	[1801882:1802418:rev] similar to GB:L77117 PID:1499895 percent identity: 43.71; identified by sequence similarity; putative; conserved hypothetical protein
+	[1802412:1803371:rev] similar to GB:L77117 PID:1591622 percent identity: 39.76; identified by sequence similarity; putative; histidinol-phosphate aminotransferase (hisC-1)
+<END>

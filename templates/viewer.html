@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ domain.title() if domain else 'All' }} Genomes</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .content-wrapper {
+            max-width: 90%;
+            margin: 20px auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+
+        pre {
+            background-color: #f8f8f8;
+            color: #000;
+            padding: 10px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-height: 500px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin: 20px auto;
+        }
+
+        .svg-container {
+            background-color: rgba(255,255,255,0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        svg {
+            max-width: 80%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        form.buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        select, button {
+            padding: 5px 10px;
+            margin: 5px;
+            font-size: 14px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        /* Breadcrumb styling */
+        .breadcrumb {
+            text-align: left;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: rgba(255,255,255,0.9);
+            border: 2px solid #000;
+            border-radius: 10px;
+        }
+
+        .breadcrumb a {
+            text-decoration: none;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .breadcrumb span {
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+<div class="content-wrapper">
+    {% if request.path != '/' %}
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a href="{{ url_for('home') }}">Home</a> &gt;
+        {% if domain %}<a href="{{ url_for('genomes', domain=domain) }}">{{ domain.title() }} Genomes</a> &gt;{% endif %}
+        {% if seq_id %}<a href="{{ url_for('genome', seq_id=seq_id) }}">{{ seq_id }}</a> &gt;{% endif %}
+        <span>{{ filename }}</span>
+    </div>
+    {% endif %}
+
+    <h1>Viewing: {{ filename }}</h1>
+
+    {% if file_type in ['out', 'fas'] %}
+    <form method="POST" class="buttons">
+        <label for="gi_id">GI ID:</label>
+        <select name="gi_id" id="gi_id">
+            <option value="">--Select GI--</option>
+            {% for gi in gi_options %}
+            <option value="{{ gi }}">{{ gi }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="coordinates">Coordinates:</label>
+        <select name="coordinates" id="coordinates">
+            <option value="">--Select Coordinates--</option>
+            {% for coord in coord_options %}
+            <option value="{{ coord }}">{{ coord }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Filter</button>
+        <button type="submit" name="reset" value="1">Reset</button>
+    </form>
+
+    <pre>{{ selected_block }}</pre>
+
+    {% elif file_type == 'svg' %}
+    <div class="svg-container">
+        {{ svg_content | safe }}
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>

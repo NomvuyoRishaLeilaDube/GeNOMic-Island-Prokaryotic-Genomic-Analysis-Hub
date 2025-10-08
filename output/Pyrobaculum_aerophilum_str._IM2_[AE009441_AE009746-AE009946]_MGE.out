@@ -1,0 +1,327 @@
+<GI> AE009441 AE009746-AE009946:1 <COORDINATES> 228788-249042 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.250382; n0_4mer:D = 29.997568; n0_4mer:PS = 34.827628
+	[228788:229885:dir] Unclassified; glycosyl transferase, putative
+	[229882:230079:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[230101:230646:dir] Hypothetical; Conserved; paREP1
+	[230643:231641:dir] Hypothetical; Conserved within genome; P. aerophilum family 1964 protein
+	[231720:231935:dir] Hypothetical; hypothetical protein
+	[232180:232344:dir] Hypothetical; hypothetical protein
+	[232338:232556:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[232836:232889:rev] sRNA, predicted to direct ribose methylation of 23S at G751
+	[232901:233893:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[233901:235070:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[235050:236390:rev] Hypothetical; hypothetical protein
+	[236353:236883:dir] Hypothetical; hypothetical protein
+	[236871:237203:rev] Hypothetical; hypothetical protein
+	[237185:237970:rev] Hypothetical; hypothetical protein
+	[237967:239244:rev] Hypothetical; hypothetical protein
+	[239296:240480:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 2)
+	[240552:240908:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[241225:242160:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; dolichol-phosphate mannosyltransferase
+	[242168:243250:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[243247:244068:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 2)
+	[244436:245560:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[245595:246314:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; conserved protein
+	[246298:249042:dir] Hypothetical; hypothetical protein
+<END>
+<GI> AE009441 AE009746-AE009946:2 <COORDINATES> 281000-305839 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.541145; n0_4mer:D = 36.697471; n0_4mer:PS = 16.779145
+	[281068:281526:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[281977:282447:dir] Hypothetical; Conserved; paREP15, putative coiled-coil protein
+	[282999:283562:rev] Hypothetical; Conserved; paREP1
+	[284293:284643:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[284660:284875:rev] Hypothetical; hypothetical protein
+	[284869:285303:rev] Hypothetical; Conserved within genome; P. aerophilum family 1964 protein, degenerate
+	[285455:286018:dir] Hypothetical; hypothetical protein
+	[286156:286281:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[286523:287941:rev] Hypothetical; hypothetical protein
+	[287989:289197:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[289194:290345:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[290342:291508:dir] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[291498:292664:rev] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 1)
+	[292661:293611:rev] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; glycosyltransferase (type 2)
+	[293608:294663:rev] Hypothetical; hypothetical protein
+	[294660:295943:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[296071:296583:rev] Hypothetical; Conserved within genome; paREP7
+	[297210:297422:dir] Hypothetical; Conserved within genome; paREP7
+	[297425:297511:dir] Hypothetical; hypothetical protein
+	[297519:297857:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[298492:298839:dir] Hypothetical; hypothetical protein
+	[298884:300179:dir] Transport and binding proteins; Amino acids, peptides and amines; amino acid permease
+	[300890:301762:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[301759:301935:rev] Hypothetical; hypothetical protein
+	[302385:302807:rev] Hypothetical; Conserved; paREP8
+	[302854:303366:rev] DNA metabolism; DNA replication, recombination, and repair; ADP ribose hydrolase, putative (mutT/nudix family protein)
+	[303422:303476:rev] sRNA, predicted to direct ribose methylation of 23S at C791
+	[303602:303676:rev] tRNA-Ala
+	[303850:304809:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[304862:305839:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+<END>
+<GI> AE009441 AE009746-AE009946:3 <COORDINATES> 359500-380002 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.504149; n0_4mer:D = 32.721304; n0_4mer:PS = 53.343891
+	[359505:362888:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit B (rpoB)
+	[362969:365623:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit A' (rpoA1)
+	[365620:366759:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit A'' (rpoA2)
+	[366801:367109:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein L30
+	[367102:367536:dir] Transcription; Transcription factors; transcription termination factor NusA, putative
+	[367576:368019:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein S12
+	[368019:368801:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit D (rpoD)
+	[368827:369195:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein L18
+	[369192:369755:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein L13
+	[369758:370198:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein S9
+	[370195:370395:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit N (rpoN)
+	[370446:370703:dir] Transcription; RNA processing; small nuclear ribonucleoprotein homolog (Sm-like)
+	[370700:371908:dir] Central intermediary metabolism; Other; S-adenosylmethionine synthetase
+	[371905:373668:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[373672:374592:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[374624:375127:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[375280:375966:dir] Unclassified; cytidyltransferase
+	[375947:376594:dir] DNA metabolism; DNA replication, recombination, and repair; DNA endonuclease V, conjectural
+	[376559:376960:rev] Cellular processes; Adaptations to atypical conditions; conserved protein (probable universal stress protein homolog)
+	[376969:377772:rev] Transport and binding proteins; Carbohydrates, organic alcohols, and acids; multiple sugar transport permease protein
+	[377769:378593:rev] Transport and binding proteins; Carbohydrates, organic alcohols, and acids; multiple sugar transport permease protein
+	[378590:380002:rev] Transport and binding proteins; Carbohydrates, organic alcohols, and acids; multiple sugar binding protein
+<END>
+<GI> AE009441 AE009746-AE009946:4 <COORDINATES> 402268-420687 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.631480; n0_4mer:D = 29.681420; n0_4mer:PS = 39.669875
+	[402268:403542:rev] Energy metabolism; Electron transport; electron transfer flavoprotein-quinone oxidoreductase
+	[403769:404458:dir] Biosynthesis of cofactors, prosthetic groups, and carriers; Molybdopterin; molybdenum cofactor biosynthesis protein D/E
+	[404439:404825:rev] Hypothetical; hypothetical protein
+	[404887:405663:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[405821:406195:dir] Hypothetical; hypothetical protein
+	[406222:406458:dir] Regulatory functions; General; transcriptional regulatory protein, conjectural
+	[406526:406729:dir] Hypothetical; hypothetical protein
+	[406763:407434:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein S7
+	[407465:408454:dir] DNA metabolism; DNA replication, recombination, and repair; replication factor C small subunit
+	[408454:409722:dir] DNA metabolism; DNA replication, recombination, and repair; replication factor C large subunit
+	[409722:410018:dir] Hypothetical; hypothetical protein
+	[410093:411262:dir] DNA metabolism; DNA replication, recombination, and repair; cell division control protein 6 (cdc6), putative
+	[411259:411552:dir] Regulatory functions; General; transcriptional regulatory protein (helix-turn-helix), putative
+	[411569:412102:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[412177:413277:dir] Protein synthesis; Translation factors; translation initiation factor aIF-2B alpha subunit
+	[413383:413700:dir] Hypothetical; hypothetical protein
+	[413700:414839:dir] Protein fate; Protein modification and repair; RNA binding protein (fmu, PCNA P120 homolog), probable
+	[414823:415050:rev] Hypothetical; hypothetical protein
+	[415095:415736:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[415842:416306:rev] Hypothetical; hypothetical protein
+	[416445:416615:rev] Hypothetical; hypothetical protein
+	[416680:417966:rev] Unclassified; conserved protein (nfeD homolog)
+	[417963:418751:rev] Unclassified; conserved protein (band 7 homolog)
+	[419345:419662:dir] Hypothetical; hypothetical protein
+	[419659:420687:dir] Energy metabolism; ATP-proton motive force interconversion; H+-transporting ATP synthase subunit C (atpC)
+<END>
+<GI> AE009441 AE009746-AE009946:5 <COORDINATES> 756813-780608 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.509426; n0_4mer:D = 30.338035; n0_4mer:PS = 28.072847
+	[756813:758240:rev] Central intermediary metabolism; Other; glycolate oxidase subunit glcD
+	[758297:760738:dir] Central intermediary metabolism; Other; malate synthase (glcB)
+	[760768:761697:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[761694:762833:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[762837:763589:rev] Hypothetical; Conserved within genome; conserved within P. aerophilum part 2, authentic frameshift
+	[763665:763796:rev] Hypothetical; Conserved within genome; conserved within P. aerophilum part 1, authentic frameshift
+	[763997:765454:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[765456:766226:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[766253:767215:rev] Transport and binding proteins; Amino acids, peptides and amines; dipeptide transport ATP-binding protein
+	[767212:768180:rev] Transport and binding proteins; Amino acids, peptides and amines; dipeptide transport ATP-binding protein
+	[768177:769241:rev] Transport and binding proteins; Amino acids, peptides and amines; dipeptide ABC transporter, permease protein
+	[769243:770241:rev] Transport and binding proteins; Amino acids, peptides and amines; dipeptide ABC transporter, permease protein
+	[770248:772461:rev] Transport and binding proteins; Amino acids, peptides and amines; dipeptide binding protein
+	[772552:775602:rev] Protein fate; Degradation of proteins, peptides, and glycopeptides; tricorn protease
+	[775643:776047:dir] Hypothetical; hypothetical protein
+	[776039:776482:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[776514:776567:rev] sRNA, predicted to direct ribose methylation of 23S at C1816
+	[776589:777755:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[777805:778626:rev] Hypothetical; hypothetical protein
+	[778647:779984:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[780025:780393:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[780366:780608:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum part 1, authentic frameshift
+<END>
+<GI> AE009441 AE009746-AE009946:6 <COORDINATES> 1083329-1108283 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.171083; n0_4mer:D = 32.343055; n0_4mer:PS = 29.555741
+	[1083329:1084777:rev] Protein synthesis; tRNA aminoacylation; lysyl-tRNA synthetase
+	[1084806:1085768:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1085796:1086431:rev] Hypothetical; hypothetical protein
+	[1086452:1087879:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1088079:1088978:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1089001:1089396:rev] Regulatory functions; General; P. aerophilum family 453, possible regulatory protein
+	[1089640:1091850:dir] small subunit 16S ribosomal RNA
+	[1090039:1090698:dir] Unclassified; rRNA intron-encoded homing endonuclease, possible
+	[1091918:1094942:dir] large subunit 23S ribosomal RNA
+	[1095290:1098232:dir] Hypothetical; hypothetical protein
+	[1098229:1099263:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[1099235:1100269:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[1100615:1101385:rev] Unclassified; hypothetical protein with 4 ankyrin repeats
+	[1101537:1102640:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[1102654:1103301:dir] Hypothetical; hypothetical protein
+	[1103588:1103932:dir] Hypothetical; Conserved within genome; paREP7
+	[1103829:1104122:dir] Hypothetical; Conserved within genome; paREP7
+	[1104153:1104314:dir] Hypothetical; Conserved within genome; paREP7
+	[1104840:1105259:rev] Hypothetical; Conserved; paREP11
+	[1105246:1105647:rev] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[1106809:1107858:dir] Central intermediary metabolism; Other; isocitrate lyase
+	[1107855:1108283:dir] Unclassified; conserved protein with 2 CBS domains
+<END>
+<GI> AE009441 AE009746-AE009946:7 <COORDINATES> 1281000-1298599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.535637; n0_4mer:D = 29.717899; n0_4mer:PS = 19.253259
+	[1281175:1281471:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein S26
+	[1282069:1282431:dir] Hypothetical; Conserved within genome; paREP2b, degenerate
+	[1282361:1282807:dir] Hypothetical; Conserved within genome; paREP2b, degenerate
+	[1283354:1283770:dir] Hypothetical; hypothetical protein
+	[1283807:1284349:dir] Fatty acid and phospholipid metabolism; Biosynthesis; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (pgsA)
+	[1284398:1284811:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1285314:1286585:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1286960:1289527:rev] DNA metabolism; DNA replication, recombination, and repair; DNA-directed DNA polymerase (B1)
+	[1289617:1290027:dir] Hypothetical; hypothetical protein
+	[1290020:1291216:rev] Fatty acid and phospholipid metabolism; Biosynthesis; 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMG-CoA reductase)
+	[1291245:1292351:dir] Fatty acid and phospholipid metabolism; Degradation; acetyl-CoA C-acyltransferase
+	[1292385:1292786:dir] Fatty acid and phospholipid metabolism; Degradation; conserved protein associated with acetyl-CoA C-acyltransferase
+	[1292783:1293835:dir] Fatty acid and phospholipid metabolism; Degradation; 3-oxoacyl-[acyl-carrier-protein] synthase
+	[1293920:1294144:dir] Regulatory functions; General; P. aerophilum family 453, possible regulatory protein
+	[1294172:1294780:dir] Hypothetical; hypothetical protein
+	[1294950:1295282:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1295438:1296328:dir] Hypothetical; hypothetical protein
+	[1296321:1297442:rev] Protein fate; Protein modification and repair; pyruvate formate-lyase activating enzyme homolog
+	[1297511:1298146:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1298180:1298281:rev] tRNA-Arg
+<END>
+<GI> AE009441 AE009746-AE009946:8 <COORDINATES> 1463317-1491703 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.569105; n0_4mer:D = 29.717899; n0_4mer:PS = 32.449141
+	[1463317:1464585:rev] Amino acid biosynthesis; Aromatic amino acid family; anthranilate synthase component I
+	[1464582:1465583:rev] Amino acid biosynthesis; Aromatic amino acid family; anthranilate phosphoribosyltransferase
+	[1465624:1466856:rev] Amino acid biosynthesis; Aromatic amino acid family; tryptophan synthase beta subunit
+	[1467115:1469160:rev] Transport and binding proteins; Amino acids, peptides and amines; ABC transporter ATP-binding component
+	[1469157:1469936:rev] Transport and binding proteins; Amino acids, peptides and amines; branched-chain amino acid ABC transporter, ATP-binding protein, putative
+	[1470097:1471365:rev] Fatty acid and phospholipid metabolism; Degradation; long-chain-fatty-acid--CoA ligase
+	[1471462:1472367:rev] Fatty acid and phospholipid metabolism; Degradation; fatty acid co-A racemase, conjectural
+	[1472349:1472744:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1472963:1474102:dir] Fatty acid and phospholipid metabolism; Degradation; acetyl-CoA C-acyltransferase
+	[1474099:1474443:dir] Fatty acid and phospholipid metabolism; Degradation; conserved protein associated with acetyl-CoA C-acyltransferase
+	[1474430:1476277:rev] Fatty acid and phospholipid metabolism; Degradation; acetyl-coenzyme A synthetase
+	[1476652:1477788:dir] Fatty acid and phospholipid metabolism; Degradation; acyl-CoA dehydrogenase
+	[1477781:1479127:rev] Energy metabolism; Electron transport; molybdopterin binding oxidoreductase small and medium subunit
+	[1479124:1481424:rev] Energy metabolism; Electron transport; molybdopterin binding oxidoreductase large subunit
+	[1481421:1482269:rev] Fatty acid and phospholipid metabolism; Degradation; enoyl-CoA hydratase
+	[1482197:1483633:rev] Unclassified; aldehyde dehydrogenase
+	[1483771:1485651:dir] Fatty acid and phospholipid metabolism; Degradation; acetyl-coenzyme A synthetase
+	[1485788:1485991:dir] Hypothetical; hypothetical protein
+	[1486470:1486799:dir] Hypothetical; hypothetical protein
+	[1486810:1487106:dir] Hypothetical; hypothetical protein
+	[1487274:1488416:dir] Fatty acid and phospholipid metabolism; Degradation; acetyl-CoA C-acyltransferase
+	[1488413:1489600:dir] Fatty acid and phospholipid metabolism; Degradation; acetyl-CoA C-acyltransferase
+	[1489597:1490136:dir] Fatty acid and phospholipid metabolism; Degradation; conserved protein associated with acetyl-CoA C-acyltransferase
+	[1490133:1490564:dir] Fatty acid and phospholipid metabolism; Degradation; conserved protein associated with acetyl-CoA C-acyltransferase
+	[1490561:1491703:dir] Fatty acid and phospholipid metabolism; Degradation; acyl-CoA dehydrogenase
+<END>
+<GI> AE009441 AE009746-AE009946:9 <COORDINATES> 1529036-1552764 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.909785; n0_4mer:D = 33.354613; n0_4mer:PS = 37.595931
+	[1529036:1530424:dir] Central intermediary metabolism; Sulfur metabolism; adenylylsulfate reductase alpha subunit part 1, authentic frameshift
+	[1530431:1530919:dir] Central intermediary metabolism; Sulfur metabolism; adenylylsulfate reductase alpha subunit part 2, authentic frameshift
+	[1531015:1531518:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1531527:1531862:rev] Central intermediary metabolism; Sulfur metabolism; siroheme-sulfite reductase gamma subunit homolog
+	[1531993:1532343:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1532344:1532610:rev] Central intermediary metabolism; Sulfur metabolism; glutathione-S-transferase homolog
+	[1532817:1533965:rev] Central intermediary metabolism; Sulfur metabolism; sulfite reductase beta subunit
+	[1533962:1535209:rev] Central intermediary metabolism; Sulfur metabolism; sulfite reductase alpha subunit
+	[1535352:1536011:rev] Biosynthesis of cofactors, prosthetic groups, and carriers; Heme, porphyrin and cobalamin; uroporphyrin-III C-methyltransferase
+	[1536116:1536370:rev] Hypothetical; hypothetical protein
+	[1536367:1537170:rev] Central intermediary metabolism; Sulfur metabolism; phosphoadenosine phosphosulfate reductase (PAPS reductase)
+	[1537172:1537783:rev] Hypothetical; hypothetical protein
+	[1537780:1539384:rev] Energy metabolism; Electron transport; ferredoxin-nitrite reductase
+	[1539494:1540360:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1540457:1540723:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1540714:1541409:dir] Central intermediary metabolism; Sulfur metabolism; thiosulfate sulfurtransferase
+	[1541596:1541847:dir] Hypothetical; Conserved; paREP1
+	[1542038:1543165:rev] Biosynthesis of cofactors, prosthetic groups, and carriers; Heme, porphyrin and cobalamin; cobyrinic acid a,c-diamide synthase (cbiA) part 2, authentic frameshift
+	[1543249:1543347:rev] Biosynthesis of cofactors, prosthetic groups, and carriers; Heme, porphyrin and cobalamin; cobyrinic acid a,c-diamide synthase (cbiA) part 1, authentic frameshift
+	[1543397:1543975:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1544052:1544444:rev] Hypothetical; hypothetical protein
+	[1544486:1545193:dir] Biosynthesis of cofactors, prosthetic groups, and carriers; Heme, porphyrin and cobalamin; uroporphyrinogen-III synthase (hemD), conjectural
+	[1545137:1545958:rev] Biosynthesis of cofactors, prosthetic groups, and carriers; Heme, porphyrin and cobalamin; uroporphyrinogen-III synthase (hemD), conjectural
+	[1546018:1547262:dir] Central intermediary metabolism; Sulfur metabolism; sulfite reductase alpha subunit
+	[1547259:1548374:dir] Central intermediary metabolism; Sulfur metabolism; sulfite reductase beta subunit
+	[1548376:1548861:dir] Hypothetical; hypothetical protein
+	[1549001:1549696:dir] Hypothetical; hypothetical protein
+	[1549674:1550096:rev] Hypothetical; hypothetical protein
+	[1550093:1550320:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1550445:1550696:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1550693:1552399:dir] Unclassified; conserved protein with C terminal acylphosphatase domain
+	[1552396:1552764:dir] Hypothetical; Conserved; conserved hypothetical protein
+<END>
+<GI> AE009441 AE009746-AE009946:10 <COORDINATES> 1827570-1849228 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.674930; n0_4mer:D = 35.090386; n0_4mer:PS = 29.858489
+	[1827570:1828589:dir] Hypothetical; Conserved within genome; P. aerophilum family 1964 protein
+	[1828651:1828728:rev] tRNA-Lys
+	[1828771:1828959:dir] Hypothetical; hypothetical protein
+	[1829177:1829890:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1829929:1830282:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1830313:1830513:dir] Hypothetical; hypothetical protein
+	[1830510:1831409:rev] Energy metabolism; Amino acids and amines; asparaginase
+	[1831406:1831885:rev] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein S4
+	[1831917:1832375:rev] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein S13
+	[1832404:1833819:rev] Transport and binding proteins; Amino acids, peptides and amines; oligopeptide ABC transporter, permease protein
+	[1833816:1834886:rev] Transport and binding proteins; Amino acids, peptides and amines; oligopeptide ABC transporter, permease protein
+	[1834936:1837530:rev] Transport and binding proteins; Amino acids, peptides and amines; oligopeptide binding protein, putative
+	[1837776:1838930:rev] Cell envelope; Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides; pullulanase
+	[1839009:1839080:rev] tRNA-Ala
+	[1839545:1840672:rev] Protein synthesis; tRNA aminoacylation; tryptophanyl-tRNA synthetase
+	[1840707:1841369:rev] DNA metabolism; DNA replication, recombination, and repair; DNA-(apurinic or apyrimidinic site) lyase, conjectural
+	[1841444:1842208:rev] Biosynthesis of cofactors, prosthetic groups, and carriers; Molybdopterin; molybdenum cofactor biosynthesis protein (moaA)
+	[1842418:1842693:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein L31
+	[1842693:1843355:dir] Protein synthesis; Translation factors; translation initiation factor aIF-6
+	[1843412:1843648:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein LX
+	[1843650:1844048:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1844048:1844965:dir] Protein fate; Protein and peptide secretion and trafficking; signal recognition particle protein (docking protein), probable
+	[1844995:1845294:dir] Hypothetical; hypothetical protein
+	[1845296:1845757:dir] Transcription; Transcription factors; transcription antitermination protein nusG, putative
+	[1845793:1846296:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein L11
+	[1846293:1846961:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; ribosomal protein L1
+	[1847001:1848038:dir] Protein synthesis; Ribosomal proteins: synthesis and modification; acidic ribosomal protein P0 (L10E)
+	[1848054:1848998:dir] Fatty acid and phospholipid metabolism; Biosynthesis; mevalonate kinase
+	[1848995:1849228:dir] Hypothetical; hypothetical protein
+<END>
+<GI> AE009441 AE009746-AE009946:11 <COORDINATES> 1899907-1922099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.370252; n0_4mer:D = 32.441634; n0_4mer:PS = 30.436107
+	[1899907:1900284:dir] Hypothetical; Conserved within genome; paREP9, associated with SRSRs
+	[1900588:1901244:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1901244:1902008:dir] Hypothetical; hypothetical protein
+	[1901965:1902636:rev] Hypothetical; Conserved; conserved hypothetical protein
+	[1902668:1902841:rev] Hypothetical; Conserved; paREP4
+	[1902925:1903014:dir] Hypothetical; hypothetical protein
+	[1903036:1903455:dir] Cellular processes; Adaptations to atypical conditions; possible heat shock protein, htpX homolog part 1, authentic frameshift
+	[1903367:1903951:dir] Cellular processes; Adaptations to atypical conditions; possible heat shock protein, htpX homolog part 2, authentic frameshift
+	[1904041:1904119:dir] tRNA-Gly
+	[1904252:1905253:dir] Hypothetical; hypothetical protein
+	[1905244:1907256:rev] Hypothetical; hypothetical protein
+	[1907253:1911080:rev] Unclassified; ATP-dependant helicase, probable
+	[1911260:1911952:rev] DNA metabolism; DNA replication, recombination, and repair; U/G & T/G mismatch specific glycosylase (Pa-MIG)
+	[1911993:1913024:dir] DNA metabolism; DNA replication, recombination, and repair; conserved protein
+	[1913015:1914406:rev] DNA metabolism; DNA replication, recombination, and repair; C-5 cytosine-specific DNA methylase
+	[1914869:1915129:dir] Hypothetical; hypothetical protein
+	[1915250:1916245:dir] Hypothetical; hypothetical protein
+	[1916232:1917500:dir] Hypothetical; hypothetical protein
+	[1917475:1918131:dir] Hypothetical; hypothetical protein
+	[1918181:1918636:dir] Hypothetical; Conserved; paREP8
+	[1918759:1919223:dir] Hypothetical; Conserved; paREP8
+	[1919555:1921105:dir] Unclassified; helix-turn-helix protein
+	[1921102:1921944:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[1921952:1922044:rev] Hypothetical; hypothetical protein
+<END>
+<GI> AE009441 AE009746-AE009946:12 <COORDINATES> 2111500-2135426 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.161906; n0_4mer:D = 33.966136; n0_4mer:PS = 17.439193
+	[2111502:2112275:dir] Hypothetical; Conserved within genome; conserved within P. aerophilum
+	[2112298:2113047:dir] Cellular processes; Adaptations to atypical conditions; surE stationary-phase survival protein homolog
+	[2113177:2113521:dir] Hypothetical; hypothetical protein
+	[2113530:2114735:dir] Hypothetical; hypothetical protein
+	[2114757:2115638:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[2116048:2116950:rev] Hypothetical; Conserved within genome; paREP12, internal deletion
+	[2117092:2118300:rev] Hypothetical; hypothetical protein
+	[2118384:2119985:rev] Hypothetical; hypothetical protein
+	[2120034:2120825:rev] Hypothetical; hypothetical protein
+	[2121046:2121861:rev] Hypothetical; hypothetical protein
+	[2121970:2122689:rev] Hypothetical; hypothetical protein
+	[2122854:2123009:rev] Hypothetical; hypothetical protein
+	[2123333:2123773:dir] Hypothetical; hypothetical protein
+	[2124131:2125225:dir] Hypothetical; Conserved within genome; paREP2b
+	[2125232:2127118:dir] Hypothetical; Conserved within genome; paREP2b
+	[2127179:2127547:dir] Hypothetical; hypothetical protein
+	[2127576:2128466:dir] Cellular processes; Adaptations to atypical conditions; heat shock protein, htpX homolog, conjectural
+	[2128450:2128833:dir] Hypothetical; hypothetical protein
+	[2128919:2129365:rev] Hypothetical; hypothetical protein
+	[2129551:2130276:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[2130268:2131341:rev] Purines, pyrimidines, nucleosides, and nucleotides; Sugar-nucleotide biosynthesis and conversions; mannose-1-phosphate guanyltransferase
+	[2131349:2132044:rev] Hypothetical; hypothetical protein
+	[2132119:2132325:dir] Hypothetical; hypothetical protein
+	[2132355:2132807:dir] Unclassified; HIT family protein
+	[2132804:2133847:dir] Hypothetical; hypothetical protein
+	[2133853:2134185:dir] Hypothetical; Conserved; conserved hypothetical protein
+	[2134271:2134846:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit E' (rpoE1)
+	[2134843:2135064:dir] Transcription; DNA-dependent RNA polymerase; DNA-directed RNA polymerase subunit E'' (rpoE2)
+	[2135037:2135426:rev] Hypothetical; hypothetical protein
+<END>

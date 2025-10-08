@@ -1,0 +1,556 @@
+<GI> LT158599:1 <COORDINATES> 379500-401509 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.036497; n0_4mer:D = 34.526994; n0_4mer:PS = 27.694536
+	[379551:379721:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[379809:380945:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[380950:381150:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[381114:381392:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[381355:381636:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[381669:382154:dir] ygaF; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative peroxiredoxin YgaF
+	[382163:382819:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[382903:383082:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[383266:383469:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[383339:383590:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[384501:384623:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[384673:385314:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[385289:385660:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[385498:385722:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[385761:386948:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[387170:387358:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[387482:387754:rev] Plasmid stabilization system protein
+	[387751:388077:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[388189:388326:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[388550:388861:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[388938:390002:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[390429:391208:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[391441:391523:rev] tRNA-Leu
+	[391567:392409:rev] bah; Acetyl-hydrolase
+	[392414:396277:rev] polC; DNA polymerase II large subunit
+	[396418:397014:rev] Heat repeat-containing PBS lyase
+	[396932:397378:rev] Heat repeat-containing PBS lyase (fragment)
+	[397183:398136:rev] Heat repeat-containing PBS lyase (fragment)
+	[398189:398539:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative intracellular protease (fragment)
+	[398526:398729:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[398819:399346:dir] yloB; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 12161109; Product type t : transporter;fragment of P-type calcium transport ATPase (part 1)
+	[399445:400116:dir] yloB; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 12161109; Product type t : transporter;fragment of P-type calcium transport ATPase (part 2)
+	[399860:401509:dir] yloB; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 12161109; Product type t : transporter;fragment of P-type calcium transport ATPase (part 3)
+<END>
+<GI> LT158599:2 <COORDINATES> 565951-588352 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.552102; n0_4mer:D = 32.262324; n0_4mer:PS = 43.415497
+	[565951:569394:dir] smc; Chromosome partition protein smc homolog
+	[569387:570130:dir] scpA; Segregation and condensation protein A
+	[570449:570565:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[571304:571471:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[571626:573087:dir] ribosomal RNA 16S ribosomal RNA
+	[573158:573230:dir] tRNA-Ala
+	[573236:573310:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[573335:576259:dir] ribosomal RNA 23S ribosomal RNA
+	[576371:576442:dir] tRNA-Cys
+	[576469:576590:dir] ribosomal RNA 5S ribosomal RNA
+	[576848:577003:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[577008:577253:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[577386:578480:dir] Evidence 5 : No homology to any previously reported sequences; membrane protein of unknown function
+	[578315:578503:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[578500:578799:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative iron chelatin transport ATP-binding protein HP_0888 (fragment)
+	[578799:579302:dir] ABC transporter related protein (fragment)
+	[579413:580609:dir] Periplasmic binding protein
+	[580622:581461:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[581335:581511:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[581936:582787:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[582784:582963:rev] transposase (fragment)
+	[582812:583267:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[583482:583985:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[584351:584830:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[584677:585228:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[586580:588352:rev] Formylmethanofuran dehydrogenase, subunit B / formylmethanofuran dehydrogenase, subunit D
+<END>
+<GI> LT158599:3 <COORDINATES> 676179-712572 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.052192; n0_4mer:D = 31.059298; n0_4mer:PS = 26.139071
+	[676179:680729:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative adenine-specific methylase MJECS02
+	[680726:682039:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[682036:682653:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[682656:683495:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[683590:685365:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[685402:686523:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[686793:689741:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[689860:690693:rev] Methanoculleus bourgensis MS2 complete genome
+	[690787:691569:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[691864:697224:dir] DEAD/DEAH box helicase domain protein
+	[697228:697398:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[697428:699005:rev] Heat repeat-containing PBS lyase
+	[699343:699597:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[699584:700618:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[700634:700840:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[701058:702854:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[702926:703150:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[703202:703552:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[703512:703853:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[703585:703764:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[704156:705676:dir] Transglutaminase domain-containing protein
+	[705736:706098:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[705795:706007:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[706715:708946:dir] recQ; ATP-dependent DNA helicase RecQ
+	[709069:711192:rev] ATP-dependent helicase Lhr and Lhr-like helicase
+	[711262:712572:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+<END>
+<GI> LT158599:4 <COORDINATES> 847538-896308 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.721648; n0_4mer:D = 37.627817; n0_4mer:PS = 30.266446
+	[847538:848044:rev] Nicotinamide-nucleotide adenylyltransferase
+	[848041:848814:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[848862:849032:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[848915:849193:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[849255:849623:dir] hisS; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme;fragment of histidyl tRNA synthetase (part 1)
+	[849620:850240:dir] Histidine--tRNA ligase (fragment)
+	[850331:850513:dir] hisS; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme;fragment of histidyl tRNA synthetase (part 2)
+	[850500:852302:dir] top6B; Type 2 DNA topoisomerase 6 subunit B
+	[852310:853383:dir] top6A; Type II DNA topoisomerase VI subunit A
+	[853722:854054:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[854609:854809:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[854806:855465:dir] Evidence 5 : No homology to any previously reported sequences; membrane protein of unknown function
+	[855790:856416:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[856392:856886:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[857018:857401:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[857519:859060:dir] Xenobiotic-transporting ATPase
+	[859043:859897:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[859298:860422:dir] Hydroxylamine reductase (fragment)
+	[861209:861463:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[861493:861810:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[861776:862018:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[862246:863835:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[864186:864446:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[864391:865587:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[865694:865855:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[865998:867287:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[867551:867910:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[867997:869613:dir] hcp; Hydroxylamine reductase
+	[869807:870151:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[870144:870560:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[870717:871496:rev] Cyclase family protein (modular protein)
+	[871469:872146:rev] HAD-superfamily hydrolase, subfamily IA, variant 1
+	[872527:873582:dir] gmd; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 10673432, 14299611, 7815923, 8759852, 9257704; Product type e : enzyme; GDP-D-mannose dehydratase, NAD(P)-binding
+	[873567:874646:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[874643:875581:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative GDP-L-fucose synthase 1
+	[875370:875804:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[875882:876514:dir] Acetyltransferase (Isoleucine patch superfamily)
+	[877020:877850:dir] Glycosyltransferase-like protein
+	[877949:878869:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative nucleoside-diphosphate-sugar epimerase protein
+	[878866:880041:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative glycosyl transferase
+	[880242:880520:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[880897:882216:dir] Glycosyl transferase family 2
+	[882206:882592:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[882552:882911:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[882972:883280:rev] transposase (fragment)
+	[883406:883765:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[883981:884607:rev] Glycosyl transferase, group 1 (fragment)
+	[884787:885134:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[885134:885799:rev] PHP C-terminal domain protein
+	[885780:886931:rev] ATP-grasp enzyme-like protein
+	[886928:888328:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[888970:890100:rev] wbpH; Glycosyl transferase group 1
+	[890389:891213:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[890846:891469:dir] Glycosyl transferase, group 1 (fragment)
+	[891474:892088:rev] Amylovoran biosynthesis AmsK (fragment)
+	[891992:892753:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[892790:893785:rev] Glycosyl transferase family 2
+	[893816:894370:rev] UDP-N-acetylglucosamine 2-epimerase homolog (fragment)
+	[894370:894873:rev] UDP-N-acetylglucosamine 2-epimerase homolog (fragment)
+	[894879:895133:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[895013:896308:rev] UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase
+<END>
+<GI> LT158599:5 <COORDINATES> 989979-1016396 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.355383; n0_4mer:D = 34.718604; n0_4mer:PS = 26.800399
+	[989979:991718:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative membrane protein
+	[991895:992035:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[992324:992581:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[992582:992824:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[992927:993151:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[993460:994881:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative transcriptional regulator, GntR family
+	[994748:994832:dir] tRNA-Leu
+	[994941:995336:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[995473:995670:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[995667:997103:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative transcriptional regulator
+	[997100:997756:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[997768:998751:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[999042:999434:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[999404:999643:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1000005:1000766:rev] Alpha/beta fold family hydrolase
+	[1000777:1000905:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1001046:1001273:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1001713:1002216:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1002555:1002731:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1002688:1002957:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1002979:1003338:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1003215:1003499:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1003575:1004588:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1004796:1004993:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1005094:1005642:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1005672:1006316:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1006569:1006880:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1006867:1007214:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1007326:1007442:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1007444:1008802:rev] ATPase (AAA+ superfamily)-like protein (fragment)
+	[1008706:1010409:rev] ATPase (AAA+ superfamily)-like protein (fragment)
+	[1010422:1010646:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1011137:1011448:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1011375:1011485:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1011758:1012009:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1012049:1012789:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1012950:1013156:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1013290:1013583:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1013580:1016396:rev] Type III restriction enzyme, res subunit
+<END>
+<GI> LT158599:6 <COORDINATES> 1020951-1052135 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.408170; n0_4mer:D = 35.261403; n0_4mer:PS = 31.709566
+	[1020951:1022897:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative transcriptional regulator
+	[1023070:1024761:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1024734:1025474:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1025815:1026000:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1026049:1027206:dir] transposase
+	[1027889:1028338:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1028525:1029439:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1029444:1029872:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1029886:1030185:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1030237:1030329:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1030363:1030437:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1030475:1031365:dir] Type I restriction modification enzyme, subunit M (fragment)
+	[1031329:1032897:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1032894:1033697:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative transcriptional regulator
+	[1033730:1034647:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1034649:1035602:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1035599:1038640:dir] Type I restriction enzyme
+	[1038624:1039196:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1039080:1039289:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1039196:1039987:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1039980:1040432:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1040567:1040821:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1041108:1041665:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1041785:1044511:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1044720:1044926:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1045222:1045686:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1045726:1047018:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1046679:1047806:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1047793:1050288:rev] PglZ domain protein
+	[1050285:1052135:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+<END>
+<GI> LT158599:7 <COORDINATES> 1139917-1159099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.692969; n0_4mer:D = 31.154905; n0_4mer:PS = 26.206841
+	[1139917:1140987:rev] atz; Hydrolase
+	[1140984:1141664:rev] mtaP; 5'-deoxy-5'-methylthioadenosine phosphorylase
+	[1141811:1142302:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Putative nicotinate phosphoribosyltransferase (fragment)
+	[1142241:1142939:dir] Quinolinate phosphoribosyl transferase (fragment)
+	[1142998:1143069:dir] tRNA-Ala
+	[1143588:1143761:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1144127:1145128:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1145098:1145922:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1145917:1146210:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1146203:1146439:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1146455:1146781:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1146932:1147060:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1147137:1148333:dir] ATPase
+	[1148317:1150017:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative transcriptional regulator
+	[1150357:1150575:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1150631:1150843:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1151032:1151373:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1151363:1151893:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1151895:1152230:dir] PemK-like protein
+	[1152167:1152604:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1152662:1152970:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1152967:1153179:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1153364:1153690:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1153764:1154018:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1154175:1155284:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[1155349:1155663:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1155759:1156751:rev] Periplasmic protein (fragment)
+	[1156782:1156934:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[1157151:1157510:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1157721:1158041:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1158290:1158790:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1158765:1159040:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1158992:1159064:rev] tRNA-Gln
+<END>
+<GI> LT158599:8 <COORDINATES> 1680533-1705050 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.255781; n0_4mer:D = 32.506301; n0_4mer:PS = 32.725058
+	[1680533:1681141:rev] Xylose isomerase domain protein TIM barrel (fragment)
+	[1681138:1681356:rev] Xylose isomerase domain protein TIM barrel (fragment)
+	[1681349:1682173:rev] Xylose isomerase domain protein TIM barrel
+	[1682198:1682638:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1682868:1682943:rev] tRNA-Gln
+	[1682996:1683721:rev] thyA; Thymidylate synthase
+	[1684167:1686482:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[1686504:1686800:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1687185:1687367:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1688082:1689116:rev] Evidence 5 : No homology to any previously reported sequences; membrane protein of unknown function
+	[1689158:1689352:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1689604:1689750:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1689765:1689959:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1689983:1690294:dir] GCN5-related N-acetyltransferase (fragment)
+	[1690855:1691025:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1691267:1691794:rev] ATP-dependent DNA helicase RecG (fragment)
+	[1692049:1693140:rev] transposase
+	[1693169:1693522:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1693556:1693759:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1694008:1694148:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1694242:1695558:dir] Filamentation induced by cAMP protein Fic
+	[1695627:1695836:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1696185:1696349:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1696477:1696737:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1696833:1697123:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1697204:1697506:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1697723:1698367:dir] Acylphosphatase-like protein
+	[1698885:1700408:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative thymidine phosphorylase
+	[1700448:1701848:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[1701969:1702190:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1702114:1705050:dir] von Willebrand factor, type A
+<END>
+<GI> LT158599:9 <COORDINATES> 1837877-1869062 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.185674; n0_4mer:D = 30.860003; n0_4mer:PS = 33.798784
+	[1837877:1839334:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[1839767:1840189:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1840361:1840549:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1840482:1841705:rev] Glycosyltransferase
+	[1841702:1842781:rev] capA; Capsule biosynthesis protein capA
+	[1842980:1843153:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1843638:1844099:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1844086:1844649:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1844882:1845091:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1845437:1845655:dir] wbpI; UDP-N-acetylglucosamine 2-epimerase
+	[1845670:1846611:dir] dTDP-glucose 4,6-dehydratase
+	[1846621:1847556:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative Methyltransferase type 11
+	[1847707:1848708:dir] NAD-dependent epimerase/dehydratase
+	[1848718:1849893:dir] Glycosyl transferase group 1
+	[1850304:1850355:dir] snoPyro_CD
+	[1850563:1850763:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1850733:1852229:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[1852296:1853441:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1853556:1854683:rev] pseC; DegT/DnrJ/EryC1/StrS aminotransferase
+	[1854863:1855819:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative UDP-glucose 4-epimerase
+	[1855816:1856946:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative capsular polysaccharide biosynthesis glycosyl transferase
+	[1857534:1857710:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1857824:1857889:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1858105:1860105:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[1860319:1861935:dir] transposase
+	[1861951:1862271:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[1862337:1862744:rev] Asparagine synthase (Glutamine-hydrolysing)
+	[1862741:1864021:rev] Asparagine synthase (Glutamine-hydrolysing) (modular protein)
+	[1864307:1865326:rev] Polysaccharide biosynthesis protein (fragment)
+	[1865323:1865781:rev] Polysaccharide biosynthesis protein (fragment)
+	[1865924:1867813:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[1867800:1869062:rev] rfaG; Glycosyltransferase
+<END>
+<GI> LT158599:10 <COORDINATES> 2035090-2053585 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.082666; n0_4mer:D = 29.119042; n0_4mer:PS = 29.284931
+	[2035090:2035803:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2035785:2036438:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[2036492:2038240:dir] pycB; Pyruvate carboxylase subunit B
+	[2038265:2039740:dir] accC; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 10821865, 11157970, 1370469, 1682920, 7915138, 8246839, 9298646; Product type e : enzyme; acetyl-CoA carboxylase, biotin carboxylase subunit
+	[2039813:2039923:dir] Pseudo tRNA
+	[2039824:2039889:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2039987:2041216:dir] Integrase family protein
+	[2041216:2041617:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2041723:2042157:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2042231:2042974:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2042971:2044146:rev] NHL repeat containing protein (fragment)
+	[2044765:2044851:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2044799:2045173:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2045437:2045592:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2045501:2046196:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2046336:2047952:rev] transposase
+	[2048035:2048757:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2048652:2048879:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2049034:2049588:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2049678:2049761:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2049780:2050070:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2050275:2050394:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2050486:2051526:rev] fic; Fic protein
+	[2051587:2051850:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2051847:2051993:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2052159:2052635:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2052707:2053027:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2053017:2053376:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2053373:2053585:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+<END>
+<GI> LT158599:11 <COORDINATES> 2167599-2213214 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.788056; n0_4mer:D = 29.576564; n0_4mer:PS = 28.529902
+	[2167599:2169182:rev] ATP-dependent DNA helicase, component of RuvABC resolvasome (modular protein)
+	[2169188:2169682:rev] ruvC; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 10851230, 1657895, 1758493, 7923356, 9442895, 9973614; Product type cp : cell process; component of RuvABC resolvasome, endonuclease
+	[2169654:2169890:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2169980:2170363:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2170078:2170149:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2170350:2171432:dir] degT; Pleiotropic regulatory protein
+	[2171433:2172347:dir] mviM; Oxidoreductase domain-containing protein
+	[2172752:2172964:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2173014:2173424:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2173590:2174990:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2175132:2176829:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[2176733:2176954:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2177206:2177586:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2177711:2177911:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2177918:2178655:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2178766:2178954:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2179039:2181444:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2181514:2181852:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2182050:2182883:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2182858:2183538:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2183747:2184040:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2184253:2184438:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2184464:2184838:dir] UDP-glucose 4-epimerase
+	[2185542:2185721:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2185715:2186008:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2186103:2186624:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2187295:2188401:dir] Polysaccharide biosynthesis protein (fragment)
+	[2188413:2189351:rev] Ornithine cyclodeaminase
+	[2189397:2191208:rev] Histidinol-phosphate aminotransferase, HisC
+	[2191242:2191931:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2191928:2192107:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2192209:2192421:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2192582:2192833:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2193305:2193544:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2193624:2194214:dir] yfbE; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 12704196; Product type e : enzyme;fragment of uridine 5'-(beta-1-threo-pentapyranosyl-4-ulose diphosphate) aminotransferase, PLP-dependent (part 1)
+	[2194192:2194701:dir] yfbE; Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; PubMedId : 12704196; Product type e : enzyme;fragment of uridine 5'-(beta-1-threo-pentapyranosyl-4-ulose diphosphate) aminotransferase, PLP-dependent (part 2)
+	[2194707:2195621:dir] mviM; Oxidoreductase domain-containing protein
+	[2195618:2196643:dir] UDP-N-acetylglucosamine 2-epimerase homolog
+	[2196880:2197824:rev] Evidence 5 : No homology to any previously reported sequences; membrane protein of unknown function
+	[2198279:2198341:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2198752:2198937:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2199394:2199645:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2199648:2200076:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2200264:2200428:rev] Acylphosphatase (fragment)
+	[2200445:2200792:rev] Acylphosphatase (modular protein)
+	[2200959:2201183:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2201343:2202650:dir] UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase (fragment)
+	[2202518:2202787:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2202802:2202873:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2203009:2203830:rev] Polysaccharide biosynthesis protein (fragment)
+	[2204103:2204498:rev] Polysaccharide biosynthesis protein (fragment)
+	[2204549:2204905:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2204945:2205148:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2205200:2205448:dir] transposase (fragment)
+	[2205694:2206029:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2206077:2207036:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2207039:2207758:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2208099:2208272:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2208232:2208390:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2208356:2208580:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2208922:2209674:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2209890:2210060:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2210428:2213214:rev] Evidence 5 : No homology to any previously reported sequences; membrane protein of unknown function
+<END>
+<GI> LT158599:12 <COORDINATES> 2265294-2291861 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.693321; n0_4mer:D = 36.170802; n0_4mer:PS = 33.617352
+	[2265294:2267513:dir] Methanoculleus bourgensis MS2 complete genome (fragment)
+	[2267375:2267764:dir] Cell surface protein (fragment)
+	[2267932:2269947:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2269692:2270258:rev] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[2270288:2270383:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2270561:2270743:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2270831:2271046:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[2270979:2271932:dir] Carbohydrate binding family 6 (modular protein)
+	[2272449:2276066:dir] Evidence 5 : No homology to any previously reported sequences; exported protein of unknown function
+	[2276117:2278684:dir] Methanoculleus bourgensis MS2 complete genome (fragment)
+	[2278731:2280197:dir] Methanoculleus bourgensis MS2 complete genome (fragment)
+	[2280465:2281652:dir] Carbohydrate binding family 6 (fragment)
+	[2281805:2284459:dir] Carbohydrate binding family 6 (fragment)
+	[2284733:2285506:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[2285940:2291861:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+<END>
+<GI> LT158599:13 <COORDINATES> 2639000-2662262 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.508149; n0_4mer:D = 31.432393; n0_4mer:PS = 34.722730
+	[2639215:2640684:rev] rnb; Exoribonuclease II
+	[2640857:2641414:rev] Methyltransferase type 12 (fragment)
+	[2641372:2641695:rev] Methyltransferase type 12 (fragment)
+	[2641816:2642517:dir] Evidence 5 : No homology to any previously reported sequences; membrane protein of unknown function
+	[2642653:2642934:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2643034:2644398:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2644408:2644680:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2644696:2645076:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2645129:2645620:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2645937:2646353:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2646331:2647848:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2648222:2648761:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2648979:2649524:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2649703:2649762:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2649785:2650069:rev] NADPH-dependent FMN reductase (modular protein)
+	[2650243:2650647:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2650848:2651603:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[2651697:2652002:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2652229:2652933:dir] aroK; Shikimate kinase
+	[2653374:2653637:rev] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Putative HTH-type transcriptional regulator ytfH (fragment)
+	[2653852:2654025:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2654140:2654433:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2654472:2655788:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2655913:2656581:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2656527:2657072:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2657159:2657755:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved exported protein of unknown function
+	[2657800:2659164:rev] cobB; Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; putative cobyrinic acid A,C-diamide synthase
+	[2659266:2659535:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Putative cobalt transport protein CbiM 1 (fragment)
+	[2659607:2659957:dir] Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Putative cobalt transport protein CbiM 1 (fragment)
+	[2659954:2660244:dir] cbiN; Cobalt transport protein CbiN
+	[2660289:2661065:dir] cbiQ; Cobalt/nickel transport system permease protein
+	[2661062:2662246:dir] ecfA; Energy-coupling factor transporter ATP-binding protein EcfA 2
+	[2662140:2662262:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+<END>
+<GI> LT158599:14 <COORDINATES> 2667950-2713916 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.790297; n0_4mer:D = 39.337229; n0_4mer:PS = 29.601402
+	[2667950:2668186:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2668186:2668662:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved membrane protein of unknown function
+	[2668990:2669094:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2669486:2669584:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2669722:2672187:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2672184:2674589:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2674616:2675644:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2675657:2677147:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2677290:2678975:dir] cas4-cas; CRISPR-associated protein Cas4/endonuclease Cas1 fusion
+	[2678977:2679276:dir] cas; CRISPR-associated endoribonuclease Cas2
+	[2679103:2679186:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2679294:2679470:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2679476:2679739:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2680139:2680465:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2680327:2680539:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2680549:2680686:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2680647:2680757:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2680658:2680879:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2680934:2681062:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2681202:2681393:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2681437:2681508:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2681501:2681614:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2681662:2681982:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2681976:2682149:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2682086:2682370:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2682268:2682810:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2682633:2683031:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2683003:2683200:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2683221:2683760:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2683703:2683978:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2684431:2684535:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2684435:2684662:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2684672:2684773:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2684745:2684972:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2684800:2685195:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2685116:2685340:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2685261:2685509:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2685461:2685667:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2685547:2685756:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2685702:2685983:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2685850:2686035:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2686039:2686224:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2686218:2686442:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2686501:2686737:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2686712:2686882:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2686949:2687269:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2687167:2687499:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2687390:2687644:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2687665:2687991:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2687985:2688335:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2688058:2688384:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2688332:2688520:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2688787:2689176:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2688849:2689685:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2689721:2689861:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2689851:2690096:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2690103:2690159:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2690218:2690547:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2690705:2690866:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2690896:2691690:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2691333:2693438:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2693889:2694242:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2694217:2694519:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2694818:2695030:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2695017:2695247:dir] YcfA-like protein
+	[2695292:2696584:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2696562:2700521:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2700635:2704159:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2704224:2707421:rev] Helicase domain protein
+	[2707631:2708089:dir] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2708238:2708486:dir] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2708847:2709218:rev] recG; ATP-dependent DNA helicase RecG
+	[2709234:2709797:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2709790:2711814:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2711615:2712097:rev] Evidence 5 : No homology to any previously reported sequences; protein of unknown function
+	[2711920:2712030:rev] Evidence 4 : Homologs of previously reported genes of unknown function; conserved protein of unknown function
+	[2712510:2713916:rev] Hydroxyacylglutathione hydrolase
+<END>

@@ -1,0 +1,212 @@
+<GI> CR936257:1 <COORDINATES> 206474-226969 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.578947; n0_4mer:D = 27.427043; n0_4mer:PS = 27.335851
+	[206474:207430:dir] uncharacterized protein
+	[207489:207881:dir] uncharacterized protein
+	[207878:208606:rev] cre1; creatininase domain protein
+	[208685:209218:rev] rpl16; 50S ribosomal protein L16
+	[209283:210242:rev] Abi/CAAX domain protein
+	[210747:210822:rev] tRNACys; anticodon GCA; tRNA-Cys
+	[210946:211068:rev] rRNA5S; 5S ribosomal RNA
+	[211174:214083:rev] rRNA23S; 23S ribosomal RNA
+	[214296:214367:rev] tRNAAla2; anticodon TGC; tRNA-Ala
+	[214463:215929:rev] rRNA16S; 16S ribosomal RNA
+	[216903:217220:rev] nonhistone chromosomal protein
+	[217453:217650:dir] uncharacterized protein
+	[217862:218914:dir] pyrD; dihydroorotate dehydrogenase (quinone)
+	[218911:219303:rev] uncharacterized protein
+	[219329:220165:rev] uncharacterized protein
+	[220252:220551:dir] uncharacterized protein
+	[220651:221733:dir] gcvT2; homolog to glycine cleavage system protein T
+	[221788:223041:dir] parA3; ParA domain protein
+	[223048:225351:rev] probable coiled-coil protein
+	[225419:226969:rev] trpS; tryptophan--tRNA ligase
+<END>
+<GI> CR936257:2 <COORDINATES> 930357-959410 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.590918; n0_4mer:D = 34.082851; n0_4mer:PS = 32.279612
+	[930357:933419:rev] sensor box histidine kinase
+	[933466:934881:rev] sensor box histidine kinase
+	[935297:936223:dir] aglG; glycosyltransferase AglG
+	[936333:937472:rev] phosphatase domain protein
+	[937614:938861:dir] glycosyl/glycerophosphate transferase (homolog to polyglycerol phosphate polymerase)
+	[938930:940063:dir] gth4; probable glycosyltransferase, type 1
+	[940146:940634:dir] uncharacterized protein
+	[940725:941126:dir] uncharacterized protein
+	[941335:942399:rev] gth5; probable glycosyltransferase, type 1
+	[942502:943122:dir] probable S-adenosylmethionine-dependent methyltransferase
+	[943126:943857:dir] uncharacterized protein
+	[944010:945380:dir] rtcB2; homolog to tRNA-splicing ligase RtcB
+	[945492:945851:rev] product: uncharacterized protein (nonfunctional)
+	[945854:946856:dir] 
+	[945944:946828:dir] ISH4-type transposase ISNph2
+	[946857:947201:rev] gene truncated at the C-terminus; product: uncharacterized protein (nonfunctional)
+	[947242:947788:dir] 
+	[947300:947629:dir] gene truncated at the N-terminus; product: ISH3-type transposase NpIRS4 (nonfunctional)
+	[948016:949449:dir] aglR; probable flippase AglR
+	[949767:952883:dir] ATP-grasp fold protein
+	[952885:953565:dir] peptidase C26 family protein
+	[953667:954431:dir] sugar nucleotidyltransferase domain protein
+	[954452:954507:dir] 
+	[954656:955195:rev] locus_tag: NP_1954A; gene has in-frame stop codons and is truncated at the C-terminus; conceptual translation after in silico reconstruction: MLSNSVDTDTAKRSLVETYDPPNYDDPWDAVEDYERVQRYTAKHPQQGSQAVSTAVDL PRGRIRSWVDGDGMPDCYRCLQTALENGWILNGWEDDTARSMTTLAATLASGSINEHW TPTWVTDGDDEADALRHHADRANVVIEQAREAEDDRPAEWRPAESASVLGRELYTLGH RGDK; product: uncharacterized protein (nonfunctional)
+	[955219:955698:rev] pilA1; pilin PilA
+	[955781:955987:rev] uncharacterized protein
+	[955996:956214:rev] uncharacterized protein
+	[956395:956469:rev] tRNAIle; anticodon GAT; tRNA-Ile
+	[956544:957158:rev] fxsA; FxsA domain protein
+	[957282:958802:dir] gpmI; phosphoglycerate mutase, 2,3-biphosphateglycerate-independent type
+	[958799:959410:dir] alpha/beta hydrolase fold protein
+<END>
+<GI> CR936257:3 <COORDINATES> 1135625-1157277 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.015342; n0_4mer:D = 27.379621; n0_4mer:PS = 32.347119
+	[1135625:1137430:dir] homolog to virus structural protein HRPV2-VP5
+	[1137433:1137522:dir] uncharacterized protein
+	[1137543:1138940:dir] uncharacterized protein
+	[1138933:1140036:dir] homolog to virus protein HRPV1-VP8
+	[1140033:1140275:dir] uncharacterized protein
+	[1140272:1141009:dir] uncharacterized protein
+	[1141169:1141822:dir] resolvase
+	[1141994:1142851:dir] mutH; homolog to DNA mismatch repair protein MutH
+	[1142848:1144455:rev] site-specific DNA-methyltransferase
+	[1144721:1146400:rev] uncharacterized protein
+	[1146697:1146999:rev] homolog to phage PhiH1 repressor protein
+	[1147011:1147334:rev] homolog to phage PhiH1 repressor protein
+	[1147545:1147901:dir] PadR family transcription regulator
+	[1147898:1148236:dir] uncharacterized protein
+	[1148306:1148560:dir] small CPxCG-related zinc finger protein
+	[1148557:1149645:dir] XerC/D-like integrase
+	[1149822:1150256:dir] uncharacterized protein
+	[1150253:1150510:rev] uncharacterized protein
+	[1150596:1151882:dir] CobW domain protein
+	[1151883:1152095:dir] uncharacterized protein
+	[1152135:1152860:rev] UspA domain protein
+	[1152857:1154233:rev] cat8; transport protein (probable substrate cationic amino acids)
+	[1154303:1156087:rev] glmS2; glutamine--fructose-6-phosphate aminotransferase (isomerizing)
+	[1156087:1157277:rev] graD5; sugar nucleotidyltransferase
+<END>
+<GI> CR936257:4 <COORDINATES> 1558804-1590459 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.122096; n0_4mer:D = 33.241784; n0_4mer:PS = 31.742046
+	[1558804:1560093:rev] HEAT-PBS family protein
+	[1560117:1560812:rev] assA; probable archaetidylserine synthase
+	[1560908:1561327:dir] hcp6; halocyanin
+	[1561335:1562379:rev] locus_tag: NP_3236A; gene has been targetted by a mobile genetic element; conceptual translation after in silico reconstruction: MPSLEIEYHSHDSVTEVVARLQYCLESISRTFDEWESPRAEGPGL YFAVIADRGYGDYADPMGDYRWPTETCPTVYDEAALLDASWQVGMDADGAVVVGVDGH IEPQLVRFRNPAFVATEEIAYENWMGARHVSSALETSLRPEVVATVTLSGKNGRVSVF RDGKMDTASRDELGEPWRA; product: uncharacterized protein (nonfunctional)
+	[1561475:1561983:dir] imperfect repeat at plasmid PL23 integration point
+	[1562790:1563854:rev] XerC/D-like integrase
+	[1563851:1564057:rev] uncharacterized protein
+	[1564047:1564316:rev] uncharacterized protein
+	[1564313:1564552:rev] uncharacterized protein
+	[1564552:1564743:rev] uncharacterized protein
+	[1564743:1565009:rev] uncharacterized protein
+	[1565006:1565131:rev] uncharacterized protein
+	[1565678:1565986:dir] homolog to phage PhiH1 repressor protein
+	[1566035:1566664:dir] probable HNH-type endonuclease
+	[1566657:1567661:rev] orc4; Orc1-type DNA replication protein
+	[1568311:1568958:rev] csm6; CRISPR-associated DNA-binding protein Csm6
+	[1569096:1569968:dir] cas6; CRISPR-associated endoribonuclease Cas6
+	[1569968:1573039:dir] cas10d; CRISPR-associated protein Cas10d
+	[1573042:1574031:dir] cas7; CRISPR-associated protein Cas7
+	[1574040:1574783:dir] csc1; CRISPR-associated protein Csc1
+	[1574776:1576926:dir] cas3; CRISPR-associated helicase Cas3
+	[1576923:1577540:dir] cas4; CRISPR-associated exonuclease Cas4
+	[1577537:1578532:dir] cas1; CRISPR-associated endonuclease Cas1
+	[1578529:1578807:dir] cas2; CRISPR-associated endonuclease Cas2
+	[1579968:1580228:dir] uncharacterized protein
+	[1580245:1580281:dir] 
+	[1580988:1581233:rev] UPF0395 family protein
+	[1581235:1581489:rev] uncharacterized protein
+	[1581761:1582669:rev] uncharacterized protein
+	[1582672:1583184:rev] uncharacterized protein
+	[1583174:1583494:rev] uncharacterized protein
+	[1583544:1583864:dir] uncharacterized protein
+	[1583868:1584194:dir] uncharacterized protein
+	[1584248:1584451:dir] uncharacterized protein
+	[1584457:1584777:dir] uncharacterized protein
+	[1584770:1585405:dir] uncharacterized protein
+	[1585402:1585719:dir] uncharacterized protein
+	[1585712:1586692:dir] uncharacterized protein
+	[1586694:1586924:dir] uncharacterized protein
+	[1586926:1587183:dir] uncharacterized protein
+	[1587180:1587293:dir] uncharacterized protein
+	[1587286:1587972:dir] uncharacterized protein
+	[1588014:1589714:dir] uncharacterized protein
+	[1589711:1590118:dir] uncharacterized protein
+	[1590115:1590459:dir] uncharacterized protein
+<END>
+<GI> CR936257:5 <COORDINATES> 1840670-1883201 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.944895; n0_4mer:D = 33.622854; n0_4mer:PS = 31.052840
+	[1840670:1841707:rev] flavin-containing amine-oxidoreductase
+	[1841763:1841909:rev] uncharacterized protein
+	[1842100:1842170:rev] tRNAGly3; anticodon CCC; tRNA-Gly
+	[1842299:1843126:dir] nadE1; NAD synthase, ammonia-dependent
+	[1843127:1843825:rev] fadA8; enoyl-CoA hydratase
+	[1843932:1844597:dir] uncharacterized protein
+	[1844679:1844750:dir] tRNAThr2; anticodon GGT; tRNA-Thr
+	[1844890:1845315:dir] uncharacterized protein
+	[1845312:1845884:dir] uncharacterized protein
+	[1846150:1847256:dir] uncharacterized protein
+	[1847253:1848146:dir] uncharacterized protein
+	[1848148:1850160:rev] SWIM zinc finger domain protein
+	[1850341:1850676:dir] uncharacterized protein
+	[1850832:1852241:dir] rad25b; DNA repair helicase Rad25
+	[1852228:1853580:dir] DUF790 family protein
+	[1853656:1854810:rev] uncharacterized protein
+	[1855097:1855249:dir] small CPxCG-related zinc finger protein
+	[1855246:1855398:dir] small CPxCG-related zinc finger protein
+	[1855419:1856387:rev] DUF2800 family protein
+	[1856607:1857662:rev] uncharacterized protein
+	[1857659:1858150:rev] uncharacterized protein
+	[1858248:1858691:rev] HD family hydrolase
+	[1858919:1859332:dir] uncharacterized protein
+	[1859558:1862644:rev] probable helicase
+	[1862712:1862933:rev] uncharacterized protein
+	[1862933:1865815:rev] UvrD/REP family helicase
+	[1865808:1868396:rev] uncharacterized protein
+	[1868552:1871428:dir] ATP-dependent helicase
+	[1871431:1875459:dir] probable restriction/modification enzyme
+	[1875459:1880762:dir] DEAD/DEAH box helicase
+	[1880863:1881780:dir] probable ADP-ribosylglycohydrolase
+	[1881876:1883201:dir] probable phosphoesterase
+<END>
+<GI> CR936257:6 <COORDINATES> 2248202-2276599 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.084977; n0_4mer:D = 30.069174; n0_4mer:PS = 29.484915
+	[2248202:2251351:rev] probable secreted glycoprotein
+	[2251830:2255801:rev] probable secreted glycoprotein
+	[2256112:2256365:dir] 
+	[2256169:2256267:dir] gene truncated at the N-terminus; product: IS1341-type transposase NpIRS11 (nonfunctional)
+	[2256714:2258441:rev] S8 family serine protease
+	[2258499:2258590:rev] this is the 3' part of a targetted element
+	[2258515:2260846:rev] gene has been targetted by a transposon and is truncated at the N-terminus; locus_tag: NP_4636A; product: IS1341-type transposase NpIRS09 (nonfunctional)
+	[2258591:2260615:dir] 
+	[2258655:2259104:rev] IS200-type transposase ISNph7
+	[2259164:2259298:dir] uncharacterized protein
+	[2259295:2260599:dir] IS1341-type transposase ISNph7
+	[2260613:2260846:rev] this is the 5' part of a targetted element
+	[2260846:2261542:dir] 
+	[2260899:2261534:dir] ISH14-type transposase ISNph1
+	[2261564:2262076:dir] 
+	[2261802:2262071:dir] gene truncated at the N-terminus; product: IS1341-type transposase NpIRS10 (nonfunctional)
+	[2262134:2264728:dir] DUF4129 domain protein
+	[2264738:2265427:dir] uncharacterized protein
+	[2265408:2266778:dir] DUF11/DUF58 family protein
+	[2266778:2268397:dir] uncharacterized protein
+	[2268420:2269388:rev] AAA-type ATPase (MoxR subfamily)
+	[2269446:2269585:dir] 
+	[2269865:2271019:dir] graD1; sugar nucleotidyltransferase
+	[2271022:2272833:dir] glmS1; glutamine--fructose-6-phosphate aminotransferase (isomerizing)
+	[2272889:2274082:dir] graD2; sugar nucleotidyltransferase
+	[2274107:2275045:rev] aglJ1; dolichyl-phosphate hexosyltransferase AglJ
+	[2275141:2276460:rev] pmm1; phosphohexomutase (phosphoglucomutase / phosphomannomutase)
+	[2276518:2276554:rev] 
+<END>
+<GI> CR936257:7 <COORDINATES> 2588791-2623599 <STAT> n1_4mer:GRV/n1_4mer:RV = 8.853925; n0_4mer:D = 40.444127; n0_4mer:PS = 0.930686
+	[2588791:2589105:rev] homolog to phage PhiH1 repressor protein
+	[2589298:2589615:dir] uncharacterized protein
+	[2589615:2589773:dir] uncharacterized protein
+	[2589770:2590819:dir] XerC/D-like integrase
+	[2591048:2591671:dir] flavin reductase domain protein
+	[2591668:2592873:dir] peptidase M20 family protein (homolog to carboxypeptidase)
+	[2592870:2593877:dir] uncharacterized protein
+	[2594096:2594488:dir] uncharacterized protein
+	[2594496:2595212:dir] alpha/beta hydrolase fold protein
+<END>
+<GI> CR936257:8 <COORDINATES> 2628500-2747599 <STAT> n1_4mer:GRV/n1_4mer:RV = 7.423277; n0_4mer:D = 35.928307; n0_4mer:PS = 9.685707
+
+<END>
+<GI> CR936257:9 <COORDINATES> 2766000-2788599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.738623; n0_4mer:D = 28.369789; n0_4mer:PS = 19.320610
+
+<END>
+<GI> CR936257:10 <COORDINATES> 2817500-2857999 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.774611; n0_4mer:D = 29.306863; n0_4mer:PS = 25.128819
+
+<END>

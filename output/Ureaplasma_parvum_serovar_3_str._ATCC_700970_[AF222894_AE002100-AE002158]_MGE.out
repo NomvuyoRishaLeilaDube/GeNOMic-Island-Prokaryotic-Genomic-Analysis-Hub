@@ -1,0 +1,158 @@
+<GI> AF222894 AE002100-AE002158:1 <COORDINATES> 40000-63327 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.560735; n0_4mer:D = 12.758390; n0_4mer:PS = 21.531246
+	[40330:41721:dir] conserved hypothetical
+	[41797:43641:dir] gidA; glucose inhibited division protein
+	[43700:44344:dir] gidB; glucose inhibited division protein B
+	[44367:44729:dir] conserved hypothetical
+	[44729:45145:dir] unique hypothetical
+	[45312:47828:dir] conserved hypothetical membrane lipoprotein
+	[47851:50199:dir] unique hypothetical
+	[50230:52734:dir] conserved hypothetical membrane lipoprotein
+	[52771:55146:dir] unique hypothetical
+	[55161:57764:dir] conserved hypothetical ATP/GTP-binding protein
+	[57794:59284:dir] unique hypothetical
+	[59271:59786:dir] unique hypothetical
+	[59789:60703:dir] unique hypothetical
+	[60660:61172:dir] unique hypothetical
+	[61162:63327:dir] unique hypothetical
+<END>
+<GI> AF222894 AE002100-AE002158:2 <COORDINATES> 138334-163772 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.932346; n0_4mer:D = 18.072975; n0_4mer:PS = 27.867062
+	[138334:139341:dir] potB; spermidine/putrescine transport system permease
+	[139328:140182:dir] potC; spermidine/putrescine transport system permease
+	[140186:142222:dir] conserved hypothetical membrane lipoprotein
+	[142320:142922:dir] unique hypothetical
+	[142985:144112:dir] unique hypothetical
+	[144136:145083:dir] sfhB; pseudouridine synthase (uracil hydrolase)
+	[145338:146803:dir] rRNA_16S-1; 16S ribosomal RNA
+	[147151:150053:dir] rRNA_23S-1; 23S ribosomal RNA
+	[150125:150234:dir] rRNA_5S-1; 5S ribosomal RNA
+	[150369:150839:dir] folA; dihyrofolate reductase
+	[150787:151527:dir] gph; phosphoglycolate phosphatase
+	[151584:151657:dir] tRNA-gly1; tRNA-Gly
+	[151722:152345:rev] upp; uracil phosphoribosyltransferase
+	[152470:152570:rev] srp; 4.5S signal recognition particle
+	[152590:153837:rev] tyrS; tyrosyl tRNA synthetase
+	[153976:154878:dir] ABC-1; ABC Transporter
+	[154895:157408:dir] secA; preprotein translocase
+	[157411:159411:dir] uvrB; excinuclease ABC subunit B
+	[159495:161516:dir] lig; DNA ligase
+	[161867:162448:dir] conserved hypothetical
+	[162462:163772:dir] cysS; cysteinyl-tRNA synthetase
+<END>
+<GI> AF222894 AE002100-AE002158:3 <COORDINATES> 219257-244829 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.419243; n0_4mer:D = 13.940905; n0_4mer:PS = 21.994153
+	[219257:220765:dir] pgm; phosphoglycerate mutase
+	[220812:221687:dir] unique hypothetical
+	[221790:223112:dir] eno; enolase
+	[223081:224046:dir] pfkA; 6-phosphofructokinase
+	[224058:225482:dir] pyk; pyruvate kinase
+	[225605:229909:dir] rpoB; DNA-directed RNA polymerase beta subunit
+	[229931:233848:dir] rpoC; DNA-directed RNA polymerase beta' chain
+	[233971:234492:dir] MBA N-terminal paralog
+	[234566:235216:rev] conserved hypothetical
+	[235285:235422:rev] unique hypothetical
+	[235567:236160:dir] conserved hypothetical
+	[236180:237172:dir] prsA; phosphoribosylpyrophosphate synthetase
+	[237179:237718:dir] conserved hypothetical
+	[237722:238561:dir] conserved hypothetical
+	[238563:239789:dir] conserved hypothetical ATP/GTP-binding protein
+	[239809:241374:dir] metS; methionyl-tRNA synthetase
+	[241462:242634:dir] conserved hypothetical
+	[242634:244829:dir] pstA; phosphate transport system permease
+<END>
+<GI> AF222894 AE002100-AE002158:4 <COORDINATES> 268049-297366 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.848923; n0_4mer:D = 17.415346; n0_4mer:PS = 24.746939
+	[268049:270328:dir] xasA; amino acid antiporter
+	[270506:271654:dir] unique hypothetical membrane lipoprotein
+	[271711:272028:dir] unique hypothetical membrane lipoprotein
+	[272143:272481:dir] unique hypothetical membrane lipoprotein
+	[272632:274209:dir] conserved hypothetical membrane lipoprotein
+	[274434:274970:dir] infC; translation initiation factor IF3
+	[274985:275179:dir] rpL35; ribosomal protein L35
+	[275234:275596:dir] rpL20; ribosomal protein L20
+	[275815:276120:dir] rpS10; ribosomal protein S10
+	[276145:276846:dir] rpL3; ribosomal protein L3
+	[276857:277492:dir] rpL4; ribosomal protein L4
+	[277495:277812:dir] rpL23; ribosomal protein L23
+	[277866:278705:dir] rpL2; ribosomal protein L2
+	[278726:278992:dir] rpS19; ribosomal protein S19
+	[279014:279949:dir] rpL22; ribosomal protein L22
+	[279969:280742:dir] rpS3; ribosomal protein S3
+	[280757:281173:dir] rpL16; ribosomal protein L16
+	[281173:281400:dir] rpL29; ribosomal protein L29
+	[281400:281654:dir] rpS17; ribosomal protein S17
+	[281674:282042:dir] rpL14; ribosomal protein L14
+	[282057:282389:dir] rpL24; ribosomal protein L24
+	[282406:282960:dir] rpL5; ribosomal protein L5
+	[282964:283149:dir] rpS14; ribosomal protein S14
+	[283160:283558:dir] rpS8; ribosomal protein S8
+	[283567:284115:dir] rpL6; ribosomal protein L6
+	[284134:284499:dir] rpL18; ribosomal protein L18
+	[284517:285128:dir] rpS5; ribosomal protein S5
+	[285145:285591:dir] rpL15; ribosomal protein L15
+	[285644:287059:dir] secY; preprotein translocase
+	[287068:287709:dir] adk; adenylate kinase
+	[287734:288483:dir] map; methionine aminopeptidase (map)
+	[288511:288735:dir] infA; translation initiation factor IF-1
+	[288759:288872:dir] rpL36; ribosomal protein L36
+	[288897:289295:dir] rpS13; ribosomal protein S13
+	[289317:289682:dir] rpS11; ribosomal protein S11
+	[289719:290702:dir] rpoA; DNA-directed RNA polymerase alpha chain
+	[290730:291089:dir] rpL17; ribosomal protein L17
+	[291356:293221:dir] unique hypothetical
+	[293228:294523:dir] unique hypothetical membrane lipoprotein
+	[294590:294997:dir] unique hypothetical
+	[294987:295574:dir] conserved hypothetical
+	[295582:297366:rev] unique hypothetical membrane lipoprotein
+<END>
+<GI> AF222894 AE002100-AE002158:5 <COORDINATES> 333303-364642 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.603633; n0_4mer:D = 18.149506; n0_4mer:PS = 28.770760
+	[333303:337646:dir] unique hypothetical
+	[338037:338642:dir] unique hypothetical
+	[338652:339362:dir] conserved hypothetical
+	[339329:340069:dir] unique hypothetical
+	[340066:340578:rev] conserved hypothetical
+	[340721:341287:dir] efp; translation elongation factor P
+	[341290:341592:dir] unique hypothetical
+	[341595:341978:dir] nusB; transcription termination factor
+	[341984:342688:dir] conserved hypothetical
+	[342715:343077:dir] unique hypothetical
+	[343161:343661:dir] unique hypothetical
+	[343924:345389:dir] rRNA_16S-2; 16S ribosomal RNA
+	[345737:348639:dir] rRNA_23S-2; 23S ribosomal RNA
+	[348711:348821:dir] rRNA_5S-2; 5S ribosomal RNA
+	[348924:349394:dir] greA; transcription elongation factor
+	[349474:349557:dir] tRNA-tyr; tRNA-Tyr
+	[349563:349637:dir] tRNA-gln; tRNA-Gln
+	[349705:349779:dir] tRNA-lys1; tRNA-Lys
+	[349840:349925:dir] tRNA-leu1; tRNA-Leu
+	[349929:350002:dir] tRNA-gly2; tRNA-Gly
+	[350065:350832:dir] conserved hypothetical
+	[350885:351796:dir] nfo; endonuclease IV
+	[352030:352980:rev] conserved hypothetical ATP/GTP-binding protein
+	[352983:354128:rev] conserved hypothetical
+	[354465:355025:dir] unique hypothetical
+	[355093:355347:rev] rpS20; ribosomal protein S20
+	[355537:355853:dir] rnpB; ribonuclease P
+	[355936:356376:rev] ard1; N-acetyltransferase complex, probable ribosomal protein-alanine-acetyltransferase subunit
+	[356354:356929:rev] conserved hypothetical
+	[356922:357821:rev] rluD; pseudouridine synthase (uracil hydrolase)
+	[357824:358615:rev] lspA; conserved hypothetical protein (possible signal peptidase II - lspA)
+	[358615:359160:rev] ppa; inorganic pyrophosphatase
+	[359326:359706:dir] unique hypothetical
+	[359915:364642:dir] conserved hypothetical
+<END>
+<GI> AF222894 AE002100-AE002158:6 <COORDINATES> 643446-664096 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.558331; n0_4mer:D = 17.258431; n0_4mer:PS = 25.731920
+	[643446:645281:rev] unique hypothetical
+	[645311:647146:rev] pepF-2; oligoendopeptidase F - zinc metalloprotease
+	[647241:648425:rev] tuf; translation elongation factor tu (EF-tu)
+	[648562:650628:rev] fusA; translation elongation factor G
+	[650655:651122:rev] rpS7; ribosomal protein S7
+	[651150:651575:rev] rpS12; ribosomal protein S12
+	[651761:653272:rev] MBA N-terminal paralog
+	[653483:656398:rev] conserved hypothetical
+	[656402:657301:rev] dcm; cytosine-specific methyltransferase
+	[657864:658619:dir] codV; integrase-recombinase protein
+	[658749:660407:rev] cpsG; phosphomannomutase
+	[660442:660837:rev] cdd; cytidine deaminase
+	[660962:661037:rev] tRNA-trp2; tRNA-Trp
+	[661048:662121:rev] pepP; XAA-PRO aminopeptidase
+	[662132:662293:rev] rpL33; ribosomal protein L33
+	[662354:664096:rev] thrS; threonyl-tRNA synthetase
+<END>

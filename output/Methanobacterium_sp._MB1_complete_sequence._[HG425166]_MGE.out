@@ -1,0 +1,470 @@
+<GI> HG425166:1 <COORDINATES> 90905-112209 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.603131; n0_4mer:D = 26.089038; n0_4mer:PS = 9.269443
+	[90905:91423:rev] High confidence in function and specificity; hypothetical protein
+	[91494:93071:rev] lysS; High confidence in function and specificity; Lysine-tRNA ligase
+	[93144:94442:rev] thiC1; High confidence in function and specificity; Phosphomethylpyrimidine synthase 1
+	[94735:95649:rev] High confidence in function and specificity; putative sugar kinase MTH_1544
+	[96027:97448:dir] Family membership; hypothetical protein
+	[97563:98876:rev] Family membership; hypothetical protein
+	[99552:100238:rev] Family membership; hypothetical protein
+	[100252:101148:rev] hypothetical protein
+	[101328:101501:rev] Family membership; hypothetical protein
+	[101779:102657:rev] High confidence in function and specificity; LysR family transcriptional regulator
+	[102801:103406:dir] High confidence in function and specificity; 6-phospho 3-hexuloisomerase
+	[103523:104263:rev] High confidence in function and specificity; Protein fdhD
+	[104370:104708:rev] Family membership; hypothetical protein
+	[105133:106332:rev] fdhB; High confidence in function and specificity; Formate dehydrogenase subunit beta
+	[106329:108383:rev] fdhA; High confidence in function and specificity; Formate dehydrogenase subunit alpha
+	[108614:109456:rev] fdhC; High confidence in function and specificity; putative formate transporter
+	[110324:110569:rev] Family membership; hypothetical protein
+	[111286:112209:rev] moaA; High confidence in function and specificity; putative cyclic pyranopterin monophosphate synthase
+<END>
+<GI> HG425166:2 <COORDINATES> 222593-242069 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.719984; n0_4mer:D = 28.840894; n0_4mer:PS = 47.845336
+	[222593:223807:dir] pgk; High confidence in function and specificity; Phosphoglycerate kinase
+	[224067:224143:dir] tRNA-Thr
+	[224218:224292:dir] tRNA-Pro
+	[224333:224406:dir] tRNA-Tyr
+	[224578:224649:dir] tRNA-Asp
+	[224657:224730:dir] tRNA-Lys
+	[224755:224991:dir] hypothetical protein
+	[225181:226671:dir] rpoB2; High confidence in function and specificity; DNA-directed RNA polymerase subunit B''
+	[226733:228544:dir] rpoB1; High confidence in function and specificity; DNA-directed RNA polymerase subunit B'
+	[228584:231199:dir] rpoA1; High confidence in function and specificity; DNA-directed RNA polymerase subunit A'
+	[231263:232414:dir] rpoA2; High confidence in function and specificity; DNA-directed RNA polymerase subunit A''
+	[232426:232722:dir] Family membership; hypothetical protein
+	[232727:233158:dir] High confidence in function and specificity; NusA family KH domain-containing protein
+	[233273:233698:dir] rps12; High confidence in function and specificity; 30S ribosomal protein S12
+	[233712:234275:dir] rps7; High confidence in function and specificity; 30S ribosomal protein S7
+	[234331:236505:dir] fusA; High confidence in function and specificity; Elongation factor 2
+	[236733:237974:dir] tuf; High confidence in function and specificity; Elongation factor 1-alpha
+	[238060:238368:dir] rps10; High confidence in function and specificity; 30S ribosomal protein S10
+	[238559:238643:dir] tRNA-Ser
+	[238824:239360:rev] mtrA2; High confidence in function and specificity; Tetrahydromethanopterin S-methyltransferase subunit A 2
+	[239649:240284:dir] High confidence in function and specificity; transcriptional regulator-like protein
+	[240687:242069:dir] High confidence in function and specificity; MATE efflux family protein
+<END>
+<GI> HG425166:3 <COORDINATES> 354026-382416 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.340750; n0_4mer:D = 29.474068; n0_4mer:PS = 20.319839
+	[354026:354625:dir] High confidence in function and specificity; PyrE-like protein
+	[354777:356006:rev] prf1; High confidence in function and specificity; Peptide chain release factor subunit 1
+	[358021:358212:rev] hypothetical protein
+	[360360:360461:rev] hypothetical protein
+	[361904:362167:rev] Family membership; hypothetical protein
+	[362171:363136:rev] cas1-1; High confidence in function and specificity; CRISPR-associated protein Cas1 1
+	[363157:363675:rev] High confidence in function and specificity; hypothetical protein
+	[363836:366265:rev] cas3; High confidence in function and specificity; putative CRISPR-associated nuclease/helicase Cas3
+	[366391:366684:rev] Family membership; hypothetical protein
+	[366681:367331:rev] High confidence in function and specificity; CRISPR-associated protein Cas5
+	[367337:368275:rev] High confidence in function and specificity; CRISPR-associated regulatory protein, DevR family
+	[368268:369785:rev] High confidence in function and specificity; hypothetical protein
+	[369800:370546:rev] High confidence in function and specificity; CRISPR-associated protein Cas6
+	[370701:371699:rev] Family membership; hypothetical protein
+	[372273:372953:dir] pyrH; High confidence in function and specificity; Uridylate kinase
+	[373034:373234:dir] Family membership; hypothetical protein
+	[373519:373845:dir] High confidence in function and specificity; hypothetical protein
+	[373977:374807:dir] High confidence in function and specificity; hypothetical protein
+	[374827:375480:rev] Family membership; hypothetical protein
+	[375470:376162:rev] Family membership; hypothetical protein
+	[376364:376882:rev] High confidence in function and specificity; hypothetical protein
+	[377257:377736:dir] Hypothetical protein; putative membrane protein
+	[377818:378669:rev] Family membership; hypothetical protein
+	[379336:380190:dir] High confidence in function and specificity; metallophosphoesterase
+	[380293:382416:dir] High confidence in function and specificity; hypothetical protein
+<END>
+<GI> HG425166:4 <COORDINATES> 421724-444968 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.517987; n0_4mer:D = 25.091196; n0_4mer:PS = 39.097332
+	[421724:422779:dir] High confidence in function and specificity; putative hydrogenase expression/formation protein MJ0993
+	[422853:423518:dir] High confidence in function and specificity; Phosphoglycolate phosphatase
+	[423515:424819:dir] High confidence in function and specificity; peptidase U62 modulator of DNA gyrase
+	[424958:425197:dir] hypothetical protein
+	[425265:426008:rev] High confidence in function and specificity; carboxymethylenebutenolidase-like protein
+	[426296:427054:dir] Family membership; hypothetical protein
+	[427277:428560:rev] High confidence in function and specificity; putative protein MTH_1684
+	[428627:431341:rev] alaS; High confidence in function and specificity; Alanine-tRNA ligase
+	[431572:431880:rev] hypothetical protein
+	[431976:432980:rev] rplP0; High confidence in function and specificity; Acidic ribosomal protein P0 homolog
+	[432981:433619:rev] rpl1p; High confidence in function and specificity; 50S ribosomal protein L1P
+	[433746:434234:rev] rpl11p; High confidence in function and specificity; 50S ribosomal protein L11P
+	[434234:434677:rev] High confidence in function and specificity; NusG antitermination factor
+	[434701:434889:rev] Family membership; hypothetical protein
+	[435080:436228:rev] ftsZ; High confidence in function and specificity; Cell division protein FtsZ
+	[436459:437022:rev] High confidence in function and specificity; putative protein MJ0504
+	[437336:438112:dir] comA; High confidence in function and specificity; Phosphosulfolactate synthase
+	[438109:438888:dir] High confidence in function and specificity; putative ABC transporter ATP-binding protein MJ0121
+	[439157:439858:dir] High confidence in function and specificity; putative protein MJ0120
+	[439884:440570:dir] High confidence in function and specificity; putative protein MJ0119
+	[440619:441512:dir] High confidence in function and specificity; hypothetical protein
+	[441861:442346:dir] High confidence in function and specificity; transcription factor E
+	[442469:442987:dir] High confidence in function and specificity; metal dependent phosphohydrolase
+	[443201:443839:dir] High confidence in function and specificity; TfuA-like core domain-containing protein
+	[443901:444968:dir] High confidence in function and specificity; hypothetical protein
+<END>
+<GI> HG425166:5 <COORDINATES> 454033-495797 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.760239; n0_4mer:D = 26.199611; n0_4mer:PS = 19.861869
+	[454033:456558:dir] yloB; High confidence in function and specificity; Calcium-transporting ATPase
+	[456668:457513:dir] cbiJ; High confidence in function and specificity; putative cobalt-precorrin-6A reductase
+	[457903:459711:rev] hypothetical protein
+	[459720:460868:rev] High confidence in function and specificity; restriction modification system DNA specificity domain protein
+	[460850:461146:rev] Family membership; hypothetical protein
+	[461182:462726:rev] High confidence in function and specificity; type I restriction-modification system, M subunit
+	[462800:465502:rev] hsdR; High confidence in function and specificity; Type-1 restriction enzyme R protein
+	[465519:466433:rev] High confidence in function and specificity; putative protein HI_1375
+	[466746:467051:rev] Hypothetical protein; putative membrane protein
+	[467128:467955:rev] Family membership; hypothetical protein
+	[467986:468651:rev] Family membership; hypothetical protein
+	[468666:469067:rev] Family membership; hypothetical protein
+	[469078:469410:rev] Family membership; hypothetical protein
+	[469418:469711:rev] Family membership; hypothetical protein
+	[469798:470079:rev] Hypothetical protein; putative membrane protein
+	[470055:470510:rev] Family membership; hypothetical protein
+	[470581:471336:rev] Family membership; hypothetical protein
+	[471336:471494:rev] Hypothetical protein; putative membrane protein
+	[471955:472113:rev] Family membership; hypothetical protein
+	[472133:472759:rev] High confidence in function and specificity; hypothetical protein
+	[472756:473364:rev] High confidence in function and specificity; hypothetical protein
+	[473506:473910:dir] High confidence in function and specificity; putative nickel-responsive regulator 2
+	[473960:474091:dir] Hypothetical protein; putative membrane protein
+	[474303:475088:rev] High confidence in function and specificity; hypothetical protein
+	[475384:475962:dir] Family membership; hypothetical protein
+	[476010:476177:dir] Hypothetical protein; putative membrane protein
+	[477271:477918:rev] Family membership; hypothetical protein
+	[477956:479455:rev] High confidence in function and specificity; RNA-metabolising metallo-beta-lactamase
+	[479639:480340:dir] Hypothetical protein; putative membrane protein
+	[480380:481546:rev] High confidence in function and specificity; hypothetical protein
+	[481543:481941:rev] hypothetical protein
+	[481929:484085:rev] High confidence in function and specificity; hypothetical protein
+	[484108:484233:rev] hypothetical protein
+	[484239:484367:rev] Family membership; hypothetical protein
+	[484497:485591:dir] High confidence in function and specificity; DNA methylase N-4/N-6 domain protein
+	[485593:486501:rev] hypothetical protein
+	[486502:487380:rev] High confidence in function and specificity; type II restriction-modification system, restriction enzyme
+	[487390:488328:rev] mjaIIIM1; High confidence in function and specificity; Modification methylase MjaIII
+	[488554:489753:rev] High confidence in function and specificity; integrase family protein
+	[489843:491075:rev] pan; High confidence in function and specificity; Proteasome-activating nucleotidase
+	[491310:491783:dir] High confidence in function and specificity; XRE family transcriptional regulator
+	[492045:492419:rev] hypothetical protein
+	[492423:493691:rev] High confidence in function and specificity; hypothetical protein
+	[493735:494169:rev] High confidence in function and specificity; hypothetical protein
+	[494238:495797:rev] High confidence in function and specificity; UDP-N-acetylmuramoyl-L-alanine-D- glutamateligase
+<END>
+<GI> HG425166:6 <COORDINATES> 524414-547099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.661328; n0_4mer:D = 26.433719; n0_4mer:PS = 46.649409
+	[524414:525079:rev] lolD; High confidence in function and specificity; Lipoprotein-releasing system ATP-binding protein LolD
+	[525072:526184:rev] High confidence in function and specificity; ABC-type transport system, permease protein
+	[526347:526667:dir] High confidence in function and specificity; hypothetical protein
+	[527166:527615:dir] Family membership; hypothetical protein
+	[527691:529103:dir] High confidence in function and specificity; MATE efflux family protein
+	[529341:529886:dir] rpl15e; High confidence in function and specificity; 50S ribosomal protein L15e
+	[529886:530308:dir] High confidence in function and specificity; hypothetical protein
+	[530309:531040:dir] rnp3; High confidence in function and specificity; Ribonuclease P protein component 3
+	[531086:531463:dir] hypothetical protein
+	[531550:532305:dir] psmA; High confidence in function and specificity; Proteasome subunit alpha
+	[532309:533004:dir] High confidence in function and specificity; Ribosome maturation protein SDO1 homolog
+	[533033:533764:dir] High confidence in function and specificity; putative exosome complex RNA-binding protein 1
+	[533768:534520:dir] High confidence in function and specificity; putative exosome complex exonuclease 1
+	[534522:535328:dir] High confidence in function and specificity; putative exosome complex exonuclease 2
+	[535458:535727:dir] Family membership; hypothetical protein
+	[535728:535859:dir] Family membership; hypothetical protein
+	[535898:536401:dir] Family membership; hypothetical protein
+	[536391:536645:dir] hypothetical protein
+	[536712:537071:dir] hypothetical protein
+	[537105:537383:dir] Family membership; hypothetical protein
+	[537492:537728:rev] hypothetical protein
+	[538003:538380:dir] Family membership; hypothetical protein
+	[538586:538960:dir] Family membership; hypothetical protein
+	[539093:541468:dir] lon; High confidence in function and specificity; Lon protease
+	[541649:542545:dir] Family membership; hypothetical protein
+	[542677:543477:rev] High confidence in function and specificity; metallophosphoesterase
+	[543717:544718:rev] ecfA; High confidence in function and specificity; Energy-coupling factor transporter ATP-binding protein EcfA
+	[544749:545534:rev] cbiQ1; High confidence in function and specificity; cobalt transport protein
+	[545608:545910:rev] Family membership; hypothetical protein
+	[545907:546551:rev] High confidence in function and specificity; cobalamin (vitamin b12) biosynthesis cbim protein
+	[546798:547037:rev] Family membership; hypothetical protein
+<END>
+<GI> HG425166:7 <COORDINATES> 740888-777771 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.799342; n0_4mer:D = 29.283949; n0_4mer:PS = 49.005640
+	[740888:742234:rev] Family membership; hypothetical protein
+	[742453:743427:rev] High confidence in function and specificity; biotin-(acetyl-CoA carboxylase) ligase
+	[743516:745006:rev] pycA; High confidence in function and specificity; Pyruvate carboxylase subunit A
+	[745211:745834:dir] High confidence in function and specificity; ribosomal L11 methyltransferase
+	[746065:746886:dir] High confidence in function and specificity; hypothetical protein
+	[747133:748143:dir] rpl3p; High confidence in function and specificity; 50S ribosomal protein L3P
+	[748163:748951:dir] rpl4p; High confidence in function and specificity; 50S ribosomal protein L4P
+	[748961:749221:dir] Family membership; hypothetical protein
+	[749235:749960:dir] rpl2p; High confidence in function and specificity; 50S ribosomal protein L2P
+	[750050:750460:dir] rps19; High confidence in function and specificity; 30S ribosomal protein S19
+	[750473:750937:dir] rpl22p; High confidence in function and specificity; 50S ribosomal protein L22P
+	[750934:751908:dir] rps3; High confidence in function and specificity; 30S ribosomal protein S3
+	[751956:752162:dir] Family membership; hypothetical protein
+	[752168:752473:dir] High confidence in function and specificity; translation factor SUi1-like protein
+	[752698:752982:dir] Family membership; hypothetical protein
+	[752987:753310:dir] High confidence in function and specificity; 30S ribosomal protein S17
+	[753307:753705:dir] rpl14p; High confidence in function and specificity; 50S ribosomal protein L14P
+	[753714:754067:dir] High confidence in function and specificity; 50S ribosomal protein L24
+	[754069:754794:dir] rps4e; High confidence in function and specificity; 30S ribosomal protein S4e
+	[754796:755317:dir] rpl5p; High confidence in function and specificity; 50S ribosomal protein L5P
+	[755481:755873:dir] rps8; High confidence in function and specificity; 30S ribosomal protein S8
+	[755883:756416:dir] rpl6p; High confidence in function and specificity; 50S ribosomal protein L6P
+	[756422:756748:dir] High confidence in function and specificity; 50S ribosomal protein L32
+	[757028:757474:dir] rpl19e; High confidence in function and specificity; 50S ribosomal protein L19e
+	[757491:758072:dir] rpl18p; High confidence in function and specificity; 50S ribosomal protein L18P
+	[758072:758719:dir] rps5; High confidence in function and specificity; 30S ribosomal protein S5
+	[758730:759182:dir] rpl30p; High confidence in function and specificity; 50S ribosomal protein L30P
+	[759247:759684:dir] rpl15p; High confidence in function and specificity; 50S ribosomal protein L15P
+	[759725:761068:dir] secY; High confidence in function and specificity; Protein translocase subunit SecY
+	[761069:761626:dir] adkA; High confidence in function and specificity; Adenylate kinase
+	[761766:762335:dir] High confidence in function and specificity; hypothetical protein
+	[762401:762685:dir] Family membership; hypothetical protein
+	[762699:763229:dir] cmk; High confidence in function and specificity; Cytidylate kinase
+	[763217:763444:dir] Family membership; hypothetical protein
+	[763482:764444:dir] truB; High confidence in function and specificity; putative tRNA pseudouridine synthase B
+	[764629:764713:dir] tRNA-Ser
+	[764911:765363:dir] rps13; High confidence in function and specificity; 30S ribosomal protein S13
+	[765382:765963:dir] rps4; High confidence in function and specificity; 30S ribosomal protein S4
+	[765973:766371:dir] rps11; High confidence in function and specificity; 30S ribosomal protein S11
+	[766389:767189:dir] rpoD; High confidence in function and specificity; DNA-directed RNA polymerase subunit D
+	[767192:767542:dir] Family membership; hypothetical protein
+	[767557:767979:dir] rpl13p; High confidence in function and specificity; 50S ribosomal protein L13P
+	[767993:768394:dir] rps9; High confidence in function and specificity; 30S ribosomal protein S9
+	[768474:768641:dir] hypothetical protein
+	[768868:769044:dir] Family membership; hypothetical protein
+	[769162:770412:dir] eno; High confidence in function and specificity; Enolase
+	[770746:770937:dir] hypothetical protein
+	[770995:771591:dir] rps2; High confidence in function and specificity; 30S ribosomal protein S2
+	[772185:773027:dir] High confidence in function and specificity; MEMO1 family protein MK0963
+	[773194:774165:dir] mvk; High confidence in function and specificity; Mevalonate kinase
+	[774282:775076:dir] High confidence in function and specificity; aspartate/glutamate/uridylate kinase
+	[775370:776425:dir] fni; High confidence in function and specificity; Isopentenyl-diphosphate delta-isomerase
+	[776422:777771:dir] High confidence in function and specificity; Ribonuclease J
+<END>
+<GI> HG425166:8 <COORDINATES> 964843-990698 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.396327; n0_4mer:D = 24.793288; n0_4mer:PS = 12.376660
+	[964843:967980:rev] Family membership; hypothetical protein
+	[968321:968704:dir] Hypothetical protein; putative membrane protein
+	[968705:969007:dir] Hypothetical protein; putative membrane protein
+	[969043:969795:dir] Family membership; hypothetical protein
+	[969809:969970:dir] Family membership; hypothetical protein
+	[970009:970389:dir] hypothetical protein
+	[970406:970810:dir] Family membership; hypothetical protein
+	[970966:972024:dir] High confidence in function and specificity; hypothetical protein
+	[972074:972178:rev] hypothetical protein
+	[972292:972516:rev] Family membership; hypothetical protein
+	[972855:973256:rev] nikR3; High confidence in function and specificity; nickel responsive regulator
+	[973645:974961:rev] High confidence in function and specificity; 4Fe-4S ferredoxin
+	[975160:975519:rev] High confidence in function and specificity; ArsR family transcriptional regulator
+	[975921:976538:rev] High confidence in function and specificity; Insertion element IS600 uncharacterized 31 kDa protein
+	[976630:976794:rev] Family membership; hypothetical protein
+	[976791:977087:rev] Family membership; hypothetical protein
+	[977138:977473:dir] Family membership; hypothetical protein
+	[977571:978212:dir] High confidence in function and specificity; methylase involved in ubiquinone/menaquinone biosynthesis
+	[979070:979243:dir] Family membership; hypothetical protein
+	[979727:980905:dir] High confidence in function and specificity; hypothetical protein
+	[980931:981080:rev] Family membership; hypothetical protein
+	[981090:981722:rev] High confidence in function and specificity; hypothetical protein
+	[981719:982333:rev] High confidence in function and specificity; hypothetical protein
+	[982480:982830:rev] Family membership; hypothetical protein
+	[983022:983210:dir] Family membership; hypothetical protein
+	[983842:984285:dir] Family membership; hypothetical protein
+	[984334:985782:rev] High confidence in function and specificity; major facilitator superfamily protein
+	[986551:986862:dir] hypothetical protein
+	[986951:987433:dir] Family membership; hypothetical protein
+	[987615:987697:dir] tRNA-Leu
+	[987882:990698:dir] High confidence in function and specificity; ATP-dependent RNA helicase, DEAD/DEAH box family
+<END>
+<GI> HG425166:9 <COORDINATES> 1072500-1090623 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.749182; n0_4mer:D = 24.936162; n0_4mer:PS = 9.203313
+	[1072516:1074648:dir] High confidence in function and specificity; hypothetical protein
+	[1074639:1075871:dir] High confidence in function and specificity; group 1 glycosyl transferase
+	[1076639:1076989:dir] Hypothetical protein; putative membrane protein
+	[1077679:1078944:dir] High confidence in function and specificity; polysaccharide biosynthesis protein
+	[1079175:1079882:dir] High confidence in function and specificity; UDP-N-acetylglucosamine pyrophosphorylase related protein
+	[1079879:1080859:dir] gpsA; High confidence in function and specificity; Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+	[1080975:1082132:dir] High confidence in function and specificity; teichoic acid biosynthesis protein RodC-like protein
+	[1082139:1083008:dir] Family membership; hypothetical protein
+	[1084095:1085321:rev] Family membership; hypothetical protein
+	[1085375:1086505:rev] Family membership; hypothetical protein
+	[1087452:1087871:dir] Family membership; hypothetical protein
+	[1087914:1088840:dir] High confidence in function and specificity; putative UDP-glucose 4-epimerase
+	[1088902:1090623:dir] Family membership; hypothetical protein
+<END>
+<GI> HG425166:10 <COORDINATES> 1223958-1246257 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.309122; n0_4mer:D = 23.531736; n0_4mer:PS = 11.767572
+	[1223958:1224143:dir] Family membership; hypothetical protein
+	[1224363:1224530:dir] Hypothetical protein; putative membrane protein
+	[1224553:1226784:rev] High confidence in function and specificity; oligosaccharyl transferase STT3 subunit
+	[1227194:1227841:dir] High confidence in function and specificity; transferase hexapeptide repeat containing protein
+	[1227970:1228911:dir] High confidence in function and specificity; family 2 glycosyl transferase
+	[1228961:1229980:dir] High confidence in function and specificity; family 2 glycosyl transferase
+	[1230162:1230584:rev] hypothetical protein
+	[1230703:1230981:dir] High confidence in function and specificity; transposase
+	[1231023:1231706:dir] High confidence in function and specificity; transposase
+	[1231871:1232413:rev] Family membership; hypothetical protein
+	[1233646:1233819:rev] Family membership; hypothetical protein
+	[1234064:1235263:rev] High confidence in function and specificity; group 1 glycosyl transferase
+	[1235256:1236926:rev] High confidence in function and specificity; hypothetical protein
+	[1237118:1237273:rev] hypothetical protein
+	[1238642:1239169:rev] High confidence in function and specificity; putative non-canonical purine NTP phosphatase
+	[1239170:1239637:rev] coaD; High confidence in function and specificity; Phosphopantetheine adenylyltransferase
+	[1239764:1241341:dir] High confidence in function and specificity; Radical SAM domain-containing protein
+	[1241372:1242484:dir] High confidence in function and specificity; putative aspartate aminotransferase 1
+	[1242703:1245267:dir] High confidence in function and specificity; cation transport ATPase
+	[1245400:1246257:dir] High confidence in function and specificity; 4Fe-4S ferredoxin
+<END>
+<GI> HG425166:11 <COORDINATES> 1425500-1449685 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.293876; n0_4mer:D = 27.920459; n0_4mer:PS = 15.682600
+	[1425513:1426400:rev] High confidence in function and specificity; family 2 glycosyl transferase
+	[1426742:1427425:dir] Family membership; hypothetical protein
+	[1427456:1428418:rev] High confidence in function and specificity; family 2 glycosyl transferase
+	[1428472:1429236:rev] tagH; High confidence in function and specificity; Teichoic acids export ATP-binding protein TagH
+	[1429244:1430041:rev] High confidence in function and specificity; ABC transporter
+	[1430044:1431381:rev] udg; High confidence in function and specificity; UDP-glucose 6-dehydrogenase
+	[1431487:1432272:rev] High confidence in function and specificity; Methyltransferase type 11
+	[1432294:1435428:rev] Family membership; hypothetical protein
+	[1435765:1436418:rev] hypothetical protein
+	[1436504:1436887:rev] hypothetical protein
+	[1437083:1438192:rev] glf; High confidence in function and specificity; UDP-galactopyranose mutase
+	[1438593:1439645:rev] Family membership; hypothetical protein
+	[1439952:1441322:dir] High confidence in function and specificity; FkbM family methyltransferase
+	[1441813:1442457:rev] High confidence in function and specificity; family 2 glycosyl transferase
+	[1442500:1443843:rev] High confidence in function and specificity; family 2 glycosyl transferase
+	[1444103:1444810:dir] High confidence in function and specificity; hypothetical protein
+	[1444977:1446122:rev] cdc6-2; High confidence in function and specificity; Cell division control protein 6 homolog 2
+	[1446203:1446955:rev] mptE; High confidence in function and specificity; 6-hydroxymethyl-7, 8-dihydropterinpyrophosphokinase
+	[1447026:1448174:dir] High confidence in function and specificity; putative aminotransferase MJ0959
+	[1448330:1449685:rev] High confidence in function and specificity; Radical SAM domain-containing protein
+<END>
+<GI> HG425166:12 <COORDINATES> 1489239-1511885 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.669387; n0_4mer:D = 30.347915; n0_4mer:PS = 40.766232
+	[1489239:1491983:dir] High confidence in function and specificity; peptidase U32
+	[1491997:1492824:rev] High confidence in function and specificity; hypothetical protein
+	[1493078:1494973:dir] High confidence in function and specificity; DNA mismatch repair protein MutS domain-containing protein
+	[1496097:1496218:rev] 5s_rRNA; 5S ribosomal RNA
+	[1496370:1496879:dir] hypothetical protein
+	[1496436:1499424:rev] 23s_rRNA; 23S ribosomal RNA
+	[1499675:1499748:rev] tRNA-Ala
+	[1499771:1501244:rev] 16s_rRNA; 16S ribosomal RNA
+	[1501621:1502610:rev] Family membership; hypothetical protein
+	[1503101:1504066:dir] mer; High confidence in function and specificity; 5,10-methylenetetrahydromethanopterin reductase
+	[1504234:1505073:rev] High confidence in function and specificity; Radical SAM domain-containing protein
+	[1505193:1506284:dir] High confidence in function and specificity; hypothetical protein
+	[1506538:1509549:dir] Family membership; hypothetical protein
+	[1509900:1511885:dir] High confidence in function and specificity; hypothetical protein
+<END>
+<GI> HG425166:13 <COORDINATES> 1535413-1558395 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.579013; n0_4mer:D = 25.799489; n0_4mer:PS = 47.959557
+	[1535413:1536027:rev] High confidence in function and specificity; hypothetical protein
+	[1536143:1537003:rev] High confidence in function and specificity; transcriptional regulator Icc-like protein
+	[1537149:1537221:rev] tRNA-Thr
+	[1537307:1537389:rev] tRNA-Leu
+	[1537706:1537951:dir] hypothetical protein
+	[1538130:1538291:dir] Family membership; hypothetical protein
+	[1538295:1539443:dir] High confidence in function and specificity; Digeranylgeranylglycerophospholipid reductase 2
+	[1539525:1540871:dir] High confidence in function and specificity; PBS lyase HEAT domain-containing protein
+	[1541043:1541630:dir] Family membership; hypothetical protein
+	[1541672:1542142:rev] High confidence in function and specificity; 4Fe-4S ferredoxin
+	[1542199:1543590:rev] cdhE; High confidence in function and specificity; Acetyl-CoA decarbonylase/synthase complex subunit gamma
+	[1543604:1544767:rev] cdhD; High confidence in function and specificity; Acetyl-CoA decarbonylase/synthase complex subunit delta
+	[1544782:1545537:rev] High confidence in function and specificity; putative ATP-binding protein MJ0685
+	[1545604:1546998:rev] cdhC; High confidence in function and specificity; Acetyl-CoA decarbonylase/synthase complex subunit beta
+	[1547106:1547624:rev] cdhB; High confidence in function and specificity; Acetyl-CoA decarbonylase/synthase complex subunit epsilon
+	[1547626:1549992:rev] cdhA; High confidence in function and specificity; Acetyl-CoA decarbonylase/synthase complex subunit alpha
+	[1550353:1551465:rev] High confidence in function and specificity; type ii secretion system F domain-containing protein
+	[1551561:1553189:rev] High confidence in function and specificity; type ii secretion system protein E
+	[1553308:1554288:dir] High confidence in function and specificity; hypothetical protein
+	[1554345:1555592:rev] High confidence in function and specificity; hypothetical protein
+	[1555874:1556143:rev] hypothetical protein
+	[1556339:1556500:rev] Family membership; hypothetical protein
+	[1556501:1557145:rev] High confidence in function and specificity; aspartate/glutamate/uridylate kinase
+	[1557215:1557556:rev] High confidence in function and specificity; peptidyl-tRNA hydrolase
+	[1557859:1558395:rev] Family membership; hypothetical protein
+<END>
+<GI> HG425166:14 <COORDINATES> 1579499-1597700 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.545207; n0_4mer:D = 25.072957; n0_4mer:PS = 41.405774
+	[1579499:1581508:dir] atpI; High confidence in function and specificity; V-type ATP synthase subunit I
+	[1581510:1581992:dir] High confidence in function and specificity; vacuolar-type H+-transporting ATP synthase, subunit K
+	[1581998:1582621:dir] atpE; High confidence in function and specificity; V-type ATP synthase subunit E
+	[1582640:1583797:dir] atpC; High confidence in function and specificity; V-type ATP synthase subunit C
+	[1583794:1584108:dir] Family membership; hypothetical protein
+	[1584105:1585859:dir] atpA; High confidence in function and specificity; V-type ATP synthase alpha chain
+	[1585862:1587253:dir] atpB; High confidence in function and specificity; V-type ATP synthase beta chain
+	[1587294:1587953:dir] atpD; High confidence in function and specificity; V-type ATP synthase subunit D
+	[1587946:1588329:dir] hypothetical protein
+	[1588562:1588897:rev] Family membership; hypothetical protein
+	[1589030:1589437:dir] High confidence in function and specificity; hypothetical protein
+	[1589541:1589723:dir] Hypothetical protein; putative membrane protein
+	[1589744:1590916:rev] High confidence in function and specificity; ATP-grasp fold domain-containing protein
+	[1590954:1591025:rev] tRNA-Gln
+	[1591096:1591785:rev] High confidence in function and specificity; hypothetical protein
+	[1591889:1592500:rev] hypothetical protein
+	[1592906:1593673:rev] Family membership; hypothetical protein
+	[1594220:1594702:rev] High confidence in function and specificity; hypothetical protein
+	[1594788:1595363:rev] Hypothetical protein; putative membrane protein
+	[1595400:1595756:rev] Hypothetical protein; putative membrane protein
+	[1595992:1596756:rev] High confidence in function and specificity; ABC transporter, permease component
+	[1596759:1597700:rev] High confidence in function and specificity; daunorubicin resistance ABC transporter ATPase subunit
+<END>
+<GI> HG425166:15 <COORDINATES> 1651924-1674177 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.501503; n0_4mer:D = 26.738813; n0_4mer:PS = 29.230113
+	[1651924:1652199:rev] hypothetical protein
+	[1652204:1652800:rev] High confidence in function and specificity; acylneuraminate cytidylyltransferase
+	[1653081:1654553:rev] High confidence in function and specificity; putative protein MTH_1153
+	[1654717:1655664:rev] High confidence in function and specificity; CaCA family Na+/Ca+ antiporter
+	[1655933:1656364:rev] High confidence in function and specificity; Universal stress protein MTH_1154
+	[1656378:1657394:rev] High confidence in function and specificity; cation antiporter
+	[1657674:1658606:rev] mtrH; High confidence in function and specificity; Tetrahydromethanopterin S-methyltransferase subunit H
+	[1658624:1658878:rev] Family membership; hypothetical protein
+	[1658882:1659091:rev] mtrF; Tetrahydromethanopterin S-methyltransferase, F subunit; Conserved hypothetical protein; tetrahydromethanopterin S-methyltransferase subunit F
+	[1659105:1659824:rev] mtrA1; High confidence in function and specificity; Tetrahydromethanopterin S-methyltransferase subunit A 1
+	[1659837:1660139:rev] Family membership; hypothetical protein
+	[1660151:1660963:rev] mtrC; High confidence in function and specificity; Tetrahydromethanopterin S-methyltransferase subunit C
+	[1660963:1661688:rev] mtrD; High confidence in function and specificity; Tetrahydromethanopterin S-methyltransferase subunit D
+	[1661701:1662588:rev] mtrE; High confidence in function and specificity; Tetrahydromethanopterin S-methyltransferase subunit E
+	[1662638:1664290:rev] mcrA; High confidence in function and specificity; Methyl-coenzyme M reductase subunit alpha
+	[1664303:1665052:rev] mcrG; High confidence in function and specificity; Methyl-coenzyme M reductase I subunit gamma
+	[1665055:1665651:rev] mcrC; High confidence in function and specificity; Methyl-coenzyme M reductase I operon protein C
+	[1665654:1666088:rev] mcrD; High confidence in function and specificity; Methyl-coenzyme M reductase I operon protein D
+	[1666124:1667455:rev] mcrB; High confidence in function and specificity; Methyl-coenzyme M reductase I subunit beta
+	[1667741:1668991:dir] High confidence in function and specificity; putative protein MJ0841
+	[1669100:1670434:dir] High confidence in function and specificity; putative methylthiotransferase MJ0865
+	[1670533:1671012:rev] Family membership; hypothetical protein
+	[1670957:1671778:rev] High confidence in function and specificity; cation diffusion facilitator family transporter
+	[1671794:1672720:rev] High confidence in function and specificity; cell division inhibitor-like protein
+	[1672728:1673678:rev] Family membership; hypothetical protein
+	[1673782:1674177:rev] Family membership; hypothetical protein
+<END>
+<GI> HG425166:16 <COORDINATES> 1725652-1749680 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.834750; n0_4mer:D = 31.508156; n0_4mer:PS = 43.109345
+	[1725652:1726296:rev] High confidence in function and specificity; NADPH-dependent FMN reductase
+	[1726445:1727128:rev] High confidence in function and specificity; hypothetical protein
+	[1727200:1727406:rev] hypothetical protein
+	[1727596:1729761:rev] katG; High confidence in function and specificity; Catalase-peroxidase
+	[1730118:1730390:dir] hypothetical protein
+	[1730406:1730678:dir] Family membership; hypothetical protein
+	[1730939:1731331:rev] Family membership; hypothetical protein
+	[1731503:1731623:rev] 5s_rRNA; 5S ribosomal RNA
+	[1731918:1732151:rev] hypothetical protein
+	[1732253:1732374:rev] 5s_rRNA; 5S ribosomal RNA
+	[1732526:1733035:dir] hypothetical protein
+	[1732592:1735580:rev] 23s_rRNA; 23S ribosomal RNA
+	[1735831:1735904:rev] tRNA-Ala
+	[1735983:1737456:rev] 16s_rRNA; 16S ribosomal RNA
+	[1738125:1739270:rev] High confidence in function and specificity; phosphopantothenoylcysteine decarboxylase/phosphopantothenate/cysteine ligase
+	[1739371:1739871:rev] High confidence in function and specificity; transcription elongation factor NusA-like protein
+	[1740498:1741034:rev] Family membership; hypothetical protein
+	[1741214:1741849:rev] Family membership; hypothetical protein
+	[1741842:1742651:rev] pheA; High confidence in function and specificity; P-protein
+	[1742863:1744011:rev] High confidence in function and specificity; Y414 protein
+	[1744222:1745040:rev] High confidence in function and specificity; CBS domain-containing membrane protein
+	[1745055:1745894:rev] High confidence in function and specificity; CBS domain-containing membrane protein
+	[1745928:1746869:rev] High confidence in function and specificity; putative signal transduction protein with CBS domains
+	[1746880:1747119:rev] hypothetical protein
+	[1747101:1747892:rev] High confidence in function and specificity; CBS domain-containing protein
+	[1747916:1748476:rev] High confidence in function and specificity; signal transduction protein with CBS domains
+	[1748489:1748986:rev] High confidence in function and specificity; Radical SAM domain-containing protein
+	[1749204:1749680:rev] queD; High confidence in function and specificity; putative 6-carboxy-5,6,7,8-tetrahydropterin synthase
+<END>
+<GI> HG425166:17 <COORDINATES> 1889277-1912964 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.430950; n0_4mer:D = 26.598979; n0_4mer:PS = 46.796199
+	[1889277:1890209:rev] High confidence in function and specificity; putative protein MJ0921
+	[1890302:1890712:rev] ribH; High confidence in function and specificity; 6,7-dimethyl-8-ribityllumazine synthase
+	[1890912:1892108:rev] csd; High confidence in function and specificity; putative cysteine desulfurase
+	[1892300:1893289:rev] leuB3; High confidence in function and specificity; 3-isopropylmalate dehydrogenase
+	[1893388:1893894:rev] leuD2; High confidence in function and specificity; 3-isopropylmalate dehydratase small subunit 2
+	[1893978:1895228:rev] leuC1; High confidence in function and specificity; 3-isopropylmalate dehydratase large subunit 1
+	[1895345:1895770:rev] High confidence in function and specificity; regulatory protein MarR
+	[1896048:1898423:dir] High confidence in function and specificity; Replication factor-A domain-containing protein
+	[1898524:1899459:dir] radA; High confidence in function and specificity; DNA repair and recombination protein RadA
+	[1899758:1901734:dir] hdrA; High confidence in function and specificity; CoB-CoM heterodisulfide reductase iron-sulfur subunit A
+	[1902078:1903346:dir] glyA; High confidence in function and specificity; Serine hydroxymethyltransferase
+	[1903418:1904116:dir] High confidence in function and specificity; putative protein MJ0208
+	[1904279:1904677:dir] High confidence in function and specificity; PBS lyase HEAT domain-containing protein
+	[1904911:1905198:rev] hypothetical protein
+	[1905274:1905663:rev] High confidence in function and specificity; hypothetical protein
+	[1906171:1907376:dir] mat; High confidence in function and specificity; S-adenosylmethionine synthase
+	[1907622:1910768:dir] ileS; High confidence in function and specificity; Isoleucine-tRNA ligase
+	[1910799:1912964:dir] purL; High confidence in function and specificity; Phosphoribosylformylglycinamidine synthase 2
+<END>

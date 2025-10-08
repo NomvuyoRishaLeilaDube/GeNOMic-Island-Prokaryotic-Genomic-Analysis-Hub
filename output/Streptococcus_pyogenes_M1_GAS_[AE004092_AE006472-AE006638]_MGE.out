@@ -1,0 +1,318 @@
+<GI> AE004092 AE006472-AE006638:1 <COORDINATES> 9667-31741 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.884961; n0_4mer:D = 28.307744; n0_4mer:PS = 43.855966
+	[9667:10953:dir] Best Blastp hit = gi|4758794 nebulin [Homo sapiens] >gi|1082786|pir||S55024 nebulin, skeletal muscle - human >gi|806562|emb|CAA58788.1| (X83957) nebulin [Homo sapiens]; hypothetical protein
+	[10950:12236:dir] Best Blastp hit = pir||S66097 cell-cycle protein homolog yacA - Bacillus subtilis >gi|467456|dbj|BAA05302.1| (D26185) unknown [Bacillus subtilis]; putative cell-cycle protein
+	[12805:14784:dir] ftsH; Best Blastp hit = gb|AAC16243.2| (AF061748) cell division protein FtsH [Streptococcus pneumoniae]; putative cell division protein
+	[15109:16500:dir] Best Blastp hit = pir||D69814 metabolite transporter homolog yfnA - Bacillus subtilis >gi|2633047|emb|CAB12553.1| (Z99107) similar to metabolite transporter [Bacillus subtilis] >gi|2633058|emb|CAB12563.1| (Z99108) similar to metabolite transporter [Bacillus subtilis]; putative amino acid permease
+	[17169:18503:dir] 16S ribosomal RNA
+	[18665:18740:dir] tRNA-Ala
+	[19036:21936:dir] 23S ribosomal RNA
+	[22157:22229:dir] tRNA-Val
+	[22247:22319:dir] tRNA-Asp
+	[22351:22423:dir] tRNA-Lys
+	[22429:22510:dir] tRNA-Leu
+	[22521:22593:dir] tRNA-Thr
+	[22606:22677:dir] tRNA-Gly
+	[22686:22770:dir] tRNA-Leu
+	[22787:22863:dir] tRNA-Arg
+	[22867:22940:dir] tRNA-Pro
+	[23170:24504:dir] 16S ribosomal RNA
+	[24666:24741:dir] tRNA-Ala
+	[25037:27937:dir] 23S ribosomal RNA
+	[28158:28230:dir] tRNA-Val
+	[28236:28306:dir] tRNA-Gly
+	[28341:28414:dir] tRNA-Ile
+	[28437:28508:dir] tRNA-Glu
+	[28518:28606:dir] tRNA-Ser
+	[28617:28690:dir] tRNA-Met
+	[28711:28783:dir] tRNA-Phe
+	[28796:28866:dir] tRNA-Gly
+	[28901:28974:dir] tRNA-Ile
+	[28984:29071:dir] tRNA-Ser
+	[30545:31741:dir] Best Blastp hit = gb|AAD00288.1| (U78607) putative secreted protein [Streptococcus mutans]; putative secreted protein
+<END>
+<GI> AE004092 AE006472-AE006638:2 <COORDINATES> 72361-100883 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.679526; n0_4mer:D = 30.464190; n0_4mer:PS = 47.924153
+	[72361:72855:dir] rpsE; Best Blastp hit = sp|P02357|RS5_BACST 30S RIBOSOMAL PROTEIN S5 (BS5) >gi|70883|pir||R3BS5F ribosomal protein S5 - Bacillus stearothermophilus >gi|143417|gb|AAA22699.1| (M57621) ribosomal protein S5 [Bacillus stearothermophilus]; 30S ribosomal protein S5
+	[72870:73052:dir] rpmD; Best Blastp hit = sp|O06444|RL30_STAAU 50S RIBOSOMAL PROTEIN L30 >gi|2078380|gb|AAB54020.1| (U96620) ribosomal protein L30 [Staphylococcus aureus]; 50S ribosomal protein L30
+	[73266:73706:dir] rplO; Best Blastp hit = sp|O06445|RL15_STAAU 50S RIBOSOMAL PROTEIN L15 >gi|2078381|gb|AAB54021.1| (U96620) ribosomal protein L15 [Staphylococcus aureus]; 50S ribosomal protein L15
+	[73723:75027:dir] secY; Best Blastp hit = sp|P27148|SECY_LACLA PREPROTEIN TRANSLOCASE SECY SUBUNIT >gi|97983|pir||S17985 preprotein translocase secY - Lactococcus lactis subsp. lactis >gi|44073|emb|CAA41939.1| (X59250) SecY protein [Lactococcus lactis] >gi|228026|prf||1715214A secY gene [Lactococcus lactis]; putative preprotein translocase
+	[75177:75815:dir] adk; Best Blastp hit = sp|P27143|KAD_LACLA ADENYLATE KINASE (ATP-AMP TRANSPHOSPHORYLASE) >gi|97972|pir||S17987 adenylate kinase (EC 2.7.4.3) - Lactococcus lactis subsp. lactis >gi|322101|pir||B44812 adenylate kinase (EC 2.7.4.3) - Lactococcus lactis >gi|44074|emb|CAA41940.1| (X59250) adenylate kinase [Lactococcus lactis]; adenylate kinase
+	[75933:76151:dir] infA; Best Blastp hit = pir||S17988 translation initiation factor IF-1 - Lactococcus lactis subsp. lactis; putative translation initiation factor IF-1
+	[76177:76293:dir] rpmJ; Best Blastp hit = sp|P27146|RL36_LACLA 50S RIBOSOMAL PROTEIN L36 (RIBOSOMAL PROTEIN B) >gi|97981|pir||S17989 ribosomal protein L36 - Lactococcus lactis subsp. lactis >gi|322111|pir||D44812 ribosomal protein B - Lactococcus lactis >gi|44076|emb|CAA41942.1| (X59250) ribosomal protein B [Lactococcus lactis]; 50S ribosomal protein B
+	[76311:76676:dir] rpsM; Best Blastp hit = sp|P20282|RS13_BACSU 30S RIBOSOMAL PROTEIN S13 (BS14) >gi|1044989|gb|AAB06824.1| (L47971) ribosomal protein S13 [Bacillus subtilis]; 30S ribosomal protein S13
+	[76694:77077:dir] rpsK; Best Blastp hit = sp|P04969|RS11_BACSU 30S RIBOSOMAL PROTEIN S11 (BS11) >gi|70938|pir||R3BSS1 ribosomal protein S11 - Bacillus subtilis >gi|142462|gb|AAA22216.1| (M26414) ribosomal protein S11 [Bacillus subtilis] >gi|143451|gb|AAA22707.1| (M13957) ribosomal protein S11 [Bacillus subtilis] >gi|1044990|gb|AAB06825.1| (L47971) ribosomal protein S11 [Bacillus subtilis] >gi|2632409|emb|CAB11918.1| (Z99104) ribosomal protein S11 (BS11) [Bacillus subtilis]; 30S ribosomal protein S11
+	[77123:78061:dir] rpoA; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = sp|O50634|RPOA_BACHD DNA-DIRECTED RNA POLYMERASE ALPHA CHAIN (TRANSCRIPTASE ALPHA CHAIN) (RNA POLYMERASE ALPHA SUBUNIT) >gi|11261105|pir||T44410 DNA-directed RNA polymerase (EC 2.7.7.6) alpha chain rpoA [imported] - Bacillus halodurans >gi|2760185|dbj|BAA24194.1| (AB010082) RNA polymerase alpha subunit [Bacillus halodurans] >gi|4512431|dbj|BAA75298.1| (AB017508) rpoA homologue (identity of 85% to B. subtilis) [Bacillus halodurans] >gi|10172774|dbj|BAB03881.1| (AP001507) DNA-directed RNA polymerase alpha subunit [Bacillus halodurans]; DNA-directed RNA polymerase alpha subunit
+	[79388:80722:dir] 16S ribosomal RNA
+	[80884:80959:dir] tRNA-Ala
+	[81255:84157:dir] 23S ribosomal RNA
+	[84377:84449:dir] tRNA-Val
+	[84455:84525:dir] tRNA-Gly
+	[84560:84633:dir] tRNA-Ile
+	[84656:84727:dir] tRNA-Glu
+	[84738:84827:dir] tRNA-Ser
+	[84837:84910:dir] tRNA-Met
+	[84931:85003:dir] tRNA-Phe
+	[85023:85103:dir] tRNA-Tyr
+	[85110:85180:dir] tRNA-Trp
+	[85192:85264:dir] tRNA-His
+	[85274:85344:dir] tRNA-Gln
+	[85364:85447:dir] tRNA-Leu
+	[85707:85892:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[86530:87100:dir] isopentenyl monophosphate kinase; Multiple mutation within this gene have been confirmed by sequence analysis
+	[87213:87656:dir] adcR; Best Blastp hit = emb|CAA96184.1| (Z71552) AdcR protein [Streptococcus pneumoniae]; putative repressor protein
+	[87660:88379:dir] adcC; Best Blastp hit = emb|CAA96186.1| (Z71552) AdcC protein [Streptococcus pneumoniae]; ABC transporter (ATP-binding protein)
+	[88372:89187:dir] adcB; Best Blastp hit = emb|CAA96187.1| (Z71552) AdcB protein [Streptococcus pneumoniae]; putative ABC transporter (permease)
+	[89227:89610:rev] Best Blastp hit = pir||B64408 histidine triad (HIT) protein MJ0866 - Methanococcus jannaschii; putative histidine triad (HIT) protein
+	[89661:90917:rev] tyrS; Best Blastp hit = sp|P00952|SYY_BACST TYROSYL-TRNA SYNTHETASE (TYROSINE-TRNA LIGASE) (TYRRS) >gi|68502|pir||SYBSYF tyrosine-tRNA ligase (EC 6.1.1.1) - Bacillus stearothermophilus >gi|230779|pdb|2TS1| Tyrosyl-Transfer RNA Synthetase (E.C.6.1.1.1) >gi|230940|pdb|3TS1| Tyrosyl-Transfer RNA Synthetase (E.C.6.1.1.1) Complexed With Tyrosinyl Adenylate; putative tyrosine-tRNA ligase
+	[91009:93321:dir] pbp1b; Best Blastp hit = emb|CAA05302.1| (AJ002291) penicillin-binding protein 1b [Streptococcus pneumoniae] >gi|6165962|gb|AAF04736.1|AF101781_1 (AF101781) penicillin-binding protein 1b [Streptococcus pneumoniae]; putative penicillin-binding protein 1b
+	[93585:97151:dir] rpoB; Best Blastp hit = emb|CAB56706.1| (Y16468) DNA-dependent RNA polymerase subunit beta [Listeria monocytogenes]; putative DNA-dependent RNA polymerase subunit beta
+	[97242:100883:dir] rpoC; Best Blastp hit = sp|P95816|RPOC_STRPY DNA-DIRECTED RNA POLYMERASE BETA' CHAIN (TRANSCRIPTASE BETA' CHAIN) (RNA POLYMERASE BETA' SUBUNIT) >gi|1839027|emb|CAA65249.1| (X96385) DNA-dependent RNA polymerase [Streptococcus pyogenes]; DNA-dependent RNA polymerase, B' subunit
+<END>
+<GI> AE004092 AE006472-AE006638:3 <COORDINATES> 258500-282671 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.582416; n0_4mer:D = 28.425514; n0_4mer:PS = 45.458817
+	[258940:260442:dir] oppB; Best Blastp hit = emb|CAA61523.1| (X89237) oligopeptidepermease [Streptococcus pyogenes]; oligopeptidepermease
+	[260442:261368:dir] oppC; Best Blastp hit = emb|CAA61524.1| (X89237) oligopeptidepermease [Streptococcus pyogenes]; oligopeptidepermease
+	[261377:262447:dir] oppD; Best Blastp hit = emb|CAA61525.1| (X89237) oligopeptidepermease [Streptococcus pyogenes]; oligopeptidepermease (ATP-binding protein)
+	[262440:263363:dir] oppF; Best Blastp hit = gb|AAG32327.1| (AF305548) oligopeptidepermease [Streptococcus pyogenes]; oligopeptidepermease
+	[263407:263484:rev] This sequence encodes the C-terminal portion of a putative transposase
+	[263550:263937:rev] This sequence contains a gene fragment encoding the majority of a hypothetical protein associated with IS861. The region contains several mutations and appears to be truncated by several amino acids at the N-terminus
+	[264453:265788:dir] 16S ribosomal RNA
+	[265950:266025:dir] tRNA-Ala
+	[266321:269224:dir] 23S ribosomal RNA
+	[269433:269506:dir] tRNA-Asn
+	[269586:269659:dir] tRNA-Arg
+	[269685:270236:dir] comX1.1; Best Blastp hit = gb|AAD50427.1|AF161700_2 (AF161700) ComX1 [Streptococcus pneumoniae] >gi|5739315|gb|AAD50429.1|AF161701_2 (AF161701) ComX2 [Streptococcus pneumoniae]; putative competence protein
+	[270847:271980:dir] Best Blastp hit = emb|CAA74641.1| (Y14270) putative transposase [Streptococcus agalactiae]; putative transposase, IS1548
+	[272086:272670:dir] Best Blastp hit = sp|P54452|YQEG_BACSU HYPOTHETICAL 20.1 KD PROTEIN IN NUCB-AROD INTERGENIC REGION >gi|7474689|pir||C69951 conserved hypothetical protein yqeG - Bacillus subtilis >gi|1303787|dbj|BAA12443.1| (D84432) YqeG [Bacillus subtilis] >gi|2635014|emb|CAB14510.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[272670:273788:dir] Best Blastp hit = sp|P54453|YQEH_BACSU HYPOTHETICAL 41.0 KD PROTEIN IN NUCB-AROD INTERGENIC REGION >gi|7474690|pir||D69951 conserved hypothetical protein yqeH - Bacillus subtilis >gi|1303788|dbj|BAA12444.1| (D84432) YqeH [Bacillus subtilis] >gi|2635013|emb|CAB14509.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[273813:274121:dir] Best Blastp hit = sp|P54454|YQEI_BACSU HYPOTHETICAL 10.8 KD PROTEIN IN AROD-COMER INTERGENIC REGION >gi|7451070|pir||E69951 dihydrodipicolinate reductase homolog yqeI - Bacillus subtilis >gi|1303790|dbj|BAA12446.1| (D84432) YqeI [Bacillus subtilis] >gi|2635011|emb|CAB14507.1| (Z99117) similar to dihydrodipicolinate reductase [Bacillus subtilis]; conserved hypothetical protein
+	[274190:274822:dir] Best Blastp hit = sp|P54455|NADD_BACSU PROBABLE NICOTINATE-NUCLEOTIDE ADENYLYLTRANSFERASE (DEAMIDO-NAD(+) PYROPHOSPHORYLASE) (DEAMIDO-NAD(+) DIPHOSPHORYLASE) (NICOTINATE MONONUCLEOTIDE ADENYLYLTRANSFERASE) (NAMN ADENYLYLTRANSFERASE) >gi|7430069|pir||F69951 conserved hypothetical protein yqeJ - Bacillus subtilis >gi|1303791|dbj|BAA12447.1| (D84432) YqeJ [Bacillus subtilis] >gi|2635010|emb|CAB14506.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[274819:275412:dir] Best Blastp hit = sp|P54456|YQEK_BACSU HYPOTHETICAL 21.3 KD PROTEIN IN AROD-COMER INTERGENIC REGION >gi|7429525|pir||G69951 conserved hypothetical protein yqeK - Bacillus subtilis >gi|1303792|dbj|BAA12448.1| (D84432) YqeK [Bacillus subtilis] >gi|2635009|emb|CAB14505.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[275412:275789:dir] Best Blastp hit = sp|P54457|YQEL_BACSU HYPOTHETICAL 13.3 KD PROTEIN IN AROD-COMER INTERGENIC REGION >gi|7444652|pir||H69951 ybeB protein homolog yqeL - Bacillus subtilis >gi|1303793|dbj|BAA12449.1| (D84432) YqeL [Bacillus subtilis] >gi|2635008|emb|CAB14504.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[275789:276580:dir] Best Blastp hit = sp|P54458|YQEM_BACSU HYPOTHETICAL 28.3 KD PROTEIN IN AROD-COMER INTERGENIC REGION >gi|7474691|pir||A69952 conserved hypothetical protein yqeM - Bacillus subtilis >gi|1303794|dbj|BAA12450.1| (D84432) YqeM [Bacillus subtilis] >gi|2635007|emb|CAB14503.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[276834:277940:dir] Best Blastp hit = pir||B69875 conserved hypothetical protein ylbM - Bacillus subtilis >gi|2340009|emb|CAB11359.1| (Z98682) YlbM protein [Bacillus subtilis] >gi|2633877|emb|CAB13379.1| (Z99111) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[278292:278432:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[278422:279138:dir] The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = sp|P76351|YEEN_ECOLI HYPOTHETICAL 25.9 KDA PROTEIN IN AMN-CBL INTERGENIC REGION >gi|7448338|pir||A64963 conserved hypothetical protein b1983 - Escherichia coli >gi|1788294|gb|AAC75047.1| (AE000290) orf, hypothetical protein [Escherichia coli]; conserved hypothetical protein
+	[279341:280183:dir] Best Blastp hit = gb|AAC45332.1| (U97348) basic surface protein [Lactobacillus fermentum]; conserved hypothetical protein
+	[280512:281357:dir] Best Blastp hit = emb|CAB59827.1| (AJ012388) hypothetical protein [Lactococcus lactis]; conserved hypothetical protein
+	[281607:282671:dir] Best Blastp hit = emb|CAB59828.1| (AJ012388) hypothetical protein [Lactococcus lactis]; putative ABC transporter (ATP-binding protein)h
+<END>
+<GI> AE004092 AE006472-AE006638:4 <COORDINATES> 533287-563717 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.570767; n0_4mer:D = 23.158445; n0_4mer:PS = 39.693348
+	[533287:534606:dir] Best Blastp hit = pir||A64465 hypothetical protein MJ1322 - Methanococcus jannaschii >gi|1591962|gb|AAB99331.1| (U67572) purine NTPase [Methanococcus jannaschii]; hypothetical protein, phage associated
+	[534621:535712:dir] Best Blastp hit = gi|9632922 orf233 gp [Streptococcus thermophilus bacteriophage Sfi19] >gi|4049993|gb|AAC97920.1| (AF077306) gp233 [Streptococcus thermophilus bacteriophage Sfi19] >gi|5524017|gb|AAD44070.1|AF115102_29 (AF115102) orf233 gp [Streptococcus thermophilus bacteriophage Sfi19] >gi|7523582|gb|AAF63084.1|AF158601_12 (AF158601) gp233 [Streptococcus thermophilus bacteriophage SFi18]; hypothetical protein, phage associated
+	[535752:536174:dir] Best Blastp hit = pir||T15692 hypothetical protein C28G1.4 - Caenorhabditis elegans >gi|1086705|gb|AAA82353.1| (U41026) Similar to zinc finger [Caenorhabditis elegans]; hypothetical protein, phage associated
+	[536176:536910:dir] Best Blastp hit = emb|CAB82814.1| (AL162459) putative protein [Arabidopsis thaliana]; hypothetical protein, phage associated
+	[536932:537567:dir] Best Blastp hit = no blast hits; hypothetical protein, phage associated
+	[537567:539150:dir] Best Blastp hit = pir||T40328 DEAD box family helicase - fission yeast (Schizosaccharomyces pombe) >gi|2995347|emb|CAA18301.1| (AL022244) DEAD box family helicase [Schizosaccharomyces pombe]; putative DEAD box family helicase, phage associated
+	[539160:539789:dir] Best Blastp hit = gi|9635666 Orf78 [Pseudomonas phage D3] >gi|8895176|gb|AAF80834.1| (AF165214) Orf78 [Pseudomonas phage D3]; hypothetical protein, phage associated
+	[539779:542052:dir] Best Blastp hit = emb|CAB75598.1| (AJ271879) putative DNA helicase [uncultured eubacterium]; hypothetical protein, phage associated
+	[542330:542548:dir] Best Blastp hit = emb|CAC13148.1| (AJ400623) MADS box protein [Gerbera hybrida]; hypothetical protein, phage associated
+	[542541:542936:dir] Best Blastp hit = gb|AAF74082.1| (AF212845) ORF129 [Lactococcus lactis bacteriophage ul36]; conserved hypothetical protein, phage associated
+	[542933:543154:dir] Best Blastp hit = no blast hits; hypothetical protein, phage associated
+	[543431:544066:dir] Best Blastp hit = gb|AAB18697.1| (U38906) ORF22 [Bacteriophage r1t]; conserved hypothetical protein, phage associated
+	[544339:544773:dir] Best Blastp hit = pir||T13313 hypothetical protein 24 - Streptococcus phage phi-O1205 >gi|2444104|gb|AAC79540.1| (U88974) ORF24 [Streptococcus thermophilus temperate bacteriophage O1205]; conserved hypothetical protein, phage associated
+	[545083:546249:dir] Best Blastp hit = dbj|BAB07254.1| (AP001519) unknown [Bacillus halodurans]; conserved hypothetical protein, phage associated
+	[546592:547068:dir] Best Blastp hit = gi|10879409 similar to smoothelin (H. sapiens) [Homo sapiens]; hypothetical protein, phage associated
+	[547151:548362:dir] Best Blastp hit = emb|CAB53788.1| (AJ242593) putative terminase large subunit [Bacteriophage A118]; hypothetical protein, phage associated
+	[548376:549878:dir] Best Blastp hit = pir||T13205 minor capsid protein R508 - Lactobacillus phage phi-gle >gi|1926349|emb|CAA66734.1| (X98106) minor capsid protein [Bacteriophage phig1e]; putative minor capsid protein, phage associated
+	[549883:551376:dir] Best Blastp hit = emb|CAB53790.1| (AJ242593) gp4 [Bacteriophage A118]; putative minor capsid protein, phage associated
+	[551376:551603:dir] Best Blastp hit = no blast hits; hypothetical protein, phage associated
+	[551690:551956:dir] Best Blastp hit = pir||T25808 hypothetical protein K08B12.5 - Caenorhabditis elegans >gi|1938422|gb|AAB52260.1| (U97001) Similar to serine/threonine-protein kinase; coded for by C. elegans cDNA CEESP52F; coded for by C. elegans cDNA yk134e9.5; coded for by C. elegans cDNA yk17b9.5; coded for by C. elegans cDNA CEESK86FB; coded for by C. elegans cDNA yk17b9.3; co>; hypothetical protein, phage associated
+	[552082:552696:dir] Best Blastp hit = no blast hits; hypothetical protein, phage associated
+	[552700:553518:dir] Best Blastp hit = emb|CAA59185.1| (X84706) major head protein [Bacteriophage B1]; putative major head protein, phage associated
+	[553572:553988:dir] Best Blastp hit = sp|Q04774|YG34_BPMV4 HYPOTHETICAL 15.6 KD PROTEIN IN G34 3'REGION (ORF4) >gi|478257|pir||I45691 hypothetical protein 4 [imported] - Lactobacillus delbrueckii subsp. bulgaricus phage mv4 >gi|215250|gb|AAA56849.1| (L02497) ORF4; putative [Bacteriophage mv4]; hypothetical protein, phage associated
+	[553978:554310:dir] Best Blastp hit = pir||T13210 minor capsid protein R117a - Lactobacillus phage phi-gle >gi|1926354|emb|CAA66739.1| (X98106) minor capsid protein [Bacteriophage phig1e]; hypothetical protein, phage associated
+	[554310:554666:dir] Best Blastp hit = gb|AAC00538.1| (L02496) unknown protein [Bacteriophage LL-H]; hypothetical protein, phage associated
+	[554663:555061:dir] Best Blastp hit = pir||T13212 minor capsid protein R135 - Lactobacillus phage phi-gle >gi|1926356|emb|CAA66741.1| (X98106) minor capsid protein [Bacteriophage phig1e]; putative minor capsid protein, phage associated
+	[555061:555531:dir] Best Blastp hit = emb|CAB53798.1| (AJ242593) major tail shaft protein [Bacteriophage A118]; putative major tail shaft protein, phage associated
+	[555584:556018:dir] Best Blastp hit = emb|CAB72529.1| (AL139074) hypothetical protein Cj0036 [Campylobacter jejuni]; hypothetical protein, phage associated
+	[556022:556603:dir] Best Blastp hit = emb|CAB53801.1| (AJ242593) gp15 [Bacteriophage A118]; conserved hypothetical protein, phage associated
+	[556593:559853:dir] Best Blastp hit = pir||T13329 hypothetical protein 40 - Streptococcus phage phi-O1205 >gi|2444119|gb|AAC79555.1| (U88974) ORF40 [Streptococcus thermophilus temperate bacteriophage O1205]; hypothetical protein, phage associated
+	[559850:560566:dir] Best Blastp hit = gb|AAG18639.1| (AY007505) unknown [Streptococcus mitis]; hypothetical protein, phage associated
+	[560563:562707:dir] Best Blastp hit = gi|9633054 hypothetical protein [Lactobacillus bacteriophage phi adh] >gi|5730311|emb|CAB52532.1| (AJ131519) hypothetical protein [Lactobacillus bacteriophage phi adh]; hypothetical protein, phage associated
+	[562704:563717:dir] hylP1; Best Blastp hit = sp|Q54699|HYAL_BPH45 HYALURONOGLUCOSAMINIDASE (HYALURONIDASE) >gi|881507|gb|AAA86895.1| (U28144) hyaluronidase [Streptococcus pyogenes]; hyaluronidase, phage associated
+<END>
+<GI> AE004092 AE006472-AE006638:5 <COORDINATES> 780000-802455 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.647967; n0_4mer:D = 24.215710; n0_4mer:PS = 38.628335
+	[780028:780837:rev] Best Blastp hit = gb|AAC35448.1| (AF022481) possible plasmid partition protein; GTG probable start codon; orf3 [Borrelia burgdorferi] >gi|6382193|gb|AAF07509.1|AE001577_23 (AE001577) conserved hypothetical protein [Borrelia burgdorferi]; conserved hypothetical protein - phage associated
+	[780850:781596:rev] Best Blastp hit = gi|9635682 repressor [Staphylococcus aureus prophage phiPV83] >gi|8918752|dbj|BAA97812.1| (AB044554) repressor [Staphylococcus aureus prophage phiPV83]; putative repressor protein - phage associated
+	[781786:781944:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[782123:782962:rev] Best Blastp hit = pir||T18372 repeat organellar protein - Plasmodium chabaudi >gi|1151158|gb|AAC63403.1| (U43145) repeat organellar protein [Plasmodium chabaudi]; hypothetical protein
+	[783022:783162:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[783080:783307:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[783381:783587:dir] Best Blastp hit = gb|AAB18679.1| (U38906) tec gene product [Bacteriophage r1t]; hypothetical protein - phage associated
+	[783627:784355:dir] Best Blastp hit = gb|AAC03459.1| (AF020798) P1-antirepressor homolog [Streptococcus thermophilus bacteriophage TP-J34]; putative P1-type antirepressor - phage associated
+	[784387:784653:dir] Best Blastp hit = sp|O13764|PEX6_SCHPO PROBABLE PEROXIN-6 >gi|7492793|pir||T37816 probable peroxin-6, AAA family atpase - fission yeast (Schizosaccharomyces pombe) >gi|2370473|emb|CAB11501.1| (Z98849) putative peroxin-6, AAA family atpase [Schizosaccharomyces pombe]; hypothetical protein - phage associated
+	[784588:785394:rev] Best Blastp hit = emb|CAB83727.1| (AL162753) conserved hypothetical protein [Neisseria meningitidis]; conserved hypothetical protein - phage associated
+	[785536:785772:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[785915:786222:dir] This gene contains a sequence confirmed frameshift mutation at the N-terminus resulting in the ATG and RBS being out of frame with the remainder of the gene.; Best Blastp hit = gb|AAC98430.1| (L29324) excisionase [Streptococcus pneumoniae]
+	[786224:786409:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[786892:787278:dir] Best Blastp hit = dbj|BAA22163.1| (AB006752) ORF1 [Streptococcus pyogenes]; conserved hypothetical protein - phage associated
+	[787259:787492:dir] Best Blastp hit = pir||B72386 hypothetical protein - Thermotoga maritima (strain MSB8) >gi|4980857|gb|AAD35441.1|AE001716_4 (AE001716) hypothetical protein [Thermotoga maritima]; hypothetical protein
+	[787638:787844:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[787900:788229:dir] Best Blastp hit = gb|AAF03365.1|AF149924_1 (AF149924) chaperonin beta subunit [Sulfolobus acidocaldarius]; hypothetical protein - phage associated
+	[788232:789023:dir] Best Blastp hit = gb|AAF43118.1|AF208055_5 (AF208055) Orf245 [bacteriophage phi31.1] >gi|8248141|gb|AAF74061.1| (AF212844) ORF245 [Lactococcus lactis] >gi|8248177|gb|AAF74095.1| (AF212846) ORF245 [Lactococcus lactis bacteriophage ul36.1] >gi|8248193|gb|AAF74110.1| (AF212847) ORF245 [Lactococcus lactis bacteriophage ul36.2]; conserved hypothetical protein - phage associated
+	[789033:789698:dir] Best Blastp hit = gb|AAF43119.1|AF208055_6 (AF208055) Orf364 [bacteriophage phi31.1] >gi|8248142|gb|AAF74062.1| (AF212844) ORF364 [Lactococcus lactis] >gi|8248178|gb|AAF74096.1| (AF212846) ORF364 [Lactococcus lactis bacteriophage ul36.1] >gi|8248194|gb|AAF74111.1| (AF212847) ORF364 [Lactococcus lactis bacteriophage ul36.2]; conserved hypothetical protein - phage associated
+	[789702:790061:dir] Best Blastp hit = no blast hits; hypothetical protein - phage associated
+	[790257:790595:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[790592:791104:dir] Best Blastp hit = gb|AAC63027.1| (AF087814) M3 [bacteriophage 712]; hypothetical protein - phage associated
+	[791282:791527:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[791579:792040:dir] Best Blastp hit = emb|CAB53841.1| (AJ242593) gp51 [Bacteriophage A118]; hypothetical protein - phage associated
+	[792490:792930:dir] Best Blastp hit = gi|9635007 gp137 [Streptococcus thermophilus bacteriophage Sfi11] >gi|7523568|gb|AAF63071.1|AF158600_26 (AF158600) gp137 [Streptococcus thermophilus bacteriophage Sfi11]; conserved hypothetical protein - phage associated
+	[793245:794159:dir] Best Blastp hit = gi|9964487 AMV173 [Amsacta moorei entomopoxvirus] >gi|9944696|gb|AAG02879.1|AF250284_173 (AF250284) AMV173 [Amsacta moorei entomopoxvirus]; hypothetical protein
+	[794178:794639:dir] Best Blastp hit = pir||B70367 hypothetical protein aq_765 - Aquifex aeolicus >gi|2983337|gb|AAC06926.1| (AE000706) putative protein [Aquifex aeolicus]; hypothetical protein - phage associated
+	[794667:795149:dir] Best Blastp hit = pir||T13203 probable terminase - Lactobacillus phage phi-gle >gi|1926347|emb|CAA66779.1| (X98106) Rorf172 [Bacteriophage phig1e]; putative terminase, small subunit - phage associated
+	[795127:796416:dir] Best Blastp hit = sp|P54308|TERL_BPSPP TERMINASE LARGE SUBUNIT (G2P) >gi|93748|pir||S24451 terminase - phage SPP1 >gi|7461905|pir||T42263 hypothetical protein - phage SPP1 >gi|15466|emb|CAA39537.1| (X56064) terminase [Bacteriophage SPP1] >gi|2764840|emb|CAA66573.1| (X97918) gene 2 [Bacteriophage SPP1]; putative terminase, large subunit - phage associated
+	[796428:797927:dir] This gene contains a sequence confirmed point mutation within the coding region
+	[797911:799536:dir] Best Blastp hit = pir||T13317 hypothetical protein 28 - Streptococcus phage phi-O1205 >gi|2444107|gb|AAC79543.1| (U88974) ORF28 [Streptococcus thermophilus temperate bacteriophage O1205]; conserved hypothetical protein - phage associated
+	[799527:799706:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[799766:800035:dir] Best Blastp hit = pir||T39494 kinesin-like protein - fission yeast (Schizosaccharomyces pombe) >gi|4376084|emb|CAA22353.1| (AL034433) kinesin-like protein [Schizosaccharomyces pombe]; hypothetical protein
+	[800125:800295:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[800424:800672:dir] Best Blastp hit = no blast hits; hypothetical protein
+	[800674:801420:dir] Best Blastp hit = emb|CAA73339.1| (Y12813) hypothetical protein [Lactobacillus casei bacteriophage A2] >gi|6599316|emb|CAB63662.1| (AJ251789) putative antirepressor [Lactobacillus casei bacteriophage A2]; putative antirepressor - phage associated
+	[801532:802065:dir] Best Blastp hit = dbj|BAB07248.1| (AP001519) unknown [Bacillus halodurans]; hypothetical protein - phage associated
+	[802075:802455:dir] Best Blastp hit = pir||T13319 probable structural protein - Streptococcus phage phi-O1205 >gi|2444109|gb|AAC79545.1| (U88974) ORF30 [Streptococcus thermophilus temperate bacteriophage O1205]; putative structural protein - phage associated
+<END>
+<GI> AE004092 AE006472-AE006638:6 <COORDINATES> 1205808-1228247 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.765904; n0_4mer:D = 23.455739; n0_4mer:PS = 40.352053
+	[1205808:1206269:rev] Best Blastp hit = gb|AAD17576.1| (AF068845) gp8 [Mycobacteriophage TM4]; conserved hypothetical protein - phage associated
+	[1206350:1207765:rev] Best Blastp hit = gb|AAD17572.1| (AF068845) putative terminase gp4 [Mycobacteriophage TM4]; conserved hypothetical protein - phage associated
+	[1207875:1208141:rev] Best Blastp hit = gb|AAA59489.1| (M27654) laminin B2 [Homo sapiens]; hypothetical protein
+	[1208134:1208394:rev] Best Blastp hit = no blast hits; hypothetical protein - phage associated
+	[1208363:1208587:rev] Best Blastp hit = no blast hits; hypothetical protein - phage associated
+	[1208593:1210086:rev] Best Blastp hit = gi|6755062 phosphoinositide kinase, fyve-containing [Mus musculus] >gi|6685475|sp|Q9Z1T6|FYV1_MOUSE FYVE FINGER-CONTAINING PHOSPHOINOSITIDE KINASE (1-PHOSPHATIDYLINOSITOL-4-PHOSPHATE KINASE) (PIP5K) (PTDINS(4)P-5-KINASE) (P235) >gi|7513655|pir||T18290 FYVE finger-containing phosphoinositide kinase - mouse >gi|4200446|gb|AAD10191.1| (AF102777) FYVE finger-containing phosphoinositide kinase [Mus musculus]; conserved hypothetical protein - phage associated
+	[1210079:1211347:rev] Best Blastp hit = gb|AAB18702.1| (U38906) Structural protein [Bacteriophage r1t]; putative structural protein - phage associated
+	[1211344:1211700:rev] Best Blastp hit = gi|9630188 unknown [Bacteriophage SPBc2] >gi|7519731|pir||T12827 hypothetical protein yonO - Bacillus subtilis phage SPBc2 >gi|2634524|emb|CAB14022.1| (Z99115) yonO [Bacillus subtilis] >gi|3025541|gb|AAC13036.1| (AF020713) unknown [Bacteriophage SPBc2]; hypothetical protein - phage associated
+	[1211849:1212193:rev] Best Blastp hit = gb|AAB18701.1| (U38906) ORF26 [Bacteriophage r1t]; conserved hypothetical protein - phage associated
+	[1212302:1212721:rev] Best Blastp hit = gi|9632461 unknown [Streptococcus thermophilus bacteriophage DT1] >gi|4530181|gb|AAD21921.1| (AF085222) unknown [Streptococcus thermophilus bacteriophage DT1]; conserved hypothetical protein - phage associated
+	[1212989:1213624:rev] Best Blastp hit = gb|AAF43132.1|AF208055_19 (AF208055) Orf230 [bacteriophage phi31.1]; conserved hypothetical protein - phage associated
+	[1213626:1213895:rev] Best Blastp hit = no blast hits; hypothetical protein - phage associated
+	[1213979:1214491:rev] Best Blastp hit = gi|9630627 m3 [bacteriophage bIL170] >gi|7514939|pir||T03369 gene m3 protein - Lactococcus phage bIL170 >gi|3282321|gb|AAC27240.1| (AF009630) m3 [bacteriophage bIL170]; conserved hypotehetical protein - phage associated
+	[1214488:1214901:rev] Best Blastp hit = no blast hits; hypothetical protein - phage associated
+	[1215006:1215803:rev] Best Blastp hit = no blast hits; hypothetical protein phage associated
+	[1215796:1215996:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1215993:1216982:rev] Best Blastp hit = dbj|BAB07262.1| (AP001519) phage-related protein [Bacillus halodurans]; putative recombinase - phage associated
+	[1216982:1217314:rev] Best Blastp hit = pir||E71481 probable swf/snf helicase - Chlamydia trachomatis (serotype D, strain UW3/Cx) >gi|3329163|gb|AAC68303.1| (AE001341) SWF/SNF family helicase [Chlamydia trachomatis]; hypothetical protein
+	[1217370:1217576:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1217722:1217955:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1217936:1218322:rev] Best Blastp hit = dbj|BAA11244.1| (D78182) ORF2 [Streptococcus mutans]; conserved hypothetical protein
+	[1218448:1218811:rev] This gene contains a sequence confirmed frameshift at the 5' end of the gene; Best Blast Hit = gi|12829835|gb|AAG15562.1| (AY007566) replication protein [Bacteriophage TP901-1]
+	[1218811:1218996:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1218998:1219309:rev] xis; Best Blastp hit = emb|CAB70621.1| (AJ243106) Xis [Streptococcus thermophilus]; putative excisionase
+	[1219579:1219791:rev] Best Blastp hit = emb|CAB53822.1| (AJ242593) putative repressor protein [Bacteriophage A118]; putative Cro-like repressor protein - phage associated
+	[1219993:1220748:dir] Best Blastp hit = gi|9635682 repressor [Staphylococcus aureus prophage phiPV83] >gi|8918752|dbj|BAA97812.1| (AB044554) repressor [Staphylococcus aureus prophage phiPV83]; putative repressor - phage associated
+	[1220760:1221278:dir] Best Blastp hit = sp|P40944|XYNA_CALSR ENDO-1,4-BETA-XYLANASE A PRECURSOR (XYLANASE A) (1,4-BETA-D-XYLAN XYLANOHYDROLASE A) >gi|631989|pir||S41788 endo-1,4-beta-xylanase (EC 3.2.1.8) - thermophilic bacterium RT8.B4 >gi|311189|gb|AAB42044.1| (L18965) xynA [Caldicellulosiruptor sp. Rt8B.4]; hypothetical protein - phage associated
+	[1221402:1222544:dir] int2; Best Blastp hit = gi|9635193 integrase [bacteriophage phi PVL] >gi|7444572|pir||T00162 integrase - Staphylococcus aureus phage phi PVL >gi|3341936|dbj|BAA31902.1| (AB009866) integrase [bacteriophage phi PVL]; putative integrase - phage associated
+	[1222632:1222907:rev] hlpA; Best Blastp hit = gb|AAD40809.1|L38959_1 (L38959) histone-like DNA-binding protein [Streptococcus sobrinus]; histone-like DNA-binding protein
+	[1223006:1223593:rev] Best Blastp hit = sp|P54179|YPMS_BACSU HYPOTHETICAL 21.1 KD PROTEIN IN ILVA 3'REGION >gi|7474681|pir||B69939 conserved hypothetical protein ypmS - Bacillus subtilis >gi|1256649|gb|AAA96643.1| (L77246) putative [Bacillus subtilis] >gi|2634593|emb|CAB14091.1| (Z99115) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[1223571:1224431:rev] Best Blastp hit = sp|P40766|YPMR_BACSU HYPOTHETICAL 28.9 KD PROTEIN IN ILVA 3'REGION >gi|7474680|pir||A69939 conserved hypothetical protein ypmR - Bacillus subtilis >gi|1256648|gb|AAA96642.1| (L77246) putative [Bacillus subtilis] >gi|2634594|emb|CAB14092.1| (Z99115) alternate gene name: yzjA; similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+	[1224406:1225245:rev] Best Blastp hit = emb|CAB66247.1| (AL136518) hypothetical protein SCC123.07c. [Streptomyces coelicolor A3(2)]; conserved hypothetical protein
+	[1225473:1226414:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1226586:1228247:rev] recN; Best Blastp hit = sp|P17894|RECN_BACSU DNA REPAIR PROTEIN RECN (RECOMBINATION PROTEIN N) >gi|98443|pir||B35128 DNA repair and genetic recombination protein recN - Bacillus subtilis >gi|143402|gb|AAA22691.1| (M30297) recombination protein (ttg start codon) [Bacillus subtilis] >gi|1303923|dbj|BAA12579.1| (D84432) RecN [Bacillus subtilis] >gi|2634858|emb|CAB14355.1| (Z99116) recN [Bacillus subtilis]; putative DNA repair and genetic recombination protein
+<END>
+<GI> AE004092 AE006472-AE006638:7 <COORDINATES> 1321685-1350612 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.698759; n0_4mer:D = 27.522765; n0_4mer:PS = 39.735083
+	[1321685:1324390:dir] Best Blastp hit = dbj|BAB04508.1| (AP001509) unknown conserved protein in others (divided) [Bacillus halodurans]; conserved hypothetical protein
+	[1324491:1325846:rev] Best Blastp hit = emb|CAC10171.1| (AJ278301) histidine kinase [Streptococcus pneumoniae]; putative two-component responsible histidine kinase
+	[1326511:1327866:rev] Best Blastp hit = dbj|BAB04616.1| (AP001510) RNA methyltransferase [Bacillus halodurans]; putative RNA methyltransferase
+	[1327981:1328757:dir] Best Blastp hit = pir||H69800 hypothetical protein yfhG - Bacillus subtilis >gi|2633176|emb|CAB12681.1| (Z99108) yfhG [Bacillus subtilis] >gi|2804537|dbj|BAA24473.1| (D85082) YfhG [Bacillus subtilis]; conserved hypothetical protein
+	[1328837:1329370:dir] Best Blastp hit = dbj|BAB04659.1| (AP001510) unknown conserved protein in B. subtilis [Bacillus halodurans]; conserved hypothetical protein
+	[1329740:1330018:dir] Best Blastp hit = gb|AAF61313.1| (U96166) unknown [Streptococcus cristatus]; conserved hypothetical protein
+	[1330450:1330521:rev] tRNA-Glu
+	[1330544:1330617:rev] tRNA-Ile
+	[1330653:1330725:rev] tRNA-Thr
+	[1330736:1330817:rev] tRNA-Leu
+	[1330823:1330895:rev] tRNA-Lys
+	[1330927:1330999:rev] tRNA-Asp
+	[1331017:1331089:rev] tRNA-Val
+	[1331310:1334212:rev] 23S ribosomal RNA
+	[1334508:1334583:rev] tRNA-Ala
+	[1334745:1336079:rev] 16S ribosomal RNA
+	[1337063:1337611:rev] The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = sp|P28368|YVYD_BACSU HYPOTHETICAL 22.0 KD PROTEIN IN FLIT-SECA INTERGENIC REGION >gi|2127111|pir||I40400 ribosomal protein S30AE family homolog yvyD - Bacillus subtilis >gi|499384|emb|CAA83251.1| (Z31376) orf189 [Bacillus subtilis] >gi|1762348|gb|AAC44956.1| (U56901) sigma-54 modulator homolog [Bacillus subtilis] >gi|2636057|emb|CAB15548.1| (Z99122) alternate gene name: yviI; similar to ribosomal protein S30AE family [Bacillus subtilis]; conserved protein - function unknown
+	[1337691:1338356:rev] comFC; Best Blastp hit = gb|AAB59015.1| (L14437) in Z18629, ORFX is called comForf3; ORFX; putative [Bacillus subtilis]; putative late competence protein
+	[1338328:1339653:rev] comFA; Best Blastp hit = dbj|BAB07345.1| (AP001519) late competence protein [Bacillus halodurans]; putative late competence protein required for DNA uptake
+	[1339709:1340341:dir] Best Blastp hit = dbj|BAB07349.1| (AP001519) unknown conserved protein [Bacillus halodurans]; conserved hypothetical protein
+	[1340469:1341410:dir] cysM; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = dbj|BAA88310.1| (AB028865) O-acetylserine lyase [Streptococcus suis]; putative O-acetylserine lyase
+	[1341428:1341805:rev] Best Blastp hit = sp|P80870|GS13_BACSU GENERAL STRESS PROTEIN 13 (GSP13) >gi|7447105|pir||H70010 polyribonucleotide nucleotidyltransferase homolog yugI - Bacillus subtilis >gi|1934792|emb|CAB07921.1| (Z93934) unknown [Bacillus subtilis] >gi|2635635|emb|CAB15128.1| (Z99120) similar to polyribonucleotide nucleotidyltransferase [Bacillus subtilis]; putative polyribonucleotide nucleotidyltransferase (general stress protein)
+	[1341805:1343205:rev] This gene appears tp be the results of a mutations leading to the fusion of 2 adjacent genes, a conserved hypothetical protein and peptidyl-prolyl cis-trans isomerase. There is no evidence that this fusion is the result of a sequencing artifact.; Best Blastp hit = gi|12723823|gb|AAK04990.1|AE006323_5 (AE006323) conserved hypothetical protein [Lactococcus lactis subsp. lactis]; gi|12723824|gb|AAK04991.1|AE006323_6 (AE006323) peptidyl-prolyl cis-trans isomerase [Lactococcus lactis subsp. lactis]
+	[1343242:1343883:rev] Best Blastp hit = dbj|BAB04919.1| (AP001511) two-component response regulator [Bacillus halodurans]; putative two-component response regulator
+	[1343876:1344880:rev] Best Blastp hit = dbj|BAB04918.1| (AP001511) two-component sensor histidine kinase [Bacillus halodurans]; putative two-component sensor histidine kinase
+	[1344877:1345620:rev] Best Blastp hit = dbj|BAB04917.1| (AP001511) unknown conserved protein in B. subtilis [Bacillus halodurans]; conserved hypothetical protein
+	[1345692:1347590:rev] Best Blastp hit = pir||H69878 probable protein kinase (EC 2.7.1.-) yloP - Bacillus subtilis >gi|2337806|emb|CAA74267.1| (Y13937) putative Pkn2 protein [Bacillus subtilis] >gi|2633949|emb|CAB13450.1| (Z99112) similar to protein kinase [Bacillus subtilis]; putative protein kinase
+	[1347587:1348327:rev] pppL; Best Blastp hit = pir||G69878 conserved hypothetical protein yloO - Bacillus subtilis >gi|2337805|emb|CAA74266.1| (Y13937) putative Ptc1 protein [Bacillus subtilis] >gi|2633948|emb|CAB13449.1| (Z99112) similar to hypothetical proteins [Bacillus subtilis]; putative phosphoprotein phosphatase
+	[1348365:1349687:rev] sunL; Best Blastp hit = dbj|BAB06226.1| (AP001515) unknown conserved protein [Bacillus halodurans]; putative RNA-binding Sun protein
+	[1349677:1350612:rev] fmt; Best Blastp hit = emb|CAA71350.1| (Y10304) Met-tRNAi formyl transferase [Bacillus subtilis]; putative methionyl tRNA formyltransferase
+<END>
+<GI> AE004092 AE006472-AE006638:8 <COORDINATES> 1569336-1595357 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.833506; n0_4mer:D = 28.790354; n0_4mer:PS = 47.137288
+	[1569336:1570940:rev] pyrG; Best Blastp hit = sp|P13242|PYRG_BACSU CTP SYNTHASE (UTP-AMMONIA LIGASE) (CTP SYNTHETASE) >gi|68632|pir||SYBSTP CTP synthase (EC 6.3.4.2) - Bacillus subtilis >gi|143597|gb|AAA16801.1| (M22039) CTP synthetase [Bacillus subtilis] >gi|853762|emb|CAA89870.1| (Z49782) CTP synthase [Bacillus subtilis] >gi|2636252|emb|CAB15743.1| (Z99123) CTP synthetase [Bacillus subtilis]; putative CTP synthetase
+	[1571197:1571772:rev] rpoE; Best Blastp hit = sp|P12464|RPOE_BACSU DNA-DIRECTED RNA POLYMERASE DELTA SUBUNIT >gi|80262|pir||JT0302 DNA-directed RNA polymerase (EC 2.7.7.6) delta chain rpoE - Bacillus subtilis >gi|143456|gb|AAA22710.1| (M21677) rpoE protein (ttg start codon) [Bacillus subtilis] >gi|853761|emb|CAA89869.1| (Z49782) RNA polymerase delta subunit [Bacillus subtilis] >gi|2636253|emb|CAB15744.1| (Z99123) RNA polymerase (delta subunit) [Bacillus subtilis]; putative DNA-directed RNA polymerase (delta subunit)
+	[1571989:1573272:rev] ropA; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = dbj|BAB06772.1| (AP001517) trigger factor (prolyl isomerase) [Bacillus halodurans]; transcription regulator - (trigger factor (prolyl isomerase))
+	[1573593:1574438:dir] Best Blastp hit = dbj|BAB06385.1| (AP001516) unknown conserved protein [Bacillus halodurans]; conserved hypothetical protein
+	[1574503:1575060:rev] Best Blastp hit = dbj|BAB07485.1| (AP001519) unknown conserved protein in B. subtilis [Bacillus halodurans]; conserved hypothetical protein
+	[1575077:1575547:rev] Best Blastp hit = pir||A71195 hypothetical protein PH1832 - Pyrococcus horikoshii >gi|3258269|dbj|BAA30952.1| (AP000007) 202aa long hypothetical protein [Pyrococcus horikoshii]; conserved hypothetical protein
+	[1575537:1576301:rev] thiD; Best Blastp hit = sp|O67772|THID_AQUAE PHOSPHOMETHYLPYRIMIDINE KINASE (HMP-PHOSPHATE KINASE) (HMP-P KINASE) >gi|7449914|pir||H70467 HMP-P kinase - Aquifex aeolicus >gi|2984203|gb|AAC07733.1| (AE000765) HMP-P kinase [Aquifex aeolicus]; putative phosphomethylpyrimidine kinase
+	[1576291:1577040:rev] truA; pseudouridylate synthase I; Best Blastp hit = sp|Q9Z9J0|TRUA_BACHD TRNA PSEUDOURIDINE SYNTHASE A (PSEUDOURIDYLATE SYNTHASE I) (PSEUDOURIDINE SYNTHASE I) (URACIL HYDROLYASE) >gi|11269487|pir||T44415 pseudouridylate synthase I truA [imported] - Bacillus halodurans >gi|4512436|dbj|BAA75303.1| (AB017508) truA homologue (identity of 62% to B. subtilis) [Bacillus halodurans] >gi|10172779|dbj|BAB03886.1| (AP001507) tRNA pseudouridine synthase A (pseudouridylate synthase I) [Bacillus halodurans]; putative tRNA pseudouridine synthase A
+	[1577225:1577776:rev] comX1.2; Best Blastp hit = emb|CAA46629.1| (X65713) ORF [Lactococcus lactis]; ComX1-like protein
+	[1577802:1577875:rev] tRNA-Arg
+	[1577955:1578028:rev] tRNA-Asn
+	[1578237:1581146:rev] 23S ribosomal RNA
+	[1581442:1581517:rev] tRNA-Ala
+	[1581679:1583013:rev] 16S ribosomal RNA
+	[1583503:1584576:rev] Best Blastp hit = sp|P73408|YI40_SYNY3 HYPOTHETICAL 39.2 KDA PROTEIN SLR1840 >gi|7449090|pir||S77345 hypothetical protein slr1840 - Synechocystis sp. (strain PCC 6803) >gi|1652527|dbj|BAA17448.1| (D90906) hypothetical protein [Synechocystis sp.]; conserved hypothetical protein
+	[1584927:1587905:dir] hsdR; Best Blastp hit = gi|10956196 type IC restriction subunit [Streptococcus thermophilus] >gi|6137147|gb|AAF04356.1| (AF177167) type IC restriction subunit [Streptococcus thermophilus]; putative type I site-specific deoxyribonuclease
+	[1587918:1589117:dir] hsdS; Best Blastp hit = gb|AAB53491.1| (U35629) unknown [Lactococcus lactis subsp. lactis]; putative type I site-specific deoxyribonuclease
+	[1589130:1590710:dir] hsdM; Best Blastp hit = gi|10956197 type IC modification subunit [Streptococcus thermophilus] >gi|11279435|pir||T44803 type I site-specific deoxyribonuclease (EC 3.1.21.3) chain hsdM [imported] - Streptococcus thermophilus plasmid pER35 >gi|6137148|gb|AAF04357.1| (AF177167) type IC modification subunit [Streptococcus thermophilus]; putative type I site-specific deoxyribonuclease
+	[1591263:1591868:rev] salR; Best Blastp hit = sp|P14204|COMA_BACSU COMPETENCE PROTEIN A >gi|72615|pir||RGBSCA regulatory protein comA - Bacillus subtilis >gi|142701|gb|AAA22320.1| (M22856) A competence protein 1 [Bacillus subtilis] >gi|1934772|emb|CAB07904.1| (Z93932) comAA [Bacillus subtilis] >gi|2635663|emb|CAB15156.1| (Z99120) two-component response regulator [Bacillus subtilis] >gi|10119872|dbj|BAB13494.1| (AB039951) ComA respons regulator [Bacillus subtilis]; putative response regulator of salavaricin regulon
+	[1591849:1593410:rev] salK; This gene contains a confirmed frameshift mutation; Best Blastp hit = gi|11245965|gb|AAG32541.1| (AY005472) SalK [Streptococcus salivarius]
+	[1593450:1595357:rev] salY; Best Blastp hit = pir||B70001 ABC transporter (permease) homolog ytsD - Bacillus subtilis >gi|2293178|gb|AAC00256.1| (AF008220) YtsD [Bacillus subtilis] >gi|2635521|emb|CAB15015.1| (Z99119) similar to ABC transporter (permease) [Bacillus subtilis]; putative ABC transporter (permease) associated with salivaricin lantibiotic
+<END>
+<GI> AE004092 AE006472-AE006638:9 <COORDINATES> 1644593-1663599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.495092; n0_4mer:D = 25.252310; n0_4mer:PS = 30.149836
+	[1644593:1645726:rev] msmK; Best Blastp hit = sp|P94360|MSMX_BACSU PROBABLE MULTIPLE SUGAR-BINDING TRANSPORT ATP-BINDING PROTEIN MSMX >gi|7442505|pir||B69661 multiple sugar-binding transport ATP-binding protein msmX - Bacillus subtilis >gi|1783246|dbj|BAA11723.1| (D83026) highly homologous to many ATP-binding transport proteins; hypothetical [Bacillus subtilis] >gi|2636416|emb|CAB15907.1| (Z99123) multiple sugar-binding transport ATP-binding protein [Bacillus subtilis]; multiple sugar-binding ABC transport system (ATP-binding protein)
+	[1646024:1646872:rev] lrp; Best Blastp hit = pir||H70080 conserved hypothetical protein yxkF - Bacillus subtilis >gi|1783245|dbj|BAA11722.1| (D83026) homologous to leucine rich protein (pir:s39972); hypothetical [Bacillus subtilis] >gi|2636417|emb|CAB15908.1| (Z99123) similar to hypothetical proteins [Bacillus subtilis]; leucine-rich protein
+	[1647232:1648554:dir] ska; Best Blastp hit = sp|P10520|STRP_STRPY STREPTOKINASE A PRECURSOR >gi|80048|pir||S02724 streptokinase A precursor - Streptococcus pyogenes (strain SF130/13) >gi|47436|emb|CAA31765.1| (X13399) streptokinase (AA 1 - 440) [Streptococcus pyogenes]; streptokinase A precursor
+	[1648652:1649095:rev] Best Blastp hit = gb|AAF82117.1|AF276071_1 (AF276071) conserved hypothetical protein [Thermus aquaticus]; conserved hypothetical protein
+	[1649110:1651341:rev] relA; Best Blastp hit = gb|AAC46041.1| (U86377) (p)ppGpp synthetase [Bacillus subtilis]; (p)ppGpp synthetase
+	[1651581:1652627:rev] scl; Best Blastp hit = gb|AAG30210.1|AF296330_1 (AF296330) collagen-like surface protein [Streptococcus pyogenes]; collagen-like surface protei
+	[1653009:1653491:dir] Best Blastp hit = emb|CAB70606.1| (Y18363) ribonucleotide reductase-like (Nrd-like) protein [Streptococcus dysgalactiae subsp. equisimilis]; putative ribonucleotide reductase (NrdI protein)
+	[1653885:1654703:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1654786:1656972:rev] Best Blastp hit = dbj|BAB04563.1| (AP001510) PTS system, glucose-specific enzyme II, A component [Bacillus halodurans]; putative PTS system, enzyme II, A component
+	[1657330:1658079:rev] Best Blastp hit = dbj|BAB05069.1| (AP001511) unknown conserved protein [Bacillus halodurans]; conserved hypothetical protein
+	[1658079:1659032:rev] Best Blastp hit = dbj|BAB05068.1| (AP001511) methyltransferase [Bacillus halodurans]; putative methyltransferase
+	[1659103:1659534:rev] Best Blastp hit = no blast hits; hypothetical protein
+	[1659773:1661530:dir] pabB; Best Blastp hit = pir||A71951 p-aminobenzoate synthetase - Helicobacter pylori (strain J99) >gi|4154803|gb|AAD05859.1| (AE001465) P-AMINOBENZOATE SYNTHETASE [Helicobacter pylori J99]; putative para-aminobenzoate synthetase
+	[1661563:1662129:dir] trpG; Best Blastp hit = sp|Q02003|TRPG_LACLA ANTHRANILATE SYNTHASE COMPONENT II (GLUTAMINE AMIDO-TRANSFERASE) >gi|421418|pir||S35125 anthranilate synthase (EC 4.1.3.27) beta chain - Lactococcus lactis subsp. lactis >gi|551880|gb|AAA25224.1| (M87483) anthranilate synthase beta subunit [Lactococcus lactis]; anthranilate synthase component II
+	[1662162:1663430:dir] Best Blastp hit = pir||D69981 conserved hypothetical protein yrvN - Bacillus subtilis >gi|2635199|emb|CAB14695.1| (Z99117) similar to hypothetical proteins [Bacillus subtilis] >gi|2635217|emb|CAB14712.1| (Z99118) similar to hypothetical proteins [Bacillus subtilis]; conserved hypothetical protein
+<END>
+<GI> AE004092 AE006472-AE006638:10 <COORDINATES> 1669322-1693088 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.544257; n0_4mer:D = 21.455496; n0_4mer:PS = 28.121574
+	[1669322:1670143:dir] dppC; Best Blastp hit = gb|AAC67219.1| (U78968) transmembrane transport protein DppC [Streptococcus pyogenes]; transmembrane transport protein
+	[1670155:1670958:dir] dppD; Best Blastp hit = gb|AAC67220.1| (U78968) ATPase protein DppD [Streptococcus pyogenes]; ATPase protein
+	[1670942:1671568:dir] dppE; Best Blastp hit = gb|AAC67221.1| (U78968) ATPase protein DppE [Streptococcus pyogenes]; ATPase protein
+	[1671649:1671849:rev] Best Blastp hit = emb|CAB61195.1| (AL132973) hypothetical protein SCF91.38c. [Streptomyces coelicolor A3(2)]; hypothetical protein
+	[1672018:1674495:rev] Best Blastp hit = gb|AAB58414.1| (AF000561) TTF-I interacting peptide 21; TIP21; Transcription Termination Factor I Interacting Peptide 21 [Homo sapiens]; hypothetical protein
+	[1674508:1675428:rev] lmb; Best Blastp hit = emb|CAA56617.1| (X80397) orf2 [Streptococcus pyogenes]; putative laminin adhesion
+	[1675664:1676803:rev] Best Blastp hit = emb|CAA56616.1| (X80397) orf1 [Streptococcus pyogenes]; hypothetical protein
+	[1676900:1680445:rev] scpA; Best Blastp hit = gb|AAB17762.1| (U56908) SCPB [Streptococcus agalactiae]; C5A peptidase precursor
+	[1680879:1682084:dir] Best Blastp hit = gb|AAC38767.1| (AF064540) putative transposase [Streptococcus pyogenes]; transposase - IS1562
+	[1682663:1683589:rev] sic; Best Blastp hit = gb|AAF64820.1|AF232356_1 (AF232356) Sic1.51 [Streptococcus pyogenes]; inhibitor of complement-mediated lysis
+	[1683778:1685232:rev] emm1; Best Blastp hit = pir||S35401 M1 protein precursor - Streptococcus pyogenes >gi|311758|emb|CAA44062.1| (X62131) M protein type 1 [Streptococcus pyogenes]; M protein type 1
+	[1685417:1687006:rev] mga; Best Blastp hit = pir||A42730 trans-acting positive regulator Mry - Streptococcus pyogenes (type M6, strain D471); M protein trans-acting positive regulator
+	[1687682:1687933:rev] Best Blastp hit = dbj|BAA36701.2| (AB016537) ORF [Streptococcus pyogenes]; hypothetical protein (mga-associated)
+	[1688012:1689637:rev] isp; Best Blastp hit = emb|CAB70620.1| (AJ243106) transfer protein [Streptococcus thermophilus]; immunogenic secreted protein precursor
+	[1689739:1691127:rev] Best Blastp hit = emb|CAB54575.1| (AJ006395) histidine kinase [Streptococcus pneumoniae]; putative histidine kinase
+	[1691124:1691777:rev] Best Blastp hit = sp|Q47744|VANR_ENTFA REGULATORY PROTEIN VANRB >gi|1209526|gb|AAB05622.1| (U35369) response regulator [Enterococcus faecalis]; putative two-component response regulator
+	[1691871:1693088:rev] Best Blastp hit = sp|P46324|YVRN_BACSU HYPOTHETICAL 45.1 KDA PROTEIN IN GERAC-FHUC INTERGENIC REGION >gi|2832801|emb|CAA11725.1| (AJ223978) YvrN protein [Bacillus subtilis]; putative ABC transporter (ATP-binding protein)
+<END>
+<GI> AE004092 AE006472-AE006638:11 <COORDINATES> 1727865-1750454 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.493550; n0_4mer:D = 29.109922; n0_4mer:PS = 34.797174
+	[1727865:1728068:rev] csp; Best Blastp hit = emb|CAA76697.1| (Y17216) cold shock protein D [Lactococcus lactis]; putative cold shock protein
+	[1728588:1728658:rev] tRNA-Cys
+	[1729064:1729624:dir] ahpC; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = dbj|BAA25695.1| (AB010712) alkyl hydroperoxidase [Streptococcus mutans]; putative alkyl hydroperoxidase
+	[1729645:1731177:dir] nox1; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = dbj|BAA25696.1| (AB010712) NADH oxidase/alkyl hydroperoxidase reductase [Streptococcus mutans]; putative NADH oxidase/alkyl hydroperoxidase reductase
+	[1731235:1732521:rev] hutI; Best Blastp hit = dbj|BAB05703.1| (AP001513) imidazolonepropionase (imidazolone-5-propionate hydrolase) [Bacillus halodurans]; putative imidazolonepropionase (imidazolone-5-propionate hydrolase)
+	[1732792:1734822:dir] hutU; Best Blastp hit = emb|CAB61139.1| (AL132952) predicted using Genefinder; contains similarity to Pfam domain: PF01175 (Urocanase), Score=350.6, E-value=5.7e-102, N=1; cDNA EST yk156d6.5 comes from this gene; cDNA EST yk155e6.5 comes from this gene; cDNA EST yk155e6.3 comes from this gene; cD>; putative urocanate hydratase
+	[1734911:1735810:dir] Best Blastp hit = pir||D72326 hypothetical protein TM0843 - Thermotoga maritima (strain MSB8) >gi|4981376|gb|AAD35925.1|AE001751_5 (AE001751) formiminotransferase- cyclodeaminase/formiminotetrahydrofolate cyclodeaminase, putative [Thermotoga maritima]; putative formiminotransferase cyclodeaminase
+	[1735821:1736447:dir] Best Blastp hit = sp|Q49135|SCE4_METEX PUTATIVE SERINE CYCLE ENZYME (ORF4) >gi|1073166|pir||A55230 hypothetical protein (mtkA 5' region) - Methylobacterium extorquens >gi|694120|gb|AAA62653.1| (L33465) methenyl tetrahydrofolate cyclohydrolase [Methylobacterium extorquens]; putative serine cycle enzyme
+	[1736465:1738138:dir] fhs.2; Best Blastp hit = sp|P21164|FTHS_MOOTH FORMATE-TETRAHYDROFOLATE LIGASE (FORMYLTETRAHYDROFOLATE SYNTHETASE) (FHS) (FTHFS) >gi|98640|pir||A35942 formate-tetrahydrofolate ligase (EC 6.3.4.3) - Clostridium thermaceticum >gi|144816|gb|AAA23240.1| (J02911) formyltetrahydrofolate synthetase (FTHFS) (ttg start codon) (EC 6.3.4.3) [Moorella thermoacetica]; putative formate-tetrahydrofolate ligase
+	[1738160:1738756:dir] Best Blastp hit = gi|10954689 similar to unknown gene next to hutR gene in Pseudomonas putida [Agrobacterium rhizogenes] >gi|8918689|dbj|BAA97754.1| (AB039932) similar to unknown gene next to hutR gene in Pseudomonas putida [Agrobacterium rhizogenes] >gi|10567353|dbj|BAB16162.1| (AP002086) similar to unknown gene next to hutR gene in Pseudomonas putida [Agrobacterium rhizogenes]; hypothetical protein
+	[1738976:1740319:dir] Best Blastp hit = pir||B69172 cationic amino acid transporter related protein - Methanobacterium thermoautotrophicum (strain Delta H) >gi|2621621|gb|AAB85052.1| (AE000837) cationic amino acid transporter related protein [Methanobacterium thermoautotrophicum]; putative cationic amino acid transporter protein
+	[1740330:1741871:dir] hutH; Best Blastp hit = sp|P10944|HUTH_BACSU HISTIDINE AMMONIA-LYASE (HISTIDASE) >gi|68358|pir||UFBSHS histidine ammonia-lyase (EC 4.3.1.3) - Bacillus subtilis >gi|143076|gb|AAA22538.1| (M20659) histidase [Bacillus subtilis] >gi|603770|dbj|BAA06644.1| (D31856) histidase [Bacillus subtilis] >gi|2636481|emb|CAB15971.1| (Z99124) histidase [Bacillus subtilis]; putative histidine ammonia-lyase
+	[1742057:1743043:dir] hutG; Best Blastp hit = gb|AAG06563.1|AE004741_8 (AE004741) probable arginase family protein [Pseudomonas aeruginosa]; putative formiminoglutamate hydrolase
+	[1743074:1746148:rev] Best Blastp hit = pir||T35822 probable regulatory protein - Streptomyces coelicolor >gi|4467257|emb|CAB37582.1| (AL035569) putative regulatory protein [Streptomyces coelicolor A3(2)]; putative regulatory protein
+	[1746452:1747219:dir] rpsB; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = sp|P49668|RS2_PEDAC 30S RIBOSOMAL PROTEIN S2 >gi|897795|emb|CAA50276.1| (X70925) 30S ribosomal protein [Pediococcus acidilactici]; 30S ribosomal protein S2
+	[1747353:1748393:dir] tsf; The N-terminal amino acid sequence of this ORF has been determined from a spot isolated by 2-D gel electrophoresis from another strain of S. pyogenes. Hogan, D. A., Whitton, M. M., Rogers, J. and R. A. VanBogelen. 2000. Two-dimensional gel electrophoresis map of Streptococcus pyogenes proteins. Unpublished data.; Best Blastp hit = emb|CAB73435.1| (AL139077) elongation factor TS [Campylobacter jejuni]; putative elongation factor TS
+	[1748559:1750454:rev] pepO; Best Blastp hit = gb|AAD40473.1|AF116532_1 (AF116532) endopeptidase O [Streptococcus parasanguinis]; putative endopeptidase O
+<END>

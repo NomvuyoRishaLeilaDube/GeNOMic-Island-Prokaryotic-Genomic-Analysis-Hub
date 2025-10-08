@@ -1,0 +1,46 @@
+<GI> CP003362:1 <COORDINATES> 1191939-1212217 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.063330; n0_4mer:D = 37.165699; n0_4mer:PS = 49.966853
+	[1191939:1192874:rev] IMG reference gene:2509662835; archaeal serine protease
+	[1192899:1193222:rev] IMG reference gene:2509662836; hypothetical protein
+	[1193233:1193784:rev] IMG reference gene:2509662837; Telomeric repeat-binding factor 2
+	[1193854:1194171:rev] IMG reference gene:2509662838; hypothetical protein
+	[1194285:1194449:dir] IMG reference gene:2509662839; hypothetical protein
+	[1194427:1194675:dir] IMG reference gene:2509662840; hypothetical protein
+	[1194681:1194878:dir] IMG reference gene:2509662841; hypothetical protein
+	[1194995:1195153:dir] IMG reference gene:2509662842; hypothetical protein
+	[1195341:1195658:dir] IMG reference gene:2509662843; transcription initiation factor TFIIIB, Brf1 subunit/transcription initiation factor TFIIB
+	[1195827:1196168:dir] IMG reference gene:2509662844; hypothetical protein
+	[1196184:1196447:dir] IMG reference gene:2509662845; hypothetical protein
+	[1196462:1196776:dir] IMG reference gene:2509662846; hypothetical protein
+	[1196773:1197147:dir] IMG reference gene:2509662847; hypothetical protein
+	[1197153:1198037:dir] TIGRFAM: phage recombination protein Bet; phage recombination protein Bet
+	[1198190:1198372:dir] IMG reference gene:2509662849; hypothetical protein
+	[1198369:1198557:dir] IMG reference gene:2509662850; hypothetical protein
+	[1198558:1199121:dir] IMG reference gene:2509662851; hypothetical protein
+	[1199394:1199600:dir] IMG reference gene:2509662852; hypothetical protein
+	[1199587:1200006:dir] TIGRFAM: phage uncharacterized protein TIGR01671; phage uncharacterized protein TIGR01671
+	[1200003:1200173:dir] IMG reference gene:2509662854; hypothetical protein
+	[1200170:1200442:dir] IMG reference gene:2509662855; hypothetical protein
+	[1200607:1201059:dir] IMG reference gene:2509662856; hypothetical protein
+	[1201056:1201430:dir] IMG reference gene:2509662857; hypothetical protein
+	[1201427:1201627:dir] IMG reference gene:2509662858; hypothetical protein
+	[1201624:1202073:dir] IMG reference gene:2509662859; hypothetical protein
+	[1202018:1204546:dir] TIGRFAM: intein N-terminal splicing region; intein C-terminal splicing region; phage uncharacterized protein (putative large terminase), C-terminal domain; putative phage protein, putative large terminase
+	[1204549:1204782:dir] IMG reference gene:2509662861; hypothetical protein
+	[1204899:1205090:dir] IMG reference gene:2509662862; hypothetical protein
+	[1205098:1206345:dir] IMG reference gene:2509662863; hypothetical protein
+	[1206435:1206728:dir] IMG reference gene:2509662864; hypothetical protein
+	[1206728:1208086:dir] IMG reference gene:2509662865; hypothetical protein
+	[1208091:1208459:dir] IMG reference gene:2509662866; hypothetical protein
+	[1208475:1209332:dir] TIGRFAM: phage putative head morphogenesis protein, SPP1 gp7 family; phage putative head morphogenesis protein, SPP1 gp7 family
+	[1209329:1209547:rev] IMG reference gene:2509662868; hypothetical protein
+	[1209611:1210570:dir] IMG reference gene:2509662869; hypothetical protein
+	[1210570:1211034:dir] IMG reference gene:2509662870; hypothetical protein
+	[1211042:1211962:dir] IMG reference gene:2509662871; Encapsulating protein for peroxidase
+	[1211978:1212217:dir] IMG reference gene:2509662872; hypothetical protein
+<END>
+<GI> CP003362:2 <COORDINATES> 2423725-2580599 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.593002; n0_4mer:D = 53.691357; n0_4mer:PS = -0.687002
+	[2423725:2424621:dir] PFAM: FTR, proximal lobe; lobe; TIGRFAM: formylmethanofuran--tetrahydromethanopterin N-formyltransferase; formylmethanofuran--tetrahydromethanopterin N-formyltransferase
+	[2424667:2426079:rev] PFAM: TraB family; TIGRFAM: pheromone shutdown-related protein TraB; pheromone shutdown-related protein TraB
+	[2426170:2427270:rev] PFAM: CBS domain; Peptidase family M50; Zn-dependent protease
+	[2427599:2428762:rev] PFAM: Pyridoxal-dependent decarboxylase conserved domain; TIGRFAM: tyrosine decarboxylase MnfA; IMG reference gene:2509661692_SP; tyrosine decarboxylase MnfA
+<END>

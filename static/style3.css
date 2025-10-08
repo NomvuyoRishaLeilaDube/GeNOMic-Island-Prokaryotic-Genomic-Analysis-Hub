@@ -1,0 +1,134 @@
+/* ---------- General Styles ---------- */
+body {
+    background-color: #e8fce8;
+    color: black;
+    font-family: Arial, sans-serif;
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* center everything by default */
+}
+
+.content-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ---------- Titles ---------- */
+h1, h2, h3 {
+    text-align: center;
+    color: black;
+}
+
+/* ---------- Breadcrumb ---------- */
+.breadcrumb {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.breadcrumb a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+/* ---------- Table ---------- */
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background: #a8dba8;
+}
+
+/* ---------- Buttons ---------- */
+button.domain-button {
+    padding: 40px 60px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 20px;
+}
+button.archaea {
+    background-color: #a8dba8;
+}
+button.bacteria {
+    background-color: #80c0ff;
+}
+
+/* ---------- Forms ---------- */
+form {
+    margin-bottom: 20px;
+}
+
+/* ---------- Preformatted Text for FASTA/OUT ---------- */
+pre {
+    display: block;
+    text-align: left;
+    border: 2px solid black;
+    padding: 10px;
+    background: #e8fce8;
+    max-width: 100%;
+    overflow-x: auto; /* allow horizontal scroll if sequence is long */
+    white-space: pre-wrap; /* wrap lines to fit */
+    word-wrap: break-word;
+}
+
+/* ---------- SVG ---------- */
+svg {
+    max-width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
+
+/* ---------- Archaea Borders ---------- */
+body.archaea {
+    background-image: 
+        url('/static/images/archaea-top.png'),
+        url('/static/images/archaea-bottom.png'),
+        url('/static/images/archaea-left.png'),
+        url('/static/images/archaea-right.png');
+    background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: top left, bottom left, left top, right top;
+    background-size: auto 8vh, auto 8vh, 8vw auto, 8vw auto;
+    background-attachment: fixed;
+    padding: 10vh 10vw;
+    animation: floatBorders 10s infinite alternate ease-in-out;
+}
+
+@keyframes floatBorders {
+    0% {
+        background-position: top left, bottom left, left top, right top;
+    }
+    100% {
+        background-position: top 5px left, bottom 5px left, left 5px top, right 5px top;
+    }
+}
+
+/* ---------- Bacteria Borders ---------- */
+body.bacteria {
+    background-image: url('/static/images/bacteria-left.png'), url('/static/images/bacteria-right.png');
+    background-repeat: no-repeat, no-repeat;
+    background-position: left top, right top;
+    background-size: 150px auto, 150px auto;
+}
+
+/* ---------- Responsive ---------- */
+@media screen and (max-width: 768px) {
+    table { width: 95%; }
+    button.domain-button { padding: 20px 40px; font-size: 20px; }
+    pre { font-size: 14px; }
+}

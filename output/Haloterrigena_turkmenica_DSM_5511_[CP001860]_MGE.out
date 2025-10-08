@@ -1,0 +1,64 @@
+<GI> CP001860:1 <COORDINATES> 375459-398299 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.639003; n0_4mer:D = 34.478356; n0_4mer:PS = 22.493605
+	[375459:378383:dir] KEGG: predicted protein; K03006 DNA-directed RNA polymerase II subunit A; TIGRFAM: DNA-directed RNA polymerase subunit A'; PFAM: RNA polymerase Rpb1 domain 1; RNA polymerase alpha subunit; RNA polymerase Rpb1 domain 3; RNA polymerase Rpb1 domain 4; SMART: RNA polymerase I subunit A domain protein; DNA-directed RNA polymerase subunit A'
+	[378376:379569:dir] TIGRFAM: DNA-directed RNA polymerase, subunit A''; PFAM: RNA polymerase Rpb1 domain 5; KEGG: similar to AGAP004703-PA; K03018 DNA- directed RNA polymerase III subunit C1; DNA-directed RNA polymerase, subunit A''
+	[379573:380013:dir] TIGRFAM: NusA family KH domain protein; PFAM: KH type 2 domain protein; KEGG: nam:NAMH_0269 transcription termination factor NusA; NusA family KH domain protein
+	[380366:381877:dir] PFAM: Aldehyde Dehydrogenase; KEGG: pcr:Pcryo_1015 aldehyde dehydrogenase; Aldehyde Dehydrogenase
+	[381944:382597:rev] KEGG: mxa:MXAN_6755 hypothetical protein; hypothetical protein
+	[382971:383399:dir] TIGRFAM: ribosomal protein S23 (S12); PFAM: ribosomal protein S12/S23; KEGG: 40S ribosomal protein S23; K02973 small subunit ribosomal protein S23e; ribosomal protein S23 (S12)
+	[383402:384010:dir] TIGRFAM: ribosomal protein S7; PFAM: ribosomal protein S7; KEGG: RPS5; Ribosomal protein S5, component of cytosolic 80S ribosome and 40S small subunit; K02989 small subunit ribosomal protein S5e; ribosomal protein S7
+	[384077:384256:rev] 
+	[384321:386324:rev] hypothetical protein
+	[386464:387093:dir] KEGG: bph:Bphy_3958 two component transcriptional regulator; response regulator receiver protein
+	[387375:389438:rev] hypothetical protein
+	[389515:390240:rev] hypothetical protein
+	[390371:391141:rev] hypothetical protein
+	[391479:393665:dir] TIGRFAM: translation elongation factor aEF-2; small GTP-binding protein; PFAM: protein synthesis factor GTP-binding; elongation factor G domain protein; elongation factor Tu domain 2 protein; elongation factor G domain IV; KEGG: translation elongation factor EF-2 subunit; K03234 elongation factor EF-2; translation elongation factor aEF-2
+	[393923:395302:rev] KEGG: geo:Geob_1192 seryl-tRNA synthetase; TIGRFAM: seryl-tRNA synthetase; PFAM: tRNA synthetase class II (G H P and S); Seryl- tRNA synthetase, class IIa-like; seryl-tRNA synthetase
+	[395443:396657:dir] PFAM: TrkA-C domain protein; PhoU family protein; KEGG: dps:DP2627 hypothetical protein; TrkA-C domain protein
+	[396671:396811:rev] hypothetical protein
+	[397190:398299:dir] PFAM: short-chain dehydrogenase/reductase SDR; KR domain protein; KEGG: bam:Bamb_5638 short chain dehydrogenase; short-chain dehydrogenase/reductase SDR
+<END>
+<GI> CP001860:2 <COORDINATES> 3883941-4266599 <STAT> n1_4mer:GRV/n1_4mer:RV = 9.776610; n0_4mer:D = 42.916358; n0_4mer:PS = -0.721031
+	[3883941:3884375:dir] PFAM: CBS domain containing protein; SMART: CBS domain containing protein; KEGG: tbd:Tbd_1388 hypothetical protein; putative signal transduction protein with CBS domains
+	[3884564:3885346:rev] hypothetical protein
+	[3885494:3885589:rev] hypothetical protein
+	[3885698:3886741:rev] PFAM: Protein of unknown function DUF2072, Zinc- ribbon; KEGG: GF16440 gene product from transcript GF16440- RA; Protein of unknown function DUF2072, Zinc- ribbon
+	[3886741:3887142:rev] PFAM: conserved hypothetical protein; conserved hypothetical protein
+	[3887149:3887787:rev] KEGG: gsu:GSU2226 GTP-binding protein Era; TIGRFAM: small GTP-binding protein; PFAM: GTP-binding protein HSR1-related; SMART: AAA ATPase; small GTP-binding protein
+<END>
+<GI> CP001860:3 <COORDINATES> 4562000-4588599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.704102; n0_4mer:D = 36.747340; n0_4mer:PS = 23.755038
+
+<END>
+<GI> CP001860:4 <COORDINATES> 4953500-5165599 <STAT> n1_4mer:GRV/n1_4mer:RV = 10.415676; n0_4mer:D = 42.868341; n0_4mer:PS = -0.701232
+
+<END>
+<GI> CP001860:5 <COORDINATES> 5259500-5302599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.144569; n0_4mer:D = 37.614281; n0_4mer:PS = 24.938914
+
+<END>
+<GI> CP001860:6 <COORDINATES> 5304000-5328099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.556886; n0_4mer:D = 33.349546; n0_4mer:PS = 37.324887
+
+<END>
+<GI> CP001860:7 <COORDINATES> 5333500-5377599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.528090; n0_4mer:D = 39.744957; n0_4mer:PS = 25.304982
+
+<END>
+<GI> CP001860:8 <COORDINATES> 5564500-5680099 <STAT> n1_4mer:GRV/n1_4mer:RV = 8.309840; n0_4mer:D = 41.318074; n0_4mer:PS = 4.785797
+
+<END>
+<GI> CP001860:9 <COORDINATES> 5738000-5763099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.635775; n0_4mer:D = 39.966955; n0_4mer:PS = 28.391095
+
+<END>
+<GI> CP001860:10 <COORDINATES> 5769500-5791599 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.458694; n0_4mer:D = 38.726455; n0_4mer:PS = 24.414667
+
+<END>
+<GI> CP001860:11 <COORDINATES> 5824000-5935099 <STAT> n1_4mer:GRV/n1_4mer:RV = 8.737778; n0_4mer:D = 42.784507; n0_4mer:PS = -0.634877
+
+<END>
+<GI> CP001860:12 <COORDINATES> 6092000-6150599 <STAT> n1_4mer:GRV/n1_4mer:RV = 10.892388; n0_4mer:D = 42.701240; n0_4mer:PS = -0.639248
+
+<END>
+<GI> CP001860:13 <COORDINATES> 6167500-6187099 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.225694; n0_4mer:D = 37.931663; n0_4mer:PS = 29.087587
+
+<END>
+<GI> CP001860:14 <COORDINATES> 6207000-6238499 <STAT> n1_4mer:GRV/n1_4mer:RV = 10.845938; n0_4mer:D = 42.054574; n0_4mer:PS = -0.312955
+
+<END>

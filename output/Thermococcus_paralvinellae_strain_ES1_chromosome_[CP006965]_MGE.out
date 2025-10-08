@@ -1,0 +1,218 @@
+<GI> CP006965:1 <COORDINATES> 95431-127683 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.139257; n0_4mer:D = 38.779678; n0_4mer:PS = 35.474198
+	[95431:96129:dir] Hypothetical protein
+	[96132:97655:dir] COG1226; Hypothetical protein
+	[97711:98838:dir] COG3199; hypothetical protein
+	[98876:99988:rev] COG0409; [NiFe] hydrogenase metallocenter assembly protein HypD
+	[99991:100215:rev] COG0298; [NiFe] hydrogenase metallocenter assembly protein HypC
+	[100439:100990:dir] COG1309; Transcriptional regulator, TetR family
+	[101356:103419:dir] COG0243; Formate dehydrogenase subunit alpha
+	[103425:103922:dir] Oxidoreductase 4Fe-4S ferredoxin
+	[103936:105387:dir] COG1009; hydrogenase 4 subunit D
+	[105394:107370:dir] COG0651; Hydrogenase 4, component B or formate hydrogen lyase subunit 3
+	[107381:108283:dir] COG0650; Hydrogenase 4, component C or formate hydrogen lyase subunit 4
+	[108287:110038:dir] COG3261; Hydrogenase 4, component G or formate hydrogen lyase subunit 5
+	[110038:110655:dir] COG1143; Formate hydrogen lyase subunit 6
+	[110652:111452:dir] COG3260; Hydrogenase 4, component I or formate hydrogen lyase subunit 7
+	[111403:111708:dir] Hypothetical protein
+	[111713:111997:dir] COG2212; Na+/H+ antiporter subunit MnhF
+	[111994:112347:dir] COG1320; Na+/H+ antiporter subunit MnhG
+	[112340:112594:dir] COG1563; Hypothetical protein
+	[112595:113368:dir] COG2111; Na+/H+ antiporter subunit MnhB
+	[113365:113757:dir] COG1006; Na+/H+ antiporter subunit MnhC
+	[113754:114239:dir] COG1863; Na+/H+ antiporter subunit MnhE
+	[114250:115815:dir] COG0651; Na+/H+ antiporter subunit MnhD
+	[115841:116260:dir] COG1708; Nucleotidyltransferase
+	[116398:118536:dir] COG0614; Vitamin B12 ABC transporter B12-binding component
+	[118539:119585:dir] COG0609; Vitamin B12 ABC transporter Premease component
+	[119578:120351:dir] COG1120; Vitamin B13 ABC transporter ATPase component
+	[120348:124106:dir] COG1429; CobN-like cobalt chelatase
+	[124082:126004:dir] COG1239; magnesium chelatase subunit Chll
+	[126009:126599:dir] COG3366; Hypothetical protein
+	[126569:126922:dir] COG3366; Hypothetical protein
+	[126919:127683:rev] COG0171; NAD synthase
+<END>
+<GI> CP006965:2 <COORDINATES> 188439-217291 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.742787; n0_4mer:D = 27.982258; n0_4mer:PS = 48.288464
+	[188439:189440:dir] COG0460; homoserine dehydrogenase
+	[189486:190013:dir] Hypothetical protein
+	[190006:190635:rev] COG1779; Hypothetical protein
+	[190701:191102:rev] COG2450; Hypothetical protein
+	[191154:191942:rev] Hypothetical protein
+	[191902:192183:rev] COG1429; Hypothetical protein
+	[192493:193269:dir] COG2106; Hypothetical protein
+	[193271:194311:dir] COG0087; 50S ribosomal protein L3e
+	[194322:195089:dir] COG0088; 50S ribosomal protein L1e
+	[195096:195356:dir] COG0089; 50S ribosomal protein L23Ae
+	[195368:196087:dir] COG0090; 50S ribosomal protein L8e
+	[196098:196496:dir] COG0185; 30S ribosomal protein S15e
+	[196507:196977:dir] COG0091; 50S ribosomal protein L17e
+	[196982:197605:dir] COG0092; 30S ribosomal protein S3P
+	[197602:197802:dir] COG0255; 50S ribosomal protein L35e
+	[197809:198105:dir] COG0023; Translation initiation factor SUI1-like protein
+	[198102:198368:dir] COG1588; Ribonuclease P component 1
+	[198365:198700:dir] COG0186; 30S ribosomal protein S11e
+	[198706:199140:dir] COG0093; 50S ribosomal protein L14
+	[199151:199513:dir] COG0198; 50S ribosomal protein L26e
+	[199516:200262:dir] COG1471; 30S ribosomal protein S4e
+	[200274:200825:dir] COG0094; 50S ribosomal protein L11e
+	[200829:200999:dir] COG0199; 30S ribosomal protein S14P
+	[201011:201403:dir] COG0096; 30S ribosomal protein S15Ae
+	[201414:201968:dir] COG0097; 50S ribosomal protein L6
+	[201979:202359:dir] COG1717; 50S ribosomal protein L32e
+	[202365:202808:dir] COG2147; 50S ribosomal protein L19e
+	[202814:203419:dir] COG0256; 50S ribosomal protein L5e
+	[203416:204123:dir] COG0098; 30S ribosomal protein S2e
+	[204135:204602:dir] COG1841; 50S ribosomal protein L7e
+	[204613:205056:dir] COG0200; 50S ribosomal protein L15
+	[205090:206478:dir] COG0201; preprotein translocase subunit SecY
+	[206578:207168:dir] COG2019; adenylate kinase
+	[207161:207682:dir] COG1422; Hypothetical protein
+	[207730:207999:dir] COG2174; 50S ribosomal protein L34e
+	[208028:208597:dir] COG1102; cytidylate kinase
+	[208611:208862:dir] COG2163; 50S ribosomal protein L14e
+	[208918:209625:dir] COG0300; short-chain alcohol dehydrogenase
+	[209686:210690:dir] COG0130; H/ACA RNA-protein complex component Cbf5p
+	[212004:212090:dir] tRNA-Ser
+	[212130:212576:dir] COG0099; 30S ribosomal protein S13p
+	[212587:213132:dir] COG0522; 30S ribosomal protein S4
+	[213129:213539:dir] COG0100; 30S Ribosomal protein S11
+	[213573:214349:dir] COG0202; DNA-directed RNA polymerase subunit D
+	[214357:214444:dir] tRNA-Leu
+	[214495:214857:dir] COG1727; 50S ribosomal protein L18e
+	[214864:215292:dir] COG0102; 50S Ribosomal protein L13A
+	[215303:215710:dir] COG0103; 30S Ribosomal protein S9
+	[215770:215967:dir] COG1644; DNA-directed RNA polymerase subunit N
+	[215987:216064:dir] tRNA-Pro
+	[216086:216259:dir] COG1758; DNA-directed RNA polymerase subunit K
+	[216266:217291:dir] COG0148; Enolase 1
+<END>
+<GI> CP006965:3 <COORDINATES> 301782-319615 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.497089; n0_4mer:D = 24.057636; n0_4mer:PS = 40.187599
+	[301782:303287:dir] COG1003; glycine dehydrogenase
+	[303460:303537:rev] tRNA-Met
+	[303548:303623:rev] tRNA-Asn
+	[303995:304237:dir] COG2995; Hypothetical protein
+	[304342:304418:dir] tRNA-Thr
+	[304430:304507:dir] tRNA-Pro
+	[304527:304603:dir] tRNA-Thr
+	[304829:305077:dir] COG2012; DNA-directed RNA polymerase subunit H
+	[305095:308451:dir] COG0085; DNA-directed RNA polymerase subunit B
+	[308457:311192:dir] COG0086; DNA-directed RNA polymerase subunit A'
+	[311198:312382:dir] COG0086; DNA-directed RNA polymerase subunit A''
+	[312396:312701:dir] COG1911; 50S ribosomal protein L30e
+	[312701:313138:dir] COG0195; transcription elongation factor NusA-like protein
+	[313149:313592:dir] COG0048; 30S Ribosomal protein S23e
+	[313598:314245:dir] COG0049; 30S Ribosomal protein S5e
+	[314316:315437:rev] COG1524; putative alkaline phosphodiesterase I
+	[315532:316764:rev] COG1602; Hypothetical protein
+	[316843:316929:dir] tRNA-Ser
+	[316952:317026:dir] tRNA-Cys
+	[317277:318323:rev] COG0498; Threonine synthase
+	[318394:319224:dir] COG2820; uridine phosphorylase
+	[319370:319447:rev] tRNA-Gly
+	[319538:319615:dir] tRNA-Arg
+<END>
+<GI> CP006965:4 <COORDINATES> 471394-494190 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.584461; n0_4mer:D = 25.565418; n0_4mer:PS = 39.359240
+	[471394:472437:dir] COG0473; 3-isopropylmalate dehydrogenase
+	[472533:472694:dir] COG2995; Lysine biosynthesis protein LysW
+	[472727:473548:dir] COG0189; Lysine biosynthesis protein LysX
+	[473545:474537:dir] COG0002; N-acetyl-gamma-glutamyl-phosphate reductase
+	[474549:475277:dir] COG0548; acetylglutamate/acetylaminoadipate kinase
+	[475274:476371:dir] COG4992; acetylornithine/acetyl-lysine aminotransferase
+	[476358:477341:dir] COG0624; acetyl-lysine deacetylase
+	[477327:478052:rev] COG0546; Hypothetical protein containing HAD-like domain
+	[478036:479055:rev] COG0079; histidinol-phosphate transaminase
+	[479052:479678:rev] COG0139; bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+	[479684:480439:rev] COG0107; imidazole glycerol phosphate synthase subunit HisF
+	[480433:481122:rev] COG0106; 1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+	[481124:481711:rev] COG0118; imidazole glycerol phosphate synthase
+	[481711:482241:rev] COG0131; imidazoleglycerol-phosphate dehydratase
+	[482238:483371:rev] COG0141; histidinol dehydrogenase
+	[483361:483978:rev] COG0040; ATP phosphoribosyltransferase catalytic subunit
+	[483975:484865:rev] COG0124; ATP phosphoribosyltransferase regulatory subunit
+	[485135:485923:rev] COG4047; N-glycosylase/DNA lyase
+	[485926:486897:rev] COG1907; GHMP kinase
+	[487057:487881:dir] COG0294; dihydropteroate synthase
+	[488149:489018:dir] COG2810; Hypothetical protein
+	[489015:489803:rev] COG1409; lacZ expression regulatory protein
+	[489800:490531:rev] COG1409; lacZ expression regulatory protein
+	[490636:491442:rev] COG3535; Hypothetical protein
+	[491468:492589:rev] COG3839; multiple sugar-binding transport ATP-binding protein
+	[492596:493435:rev] COG0395; multiple sugar-binding transport inner membrane protein
+	[493447:494190:rev] COG1175; multiple sugar-binding transport inner membrane protein
+<END>
+<GI> CP006965:5 <COORDINATES> 954500-979861 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.592773; n0_4mer:D = 45.845898; n0_4mer:PS = 34.993706
+	[957962:958219:dir] COG1343; CRISPR-associated protein Cas1-like protein
+	[958216:959184:rev] COG1518; CRISPR-associated protein Cas1-like protein
+	[959407:959643:dir] COG0577; Hypothetical protein
+	[959640:960494:dir] COG5022; Hypothetical protein
+	[960656:961168:rev] COG1468; CRISPR-associated RecB family exonuclease Cas4a
+	[961239:961589:rev] COG1203; Hypothetical protein
+	[961855:964907:rev] 23S ribosomal RNA
+	[965056:965132:rev] tRNA-Ala
+	[965188:966680:rev] 16S ribosomal RNA
+	[967048:967902:rev] COG0462; ribose-phosphate pyrophosphokinase
+	[967915:968613:rev] COG4089; Hypothetical protein
+	[968610:968963:rev] Hypothetical protein
+	[969104:969739:dir] COG2220; Hypothetical protein
+	[969751:970416:dir] COG0468; DNA repair and recombination RadB-like protein
+	[970445:971860:rev] COG1530; Hypothetical protein
+	[971826:972584:rev] Hypothetical protein
+	[972707:973630:dir] COG2896; molybdenum cofactor biosynthesis protein MoeA
+	[973788:974261:dir] COG4996; Hypothetical protein
+	[974261:974827:dir] COG2029; Hypothetical protein
+	[974828:975427:rev] Hypothetical protein
+	[975496:976389:rev] PhoI-related type II restriction endonuclease
+	[976517:978097:dir] COG1384; lysyl-tRNA synthetase
+	[978235:978816:dir] COG1014; indolepyruvate oxidoreductase subunit
+	[978947:979861:dir] COG0704; Transcriptional regulator, SpoVT/AbrB family
+<END>
+<GI> CP006965:6 <COORDINATES> 1339918-1362512 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.389639; n0_4mer:D = 25.984922; n0_4mer:PS = 40.638324
+	[1339918:1340193:dir] COG0144; Hypothetical protein
+	[1340193:1340993:dir] Hypothetical protein
+	[1341197:1341865:dir] COG1508; Hypothetical protein
+	[1341862:1342272:dir] COG4059; Hypothetical protein
+	[1342415:1343233:dir] Hypothetical protein
+	[1343250:1344386:dir] COG0237; Hypothetical protein
+	[1344367:1344783:rev] COG2510; Hypothetical protein
+	[1344785:1346134:rev] COG1109; phosphomannomutase / phosphoglucosamine mutase
+	[1346208:1346987:rev] COG0434; btpA family protein
+	[1347080:1347463:rev] Hypothetical protein
+	[1347465:1350281:rev] Hypothetical protein
+	[1350536:1350922:rev] Hypothetical protein
+	[1350953:1352134:rev] calcium-binding protein
+	[1352127:1354289:rev] Hypothetical protein
+	[1354843:1355415:dir] Hypothetical protein
+	[1355609:1357741:rev] COG0366; cyclomaltodextrin glucanotransferase
+	[1357783:1358454:rev] Hypothetical protein
+	[1358521:1359825:rev] COG0312; Zinc-dependent protease, TldD/PmbA family
+	[1359822:1361189:rev] COG0312; Zinc-dependent protease, TldD/PmbA family
+	[1361295:1361813:dir] COG3398; Transcriptional regulator, ArsR family
+	[1361806:1362066:dir] Hypothetical protein
+	[1362063:1362512:rev] COG0589; Hypothetical protein
+<END>
+<GI> CP006965:7 <COORDINATES> 1475839-1508499 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.816444; n0_4mer:D = 35.117383; n0_4mer:PS = 36.052329
+	[1475839:1477689:dir] COG1361; Hypothetical protein
+	[1477679:1478902:dir] COG0577; ABC-type transport system, permease component
+	[1478947:1480140:dir] COG0404; glycine cleavage system aminomethyltransferase
+	[1480190:1480807:rev] COG1590; Hypothetical protein
+	[1480950:1481026:dir] tRNA-His
+	[1482243:1482674:rev] COG1673; Hypothetical protein
+	[1482690:1483754:rev] COG1305; Hypothetical protein
+	[1483714:1484250:rev] Hypothetical protein
+	[1484260:1484577:rev] COG1451; Hypothetical protein
+	[1484558:1487881:rev] COG0610; type I restriction-modification enzyme, R subunit
+	[1488049:1488996:rev] Hypothetical protein
+	[1489113:1490456:rev] COG0732; type I restriction-modification enzyme, S subunit
+	[1490449:1492308:rev] COG0286; type I restriction modification enzyme, M subunit
+	[1492567:1492965:rev] Hypothetical protein
+	[1493367:1496702:rev] Hypothetical protein
+	[1497239:1497700:dir] COG3619; Hypothetical protein
+	[1497864:1498412:rev] COG0582; integrase/recombinase
+	[1499153:1500316:dir] COG0582; Hypothetical protein
+	[1500450:1501532:dir] COG1672; Hypothetical protein
+	[1501538:1502461:rev] COG0582; Hypothetical protein
+	[1503334:1504164:rev] COG0395; ABC-type transport system, permease component
+	[1504161:1505039:rev] COG1175; ABC-type transport system, permease component
+	[1505054:1506376:rev] COG1653; ABC-type transport system, substrate-binding protein
+	[1506694:1507389:rev] COG0170; phosphatidate cytidylyltransferase
+	[1507447:1508499:rev] COG2309; leucyl aminopeptidase (aminopeptidase T)
+<END>

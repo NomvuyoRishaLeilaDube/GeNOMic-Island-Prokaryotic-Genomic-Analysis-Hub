@@ -1,0 +1,30 @@
+[
+  {
+    "seq_id": "G001",
+    "organism": "Halobacterium salinarum",
+    "domain": "Archaea",
+    "last_updated": "2025-09-24",
+    "files": ["G001.out", "G001.fas", "G001.svg"]
+  },
+  {
+    "seq_id": "G002",
+    "organism": "Methanococcus maripaludis",
+    "domain": "Archaea",
+    "last_updated": "2025-09-22",
+    "files": ["G002.out", "G002.fas", "G002.svg"]
+  },
+  {
+    "seq_id": "B001",
+    "organism": "Escherichia coli",
+    "domain": "Bacteria",
+    "last_updated": "2025-09-20",
+    "files": ["B001.out", "B001.fas", "B001.svg"]
+  },
+  {
+    "seq_id": "B002",
+    "organism": "Bacillus subtilis",
+    "domain": "Bacteria",
+    "last_updated": "2025-09-18",
+    "files": ["B002.out", "B002.fas", "B002.svg"]
+  }
+]

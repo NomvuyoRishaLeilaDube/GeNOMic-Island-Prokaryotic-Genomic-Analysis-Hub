@@ -1,0 +1,260 @@
+<GI> CP001710:1 <COORDINATES> 311297-335527 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.456177; n0_4mer:D = 32.581469; n0_4mer:PS = 44.834937
+	[311297:312241:dir] predicted ATPase
+	[312216:312416:dir] conserved hypothetical protein
+	[312431:313288:dir] conserved hypothetical protein
+	[313364:313804:dir] thioredoxin-related protein
+	[313809:314390:dir] predicted cytochrome C-type biogenesis protein
+	[314431:315279:dir] predicted dehydrogenase
+	[315306:315524:dir] conserved hypothetical protein
+	[315574:316857:rev] predicted nucleotidyltransferase
+	[316878:317945:rev] predicted Fe-S oxidoreductase
+	[318129:319094:rev] mer; F420-dependent methylenetetrahydromethanopterin reductase
+	[319677:321172:dir] rrsA; 16S ribosomal RNA
+	[321278:321351:dir] trnA1; codon recognized: GCA; tRNA-Ala
+	[321854:324533:dir] rrlA; 23S ribosomal RNA
+	[324649:324770:dir] rrfA; 5S ribosomal RNA
+	[324813:324933:dir] rrfB; 5S ribosomal RNA
+	[325206:326693:rev] predicted alpha,alpha-trehalose-phosphate synthase
+	[326686:327996:rev] phosphomannomutase related protein
+	[327993:328763:rev] predicted nucleoside-diphosphate-sugar transferase
+	[328721:329146:rev] predicted nucleoside-diphosphate-sugar transferase
+	[329239:330033:rev] trehalose-6-phosphate phophatase related protein
+	[330026:331093:rev] conserved hypothetical protein
+	[331118:333046:rev] mutS; predicted DNA mismatch recognition protein MutS
+	[333131:335527:rev] predicted peptidase
+<END>
+<GI> CP001710:2 <COORDINATES> 429549-448116 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.477270; n0_4mer:D = 34.715467; n0_4mer:PS = 40.102327
+	[429549:430220:dir] predicted phosphoesterase
+	[430273:431193:dir] pgk1; 2-phosphoglycerate kinase
+	[431174:431581:dir] conserved hypothetical protein
+	[431585:432559:rev] predicted permease
+	[432710:433018:dir] rrn7; 7S ribosomal RNA
+	[433081:433165:dir] trnS1; codon recognized: AGC; tRNA-Ser
+	[433513:435008:dir] rrsC; 16S ribosomal RNA
+	[435114:435187:dir] trnA2; codon recognized: GCA; tRNA-Ala
+	[435690:438369:dir] rrlC; 23S ribosomal RNA
+	[438484:438605:dir] rrfC; 5S ribosomal RNA
+	[439114:440007:rev] predicted transporter protein
+	[440009:441127:rev] asp2; predicted aspartate aminotransferase
+	[441124:442692:rev] predicted oxidoreductase
+	[442810:443304:dir] coaD; phosphopantetheine adenylyltransferase
+	[443321:443848:dir] conserved hypothetical protein
+	[443879:445963:dir] oligosaccharyl transferase STT3 subunit related protein
+	[445996:448116:dir] oligosaccharyl transferase STT3 subunit related protein
+<END>
+<GI> CP001710:3 <COORDINATES> 462195-480785 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.831104; n0_4mer:D = 30.826443; n0_4mer:PS = 51.205993
+	[462195:462980:rev] birA; predicted biotin ligase
+	[462985:464460:rev] pycA; pyruvate carboxylase, subunit A
+	[464544:465176:dir] predicted methyltransferase
+	[465495:466295:dir] predicted RNA-binding protein
+	[466325:467338:dir] rpl3p; 50S ribosomal protein L3P
+	[467351:468115:dir] rpl1e; 50S ribosomal protein L1e
+	[468138:468398:dir] rpl23p; 50S ribosomal protein L23P
+	[468421:469146:dir] rpl2p; 50S ribosomal protein L2P
+	[469164:469574:dir] rps19p; 30S ribosomal protein S19P
+	[469587:470048:dir] rpl22p; 50S ribosomal protein L22P
+	[470052:470879:dir] rps3p; 30S ribosomal protein S3P
+	[470926:471120:dir] rpl29p; 50S ribosomal protein L29P
+	[471133:471438:dir] predicted translation initiation factor Sui1
+	[471448:471729:dir] rnp1; predicted ribonuclease P, component 1
+	[471740:472060:dir] rps17p; 30S ribosomal protein S17P
+	[472062:472460:dir] rpl14p; 50S ribosomal protein L14P
+	[472470:472823:dir] rpl24p; 50S ribosomal protein L24P
+	[472826:473554:dir] rps4e; 30S ribosomal protein S4e
+	[473555:474061:dir] rpl5p; 50S ribosomal protein L5P
+	[474073:474216:dir] rps14p; 30S ribosomal protein S14P
+	[474231:474623:dir] rps8p; 30S ribosomal protein S8P
+	[474632:475165:dir] rpl6p; 50S ribosomal protein L6P
+	[475179:475505:dir] rpl32e; 50S ribosomal protein L32e
+	[475614:476060:dir] rpl19e; 50S ribosomal protein L19e
+	[476072:476650:dir] rpl18p; 50S ribosomal protein L18P
+	[476653:477297:dir] rps5p; 30S ribosomal protein S5P
+	[477310:477768:dir] rpl30p; 50S ribosomal protein L30P
+	[477784:478224:dir] rpl15p; 50S ribosomal protein L15P
+	[478251:479612:dir] secY; preprotein translocase, subunit SecY
+	[479643:480200:dir] adkA; adenylate kinase
+	[480219:480785:dir] conserved hypothetical protein
+<END>
+<GI> CP001710:4 <COORDINATES> 684856-717805 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.089569; n0_4mer:D = 43.190471; n0_4mer:PS = 17.097678
+	[684856:685095:rev] conserved hypothetical protein
+	[685230:685685:dir] predicted transcriptional regulator
+	[685669:687021:dir] predicted Na+-driven multidrug efflux pump
+	[687076:687372:rev] conserved hypothetical protein
+	[687383:687781:rev] predicted transcriptional regulator
+	[687996:688253:dir] hypothetical protein
+	[688327:688884:rev] hypothetical protein
+	[689013:690047:dir] predicted arsenical-resistance protein
+	[690089:691234:rev] conserved hypothetical protein
+	[691429:692106:dir] predicted glycosyltransferase
+	[692111:693124:dir] predicted glycosyltransferase
+	[693124:694293:dir] predicted glycosyltransferase
+	[694309:695307:dir] predicted glycosyltransferase
+	[695291:696235:dir] predicted methyltransferase
+	[696228:696872:dir] hypothetical protein
+	[696874:697524:dir] conserved hypothetical protein
+	[697563:698363:dir] conserved hypothetical protein
+	[698365:699513:dir] predicted glycosyltransferase
+	[699627:701738:dir] conserved hypothetical protein
+	[701842:702978:dir] glycosyltransferase
+	[703693:704952:rev] predicted polysaccharide biosynthesis protein
+	[705055:705366:dir] conserved hypothetical protein
+	[705686:706006:rev] conserved hypothetical protein
+	[706003:706671:rev] conserved hypothetical protein
+	[706821:707816:rev] predicted glycosyltransferase
+	[707843:707980:rev] hypothetical protein
+	[708068:708388:dir] conserved hypothetical protein
+	[708490:709902:rev] predicted polysaccharide biosynthesis protein
+	[709936:710859:rev] galE1; UDP-glucose 4-epimerase (NAD dependent) related protein
+	[710869:712677:rev] conserved hypothetical protein
+	[712807:713316:rev] conserved hypothetical protein
+	[713535:714056:rev] conserved hypothetical protein
+	[714267:714587:dir] ehaA; energy-converting hydrogenase A, subunit A
+	[714587:715090:dir] ehaB; energy-converting hydrogenase A, subunit B
+	[715103:715354:dir] ehaC; energy-converting hydrogenase A, subunit C
+	[715434:715706:dir] ehaD; energy-converting hydrogenase A, subunit D
+	[715739:715999:dir] ehaE; energy-converting hydrogenase A, subunit E
+	[715996:716475:dir] ehaF; energy-converting hydrogenase A, subunit F
+	[716472:717134:dir] ehaG; energy-converting hydrogenase A, subunit G
+	[717134:717805:dir] ehaH; energy-converting hydrogenase A, subunit H
+<END>
+<GI> CP001710:5 <COORDINATES> 806720-843386 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.518265; n0_4mer:D = 42.581226; n0_4mer:PS = 21.540504
+	[806720:811510:rev] DNA helicase related protein
+	[811607:811933:rev] conserved hypothetical protein
+	[811933:812244:rev] conserved hypothetical protein
+	[812331:813245:rev] conserved hypothetical protein
+	[813260:815737:rev] predicted helicase
+	[815878:816354:dir] predicted nuclease
+	[816391:816636:dir] conserved hypothetical protein
+	[816640:818403:rev] conserved hypothetical protein
+	[818542:819642:dir] hypothetical protein
+	[819653:820153:dir] hypothetical protein
+	[820130:824353:rev] conserved hypothetical protein
+	[824365:825948:rev] predicted ATPase
+	[826053:827147:rev] conserved hypothetical protein
+	[827160:828299:rev] predicted tRNA-ribosyltransferase
+	[828487:828834:rev] predicted regulator protein
+	[828846:829871:rev] hmdIII; H2-forming methylenetetrahydromethanopterin dehydrogenase III
+	[830129:830890:dir] potassium channel related protein
+	[830921:831568:rev] conserved hypothetical protein
+	[831584:831910:rev] conserved hypothetical protein
+	[832040:832591:dir] conserved hypothetical protein
+	[832644:833105:dir] conserved hypothetical protein
+	[833109:835865:rev] pcrA2; ATP-dependent DNA helicase
+	[836501:837340:dir] hypothetical protein
+	[837608:838693:dir] conserved hypothetical protein
+	[838926:843386:dir] cobN2; predicted cobalamin biosynthesis protein N
+<END>
+<GI> CP001710:6 <COORDINATES> 1018448-1039049 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.670675; n0_4mer:D = 35.119163; n0_4mer:PS = 28.281155
+	[1018448:1019362:rev] mrr; predicted restriction endonuclease
+	[1019379:1019522:rev] hypothetical protein
+	[1019583:1020143:dir] guaAA; GMP synthase, subunit A
+	[1020320:1021246:dir] guaAB; GMP synthase, subunit B
+	[1021254:1021439:dir] hypothetical protein
+	[1021554:1021961:dir] predicted methionine-sulfoxide reductase
+	[1021992:1022222:dir] conserved hypothetical protein
+	[1022368:1022727:rev] conserved hypothetical protein
+	[1022952:1023197:rev] hypothetical protein
+	[1023471:1023731:rev] hypothetical protein
+	[1023849:1024232:rev] conserved hypothetical protein
+	[1024387:1024626:rev] hypothetical protein
+	[1024643:1025041:rev] conserved hypothetical protein
+	[1025162:1025407:rev] hypothetical protein
+	[1025520:1026167:rev] conserved hypothetical protein
+	[1026328:1027548:rev] tetratricopeptide repeat domain-containing protein
+	[1027545:1028495:rev] conserved hypothetical protein
+	[1028512:1028751:rev] hypothetical protein
+	[1028768:1031254:rev] predicted pseudomurein-binding protein
+	[1031825:1032988:dir] conserved hypothetical protein
+	[1032993:1033982:dir] conserved hypothetical protein
+	[1034014:1034484:rev] conserved hypothetical protein
+	[1034485:1035981:rev] cimA; (R)-citramalate synthase
+	[1036191:1037201:rev] predicted DNA modification methylase
+	[1037192:1038322:rev] predicted dehydrogenase
+	[1038315:1039049:rev] conserved hypothetical protein
+<END>
+<GI> CP001710:7 <COORDINATES> 1311859-1334440 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.958108; n0_4mer:D = 31.102629; n0_4mer:PS = 54.818417
+	[1311859:1312719:rev] conserved hypothetical protein
+	[1312882:1313793:rev] predicted oxidoreductase
+	[1314382:1315020:dir] conserved hypothetical protein
+	[1315262:1315930:dir] tpi; triosephosphate isomerase
+	[1315941:1317161:dir] pgk2; phosphoglycerate kinase
+	[1317254:1317327:dir] trnT3; codon recognized: ACA; tRNA-Thr
+	[1317335:1317409:dir] trnP; codon recognized: CCA; tRNA-Pro
+	[1317454:1317526:dir] trnY; codon recognized: UAC; tRNA-Tyr
+	[1317655:1317726:dir] trnD; codon recognized: GAC; tRNA-Asp
+	[1317735:1317808:dir] trnK; codon recognized: AAA; tRNA-Lys
+	[1317851:1318084:dir] rpoH; DNA-directed RNA polymerase, subunit H
+	[1318145:1319689:dir] rpoB1; DNA-directed RNA polymerase, subunit B''
+	[1319713:1321524:dir] rpoB2; DNA-directed RNA polymerase, subunit B'
+	[1321563:1325021:dir] rpoA1; DNA-directed RNA polymerase, subunit A'
+	[1325031:1326386:dir] rpoA2; DNA-directed RNA polymerase, subunit A''
+	[1326397:1326693:dir] rpl30e; 50S ribosomal protein L30e
+	[1326700:1327131:dir] nusA; transcription termination factor
+	[1327153:1327578:dir] rps12p; 30S ribosomal protein S12P
+	[1327584:1328144:dir] rps7p; 30S ribosomal protein S7P
+	[1328162:1330354:dir] fusA; protein translation elongation factor 2
+	[1330465:1331706:dir] tuf; protein translation elongation factor Tu
+	[1331742:1332050:dir] rps10p; 30S ribosomal protein S10P
+	[1332133:1332217:dir] trnS3; codon recognized: UCA; tRNA-Ser
+	[1332254:1332338:dir] trnS4; codon recognized: UCC; tRNA-Ser
+	[1332375:1332459:dir] trnS5; codon recognized: UCC; tRNA-Ser
+	[1332533:1333090:rev] N5-methyltetrahydromethanopterin-coenzyme M methyltransferase, subunit A related protein
+	[1333233:1333886:dir] predicted transcriptional regulator
+	[1333967:1334440:dir] conserved hypothetical protein
+<END>
+<GI> CP001710:8 <COORDINATES> 1340016-1369808 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.800054; n0_4mer:D = 40.084694; n0_4mer:PS = 23.380658
+	[1340016:1341071:rev] hypD; predicted hydrogenase expression/formation protein HypD
+	[1341162:1341281:dir] predicted cation antiporter
+	[1341462:1342097:dir] predicted cation antiporter
+	[1342124:1346566:rev] conserved hypothetical protein
+	[1346764:1347471:dir] conserved hypothetical protein
+	[1347492:1347845:dir] hypothetical protein
+	[1348012:1348311:dir] hypothetical protein
+	[1348455:1348616:rev] hypothetical protein
+	[1348776:1348967:rev] hypothetical protein
+	[1349186:1352074:rev] hsdR2; predicted type I restriction-modification enzyme, subunit R
+	[1352123:1352983:rev] conserved hypothetical protein
+	[1352967:1354274:rev] hsdS2; predicted type I restriction-modification enzyme, subunit S
+	[1354294:1356309:rev] hsdM2; predicted type I restriction-modification enzyme, subunit M
+	[1356479:1357000:rev] hypothetical protein
+	[1357588:1358619:dir] hypothetical protein
+	[1358620:1359384:rev] predicted ABC transporter, permease component
+	[1359423:1360361:rev] predicted ABC transporter, ATPase component
+	[1360501:1361910:dir] KaiC-related protein
+	[1361927:1362172:dir] KaiB-related protein
+	[1362183:1364171:dir] predicted sensory transduction histidine kinase
+	[1364241:1364429:rev] hypothetical protein
+	[1364784:1366130:dir] predicted hydrolase
+	[1366134:1366610:dir] conserved hypothetical protein
+	[1366822:1367670:rev] prenyltransferase-related protein
+	[1367799:1368458:dir] conserved hypothetical protein
+	[1368455:1369057:dir] thymidylate kinase-related protein
+	[1369029:1369808:dir] predicted hydrolase
+<END>
+<GI> CP001710:9 <COORDINATES> 1455851-1478555 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.052200; n0_4mer:D = 33.140807; n0_4mer:PS = 36.539164
+	[1455851:1456867:dir] purM; phosphoribosylformylglycinamidine cyclo-ligase
+	[1456878:1457903:dir] comC; sulfolactate dehydrogenase
+	[1457906:1458397:dir] comD; sulfopyruvate decarboxylase, alpha subunit
+	[1458402:1458944:dir] comE; sulfopyruvate decarboxylase, beta subunit
+	[1458941:1460710:rev] pol; DNA polymerase
+	[1461477:1463996:dir] predicted pseudomurein-binding protein
+	[1464101:1464517:dir] hypothetical protein
+	[1464612:1464848:dir] hypothetical protein
+	[1464983:1465546:dir] conserved hypothetical protein
+	[1465548:1466171:dir] tetratricopeptide repeat domain-containing protein
+	[1466196:1466639:dir] conserved hypothetical protein
+	[1466636:1467796:dir] tetratricopeptide repeat domain-containing protein
+	[1467840:1468028:dir] surface protease related protein
+	[1468073:1468270:dir] hypothetical protein
+	[1468657:1469664:rev] conserved hypothetical protein
+	[1469677:1470471:rev] pyrK; predicted dihydroorotate dehydrogenase electron transfer subunit
+	[1470476:1471384:rev] pyrD; predicted dihydroorotate dehydrogenase
+	[1471436:1472545:dir] nop56; predicted ribosome biogenesis protein Nop56
+	[1472567:1473232:dir] flpA; predicted fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+	[1473426:1474583:rev] coaBC; bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+	[1474594:1475091:rev] transcription elongation factor NusA-like protein
+	[1475306:1475830:rev] conserved hypothetical protein
+	[1475846:1476448:rev] conserved hypothetical protein
+	[1476598:1477419:rev] pheA; predicted prephenate dehydratase
+	[1477419:1478555:rev] predicted ATP-dependent DNA ligase
+<END>

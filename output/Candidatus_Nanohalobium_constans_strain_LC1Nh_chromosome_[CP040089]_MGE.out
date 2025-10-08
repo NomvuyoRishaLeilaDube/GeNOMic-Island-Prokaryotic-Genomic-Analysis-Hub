@@ -1,0 +1,153 @@
+<GI> CP040089:1 <COORDINATES> 11381-34133 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.968235; n0_4mer:D = 31.818458; n0_4mer:PS = 53.374345
+	[11381:12124:rev] zipB; zinc and cadmium transporter
+	[12177:12563:dir] nikR; CopG family transcriptional regulator, nickel-responsive regulator
+	[12627:12947:dir] hypothetical protein
+	[13005:13373:dir] gloA; lactoylglutathione lyase
+	[13370:13954:rev] hypothetical protein
+	[13951:15045:rev] hypothetical protein
+	[15478:16332:dir] hypothetical protein
+	[16405:16923:dir] sec11; signal peptidase I
+	[16916:17260:rev] hypothetical protein
+	[17498:17707:dir] hypothetical protein
+	[18737:18949:dir] archaeal histone H3/H4
+	[19146:20147:dir] rpa; replication factor A1
+	[20168:21124:dir] radA; DNA repair and recombination protein RadA
+	[21121:21549:rev] hypothetical protein
+	[21637:21897:rev] COG1873: Sporulation protein YlmC, PRC-barrel domain family; PRC-barrel domain protein
+	[21953:22486:dir] thpR; RNA 2',3'-cyclic 3'-phosphodiesterase
+	[22483:22824:dir] archaea-specific RecJ-like exonuclease
+	[22863:23564:dir] ABC transport system ATP-binding protein
+	[23571:24764:dir] COG1361: Uncharacterized conserved protein; S-layer domain protein
+	[24772:25980:dir] ABC transport system permease protein
+	[25977:27179:dir] ABC transport system permease protein
+	[27187:28674:rev] carboxypeptidase Taq (M32)
+	[28731:29840:dir] ampS; leucyl aminopeptidase (aminopeptidase T)
+	[29837:31618:rev] pepF; oligoendopeptidase F
+	[31631:32668:rev] pepA; pfam05343: M42 glutamyl aminopeptidase; glutamyl aminopeptidase PepA
+	[32716:33102:dir] fxsA; FxsA domain protein
+	[33099:33797:rev] hypothetical protein
+	[33981:34133:dir] tRNA-Thr
+<END>
+<GI> CP040089:2 <COORDINATES> 135761-158145 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.668155; n0_4mer:D = 33.961576; n0_4mer:PS = 53.861615
+	[135761:136615:dir] hypothetical protein
+	[136616:137878:rev] glyA; glycine/serine hydroxymethyltransferase
+	[137918:138385:rev] histidine triad (HIT) protein
+	[138441:140795:rev] aprX; serine protease AprX
+	[140834:141481:rev] pfam09843: Predicted membrane protein (DUF2070); hypothetical protein
+	[141537:142271:dir] tmk; thymidylate kinase
+	[142281:142353:rev] tRNA-Pro
+	[142423:144312:rev] fibronectin-binding domain-containing protein
+	[144347:144853:rev] scpB; segregation and condensation protein B
+	[144872:145633:rev] scpA; segregation and condensation protein A
+	[145724:148270:rev] smc; chromosome segregation protein
+	[148329:148883:dir] ydeN; putative esterase of the alpha/beta hydrolase fold
+	[148901:149176:rev] hypothetical protein
+	[149187:150497:rev] aspS; aspartyl-tRNA synthetase
+	[150647:150886:dir] CopG family transcriptional regulator
+	[150903:151223:dir] hypothetical protein
+	[151304:151816:dir] dut; dUTP pyrophosphatase
+	[151960:152322:dir] chromosome segregation ATPase
+	[152326:152808:rev] pfam08241: Methyltransferase domain; hypothetical protein
+	[152829:153032:dir] hypothetical protein
+	[153058:153178:rev] tRNA-Leu
+	[153218:154051:rev] intein/homing endonuclease
+	[154075:154428:rev] hypA; hydrogenase nickel incorporation protein HypA/HybF
+	[154559:154909:dir] hypothetical protein
+	[154897:155808:rev] glk; glucokinase
+	[156022:156660:dir] pfam14890: Intein splicing domain; hypothetical protein
+	[156669:156815:rev] tRNA-Ile
+	[156912:157580:dir] rnhB; ribonuclease HII
+	[157606:158145:dir] endA; tRNA-intron endonuclease
+<END>
+<GI> CP040089:3 <COORDINATES> 674696-694414 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.644397; n0_4mer:D = 33.309014; n0_4mer:PS = 53.561132
+	[674696:675988:rev] S-layer domain protein
+	[676000:677058:rev] putative exporter of the RND superfamily
+	[677117:678184:rev] putative exporter of the RND superfamily
+	[678248:678592:dir] TrmB family transcriptional regulator
+	[678630:678878:dir] glutaredoxin
+	[678892:679518:rev] ntpD; V/A-type H+/Na+-transporting ATPase subunit D
+	[679538:680926:rev] ntpB; V/A-type H+/Na+-transporting ATPase subunit B
+	[680992:682740:rev] ntpA; V/A-type H+/Na+-transporting ATPase subunit A
+	[682774:683082:rev] ntpF; V/A-type H+/Na+-transporting ATPase subunit F
+	[683098:684087:rev] ntpC; V/A-type H+/Na+-transporting ATPase subunit C
+	[684084:684638:rev] ntpE; V/A-type H+/Na+-transporting ATPase subunit E
+	[684722:684940:rev] ntpK; V/A-type H+/Na+-transporting ATPase subunit K
+	[685008:686822:rev] ntpI; V/A-type H+/Na+-transporting ATPase subunit I
+	[686845:687165:rev] ntpH; V/A-type H+/Na+-transporting ATPase subunit G/H
+	[687274:688368:dir] trm1; tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase
+	[688486:689022:dir] hypothetical protein
+	[689035:690132:rev] tfb2; transcription initiation factor TFIIB
+	[690286:691350:dir] AI-2E family transporter
+	[691794:692000:dir] archaeal histone H3/H4
+	[692047:692430:dir] eif5A; translation initiation factor eIF-5A
+	[692493:693839:dir] cca; tRNA nucleotidyltransferase (CCA-adding enzyme)
+	[693836:694414:dir] adk; adenylate kinase
+<END>
+<GI> CP040089:4 <COORDINATES> 715843-739023 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.973578; n0_4mer:D = 35.344723; n0_4mer:PS = 55.917286
+	[715843:716004:dir] rpl37e; 50S ribosomal protein L37e
+	[716008:716235:dir] hypothetical protein
+	[716292:716423:dir] tRNA-Lys
+	[716461:716940:dir] COG2839: Uncharacterized conserved protein YqgC, DUF456 family; hypothetical protein
+	[716941:717321:dir] rfk; riboflavin kinase
+	[717373:717861:dir] mth1; 8-oxo-dGTP diphosphatase / 2-hydroxy-dATP diphosphatase
+	[717957:718373:dir] hypothetical protein
+	[718357:720309:rev] asnB; asparagine synthase (glutamine-hydrolysing)
+	[720376:720573:dir] hypothetical protein
+	[720616:721401:rev] nucS; endonuclease
+	[721515:722012:dir] hypothetical protein
+	[722060:722725:dir] radC; DNA repair protein RadC
+	[722838:723074:dir] rpoH; DNA-directed RNA polymerase subunit H
+	[723099:724556:dir] rpoB2; DNA-directed RNA polymerase subunit B''
+	[724646:726445:dir] rpoB1; DNA-directed RNA polymerase subunit B'
+	[726458:728941:dir] rpoA1; DNA-directed RNA polymerase subunit A'
+	[729002:730117:dir] rpoA2; DNA-directed RNA polymerase subunit A''
+	[730197:730619:dir] nusA2; transcription elongation factor NusA
+	[730673:732250:dir] ubiB; ubiquinone biosynthesis protein
+	[732297:732719:dir] rps12p; 30S ribosomal protein S12
+	[732727:733353:dir] rps7p; 30S ribosomal protein S7
+	[733394:733702:dir] hypothetical protein
+	[733783:735969:dir] translation elongation factor aEF-2
+	[736083:736322:dir] COG1753: Predicted antitoxin, CopG family (VapB3); hypothetical protein
+	[736319:736708:dir] vapC4; tRNA(fMet)-specific endonuclease VapC
+	[736886:737101:rev] antitoxin ParD1/3/4
+	[737194:737655:dir] hypothetical protein
+	[737740:739023:dir] translation elongation factor EF-1 subunit alpha
+<END>
+<GI> CP040089:5 <COORDINATES> 891732-914490 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.075495; n0_4mer:D = 33.055691; n0_4mer:PS = 56.069558
+	[891732:893117:rev] secY; preprotein translocase subunit SecY
+	[893177:893599:rev] rpl15p; 50S ribosomal protein L15
+	[893612:893944:rev] rpl30p; 50S ribosomal protein L30
+	[893941:894606:rev] rps5p; 30S ribosomal protein S5
+	[894606:895115:rev] rpl18p; 50S ribosomal protein L18
+	[895123:895563:rev] rpl19e; 50S ribosomal protein L19e
+	[895564:895905:rev] rpl32e; 50S ribosomal protein L32e
+	[895902:896429:rev] rpl6p; 50S ribosomal protein L6
+	[896441:896830:rev] rps8p; 30S ribosomal protein S8
+	[896845:897069:rev] rps14p; 30S ribosomal protein S14
+	[897070:897597:rev] rpl5p; 50S ribosomal protein L5
+	[897597:898259:rev] rps4e; 30S ribosomal protein S4e
+	[898266:899048:rev] rpl24p; 50S ribosomal protein L24
+	[899061:899462:rev] rpl14p; 50S ribosomal protein L14
+	[899466:899747:rev] rps17p; 30S ribosomal protein S17
+	[899951:900229:rev] pop4; ribonuclease P protein subunit POP4 (Rpp29)
+	[900243:901229:rev] phosphotransferase
+	[901207:901752:rev] rimL; N-acetyltransferase, RimJ/RimL family
+	[901749:902276:rev] rimL2; N-acetyltransferase, RimJ/RimL family
+	[902319:903440:rev] rsmC; 16S rRNA (guanine1207-N2)-methyltransferase
+	[903476:903754:rev] translation initiation factor Sui1
+	[903795:903986:rev] rpl29p; 50S ribosomal protein L29
+	[904011:905168:rev] rps3p; 30S ribosomal protein S3
+	[905221:905643:rev] rpl22p; 50S ribosomal protein L22
+	[905651:906028:rev] rps19p; 30S ribosomal protein S19
+	[906039:906740:rev] rpl2p; 50S ribosomal protein L2
+	[906805:907074:rev] rpl23p; 50S ribosomal protein L23
+	[907085:907843:rev] rpl4p; 50S ribosomal protein L4
+	[907855:908826:rev] rpl3p; 50S ribosomal protein L3
+	[909073:909384:dir] hypothetical protein
+	[909592:910452:dir] ABC-2 type transport system ATP-binding protein
+	[910436:911140:dir] ABC-2 type transport system permease protein
+	[911153:912571:rev] rtcB; tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy nucleic acid ligase)
+	[913036:913446:rev] archease
+	[913443:914045:rev] cmk; cytidylate kinase
+	[914053:914490:rev] hypothetical protein
+<END>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GeNOMic Island: Prokaryotic Genomics Analysis Hub</title>
+    <style>
+        body { background-color: #ccffcc; color: black; text-align: center; font-family: Arial, sans-serif; position: relative; overflow-x: hidden; }
+        h1 { margin-top: 20px; }
+        .description { max-width: 800px; margin: 20px auto; text-align: center; }
+        .button { padding: 15px 30px; margin: 20px; font-size: 18px; text-decoration: none; color: black; background-color: #99ff99; border-radius: 10px; border: 2px solid black; }
+        .button:hover { background-color: #88ee88; }
+
+        /* Border animation */
+        @keyframes moveBacteria { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+        .border-container { position: absolute; top:0; left:0; right:0; bottom:0; pointer-events:none; z-index:1; }
+        .bacteria-row { white-space: nowrap; overflow: hidden; display:block; }
+        .bacteria-row img { height:40px; margin:0 10px; display:inline-block; animation: moveBacteria 20s linear infinite; }
+        .content-wrapper { position: relative; z-index:2; padding:20px; }
+    </style>
+</head>
+<body>
+<div class="border-container">
+    <div class="bacteria-row">
+        <img src="{{ url_for('static', filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static', filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static', filename='images/bacteria.png') }}">
+        <img src="{{ url_for('static', filename='images/bacteria.png') }}">
+    </div>
+</div>
+
+<div class="content-wrapper">
+<h1>GeNOMic Island: Prokaryotic Genomics Analysis Hub</h1>
+
+<div class="description">
+<p><strong>What are Genomic Islands?</strong><br>
+Genomic islands are mobile DNA segments in bacterial and archaeal genomes acquired through horizontal gene transfer. These regions, typically 10-200 kb in size, carry genes for antibiotic resistance, virulence, metabolism, and environmental adaptation—making them key drivers of prokaryotic evolution and genome plasticity.</p>
+<p><strong>Advanced Detection with SeqWord Genomic Island Sniffer:</strong><br>
+SWIGS automatically searches genomic DNA sequences for loci enriched with horizontally transferred elements, fitness genes, giant genes, or ribosomal RNA/protein genes using oligonucleotide signatures.</p>
+<p><strong>Streamlined Analysis Platform: GeNOMic Island:</strong><br>
+This platform transforms complex SWIGS output files into intuitive, interactive dashboards. Researchers can efficiently explore, compare, and organize genomic island predictions across multiple genomes, enabling rapid insights into horizontal gene transfer patterns and genomic island distribution.</p>
+</div>
+
+<a class="button" href="{{ url_for('index', domain='Archaea') }}">ARCHAEA ({{ archaea_count }})</a>
+<a class="button" href="{{ url_for('index', domain='Bacteria') }}">BACTERIA ({{ bacteria_count }})</a>
+</div>
+</body>
+</html>

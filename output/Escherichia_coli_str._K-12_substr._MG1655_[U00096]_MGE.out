@@ -1,0 +1,779 @@
+<GI> U00096:1 <COORDINATES> 144577-164599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.610226; n0_4mer:D = 29.867866; n0_4mer:PS = 25.859423
+	[144577:145017:dir] yadI; putative PTS enzyme IIA component YadI
+	[145081:146310:dir] yadE; putative polysaccharide deacetylase lipoprotein YadE
+	[146314:146694:rev] panD; aspartate 1-decarboxylase proenzyme
+	[146968:147870:dir] rpnC; recombination-promoting nuclease RpnC
+	[147944:148795:rev] panC; pantothenate synthetase
+	[148807:149601:rev] panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+	[149715:150953:rev] yadC; fimbrial tip-adhesin YadC
+	[151003:151599:rev] yadK; putative fimbrial protein YadK
+	[151626:152231:rev] yadL; putative fimbrial protein YadL
+	[152243:152812:rev] yadM; putative fimbrial protein YadM
+	[152829:155426:rev] htrE; putative fimbrial usher protein HtrE
+	[155461:156201:rev] yadV; putative fimbrial chaperone YadV
+	[156299:156883:rev] yadN; putative fimbrial protein YadN
+	[157253:157732:rev] folK; 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase
+	[157729:159126:rev] pcnB; poly(A) polymerase I
+	[159186:160112:rev] gluQ; glutamyl-Q tRNA(Asp) synthetase
+	[160149:160604:rev] dksA; RNA polymerase-binding transcription factor DksA
+	[160782:161486:rev] sfsA; sugar fermentation stimulation protein A
+	[161501:162031:rev] thpR; RNA 2',3'-cyclic phosphodiesterase
+	[162105:164534:dir] hrpB; RNA-dependent NTPase HrpB
+<END>
+<GI> U00096:2 <COORDINATES> 274000-302573 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.904341; n0_4mer:D = 37.618867; n0_4mer:PS = 15.890041
+	[274101:275081:rev] insH1; IS5 transposase and trans-activator
+	[275325:276728:dir] mmuP; S-methyl-L-methionine transporter
+	[276715:277647:dir] mmuM; homocysteine S-methyltransferase
+	[277756:278802:rev] afuC; ABC transporter ATP-binding protein AfuC
+	[278814:279162:rev] afuB
+	[279178:279681:rev] insB2; IS1 protein InsB
+	[279600:279875:rev] insA2; IS1 protein InsA
+	[279931:280104:dir] insI2
+	[280114:280362:rev] insX
+	[280385:280735:rev] yagB; orphan antitoxin YagB
+	[280829:281983:rev] yagA; integrase core domain-containing protein YagA
+	[282278:283186:dir] yagE; 2-dehydro-3-deoxygluconate aldolase
+	[283201:285168:dir] yagF; D-xylonate dehydratase
+	[285395:286777:dir] yagG; putative D-xylonate transporter YagG
+	[286789:288399:dir] yagH; putative xylosidase/arabinosidase
+	[288404:289162:rev] xynR; DNA-binding transcriptional repressor XynR
+	[289301:290305:rev] argF; ornithine carbamoyltransferase ArgF
+	[290275:290370:rev] argL; putative translational regulatory protein ArgL
+	[290510:290638:dir] ykgS; protein YkgS
+	[290649:291152:rev] insB3; IS1 protein InsB
+	[291071:291346:rev] insA3; IS1 protein InsA
+	[291500:292231:dir] yagJ; protein YagJ
+	[292322:292948:rev] yagK; uncharacterized protein YagK
+	[293220:293918:rev] yagL; resolvase-like catalytic domain-containing protein YagL
+	[293945:294799:rev] yagM; protein YagM
+	[294918:295142:rev] ykgV; protein YkgV
+	[295139:295579:rev] yagN; protein YagN
+	[295696:297096:rev] intF; putative phage integrase
+	[297381:297791:rev] yagP; putative LysR family substrate binding domain-containing protein YagP
+	[297770:298726:rev] paoD; molybdenum cofactor insertion chaperone PaoD
+	[298736:300934:rev] paoC; aldehyde dehydrogenase, molybdenum cofactor-binding subunit
+	[300931:301887:rev] paoB; aldehyde dehydrogenase, FAD-binding Fe-S subunit
+	[301884:302573:rev] paoA; aldehyde dehydrogenase, Fe-S subunit
+<END>
+<GI> U00096:3 <COORDINATES> 303853-327247 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.669231; n0_4mer:D = 29.264956; n0_4mer:PS = 27.494214
+	[303853:304182:rev] ykgJ; putative metal-chelating domain-containing protein YkgJ
+	[304495:305205:rev] ecpE; putative fimbrial chaperone EcpE
+	[305174:306817:rev] ecpD; fimbrial adhesin EcpD
+	[306807:309332:rev] ecpC; putative fimbrial usher protein EcpC
+	[309358:310026:rev] ecpB; putative fimbrial chaperone EcpB
+	[310084:310671:rev] ecpA; common pilus major subunit
+	[310746:311336:rev] matA; DNA-binding transcriptional dual regulator MatA
+	[312112:312339:dir] ykgL; uncharacterized protein YkgL
+	[312374:312514:rev] ykgO; 50S ribosomal subunit protein L36B
+	[312514:312777:rev] ykgM; 50S ribosomal subunit protein L31B
+	[313141:313242:rev] ykgR; putative membrane protein YkgR
+	[313716:313805:rev] ykgP
+	[314357:315244:dir] eaeH
+	[315291:315590:dir] insE1; IS3 element protein InsE
+	[315587:316453:dir] insF1; IS3 element protein InsF
+	[316450:317136:rev] ykgA
+	[317439:317567:dir] ykgQ
+	[317726:318319:rev] rclC; DUF417 domain-containing inner membrane protein RclC
+	[318331:318567:rev] rclB; hypochlorite stress response protein RclB
+	[318676:320001:rev] rclA; cupric reductase RclA
+	[320227:321081:dir] rclR; DNA-binding transcriptional activator RclR
+	[321608:322327:dir] ykgE; putative lactate utilization oxidoreductase YkgE
+	[322338:323765:dir] ykgF; putative amino acid dehydrogenase with NAD(P)-binding domain and ferridoxin-like domain
+	[323758:324453:dir] ykgG; DUF162 domain-containing lactate utilization protein YkgG
+	[324696:325364:rev] ykgH; uncharacterized protein YkgH
+	[325577:327247:rev] betA; choline dehydrogenase
+<END>
+<GI> U00096:4 <COORDINATES> 559697-585633 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.996043; n0_4mer:D = 34.980761; n0_4mer:PS = 23.000182
+	[559697:562300:dir] sfmD; putative fimbrial usher protein SfmD
+	[562336:563319:dir] sfmH; putative fimbrial adhesin protein SfmH
+	[563330:563845:dir] sfmF; putative fimbrial protein SfmF
+	[563848:564480:rev] fimZ; LuxR family transcriptional regulator FimZ
+	[564723:564799:dir] argU; cryptic prophage DLP12; tRNA-Arg
+	[564815:565978:rev] intD; putative integrase
+	[565858:566079:rev] xisD
+	[566098:566361:rev] exoD
+	[566376:566687:dir] peaD
+	[566684:568247:dir] renD; gene fragment 1 of renD; DLP12 prophage; protein RenD
+	[566842:567141:dir] insE3; IS3 element protein InsE
+	[567138:568004:dir] insF3; IS3 element protein InsF
+	[568315:568647:dir] emrE; multidrug/betaine/choline efflux transporter EmrE
+	[568695:568844:dir] ylcJ; protein YlcJ
+	[568902:570428:dir] ybcK; putative recombinase YbcK
+	[570893:571444:dir] ybcL; periplasmic protein YbcL
+	[571454:572251:dir] ybcM; putative DNA-binding transcriptional regulator
+	[572368:572469:dir] ylcH; uncharacterized protein YlcH
+	[572466:572921:dir] ybcN; DNA base-flipping protein
+	[572921:573091:dir] ninE; NinE family prophage protein
+	[573084:573374:dir] ybcO; putative nuclease YbcO
+	[573371:573733:dir] rusA; crossover junction endodeoxyribonuclease RusA
+	[573730:573870:dir] ylcG; uncharacterized protein YlcG
+	[573956:574339:dir] quuD; prophage antitermination protein Q homolog QuuD
+	[574529:576825:rev] nmpC; gene fragment 2 of nmpC; DLP12 prophage; putative outer membrane porin NmpC
+	[574737:575717:rev] insH2; IS5 transposase and trans-activator
+	[577398:577613:dir] essD; putative phage lysis protein
+	[577613:578110:dir] rrrD; lysozyme
+	[578107:578568:dir] rzpD; putative prophage endopeptidase RzpD
+	[578327:578509:dir] rzoD; putative prophage lysis lipoprotein RzoD
+	[578600:578893:rev] borD; prophage lipoprotein BorD
+	[579184:579594:rev] ybcV; DUF1398 domain-containing protein YbcV
+	[579880:580086:dir] ybcW; uncharacterized protein YbcW
+	[580251:580445:rev] ylcI; DUF3950 domain-containing protein YlcI
+	[580834:581379:dir] nohD; putative DNA-packaging protein NohD
+	[581354:581662:dir] aaaD
+	[581534:582097:dir] tfaD; putative tail fiber assembly protein TfaD
+	[582152:582806:rev] ybcY
+	[582875:583060:dir] tfaX; protein TfaX
+	[583681:584430:dir] appY; DNA-binding transcriptional activator AppY
+	[584680:585633:rev] ompT; omptin family outer membrane protease OmpT
+<END>
+<GI> U00096:5 <COORDINATES> 1190616-1222248 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.942211; n0_4mer:D = 34.725378; n0_4mer:PS = 19.602171
+	[1190616:1191986:rev] purB; adenylosuccinate lyase
+	[1191990:1192631:rev] hflD; lysogenization regulator
+	[1192667:1193773:rev] mnmA; tRNA-specific 2-thiouridylase
+	[1193827:1194288:rev] nudJ; phosphatase NudJ
+	[1194298:1194951:rev] rluE; 23S rRNA pseudouridine(2457) synthase
+	[1195123:1196373:dir] icd; isocitrate dehydrogenase
+	[1196711:1196782:dir] C0293; small regulatory RNA C0293
+	[1196867:1197532:rev] ymfD; putative SAM-dependent methyltransferase YmfD
+	[1197533:1198237:rev] ymfE; uncharacterized protein YmfE
+	[1198695:1199588:dir] lit; cell death peptidase Lit
+	[1199679:1200806:rev] intE; putative integrase
+	[1200787:1201032:rev] xisE; putative excisionase
+	[1201069:1201380:rev] ymfH; putative protein YmfH
+	[1201497:1201838:dir] ymfI; uncharacterized protein YmfI
+	[1201776:1202084:rev] ymfJ; uncharacterized protein YmfJ
+	[1202259:1202933:rev] ymfK; putative repressor protein YmfK
+	[1203024:1203224:dir] ymfT; putative DNA-binding transcriptional regulator YmfT
+	[1203268:1203825:dir] ymfL; uncharacterized protein YmfL
+	[1203822:1204160:dir] ymfM; cell division inhibitor YmfM
+	[1204170:1204403:dir] oweE
+	[1204170:1205537:dir] ymfN; chimeric replication protein/phage terminase YmfN
+	[1204401:1205537:dir] aaaE
+	[1205549:1205731:dir] ymfR; IPR020297 domain-containing protein YmfR
+	[1205731:1206204:dir] beeE; protein BeeE
+	[1206131:1206922:dir] jayE
+	[1206913:1207497:dir] ymfQ; DUF2313 domain-containing protein YmfQ
+	[1207501:1208130:dir] ycfK; protein StfP
+	[1208132:1208545:dir] tfaP; putative tail fiber assembly protein TfaP
+	[1208517:1209119:rev] tfaE; putative tail fiber assembly protein TfaE
+	[1209119:1209655:rev] stfE
+	[1209685:1210239:dir] pinE; site-specific DNA recombinase
+	[1210346:1211179:dir] mcrA; Type IV methyl-directed restriction enzyme EcoKMcrA
+	[1211413:1211577:dir] icdC
+	[1211680:1212003:rev] iraM; anti-adaptor protein IraM
+	[1212260:1212304:rev] ymgK; protein YmgK
+	[1212540:1212650:rev] ymgL; protein YmgL
+	[1212703:1213107:rev] ycgX; DUF1398 domain-containing protein YcgX
+	[1213328:1214059:rev] bluR; DNA-binding transcriptional repressor BluR
+	[1214264:1215475:rev] bluF; blue light- and temperature-regulated antirepressor BluF
+	[1215789:1216025:dir] ycgZ; putative two-component system connector protein YcgZ
+	[1216068:1216340:dir] ymgA; putative two-component system connector protein YmgA
+	[1216369:1216635:dir] ariR; putative two-component system connector protein AriR
+	[1216748:1216996:dir] ymgC; protein YmgC
+	[1217328:1218851:dir] pdeG; putative cyclic di-GMP phosphodiesterase PdeG
+	[1218983:1219201:dir] ymgF; division septum component YmgF
+	[1219601:1222248:dir] ycgH
+<END>
+<GI> U00096:6 <COORDINATES> 1405979-1428984 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.568241; n0_4mer:D = 32.703064; n0_4mer:PS = 37.221342
+	[1405979:1406542:dir] smrA; DNA endonuclease SmrA
+	[1406563:1407795:rev] dgcM; diguanylate cyclase DgcM
+	[1407989:1408036:dir] ynaN; protein YnaN
+	[1408050:1409033:dir] zntB; Zn(2(+)):H(+) symporter
+	[1409129:1409250:dir] fnrS; small regulatory RNA FnrS
+	[1409308:1409481:dir] ynaL; protein YnaL
+	[1409511:1410884:dir] dbpA; ATP-dependent RNA helicase DbpA
+	[1411013:1411948:rev] ttcA; tRNA cytosine(32) 2-sulfurtransferase TtcA
+	[1412000:1413235:rev] intR; putative integrase
+	[1413237:1413452:rev] xisR; excisionase
+	[1413531:1413740:rev] rcbA; double-strand break reduction protein
+	[1413556:1413734:dir] ralA; small regulatory RNA antitoxin RalA
+	[1413733:1413927:rev] ralR; endodeoxyribonuclease toxin RalR
+	[1413984:1414793:rev] recT; recombinase RecT
+	[1414786:1417386:rev] recE; exonuclease VIII, ds DNA exonuclease, 5' --> 3' specific
+	[1417488:1417763:rev] racC; protein RacC
+	[1417838:1418008:rev] ydaE; zinc-binding protein
+	[1418008:1418229:rev] kilR; inhibitor of FtsZ
+	[1418405:1418502:rev] kilS; small RNA KilS
+	[1418671:1419159:dir] sieB; phage superinfection exclusion protein
+	[1419156:1419311:rev] ydaF; DUF1391 domain-containing protein YdaF
+	[1419322:1419456:rev] ydaG; uncharacterized protein YdaG
+	[1419765:1420241:rev] racR; DNA-binding transcriptional regulator RacR
+	[1420365:1420661:dir] ydaS; putative DNA-binding transcriptional regulator YdaS
+	[1420684:1421106:dir] ydaT; DNA binding transcriptional activator YdaT
+	[1421119:1421976:dir] ydaU; DUF1376 domain-containing protein YdaU
+	[1421983:1422729:dir] ydaV; putative ATP-binding protein YdaV
+	[1422752:1423312:dir] ydaW; putative uncharacterized protein YdaW
+	[1423345:1423644:dir] rzpR
+	[1423400:1423585:dir] rzoR; putative prophage outer membrane lipoprotein RzoR
+	[1423782:1425239:dir] trkG; Na(+)-dependent K(+) transporter TrkG
+	[1425377:1425640:dir] ynaK; ParB-like nuclease domain-containing protein YnaK
+	[1425621:1425980:dir] ydaY; putative uncharacterized protein YdaY
+	[1426454:1427482:dir] ynaA; putative prophage tail length tape measure domain-containing protein YnaA
+	[1427389:1428984:dir] lomR; gene fragment 1 of lomR; Rac prophage; protein LomR_1
+	[1427746:1428726:rev] insH5; IS5 transposase and trans-activator
+<END>
+<GI> U00096:7 <COORDINATES> 1519027-1542590 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.526213; n0_4mer:D = 30.830496; n0_4mer:PS = 31.733463
+	[1519027:1520064:dir] curA; NADPH-dependent curcumin/dihydrocurcumin reductase
+	[1520262:1520927:dir] mcbR; DNA-binding transcriptional dual regulator McbR
+	[1520963:1523065:rev] pqqU; pyrroloquinoline quinone outer membrane transporter
+	[1523307:1524368:dir] yncE; PQQ-like domain-containing protein YncE
+	[1524481:1525980:rev] ansP; L-asparagine transporter
+	[1526247:1526864:dir] yncG; putative glutathione S-transferase YncG
+	[1526940:1527152:dir] yncH; DUF5445 domain-containing protein YncH
+	[1527890:1529938:dir] rhsE
+	[1529922:1530404:dir] ydcD; uncharacterized protein YdcD
+	[1530319:1530504:rev] yncO; protein YncO
+	[1530586:1531639:dir] yncI
+	[1531816:1532952:dir] ydcC; H repeat-associated putative transposase YdcC
+	[1533052:1533285:dir] pptA; tautomerase PptA
+	[1533282:1533851:rev] yddH; flavin reductase-like protein YddH
+	[1534024:1534869:dir] nhoA; arylamine N-acetyltransferase
+	[1534965:1535858:rev] yddE; PF02567 family protein YddE
+	[1535937:1536617:rev] narV; nitrate reductase Z subunit gamma
+	[1536614:1537309:rev] narW; NarW, putative private chaperone for NarZ nitrate reductase subunit
+	[1537309:1538853:rev] narY; nitrate reductase Z subunit beta
+	[1538850:1542590:rev] narZ; nitrate reductase Z subunit alpha
+<END>
+<GI> U00096:8 <COORDINATES> 1572407-1598086 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.990837; n0_4mer:D = 31.616813; n0_4mer:PS = 21.870674
+	[1572407:1575202:rev] pqqL; periplasmic metalloprotease
+	[1575247:1577619:rev] yddB; putative TonB-dependent receptor YddB
+	[1577657:1579342:rev] yddA; ABC transporter family protein YddA
+	[1579545:1579667:dir] yneP; protein YneP
+	[1579633:1580790:rev] ydeM; putative anaerobic sulfatase maturation enzyme YdeM
+	[1580842:1582524:rev] ydeN; putative sulfatase YdeN
+	[1582926:1583687:rev] ydeO; DNA-binding transcriptional dual regulator YdeO
+	[1583762:1583959:rev] safA; two-component system connector SafA
+	[1584207:1586486:rev] ydeP; putative oxidoreductase YdeP
+	[1586820:1587734:rev] ydeQ; putative fimbrial adhesin protein YdeQ
+	[1587793:1588296:rev] ydeR; putative fimbrial protein YdeR
+	[1588309:1588839:rev] ydeS; putative fimbrial protein YdeS
+	[1588853:1590001:rev] ydeT; fimbrial usher domain-containing protein YdeT
+	[1590334:1590536:rev] yneL
+	[1590854:1592176:rev] hipA; serine/threonine-protein kinase toxin HipA
+	[1592176:1592442:rev] hipB; antitoxin/DNA-binding transcriptional repressor HipB
+	[1592665:1598086:rev] yneO
+<END>
+<GI> U00096:9 <COORDINATES> 1627500-1653915 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.804910; n0_4mer:D = 34.539154; n0_4mer:PS = 22.878763
+	[1627517:1628263:dir] ydfG; 3-hydroxy acid dehydrogenase YdfG
+	[1628352:1629038:dir] rspR; DNA-binding transcriptional repressor RspR
+	[1629215:1629418:dir] ydfZ; putative selenoprotein YdfZ
+	[1629453:1630913:rev] ydfI; putative oxidoreductase YdfI
+	[1631002:1632285:rev] ydfJ; putative transporter YdfJ
+	[1632890:1633003:dir] ynfT; protein YnfT
+	[1633072:1633305:dir] ydfK; cold shock protein YdfK
+	[1633622:1634212:dir] pinQ; putative recombinase PinQ
+	[1634310:1634885:rev] tfaQ; putative tail fiber assembly protein TfaQ
+	[1634885:1635847:rev] stfQ; putative prophage side tail fiber protein StfQ
+	[1635798:1636367:rev] nohA; putative prophage DNA-packaging protein NohA
+	[1636756:1636989:dir] ynfO; DUF3950 domain-containing protein YnfO
+	[1637047:1637457:dir] ydfO; DUF1398 domain-containing protein YdfO
+	[1637609:1637782:rev] gnsB; protein GnsB
+	[1637954:1638109:rev] ynfN; protein YnfN
+	[1638188:1638253:rev] ynfR; protein YnfR
+	[1638256:1638444:rev] ynfQ; protein YnfQ
+	[1638455:1638667:rev] cspI; cold shock-like protein CspI
+	[1639030:1639527:rev] rzpQ; DUF2514 domain-containing protein RzpQ
+	[1639080:1639334:rev] rzoQ; putative lipoprotein RzoQ
+	[1639524:1640057:rev] rrrQ; putative lysozyme
+	[1640054:1640365:rev] ydfR; protein YdfR
+	[1640370:1640585:rev] essQ; putative prophage lysis protein EssQ
+	[1640805:1640975:dir] ynfU; putative zinc-binding protein YnfU
+	[1641339:1641554:rev] cspB; cold shock-like protein CspB
+	[1641855:1642067:dir] cspF; cold shock-like protein CspF
+	[1642122:1642211:dir] ynfS; protein YnfS
+	[1642489:1643241:rev] ydfT; putative antitermination protein Q
+	[1643255:1644304:rev] ydfU; protein YdfU
+	[1644651:1644902:rev] rem; protein Rem
+	[1645119:1645274:rev] hokD; toxic protein HokD
+	[1645346:1645633:rev] relE; mRNA interferase toxin RelE
+	[1645633:1645872:rev] relB; antitoxin/DNA-binding transcriptional repressor RelB
+	[1645897:1646202:dir] ydfV; protein YdfV
+	[1646405:1646737:dir] flxA; PF14282 family protein FlxA
+	[1647174:1647323:rev] ydfW; protein YdfW
+	[1647346:1647636:rev] ydfX; protein YdfX
+	[1647620:1647850:rev] dicC; putative DNA-binding transcriptional regulator DicC
+	[1647934:1648341:dir] dicA; DNA-binding transcriptional dual regulator DicA
+	[1648508:1648663:dir] ydfA; DUF1391 domain-containing protein YdfA
+	[1648665:1648793:dir] ydfB; uncharacterized protein YdfB
+	[1648823:1649041:dir] ydfC; uncharacterized protein YdfC
+	[1649382:1649434:dir] dicF; small regulatory RNA DicF
+	[1649609:1649797:dir] dicB; cell division inhibition protein DicB
+	[1649794:1649985:dir] ydfD; lysis protein
+	[1650078:1650998:dir] ydfE
+	[1650881:1651537:dir] insD7
+	[1651512:1652708:dir] intQ
+	[1652728:1652838:rev] ynfP; protein YnfP
+	[1652896:1653915:rev] rspB; putative zinc-binding dehydrogenase RspB
+<END>
+<GI> U00096:10 <COORDINATES> 2030899-2066154 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.566872; n0_4mer:D = 28.656980; n0_4mer:PS = 22.651967
+	[2030899:2032317:rev] dcm; DNA-cytosine methyltransferase
+	[2032384:2033079:rev] yedJ; putative HD superfamily phosphohydrolase YedJ
+	[2033119:2033421:rev] drpB; cell division protein DrpB
+	[2033649:2033739:dir] rseX; small regulatory RNA RseX
+	[2034051:2035243:dir] yedS
+	[2035835:2036686:dir] hchA; protein/nucleic acid deglycase 1
+	[2036794:2038152:rev] hprS; sensor histidine kinase HprS
+	[2038152:2038823:rev] hprR; DNA-binding transcriptional dual regulator HprR
+	[2038956:2039369:dir] hiuH; hydroxyisourate hydrolase/transthyretin-related protein
+	[2039478:2040482:dir] msrP; protein-L-methionine sulfoxide reductase catalytic subunit MsrP
+	[2040483:2041118:dir] msrQ; membrane-bound flavocytochrome MsrQ
+	[2041375:2042025:dir] zinT; metal-binding protein ZinT
+	[2042368:2042898:dir] yodB; putative cytochrome b561 YodB
+	[2043468:2043557:rev] serU; tRNA-Ser(CGA); tRNA-Ser
+	[2043651:2044448:dir] mtfA; Mlc titration factor
+	[2044549:2044624:dir] asnT; tRNA-Asn(GUU); tRNA-Asn
+	[2044995:2052014:dir] yeeJ; inverse autotransporter adhesin
+	[2052276:2053328:rev] yeeL
+	[2053643:2054959:dir] shiA; shikimate:H(+) symporter
+	[2055061:2056515:dir] amn; AMP nucleosidase
+	[2056858:2057574:dir] yeeN; putative transcriptional regulator YeeN
+	[2058027:2058102:rev] asnW; tRNA-Asn(GUU); tRNA-Asn
+	[2058203:2059846:rev] yeeO; FMN/FAD exporter
+	[2059851:2059926:dir] asnU; tRNA-Asn(GUU); tRNA-Asn
+	[2059964:2060914:rev] cbl; DNA-binding transcriptional activator Cbl
+	[2061016:2061933:rev] nac; DNA-binding transcriptional dual regulator Nac
+	[2062260:2062335:dir] asnV; tRNA-Asn(GUU); tRNA-Asn
+	[2062391:2063323:rev] ldtA; L,D-transpeptidase LdtA
+	[2063388:2064467:rev] cobT; nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+	[2064479:2065222:rev] cobS; cobalamin 5'-phosphate synthase
+	[2065219:2065764:rev] cobU; cobinamide-P guanylyltransferase/cobinamide kinase
+	[2066068:2066154:rev] yeeH
+<END>
+<GI> U00096:11 <COORDINATES> 2093468-2122979 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.205389; n0_4mer:D = 39.170350; n0_4mer:PS = 23.917208
+	[2093468:2094535:dir] hisB; imidazoleglycerol-phosphate dehydratase/histidinol-phosphatase
+	[2094535:2095125:dir] hisH; imidazole glycerol phosphate synthase subunit HisH
+	[2095125:2095862:dir] hisA; 1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase
+	[2095844:2096620:dir] hisF; imidazole glycerol phosphate synthase subunit HisF
+	[2096614:2097225:dir] hisI; putative bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+	[2097321:2098301:rev] wzzB; O-antigen co-polymerase
+	[2098447:2099613:rev] ugd; UDP-glucose 6-dehydrogenase
+	[2099862:2101268:rev] gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+	[2101396:2103389:rev] wbbL; gene fragment 2 of wbbL; interrupted rhamnosyltransferase WbbL
+	[2101895:2102875:rev] insH7; IS5 transposase and trans-activator
+	[2103391:2104509:rev] wbbK; putative glycosyltransferase WbbK
+	[2104494:2105084:rev] wbbJ; putative lipopolysaccharide biosynthesis O-acetyl transferase WbbJ
+	[2105065:2106057:rev] wbbI; beta-1,6-galactofuranosyltransferase WbbI
+	[2106060:2107226:rev] wbbH; putative O-antigen polymerase
+	[2107226:2108329:rev] glf; UDP-galactopyranose mutase
+	[2108337:2109584:rev] rfbX; polyisoprenol-linked O16-antigen repeat unit flippase
+	[2109581:2110138:rev] rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+	[2110138:2111019:rev] rfbA; glucose-1-phosphate thymidylyltransferase 1
+	[2111077:2111976:rev] rfbD; dTDP-4-dehydrorhamnose reductase
+	[2111976:2113061:rev] rfbB; dTDP-glucose 4,6-dehydratase 1
+	[2113434:2114327:rev] galF; UTP:glucose-1-phosphate uridylyltransferase, low activity
+	[2114502:2115896:rev] wcaM; putative colanic acid biosynthesis protein WcaM
+	[2115907:2117127:rev] wcaL; putative colanic acid biosynthesis glycosyl transferase WcaL
+	[2117124:2118404:rev] wcaK; colanic acid biosynthesis pyruvyl transferase WcaK
+	[2118680:2120158:rev] wzxC; colanic acid repeat unit flippase
+	[2120160:2121554:rev] wcaJ; UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+	[2121609:2122979:rev] cpsG; phosphomannomutase
+<END>
+<GI> U00096:12 <COORDINATES> 2375962-2400165 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.607547; n0_4mer:D = 33.505593; n0_4mer:PS = 16.768181
+	[2375962:2376819:rev] menB; 1,4-dihydroxy-2-naphthoyl-CoA synthase
+	[2376834:2377592:rev] menH; 2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase
+	[2377589:2379259:rev] menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase
+	[2379348:2380643:rev] menF; isochorismate synthase MenF
+	[2380722:2381027:rev] elaB; tail-anchored inner membrane protein ElaB
+	[2381082:2381543:rev] elaA; putative acetyltransferase ElaA
+	[2381608:2382525:dir] rbn; ribonuclease BN
+	[2382713:2383924:dir] elaD; protease ElaD
+	[2383995:2385722:rev] yfbK; IPR002035/DUF3520 domain-containing protein YfbK
+	[2385860:2386831:dir] yfbL; putative peptidase YfbL
+	[2386934:2387437:dir] yfbM; DUF1877 domain-containing protein YfbM
+	[2387710:2388426:rev] yfbN; uncharacterized protein YfbN
+	[2388635:2389057:dir] yfbO; uncharacterized protein YfbO
+	[2389116:2389964:dir] yfbP; uncharacterized protein YfbP
+	[2390048:2391505:rev] nuoN; NADH:quinone oxidoreductase subunit N
+	[2391512:2393041:rev] nuoM; NADH:quinone oxidoreductase subunit M
+	[2393205:2395046:rev] nuoL; NADH:quinone oxidoreductase subunit L
+	[2395043:2395345:rev] nuoK; NADH:quinone oxidoreductase subunit K
+	[2395342:2395896:rev] nuoJ; NADH:quinone oxidoreductase subunit J
+	[2395908:2396450:rev] nuoI; NADH:quinone oxidoreductase subunit I
+	[2396465:2397442:rev] nuoH; NADH:quinone oxidoreductase subunit H
+	[2397439:2400165:rev] nuoG; NADH:quinone oxidoreductase subunit G
+<END>
+<GI> U00096:13 <COORDINATES> 2457015-2504485 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.185352; n0_4mer:D = 31.521484; n0_4mer:PS = 20.446140
+	[2457015:2459159:rev] fadJ; multifunctional 3-hydroxyacyl-CoA dehydrogenase/3-hydroxyacyl-CoA epimerase/enoyl-CoA hydratase FadJ
+	[2459159:2460469:rev] fadI; 3-ketoacyl-CoA thiolase FadI
+	[2460650:2460934:rev] yfcZ; DUF406 domain-containing protein YfcZ
+	[2461306:2462646:dir] fadL; long-chain fatty acid outer membrane channel/bacteriophage T2 receptor
+	[2463012:2464070:dir] yfdF; protein YfdF
+	[2464252:2465007:rev] mlaA; intermembrane phospholipid transport system - outer membrane lipoprotein MlaA
+	[2465301:2466233:dir] yfdC; inner membrane protein YfdC
+	[2466309:2466383:dir] argW; cryptic prophage CPS-53; tRNA-Arg
+	[2466545:2467702:dir] intS; prophage CPS-53 integrase
+	[2467855:2468217:dir] yfdG; putative bactoprenol-linked glucose translocase
+	[2468214:2469134:dir] yfdH; bactoprenol glucosyl transferase
+	[2469131:2470462:dir] yfdI; serotype-specific glucosyl transferase YfdI
+	[2470497:2470643:rev] yodE; toxic protein YodE
+	[2470803:2471105:dir] tfaS
+	[2471077:2471517:rev] yfdK; putative tail fiber assembly protein YfdK
+	[2471544:2472062:rev] yfdL
+	[2472112:2472387:rev] yfdM; putative methyltransferase YfdM
+	[2472387:2472881:rev] yfdN; uncharacterized protein YfdN
+	[2472878:2473246:rev] yfdO; protein YdfO
+	[2473604:2473966:dir] yfdP; uncharacterized protein YfdP
+	[2474032:2474856:dir] yfdQ; DUF2303 domain-containing protein YfdQ
+	[2474984:2475520:dir] yfdR; 5'-deoxynucleotidase
+	[2475511:2475873:dir] yfdS; protein YfdS
+	[2475873:2476178:dir] yfdT; protein YfdT
+	[2476094:2476234:dir] ypdJ; putative uncharacterized protein YpdJ
+	[2476310:2476510:dir] torI; prophage CPS-53 recombination directionality factor and response regulator inhibitor
+	[2476584:2476598:dir] pawZ
+	[2476694:2477629:rev] dsdC; DNA-binding transcriptional dual regulator DsdC
+	[2477847:2479184:dir] dsdX; D-serine transporter
+	[2479202:2480530:dir] dsdA; D-serine ammonia-lyase
+	[2480638:2482176:rev] emrY; tripartite efflux pump membrane subunit EmrY
+	[2482176:2483339:rev] emrK; tripartite efflux pump membrane fusion protein EmrK
+	[2483729:2483758:dir] evgL; protein EvgL
+	[2483755:2484369:dir] evgA; DNA-binding transcriptional activator EvgA
+	[2484374:2487967:dir] evgS; sensor histidine kinase EvgS
+	[2488023:2489168:rev] yfdE; acetyl-CoA:oxalate CoA-transferase
+	[2489242:2490186:rev] yfdV; putative transport protein YfdV
+	[2490256:2491950:rev] oxc; oxalyl-CoA decarboxylase
+	[2492004:2493254:rev] frc; formyl-CoA transferase
+	[2493767:2494402:rev] yfdX; protein YfdX
+	[2494698:2494973:dir] ypdI; colanic acid synthesis putative lipoprotein YpdI
+	[2495050:2495292:rev] yfdY; DUF2545 domain-containing protein YfdY
+	[2495645:2496565:dir] lpxP; palmitoleoyl acyltransferase
+	[2496921:2496992:dir] ypdK; putative membrane protein YpdK
+	[2497057:2498295:rev] alaC; glutamate--pyruvate aminotransferase AlaC
+	[2498671:2500368:dir] pyrS; sensor histidine kinase PyrS
+	[2500383:2501117:dir] pyrR; DNA-binding transcriptional activator PyrR
+	[2501130:2501987:dir] ypdC; putative AraC-type DNA-binding transcriptional regulator YpdC
+	[2501990:2504485:rev] fryA; putative PTS multiphosphoryl transfer protein FryA
+<END>
+<GI> U00096:14 <COORDINATES> 2748774-2799613 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.103181; n0_4mer:D = 35.581521; n0_4mer:PS = 24.617915
+	[2748774:2750060:dir] yfjD; UPF0053 family inner membrane protein YfjD
+	[2750115:2750708:rev] grpE; nucleotide exchange factor GrpE
+	[2750831:2751709:dir] nadK; NAD kinase
+	[2751795:2753456:dir] recN; DNA repair protein RecN
+	[2753605:2753946:dir] bamE; outer membrane protein assembly factor BamE
+	[2754008:2754298:rev] yfjF; putative component of the Rsx system
+	[2754288:2754764:rev] ratA; ribosome association toxin RatA
+	[2754896:2755378:dir] smpB; SsrA-binding protein
+	[2755593:2755955:dir] ssrA; cryptic prophage CP4-57
+	[2756159:2757400:dir] intA; integrase IntA
+	[2757644:2758600:rev] yfjH; uncharacterized protein YfjH
+	[2758644:2758856:dir] alpA; DNA-binding transcriptional activator AlpA
+	[2758985:2760394:dir] yfjI; DUF3987 domain-containing protein YfjI
+	[2760547:2761173:dir] yfjJ; protein YfjJ
+	[2761351:2763540:rev] abpB; putative helicase YfjK
+	[2763537:2765153:rev] abpA; anti-bacteriophage protein
+	[2765513:2765776:rev] yfjM; protein YfjM
+	[2765918:2766991:dir] rnlA; RNase LS, toxin of the RnlAB toxin-antitoxin system
+	[2766984:2767355:dir] rnlB; antitoxin RnlB
+	[2767710:2768573:dir] yfjP; putative GTP-binding protein YfjP
+	[2768665:2769486:dir] yfjQ; DUF932 domain-containing protein YfjQ
+	[2769703:2770404:dir] yfjR; putative DNA-binding transcriptional regulator YfjR
+	[2770445:2770681:dir] ypjK; uncharacterized protein YpjK
+	[2770681:2771124:dir] yfjS; inner membrane lipoprotein YfjS
+	[2771148:2771615:dir] yfjT; uncharacterized protein YfjT
+	[2771840:2772154:rev] yfjU; putative arsenate reductase-like protein YfjU
+	[2772167:2773182:rev] yfjV
+	[2773318:2775021:dir] yfjW; uncharacterized protein YfjW
+	[2775545:2775816:dir] ypjI
+	[2775919:2776377:dir] lfgA; putative antirestriction protein
+	[2776386:2776868:dir] lfgB; CP4-57 prophage protease
+	[2776877:2777077:dir] ypjJ; DUF987 domain-containing protein YpjJ
+	[2777115:2777432:dir] yfjZ; putative antitoxin of the YpjF-YfjZ toxin-antitoxin system
+	[2777453:2777782:dir] ypjF; toxin of the YpjF-YfjZ toxin-antitoxin system
+	[2777972:2777985:dir] psaA
+	[2778146:2782726:rev] ypjA; adhesin-like autotransporter YpjA
+	[2783065:2783304:rev] pinH
+	[2783638:2784429:rev] ypjB; DUF5508 domain-containing protein YpjB
+	[2784529:2785011:rev] ypjC; DUF5507 domain-containing protein YpjC
+	[2785762:2785837:rev] ileY; tRNA-Ile(CAU); tRNA-Ile
+	[2786397:2788649:dir] ygaQ
+	[2788985:2789962:dir] glaH; glutarate dioxygenase GlaH
+	[2789982:2791250:dir] lhgD; L-2-hydroxyglutarate dehydrogenase
+	[2791273:2792721:dir] gabD; succinate-semialdehyde dehydrogenase (NADP(+)) GabD
+	[2792735:2794015:dir] gabT; 4-aminobutyrate aminotransferase GabT
+	[2794253:2795653:dir] gabP; 4-aminobutanoate:H(+) symporter
+	[2795674:2796336:dir] glaR; DNA-binding transcriptional repressor GlaR
+	[2796337:2796786:rev] kbp; K(+) binding protein
+	[2796870:2797028:rev] yqaE; Pmp3 family protein YqaE
+	[2797211:2797510:dir] ygaV; putative DNA-binding transcriptional regulator YgaV
+	[2797520:2798044:dir] ygaP; thiosulfate sulfurtransferase YgaP
+	[2798091:2798495:rev] stpA; DNA-binding transcriptional repressor StpA with RNA chaperone activity
+	[2799164:2799613:dir] alaE; L-alanine exporter
+<END>
+<GI> U00096:15 <COORDINATES> 2873992-2897870 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.460441; n0_4mer:D = 30.605545; n0_4mer:PS = 26.556219
+	[2873992:2875419:rev] cysN; sulfate adenylyltransferase subunit 1
+	[2875421:2876329:rev] cysD; sulfate adenylyltransferase subunit 2
+	[2876581:2877618:dir] iap; alkaline phosphatase isozyme conversion protein
+	[2878569:2878853:rev] cas2; CRISPR-associated endoribonuclease Cas2
+	[2878855:2879772:rev] cas1; multifunctional nuclease Cas1
+	[2879788:2880387:rev] casE; pre-CRISPR RNA endonuclease
+	[2880374:2881048:rev] casD; type I-E CRISPR system Cascade subunit CasD
+	[2881051:2882142:rev] casC; type I-E CRISPR system Cascade subunit CasC
+	[2882155:2882637:rev] casB; type I-E CRISPR system Cascade subunit CasB
+	[2882630:2884138:rev] casA; type I-E CRISPR system Cascade subunit CasA
+	[2884553:2887219:rev] cas3; CRISPR-associated endonuclease/helicase Cas3
+	[2887353:2887411:dir] sokX; small RNA SokX
+	[2887578:2888312:rev] cysH; phosphoadenosine phosphosulfate reductase
+	[2888387:2890099:rev] cysI; sulfite reductase, hemoprotein subunit
+	[2890099:2891898:rev] cysJ; sulfite reductase, flavoprotein subunit
+	[2892214:2892579:dir] queD; 6-carboxy-5,6,7,8-tetrahydropterin synthase
+	[2892657:2893928:dir] ygcN; putative oxidoreductase with FAD/NAD(P)-binding domain
+	[2893919:2894179:dir] ygcO; putative 4Fe-4S cluster-containing protein
+	[2894196:2894771:dir] ygcP; putative anti-terminator regulatory protein
+	[2894919:2895779:rev] ygcQ; putative flavoprotein
+	[2895776:2896555:rev] ygcR; putative flavoprotein
+	[2896533:2897870:rev] ygcS; putative transporter YgcS
+<END>
+<GI> U00096:16 <COORDINATES> 2977637-3008706 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.714996; n0_4mer:D = 40.866732; n0_4mer:PS = 17.122467
+	[2977637:2978899:rev] lysA; diaminopimelate decarboxylase
+	[2979021:2979956:dir] lysR; DNA-binding transcriptional dual regulator LysR
+	[2979943:2980635:rev] ygeA; amino acid racemase YgeA
+	[2980764:2982182:rev] araE; arabinose:H(+) symporter
+	[2982497:2983258:rev] kduD; 2-keto-3-deoxy-D-gluconate dehydrogenase
+	[2983288:2984124:rev] kduI; 5-dehydro-4-deoxy-D-glucuronate isomerase
+	[2984411:2985592:rev] yqeF; putative acyltransferase
+	[2985847:2987076:dir] yqeG; putative transporter YqeG
+	[2987536:2988168:dir] yqeH; putative LuxR family transcriptional regulator YqeH
+	[2988502:2989311:dir] yqeI; putative transcriptional regulator YqeI
+	[2989304:2989786:dir] yqeJ; protein YqeJ
+	[2989819:2989899:rev] yqeL; uncharacterized protein YqeL
+	[2989935:2990360:rev] yqeK; protein YqeK
+	[2990554:2991043:dir] ygeF
+	[2991268:2991759:dir] ygeG; TPR repeat-containing putative chaperone YgeG
+	[2992094:2993470:dir] ygeH; putative transcriptional regulator YgeH
+	[2993638:2993856:dir] ygeI; protein YgeI
+	[2993939:2994441:dir] pbl
+	[2994460:2994903:rev] ygeK
+	[2994937:2995092:rev] ygeL
+	[2995314:2996020:rev] ygeN
+	[2995962:2996360:rev] ygeO
+	[2996372:2997277:rev] insD4; IS2 insertion element protein InsB
+	[2997235:2997600:rev] insC4; IS2 insertion element repressor InsA
+	[2997689:2997988:rev] ygeP
+	[2998034:2998828:rev] ygeQ; putative lipoprotein YgeQ
+	[2998984:2999057:rev] glyU; tRNA-Gly(CCC); tRNA-Gly
+	[2999136:2999891:rev] actS; amidase activator
+	[3000345:3002603:dir] xdhA; putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+	[3002614:3003492:dir] xdhB; putative xanthine dehydrogenase FAD-binding subunit XdhB
+	[3003489:3003968:dir] xdhC; putative xanthine dehydrogenase [Fe-S]-binding subunit XdhC
+	[3004008:3005786:rev] ygeV; putative sigma(54)-dependent transcriptional regulator YgeV
+	[3006262:3007452:dir] ygeW; putative carbamoyltransferase YgeW
+	[3007510:3008706:dir] ygeX; 2,3-diaminopropionate ammonia-lyase
+<END>
+<GI> U00096:17 <COORDINATES> 3258285-3278665 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.950385; n0_4mer:D = 31.080780; n0_4mer:PS = 30.400780
+	[3258285:3259649:rev] tdcG; L-serine deaminase III
+	[3259721:3260110:rev] tdcF; putative enamine/imine deaminase
+	[3260124:3262418:rev] tdcE; 2-oxobutanoate formate-lyase/pyruvate formate-lyase 4
+	[3262452:3263660:rev] tdcD; propionate kinase
+	[3263686:3265017:rev] tdcC; threonine/serine:H(+) symporter TdcC
+	[3265039:3266028:rev] tdcB; catabolic threonine dehydratase
+	[3266127:3267065:rev] tdcA; DNA-binding transcriptional activator TdcA
+	[3267380:3267598:dir] tdcR; DNA-binding transcriptional activator TdcR
+	[3267854:3268393:dir] yhaB; protein YhaB
+	[3268415:3269602:dir] yhaC; uncharacterized protein YhaC
+	[3270216:3270592:rev] rnpB; RNase P catalytic RNA component
+	[3270625:3271770:rev] garK; glycerate 2-kinase 1
+	[3271867:3272751:rev] garR; tartronate semialdehyde reductase
+	[3272787:3273557:rev] garL; alpha-dehydro-beta-deoxy-D-glucarate aldolase
+	[3273573:3274907:rev] garP; galactarate/D-glucarate transporter GarP
+	[3275282:3276853:dir] garD; galactarate dehydratase
+	[3277002:3277337:dir] prlF; antitoxin PrlF
+	[3277337:3277801:dir] yhaV; ribosome-dependent mRNA interferase toxin YhaV
+	[3277856:3278665:rev] agaR; DNA-binding transcriptional repressor AgaR
+<END>
+<GI> U00096:18 <COORDINATES> 3623887-3663527 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.751286; n0_4mer:D = 27.608663; n0_4mer:PS = 22.214916
+	[3623887:3624132:dir] yrhC
+	[3624378:3625514:dir] yhhI; putative transposase
+	[3625679:3626803:rev] yhhJ; ABC transporter family protein YhhJ
+	[3626803:3629538:rev] rbbA; ribosome-associated ATPase
+	[3629535:3630602:rev] yhiI; putative membrane fusion protein YhiI
+	[3630665:3630778:rev] yhiY; protein YhiY
+	[3630968:3632590:rev] yhiJ; DUF4049 domain-containing protein YhiJ
+	[3632852:3634458:rev] yhiL
+	[3634841:3635893:dir] yhiM; inner membrane protein YhiM
+	[3636208:3637410:rev] yhiN; putative oxidoreductase YhiN
+	[3637642:3639141:dir] pitA; metal phosphate:H(+) symporter PitA
+	[3639385:3639720:rev] uspB; universal stress protein B
+	[3640111:3640545:dir] uspA; universal stress protein A
+	[3640612:3640686:rev] yriA; protein YriA
+	[3640643:3640696:rev] yriB; protein YriB
+	[3640862:3642331:dir] dtpB; dipeptide/tripeptide:H(+) symporter DtpB
+	[3642380:3643132:rev] rsmJ; 16S rRNA m(2)G1516 methyltransferase
+	[3643140:3645182:rev] prlC; oligopeptidase A
+	[3645385:3646227:dir] rlmJ; 23S rRNA m(6)A2030 methyltransferase
+	[3646299:3647651:dir] gor; glutathione reductase (NADPH)
+	[3647705:3647788:rev] dinQ; membrane toxin DinQ
+	[3648063:3648144:dir] agrA; small RNA AgrA
+	[3648294:3648375:dir] agrB; small regulatory RNA AgrB
+	[3648528:3648881:dir] arsR; DNA-binding transcriptional repressor ArsR
+	[3648935:3650224:dir] arsB; arsenite/antimonite:H(+) antiporter
+	[3650237:3650662:dir] arsC; arsenate reductase
+	[3651291:3653713:dir] yhiS; gene fragment 1 of yhiS; putative uncharacterized protein YhiS
+	[3652182:3653162:rev] insH11; IS5 transposase and trans-activator
+	[3653961:3654527:dir] slp; starvation lipoprotein
+	[3654683:3655213:dir] dctR; putative DNA-binding transcriptional regulator DctR
+	[3655255:3655902:rev] yhiD; inner membrane protein YhiD
+	[3655966:3656292:rev] hdeB; periplasmic acid stress chaperone HdeB
+	[3656408:3656740:rev] hdeA; periplasmic acid stress chaperone HdeA
+	[3656995:3657567:dir] hdeD; acid-resistance membrane protein
+	[3657985:3658054:rev] arrS; small regulatory RNA ArrS
+	[3658366:3658893:dir] gadE; DNA-binding transcriptional activator GadE
+	[3658992:3659082:dir] gadF; small regulatory RNA GadF
+	[3659232:3660389:dir] mdtE; multidrug efflux pump membrane fusion protein MdtE
+	[3660414:3663527:dir] mdtF; multidrug efflux pump RND permease MdtF
+<END>
+<GI> U00096:19 <COORDINATES> 3789047-3816549 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.498208; n0_4mer:D = 40.007904; n0_4mer:PS = 19.052901
+	[3789047:3790081:rev] waaH; UDP-glucuronate:LPS(HepIII) glycosyltransferase
+	[3790320:3791345:rev] tdh; threonine dehydrogenase
+	[3791355:3792551:rev] kbl; 2-amino-3-ketobutyrate CoA ligase
+	[3792826:3793683:rev] htrL; protein HtrL
+	[3793987:3794919:dir] rfaD; ADP-L-glycero-D-mannoheptose 6-epimerase
+	[3794929:3795975:dir] waaF; ADP-heptose--LPS heptosyltransferase 2
+	[3795979:3796938:dir] waaC; ADP-heptose:LPS heptosyltransferase 1
+	[3796948:3798207:dir] waaL; O-antigen ligase
+	[3797772:3798014:rev] yibX; protein YibX
+	[3798039:3798149:rev] yibY; protein YibY
+	[3798239:3799312:rev] waaU; putative ADP-heptose:LPS heptosyltransferase 4
+	[3799345:3800196:rev] waaZ; lipopolysaccharide core biosynthesis protein WaaZ
+	[3800267:3800965:rev] waaY; lipopolysaccharide core heptose (II) kinase
+	[3800983:3801999:rev] waaJ; UDP-glucose:(glucosyl)LPS alpha-1,2-glucosyltransferase
+	[3802039:3803058:rev] waaO; UDP-D-glucose:(glucosyl)LPS alpha-1,3-glucosyltransferase
+	[3803058:3804137:rev] waaB; UDP-D-galactose:(glucosyl)lipopolysaccharide-1, 6-D-galactosyltransferase
+	[3804181:3805116:rev] waaS; lipopolysaccharide core biosynthesis protein WaaS
+	[3805153:3805950:rev] waaP; lipopolysaccharide core heptose (I) kinase
+	[3805943:3807067:rev] waaG; lipopolysaccharide glucosyltransferase I
+	[3807064:3808098:rev] waaQ; lipopolysaccharide core heptosyltransferase 3
+	[3808166:3808238:rev] rirA; small regulatory RNA RirA
+	[3808540:3809817:dir] waaA; KDO transferase
+	[3809825:3810304:dir] coaD; pantetheine-phosphate adenylyltransferase
+	[3810343:3811152:rev] mutM; DNA-formamidopyrimidine glycosylase
+	[3811250:3811417:rev] rpmG; 50S ribosomal subunit protein L33
+	[3811438:3811674:rev] rpmB; 50S ribosomal subunit protein L28
+	[3811891:3812559:rev] yicR; RadC-like JAB domain-containing protein YicR
+	[3812731:3813951:dir] dfp; fused 4'-phosphopantothenoylcysteine decarboxylase and phosphopantothenoylcysteine synthetase
+	[3813929:3814387:dir] dut; dUTP diphosphatase
+	[3814494:3815090:dir] slmA; nucleoid occlusion factor SlmA
+	[3815127:3815768:rev] pyrE; orotate phosphoribosyltransferase
+	[3815863:3816549:rev] rph; truncated RNase PH
+<END>
+<GI> U00096:20 <COORDINATES> 4161067-4179599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.493242; n0_4mer:D = 36.946741; n0_4mer:PS = 50.420270
+	[4161067:4161771:dir] fabR; DNA-binding transcriptional repressor FabR
+	[4161771:4162130:dir] yijD; DUF1422 domain-containing inner membrane protein YijD
+	[4162170:4163270:rev] trmA; tRNA m(5)U54 methyltransferase
+	[4163639:4165483:dir] btuB; cobalamin outer membrane transporter
+	[4165428:4166285:dir] murI; glutamate racemase
+	[4166659:4168200:dir] rrsB; 16S ribosomal RNA
+	[4168372:4168447:dir] gltT; tRNA-Glu(UUC); tRNA-Glu
+	[4168641:4171544:dir] rrlB; 23S ribosomal RNA
+	[4171637:4171756:dir] rrfB; 5S ribosomal RNA
+	[4172057:4173085:dir] murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+	[4173082:4174047:dir] birA; DNA-binding transcriptional repressor/biotin-[acetyl-CoA-carboxylase] ligase BirA
+	[4174076:4175026:rev] coaA; pantothenate kinase
+	[4175388:4175463:dir] thrU; tRNA-Thr(UGU); tRNA-Thr
+	[4175472:4175556:dir] tyrU; tRNA-Tyr(GUA); tRNA-Tyr
+	[4175673:4175747:dir] glyT; tRNA-Gly(UCC); tRNA-Gly
+	[4175754:4175829:dir] thrT; tRNA-Thr(GGU); tRNA-Thr
+	[4175944:4177128:dir] tufB; translation elongation factor Tu 2
+	[4177358:4177741:dir] secE; Sec translocon subunit SecE
+	[4177743:4178288:dir] nusG; transcription termination/antitermination factor NusG
+	[4178447:4178875:dir] rplK; 50S ribosomal subunit protein L11
+	[4178879:4179583:dir] rplA; 50S ribosomal subunit protein L1
+<END>
+<GI> U00096:21 <COORDINATES> 4311000-4332004 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.548322; n0_4mer:D = 32.169782; n0_4mer:PS = 23.481197
+	[4311107:4312042:rev] alsB; D-allose ABC transporter periplasmic binding protein
+	[4312101:4312991:rev] alsR; DNA-binding transcriptional repressor AlsR
+	[4313350:4313799:dir] rpiB; allose-6-phosphate isomerase/ribose-5-phosphate isomerase B
+	[4313868:4314197:dir] yjdP; protein YjdP
+	[4314344:4315102:rev] phnP; 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+	[4315104:4315538:rev] phnO; aminoalkylphosphonate N-acetyltransferase
+	[4315525:4316082:rev] phnN; ribose 1,5-bisphosphate phosphokinase
+	[4316082:4317218:rev] phnM; RPnTP hydrolase
+	[4317215:4317895:rev] phnL; carbon-phosphorus lyase ATP-binding protein PhnL
+	[4318006:4318764:rev] phnK; carbon-phosphorus lyase ATP-binding protein PhnK
+	[4318761:4319606:rev] phnJ; carbon-phosphorus lyase core complex subunit PhnJ
+	[4319599:4320663:rev] phnI; carbon-phosphorus lyase core complex subunit PhnI
+	[4320663:4321247:rev] phnH; carbon-phosphorus lyase core complex subunit PhnH
+	[4321244:4321696:rev] phnG; carbon-phosphorus lyase core complex subunit PhnG
+	[4321697:4322422:rev] phnF; putative transcriptional regulator PhnF
+	[4322443:4323281:rev] phnE1; phosphonate/phosphate ABC transporter membrane subunit PhnE1
+	[4323336:4324352:rev] phnD; phosphonate/phosphate ABC transporter periplasmic binding protein
+	[4324377:4325165:rev] phnC; phosphonate/phosphate ABC transporter ATP binding subunit
+	[4325298:4325741:rev] yjdN; PF06983 family protein YjdN
+	[4326399:4326734:rev] yjdM; zinc ribbon domain-containing protein YjdM
+	[4327135:4329363:dir] rdcA; regulator of diguanylate cyclase RdcA
+	[4329360:4330238:dir] rdcB; regulator of diguanylate cyclase RdcB
+	[4330502:4332004:dir] proP; osmolyte:H(+) symporter ProP
+<END>
+<GI> U00096:22 <COORDINATES> 4464759-4488400 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.623818; n0_4mer:D = 28.462427; n0_4mer:PS = 23.297600
+	[4464759:4466180:rev] treB; trehalose-specific PTS enzyme IIBC component
+	[4466299:4467246:rev] treR; DNA-binding transcriptional repressor TreR
+	[4467431:4467484:dir] mgtL; leader peptide MgtL
+	[4467625:4470321:dir] mgtA; Mg(2(+)) importing P-type ATPase
+	[4470527:4470913:rev] ridA; enamine/imine deaminase, redox-regulated chaperone
+	[4470986:4471447:rev] pyrI; aspartate carbamoyltransferase, PyrI subunit
+	[4471460:4472395:rev] pyrB; aspartate carbamoyltransferase catalytic subunit
+	[4472399:4472533:rev] pyrL; pyrBI operon leader peptide
+	[4472814:4473209:rev] yjgH; RutC family protein YjgH
+	[4473340:4474053:rev] bdcA; c-di-GMP-binding biofilm dispersal mediator protein
+	[4474124:4474717:dir] bdcR; putative transcriptional regulator BdcR
+	[4474862:4475314:dir] tabA; DUF386 domain-containing toxin-antitoxin biofilm protein TabA
+	[4475437:4477251:dir] yjgL; protein YjgL
+	[4477307:4478311:rev] argI; ornithine carbamoyltransferase ArgI
+	[4478473:4478889:dir] rraB; ribonuclease E inhibitor protein B
+	[4479034:4479537:rev] yjgM; putative N-acetyltransferase YjgM
+	[4479730:4480926:dir] yjgN; inner membrane protein YjgN
+	[4480982:4483837:rev] valS; valine--tRNA ligase
+	[4483837:4484280:rev] holC; DNA polymerase III subunit chi
+	[4484440:4485951:rev] pepA; aminopeptidase A/I
+	[4486043:4486099:dir] ytgB; protein YtgB
+	[4486105:4486155:dir] ytgA; protein YtgA
+	[4486218:4487318:dir] lptF; lipopolysaccharide transport system protein LptF
+	[4487318:4488400:dir] lptG; lipopolysaccharide transport system protein LptG
+<END>
+<GI> U00096:23 <COORDINATES> 4496750-4516677 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.580338; n0_4mer:D = 30.579706; n0_4mer:PS = 24.911682
+	[4496750:4497940:dir] intB
+	[4498272:4498637:dir] insC6; IS2 insertion element repressor InsA
+	[4498595:4499500:dir] insD6; IS2 insertion element protein InsB
+	[4499593:4500791:rev] yjgX
+	[4501260:4501589:dir] yjgZ; uncharacterized protein YjgZ
+	[4502103:4503431:rev] insG; IS4 putative transposase
+	[4504058:4505275:dir] nanX; 2,7-anhydro-N-acetylneuraminate transporter NanX
+	[4505287:4506405:dir] nanY; 2,7-anhydro-N-acetylneuraminate hydratase
+	[4506448:4506573:dir] ythA; uncharacterized protein YthA
+	[4506626:4506856:rev] yjhD
+	[4506861:4507109:dir] yjhE
+	[4507197:4509793:dir] insO; gene fragment 1 of insO; KpLE2 phage-like element; IS911B regulator fragment
+	[4507466:4508617:rev] insI3; IS30 transposase
+	[4508684:4508942:rev] insO; gene fragment 3 of insO
+	[4509804:4510133:dir] yjhV
+	[4510690:4511457:rev] fecE; ferric citrate ABC transporter ATP binding subunit
+	[4511458:4512414:rev] fecD; ferric citrate ABC transporter membrane subunit FecD
+	[4512411:4513409:rev] fecC; ferric citrate ABC transporter membrane subunit FecC
+	[4513406:4514308:rev] fecB; ferric citrate ABC transporter periplasmic binding protein
+	[4514353:4516677:rev] fecA; ferric citrate outer membrane transporter
+<END>
+<GI> U00096:24 <COORDINATES> 4530255-4554361 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.082734; n0_4mer:D = 32.105944; n0_4mer:PS = 22.995868
+	[4530255:4530533:rev] sgcB; putative PTS enzyme IIB component SgcB
+	[4530530:4531651:rev] sgcX; putative endoglucanase with Zn-dependent exopeptidase domain
+	[4532050:4532310:rev] yjhY
+	[4532437:4533183:rev] yjhP; putative methyltransferase YjhP
+	[4533239:4533784:rev] yjhQ; putative acetyltransferase TopAI antitoxin YjhQ
+	[4533796:4534053:rev] topAI; toxin of the TopAI-YjhQ toxin-antitoxin system, TopA inhibitor
+	[4534430:4534675:rev] yjhZ
+	[4535015:4536031:dir] yjhR
+	[4536597:4536695:dir] ythB; protein YthB
+	[4536614:4537594:rev] nanS; N-acetyl-9-O-acetylneuraminate esterase
+	[4537659:4538765:rev] nanM; N-acetylneuraminate mutarotase
+	[4538785:4539501:rev] nanC; N-acetylneuraminate outer membrane channel
+	[4540957:4541559:dir] fimB; Type 1 fimbriae regulatory protein FimB
+	[4542037:4542633:dir] fimE; regulator for fimA
+	[4543115:4543663:dir] fimA; type 1 fimbriae major subunit
+	[4543674:4543708:dir] fimR2; small regulatory RNA FimR2
+	[4543728:4544267:dir] fimI; putative fimbrial protein FimI
+	[4544304:4545029:dir] fimC; type 1 fimbriae periplasmic chaperone
+	[4545096:4547732:dir] fimD; type I fimbriae usher protein
+	[4547742:4548272:dir] fimF; type 1 fimbriae minor subunit FimF
+	[4548285:4548788:dir] fimG; type 1 fimbriae minor subunit FimG
+	[4548808:4549710:dir] fimH; type 1 fimbriae D-mannose specific adhesin
+	[4549953:4551296:rev] gntP; fructuronate transporter
+	[4551636:4552820:dir] uxuA; D-mannonate dehydratase
+	[4552901:4554361:dir] uxuB; D-mannonate oxidoreductase
+<END>

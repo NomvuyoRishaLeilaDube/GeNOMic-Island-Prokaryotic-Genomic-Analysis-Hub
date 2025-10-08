@@ -1,0 +1,396 @@
+<GI> CP084167:1 <COORDINATES> 319443-338135 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.502733; n0_4mer:D = 16.889591; n0_4mer:PS = 21.750518
+	[319443:320114:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; GTP-binding protein
+	[320312:328309:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[328309:334512:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[334829:335875:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[336249:337280:dir] nadA; Derived by automated computational analysis using gene prediction method: Protein Homology.; quinolinate synthase NadA
+	[337299:338135:dir] nadC; Derived by automated computational analysis using gene prediction method: Protein Homology.; carboxylating nicotinate-nucleotide diphosphorylase
+<END>
+<GI> CP084167:2 <COORDINATES> 562895-582379 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.505779; n0_4mer:D = 17.272617; n0_4mer:PS = 22.517968
+	[562895:564019:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[564167:564895:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; glycerol-3-phosphate acyltransferase
+	[564936:565679:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; biotin--[acetyl-CoA-carboxylase] ligase
+	[565793:567367:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; acyl-CoA carboxylase subunit beta
+	[567389:577936:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; SDR family NAD(P)-dependent oxidoreductase
+	[577972:578733:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; alpha/beta hydrolase
+	[578755:579237:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; biotin/lipoyl-binding protein
+	[579302:580807:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; acetyl-CoA carboxylase biotin carboxylase subunit
+	[580994:582379:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; TldD/PmbA family protein
+<END>
+<GI> CP084167:3 <COORDINATES> 759319-782263 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.389674; n0_4mer:D = 15.181177; n0_4mer:PS = 19.868437
+	[759319:760566:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; thiamine ABC transporter substrate-binding protein
+	[760683:760973:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF4389 domain-containing protein
+	[761027:761719:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[761741:762940:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter permease
+	[762937:763683:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter ATP-binding protein
+	[763844:764308:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[764464:764904:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; pyridoxamine 5'-phosphate oxidase family protein
+	[764962:765690:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; M48 family metallopeptidase
+	[765784:767049:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF438 domain-containing protein
+	[767066:767296:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; ferredoxin
+	[767326:768243:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[768457:769101:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; threonylcarbamoyl-AMP synthase
+	[769142:769810:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; cysteine hydrolase family protein
+	[770053:770310:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; pentapeptide repeat-containing protein
+	[770245:771249:rev] incomplete; partial on complete genome; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter substrate-binding protein
+	[772181:774022:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter substrate-binding protein
+	[774300:776111:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter substrate-binding protein
+	[776274:777716:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; TldD/PmbA family protein
+	[777729:779102:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; TldD/PmbA family protein
+	[779187:779837:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[780163:780861:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[780839:782263:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; zinc ribbon domain-containing protein
+<END>
+<GI> CP084167:4 <COORDINATES> 1037609-1074099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.550263; n0_4mer:D = 14.765917; n0_4mer:PS = 26.069885
+	[1037609:1040296:dir] cas10; Derived by automated computational analysis using gene prediction method: Protein Homology.; type III-A CRISPR-associated protein Cas10/Csm1
+	[1040302:1040820:dir] csm2; Derived by automated computational analysis using gene prediction method: Protein Homology.; type III-A CRISPR-associated protein Csm2
+	[1040822:1041568:dir] csm3; Derived by automated computational analysis using gene prediction method: Protein Homology.; type III-A CRISPR-associated RAMP protein Csm3
+	[1041587:1042543:dir] csm4; Derived by automated computational analysis using gene prediction method: Protein Homology.; type III-A CRISPR-associated RAMP protein Csm4
+	[1042536:1043648:dir] csm5; Derived by automated computational analysis using gene prediction method: Protein Homology.; type III-A CRISPR-associated RAMP protein Csm5
+	[1043690:1044580:dir] cas6; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated endoribonuclease Cas6
+	[1044781:1046265:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1046431:1047357:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF2797 domain-containing protein
+	[1047351:1048385:dir] cas1; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated endonuclease Cas1
+	[1048396:1048818:dir] cas2; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated endonuclease Cas2
+	[1048815:1049390:dir] cas4; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated protein Cas4
+	[1058772:1058915:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1059023:1059901:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1060129:1060386:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1060544:1061566:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DMT family transporter
+	[1061783:1062253:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; HIT family protein
+	[1062427:1064574:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; caspase family protein
+	[1064754:1064945:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF2892 domain-containing protein
+	[1065074:1066516:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1066639:1067802:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; glycosyltransferase 87 family protein
+	[1067989:1068645:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1068638:1069081:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1069078:1069491:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1069631:1070071:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; Lrp/AsnC family transcriptional regulator
+	[1070247:1071563:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; glutamine synthetase family protein
+	[1071619:1071867:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1072045:1073331:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; site-specific DNA-methyltransferase
+	[1073436:1073963:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; chromate resistance protein
+<END>
+<GI> CP084167:5 <COORDINATES> 1229385-1255066 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.894421; n0_4mer:D = 18.243479; n0_4mer:PS = 35.209323
+	[1229385:1232303:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; cation-transporting P-type ATPase
+	[1232377:1232751:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1232788:1232988:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1233110:1233397:rev] albA; Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-binding protein Alba
+	[1233499:1234050:rev] endA; Derived by automated computational analysis using gene prediction method: Protein Homology.; tRNA-intron lyase
+	[1234147:1235340:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; (Fe-S)-binding protein
+	[1235483:1236739:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; FAD-binding oxidoreductase
+	[1236736:1237056:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1237582:1238403:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; undecaprenyl-diphosphate phosphatase
+	[1238709:1241000:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; PQQ-binding-like beta-propeller repeat protein
+	[1241270:1242139:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; prenyltransferase
+	[1242559:1242633:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Gln
+	[1242669:1242743:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Gln
+	[1249210:1249638:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1249638:1250018:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1250645:1251646:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; PstS family phosphate ABC transporter substrate-binding protein
+	[1251708:1254209:dir] pstC; Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphate ABC transporter permease subunit PstC
+	[1254230:1255066:dir] pstB; Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphate ABC transporter ATP-binding protein PstB
+<END>
+<GI> CP084167:6 <COORDINATES> 1278280-1303881 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.825089; n0_4mer:D = 14.442485; n0_4mer:PS = 28.340845
+	[1278280:1280190:dir] dnaK; Derived by automated computational analysis using gene prediction method: Protein Homology.; molecular chaperone DnaK
+	[1280256:1281404:dir] dnaJ; Derived by automated computational analysis using gene prediction method: Protein Homology.; molecular chaperone DnaJ
+	[1281468:1282394:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1282409:1282840:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF61 family protein
+	[1282892:1284076:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; Xaa-Pro peptidase family protein
+	[1284065:1284991:rev] map; Derived by automated computational analysis using gene prediction method: Protein Homology.; type II methionyl aminopeptidase
+	[1285062:1285565:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DDE-type integrase/transposase/recombinase
+	[1285572:1286000:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; helix-turn-helix domain-containing protein
+	[1286227:1287978:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1287989:1289428:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1289440:1293762:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1293841:1294233:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1294211:1295218:rev] gap; Derived by automated computational analysis using gene prediction method: Protein Homology.; type I glyceraldehyde-3-phosphate dehydrogenase
+	[1295344:1296348:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1296512:1297519:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1297596:1298822:dir] rocD; Derived by automated computational analysis using gene prediction method: Protein Homology.; ornithine--oxo-acid transaminase
+	[1298870:1300066:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; QVPTGV class sortase B protein-sorting domain-containing protein
+	[1300215:1302062:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter ATP-binding protein/permease
+	[1302064:1303881:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter ATP-binding protein/permease
+<END>
+<GI> CP084167:7 <COORDINATES> 1633315-1677162 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.759062; n0_4mer:D = 14.697582; n0_4mer:PS = 26.679044
+	[1633315:1634280:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; MBL fold metallo-hydrolase
+	[1634297:1635118:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1635279:1637807:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1637917:1638159:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NifU family protein
+	[1638318:1638875:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF84 family protein
+	[1638905:1640158:rev] purD; Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphoribosylamine--glycine ligase
+	[1640161:1641555:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; amidophosphoribosyltransferase
+	[1641557:1642162:rev] purN; Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphoribosylglycinamide formyltransferase
+	[1642170:1644500:rev] purB; Derived by automated computational analysis using gene prediction method: Protein Homology.; adenylosuccinate lyase
+	[1644493:1644882:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; AIR carboxylase family protein
+	[1644898:1647081:rev] purL; Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphoribosylformylglycinamidine synthase subunit PurL
+	[1647078:1647764:rev] purQ; Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphoribosylformylglycinamidine synthase I
+	[1647777:1648745:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphoribosylaminoimidazolesuccinocarboxamide synthase
+	[1648986:1649765:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1649892:1650992:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1651023:1651697:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; thioredoxin family protein
+	[1651852:1652124:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; peptidyl-prolyl cis-trans isomerase
+	[1652193:1652507:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; peptidyl-prolyl cis-trans isomerase
+	[1652599:1653291:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; acetate--CoA ligase family protein
+	[1653292:1654725:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; CoA-binding protein
+	[1654886:1656568:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; right-handed parallel beta-helix repeat-containing protein
+	[1656527:1658416:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; urocanate hydratase
+	[1658515:1659282:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1659375:1660529:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; formate--phosphoribosylaminoimidazolecarboxamide ligase family protein
+	[1660790:1661785:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; formate--phosphoribosylaminoimidazolecarboxamide ligase
+	[1661801:1663309:dir] guaA; Derived by automated computational analysis using gene prediction method: Protein Homology.; glutamine-hydrolyzing GMP synthase
+	[1663424:1664785:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; FAD-dependent oxidoreductase
+	[1664905:1666065:dir] gcvT; Derived by automated computational analysis using gene prediction method: Protein Homology.; glycine cleavage system aminomethyltransferase GcvT
+	[1666195:1666602:dir] gcvH; Derived by automated computational analysis using gene prediction method: Protein Homology.; glycine cleavage system protein GcvH
+	[1666617:1668002:dir] gcvPA; Derived by automated computational analysis using gene prediction method: Protein Homology.; aminomethyl-transferring glycine dehydrogenase subunit GcvPA
+	[1668004:1669542:dir] gcvPB; Derived by automated computational analysis using gene prediction method: Protein Homology.; aminomethyl-transferring glycine dehydrogenase subunit GcvPB
+	[1669726:1670730:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; caspase family protein
+	[1670798:1673251:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; PQQ-binding-like beta-propeller repeat protein
+	[1673283:1673597:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1674208:1677162:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; intein-containing RctB family protein
+<END>
+<GI> CP084167:8 <COORDINATES> 1900000-1923423 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.918859; n0_4mer:D = 15.992319; n0_4mer:PS = 31.359705
+	[1900034:1901281:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; leucine-rich repeat domain-containing protein
+	[1901358:1901612:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[1901726:1905082:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1905180:1905509:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1905865:1906308:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L15
+	[1906314:1906775:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L30
+	[1906810:1907448:rev] rpsE; Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S5
+	[1907450:1908106:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L18
+	[1908121:1908591:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L19e
+	[1908781:1909167:rev] incomplete; partial on complete genome; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L32e
+	[1909411:1909968:rev] rplF; Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L6
+	[1909979:1910371:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S8
+	[1910373:1910540:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S14
+	[1910546:1911118:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L5
+	[1911118:1911876:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S4e
+	[1911876:1912400:rev] rplX; Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L24
+	[1912411:1912827:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L14
+	[1912839:1913177:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S17
+	[1913359:1913652:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ribonuclease P protein subunit
+	[1913776:1913979:rev] rpmC; Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L29
+	[1913993:1914958:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S3
+	[1914975:1915436:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L22
+	[1915671:1918130:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; valine--tRNA ligase
+	[1918281:1920128:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; GAF domain-containing protein
+	[1920213:1920326:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ile
+	[1920432:1920704:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[1920976:1923423:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DEAD/DEAH box helicase
+<END>
+<GI> CP084167:9 <COORDINATES> 2098205-2147847 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.331692; n0_4mer:D = 16.784460; n0_4mer:PS = 25.430546
+	[2098205:2100481:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; BREX-1 system adenine-specific DNA-methyltransferase PglX
+	[2100595:2101089:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; transcription elongation factor Spt5
+	[2101136:2101330:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; protein translocase SEC61 complex subunit gamma
+	[2101407:2101904:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L11
+	[2102264:2102370:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Gly
+	[2102390:2102533:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2102738:2103649:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; PD-(D/E)XK nuclease family protein
+	[2103808:2103915:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Gly
+	[2104239:2105132:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2108383:2108646:rev] cas2; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated endonuclease Cas2
+	[2108648:2109727:rev] cas1b; Derived by automated computational analysis using gene prediction method: Protein Homology.; type I-B CRISPR-associated endonuclease Cas1b
+	[2109731:2110243:rev] cas4; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated protein Cas4
+	[2110307:2112988:rev] cas3; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated helicase Cas3'
+	[2112991:2113854:rev] cas5; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated protein Cas5
+	[2113893:2114924:rev] cas7i; Derived by automated computational analysis using gene prediction method: Protein Homology.; type I-B CRISPR-associated protein Cas7/Cst2/DevR
+	[2114917:2115207:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2115300:2116937:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2117125:2117862:rev] cas6; Derived by automated computational analysis using gene prediction method: Protein Homology.; CRISPR-associated endoribonuclease Cas6
+	[2118520:2118822:rev] rpl12p; Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein P1
+	[2118834:2119850:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L10
+	[2119860:2120501:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L1
+	[2120785:2120988:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2121401:2123857:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; ATP-binding protein
+	[2123934:2124857:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; transposase
+	[2125021:2125695:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; GTP-binding protein
+	[2125925:2126389:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S19e
+	[2126427:2126765:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA-binding protein
+	[2126765:2126920:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L39e
+	[2126934:2127335:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L31e
+	[2127371:2128048:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; translation initiation factor IF-6
+	[2128059:2128304:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; YhbY family RNA-binding protein
+	[2128312:2128683:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ribonuclease P
+	[2128709:2129542:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2129732:2130913:rev] ftsZ; Derived by automated computational analysis using gene prediction method: Protein Homology.; cell division protein FtsZ
+	[2130963:2131277:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2131431:2135566:rev] Derived by automated computational analysis using gene prediction method: cmsearch.; 23S ribosomal RNA
+	[2136012:2136185:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2136618:2137094:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2137707:2139299:dir] tgtA; Derived by automated computational analysis using gene prediction method: Protein Homology.; tRNA guanosine(15) transglycosylase TgtA
+	[2139300:2139851:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2139915:2140328:dir] cdd; Derived by automated computational analysis using gene prediction method: Protein Homology.; cytidine deaminase
+	[2140388:2140930:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; inorganic diphosphatase
+	[2141056:2142951:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphoenolpyruvate carboxykinase (GTP)
+	[2143087:2143233:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2143558:2144370:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2144507:2145454:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2145517:2145831:rev] rpsJ; Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S10
+	[2145908:2146306:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2146525:2147847:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; amidohydrolase
+<END>
+<GI> CP084167:10 <COORDINATES> 2236914-2262172 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.751624; n0_4mer:D = 17.223544; n0_4mer:PS = 30.979600
+	[2236914:2239031:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; S8 family serine peptidase
+	[2239208:2239462:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2239955:2240863:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2241056:2241964:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; PD-(D/E)XK nuclease family protein
+	[2242328:2243143:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ParA family protein
+	[2243127:2244263:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2244260:2244535:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2244708:2245001:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; helix-turn-helix transcriptional regulator
+	[2245500:2246977:rev] Derived by automated computational analysis using gene prediction method: cmsearch.; 16S ribosomal RNA
+	[2247446:2248165:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2248291:2248581:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2248630:2249565:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2249726:2249962:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; thioredoxin family protein
+	[2249973:2250209:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2250199:2252301:rev] topA; Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA topoisomerase I
+	[2252345:2252430:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ser
+	[2252545:2253834:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; UbiD family decarboxylase
+	[2254107:2254262:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2254295:2254459:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2254411:2255589:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; transposase
+	[2255793:2256023:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2256048:2256551:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2256488:2256805:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2257181:2258101:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DMT family transporter
+	[2258436:2258975:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosomal protein L16
+	[2258986:2259573:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 30S ribosomal protein S7
+	[2259708:2260733:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; phosphatase PAP2 family protein
+	[2260762:2260956:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2260994:2262172:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; RsmB/NOP family class I SAM-dependent RNA methyltransferase
+<END>
+<GI> CP084167:11 <COORDINATES> 2456000-2477614 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.172101; n0_4mer:D = 14.554402; n0_4mer:PS = 27.049580
+	[2456017:2456811:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; enoyl-CoA hydratase/isomerase family protein
+	[2456838:2457986:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; bis-aminopropyl spermidine synthase family protein
+	[2458088:2459362:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2459379:2459870:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; YkgJ family cysteine cluster protein
+	[2459999:2460937:dir] arcC; Derived by automated computational analysis using gene prediction method: Protein Homology.; carbamate kinase
+	[2461116:2464916:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA gyrase subunit B
+	[2464927:2468736:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2468797:2470659:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2470665:2471018:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF5752 family protein
+	[2471422:2471508:dir] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-Ser
+	[2471753:2472781:dir] hypE; Derived by automated computational analysis using gene prediction method: Protein Homology.; hydrogenase expression/formation protein HypE
+	[2472816:2475155:dir] hypF; Derived by automated computational analysis using gene prediction method: Protein Homology.; carbamoyltransferase HypF
+	[2475373:2476374:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit H
+	[2476386:2476787:dir] ndhC; Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit A
+	[2476788:2477303:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit J
+	[2477300:2477614:dir] nuoK; Derived by automated computational analysis using gene prediction method: Protein Homology.; NADH-quinone oxidoreductase subunit NuoK
+<END>
+<GI> CP084167:12 <COORDINATES> 2583790-2608685 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.669329; n0_4mer:D = 18.758782; n0_4mer:PS = 21.055481
+	[2583790:2584500:rev] thyX; Derived by automated computational analysis using gene prediction method: Protein Homology.; FAD-dependent thymidylate synthase
+	[2584693:2587800:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2587806:2591492:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; DUF4129 domain-containing protein
+	[2591503:2592015:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF4129 domain-containing protein
+	[2592067:2593851:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; DUF4350 domain-containing protein
+	[2593908:2594912:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; MoxR family ATPase
+	[2594923:2596371:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF58 domain-containing protein
+	[2596375:2597889:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2598020:2600251:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; GTP-binding protein
+	[2600501:2601655:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; amidohydrolase family protein
+	[2601652:2602344:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; dihydrofolate reductase family protein
+	[2602335:2603393:dir] cofG; Derived by automated computational analysis using gene prediction method: Protein Homology.; 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit CofG
+	[2603400:2604527:dir] cofH; Derived by automated computational analysis using gene prediction method: Protein Homology.; 5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase CofH
+	[2604637:2605497:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; helix-turn-helix domain-containing protein
+	[2605494:2608685:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+<END>
+<GI> CP084167:13 <COORDINATES> 2624451-2643682 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.690147; n0_4mer:D = 15.067181; n0_4mer:PS = 23.764567
+	[2624451:2626223:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; chloride channel protein
+	[2626331:2628457:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2628468:2628950:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 6-carboxytetrahydropterin synthase
+	[2629032:2629973:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2630067:2631005:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; IS481 family transposase
+	[2631135:2631671:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NUDIX hydrolase
+	[2632085:2633308:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; electron transfer flavoprotein subunit alpha
+	[2633322:2634122:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; electron transfer flavoprotein subunit beta/FixA family protein
+	[2634122:2635762:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; FAD-binding oxidoreductase
+	[2635866:2636189:dir] cutA; Derived by automated computational analysis using gene prediction method: Protein Homology.; divalent cation tolerance protein CutA
+	[2636227:2638035:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter ATP-binding protein/permease
+	[2638045:2639463:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter ATP-binding protein/permease
+	[2639723:2641180:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; transposase
+	[2641304:2641636:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2641743:2642876:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; radical SAM protein
+	[2642945:2643682:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; HAD family hydrolase
+<END>
+<GI> CP084167:14 <COORDINATES> 2816095-2834680 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.626089; n0_4mer:D = 14.731274; n0_4mer:PS = 17.157997
+	[2816095:2816955:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF1028 domain-containing protein
+	[2817059:2817955:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; nitroreductase family protein
+	[2818069:2819571:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; carboxypeptidase M32
+	[2819673:2819927:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2819906:2820337:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; zinc ribbon domain-containing protein
+	[2820376:2822793:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2822799:2823827:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2823958:2824929:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; NAD(P)/FAD-dependent oxidoreductase
+	[2825259:2825525:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2825615:2825911:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2826067:2827461:rev] gatD; Derived by automated computational analysis using gene prediction method: Protein Homology.; Glu-tRNA(Gln) amidotransferase subunit GatD
+	[2827462:2829414:rev] gatE; Derived by automated computational analysis using gene prediction method: Protein Homology.; Glu-tRNA(Gln) amidotransferase subunit GatE
+	[2829527:2829617:rev] Derived by automated computational analysis using gene prediction method: tRNAscan-SE.; tRNA-His
+	[2830075:2830593:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; pantetheine-phosphate adenylyltransferase
+	[2830573:2831094:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; GTP-binding protein
+	[2831210:2831689:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; RecB-family nuclease
+	[2831686:2832213:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; GTP-binding protein
+	[2832272:2833126:rev] amrB; Derived by automated computational analysis using gene prediction method: Protein Homology.; AmmeMemoRadiSam system protein B
+	[2833361:2834680:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; transposase
+<END>
+<GI> CP084167:15 <COORDINATES> 2878882-2911936 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.006325; n0_4mer:D = 15.533987; n0_4mer:PS = 24.846048
+	[2878882:2879985:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[2880109:2880879:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; NAD-dependent deacylase
+	[2880881:2881156:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; acylphosphatase
+	[2881186:2881971:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; YkgJ family cysteine cluster protein
+	[2882061:2882699:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; 50S ribosome-binding GTPase
+	[2883117:2883449:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S dicluster domain-containing protein
+	[2883442:2884614:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 2-oxoacid:acceptor oxidoreductase subunit alpha
+	[2884611:2885471:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 2-oxoacid:ferredoxin oxidoreductase subunit beta
+	[2885473:2886012:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 2-oxoacid:acceptor oxidoreductase family protein
+	[2886009:2887979:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; CoB--CoM heterodisulfide reductase iron-sulfur subunit A family protein
+	[2887985:2888449:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hydrogenase iron-sulfur subunit
+	[2888442:2889440:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; oxidoreductase
+	[2889443:2890930:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; Ni/Fe hydrogenase subunit alpha
+	[2890927:2891433:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; hydrogenase maturation protease
+	[2891423:2891836:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S dicluster domain-containing protein
+	[2891849:2892739:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; CoB--CoM heterodisulfide reductase iron-sulfur subunit B family protein
+	[2892759:2893481:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S dicluster domain-containing protein
+	[2893487:2895145:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; FAD-binding protein
+	[2895135:2895818:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; MBL fold metallo-hydrolase
+	[2896170:2897522:dir] gdhA; Derived by automated computational analysis using gene prediction method: Protein Homology.; NADP-specific glutamate dehydrogenase
+	[2897614:2899020:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; hypothetical protein
+	[2899031:2911936:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; DNA topoisomerase VI subunit B
+<END>
+<GI> CP084167:16 <COORDINATES> 3041199-3064171 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.473997; n0_4mer:D = 16.032344; n0_4mer:PS = 20.471434
+	[3041199:3042056:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3042519:3042764:dir] incomplete; partial on complete genome; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology.; ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent
+	[3042876:3050006:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; TSCPD domain-containing protein
+	[3050087:3051145:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; DUF354 domain-containing protein
+	[3051225:3052385:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; pyridoxal phosphate-dependent aminotransferase
+	[3052406:3052600:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3052713:3052865:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3053503:3056670:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3056794:3058251:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; TldD/PmbA family protein
+	[3058261:3059658:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; TldD/PmbA family protein
+	[3059763:3060479:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; YggS family pyridoxal phosphate-dependent enzyme
+	[3060560:3061774:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter permease
+	[3061780:3062526:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; ABC transporter ATP-binding protein
+	[3062549:3064171:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+<END>
+<GI> CP084167:17 <COORDINATES> 3161640-3184881 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.666381; n0_4mer:D = 16.233737; n0_4mer:PS = 21.490894
+	[3161640:3164489:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3164727:3165641:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3165836:3166030:rev] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3166282:3166461:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3166506:3167345:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3167839:3168459:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; nucleotidyltransferase family protein
+	[3168456:3171101:dir] xdh; Derived by automated computational analysis using gene prediction method: Protein Homology.; selenium-dependent xanthine dehydrogenase
+	[3171111:3172316:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; YgeY family selenium metabolism-linked hydrolase
+	[3172346:3173311:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; ornithine carbamoyltransferase
+	[3173341:3174804:rev] Derived by automated computational analysis using gene prediction method: Protein Homology.; pyridoxal-phosphate dependent enzyme
+	[3174899:3176230:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; amidohydrolase family protein
+	[3176247:3177548:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; amidohydrolase family protein
+	[3177564:3178637:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; 4Fe-4S binding protein
+	[3178654:3179871:dir] thrC; Derived by automated computational analysis using gene prediction method: Protein Homology.; threonine synthase
+	[3179924:3180145:dir] Derived by automated computational analysis using gene prediction method: GeneMarkS-2+.; hypothetical protein
+	[3180275:3181642:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; FAD binding domain-containing protein
+	[3181639:3183897:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; molybdopterin-dependent oxidoreductase
+	[3183916:3184881:dir] Derived by automated computational analysis using gene prediction method: Protein Homology.; XdhC family protein
+<END>

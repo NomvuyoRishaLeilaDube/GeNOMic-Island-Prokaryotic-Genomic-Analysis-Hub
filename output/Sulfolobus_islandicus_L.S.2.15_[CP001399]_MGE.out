@@ -1,0 +1,691 @@
+<GI> CP001399:1 <COORDINATES> 87592-111926 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.308598; n0_4mer:D = 18.114664; n0_4mer:PS = 34.912900
+	[87592:88371:dir] short-chain dehydrogenase/reductase SDR
+	[88382:89125:dir] exodeoxyribonuclease III Xth
+	[89134:90786:rev] serine/threonine protein kinase
+	[91023:92560:dir] 
+	[92531:92920:rev] HEPN domain protein
+	[92968:93372:rev] thioesterase superfamily protein
+	[93422:94105:rev] precorrin-6y C5,15-methyltransferase (decarboxylating), CbiE subunit
+	[94092:95081:rev] cobalamin (vitamin B12) biosynthesis CbiG protein
+	[95084:95872:rev] precorrin-4 C11-methyltransferase
+	[95878:96546:rev] precorrin-2 C20-methyltransferase
+	[96543:97142:rev] precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit
+	[97143:98192:rev] cobalamin biosynthesis protein CbiD
+	[98189:98935:rev] precorrin-3B C17-methyltransferase
+	[98938:99936:rev] Precorrin-8X methylmutase CbiC/CobH
+	[100854:101888:rev] Radical SAM domain protein
+	[101882:102781:dir] beta-lactamase domain protein
+	[103077:104498:rev] type II secretion system protein
+	[104482:106023:rev] type II secretion system protein E
+	[106026:106730:rev] flagellar accessory protein FlaH
+	[106712:107200:rev] conserved hypothetical protein
+	[107203:107670:rev] flagellin
+	[107663:108424:rev] conserved hypothetical protein
+	[108502:109422:rev] flagellin
+	[109545:110030:dir] conserved hypothetical protein
+	[110014:111486:dir] conserved hypothetical protein
+	[111483:111926:dir] conserved hypothetical protein
+<END>
+<GI> CP001399:2 <COORDINATES> 564343-584599 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.763973; n0_4mer:D = 19.526184; n0_4mer:PS = 34.264831
+	[564343:565398:rev] transposase IS116/IS110/IS902 family protein
+	[565543:565950:dir] transposase IS200-family protein
+	[565925:567163:dir] transposase, IS605 OrfB family
+	[567494:568348:rev] conserved hypothetical protein
+	[568577:569470:dir] ABC transporter related
+	[569463:570296:dir] conserved hypothetical protein
+	[570359:570499:rev] 
+	[570598:571138:dir] 
+	[571144:571197:dir] 
+	[571218:571391:dir] tranposase
+	[571388:571654:dir] 
+	[571782:572945:dir] ATPase
+	[572980:574281:dir] thiamine biosynthesis protein ThiC
+	[574324:575322:dir] ketol-acid reductoisomerase
+	[575511:576519:dir] 
+	[576910:577017:rev] 
+	[577070:577876:dir] protein of unknown function DUF1028
+	[578094:578273:dir] permease, multidrug efflux
+	[578340:580325:rev] protein of unknown function DUF608
+	[580541:581593:dir] transposase IS4 family protein
+	[581582:582835:rev] transposase, IS605 OrfB family
+	[582810:583217:rev] transposase IS200-family protein
+	[583331:584335:rev] endoglucanase precursor
+<END>
+<GI> CP001399:3 <COORDINATES> 598000-620099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.689836; n0_4mer:D = 19.716683; n0_4mer:PS = 27.055671
+	[598107:598331:dir] conserved hypothetical protein
+	[598321:598713:dir] PilT protein domain protein
+	[599648:599920:dir] transposase ISC1190
+	[600022:600357:rev] 
+	[600661:600987:rev] zinc finger C2H2-type domain protein
+	[600977:601615:rev] conserved hypothetical protein
+	[601694:602335:rev] conserved hypothetical protein
+	[603078:603266:dir] 
+	[603361:603678:dir] 
+	[603703:603990:dir] conserved hypothetical protein
+	[604120:604530:dir] conserved hypothetical protein
+	[604532:605257:dir] CRISPR-associated RAMP protein, SSO1426 family
+	[605251:606087:dir] CRISPR-associated RAMP protein, SSO1426 family
+	[606059:606859:dir] protein of unknown function DUF324
+	[607049:609718:dir] metal dependent phophohydrolase
+	[609718:610326:dir] protein of unknown function DUF324
+	[610332:611276:dir] conserved hypothetical protein
+	[611273:611968:dir] protein of unknown function DUF324
+	[612307:613240:rev] 
+	[613237:613545:rev] conserved hypothetical protein
+	[613551:613910:rev] ORF2 in transposon ISC1395
+	[614037:614292:rev] 
+	[614825:615724:dir] CRISPR-associated protein cas1
+	[615725:616012:dir] CRISPR-associated protein Cas2
+	[616978:618294:rev] CRISPR-associated protein DxTHG motif
+	[618826:619029:dir] CRISPRs
+<END>
+<GI> CP001399:4 <COORDINATES> 633500-655188 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.716158; n0_4mer:D = 21.191786; n0_4mer:PS = 35.216683
+	[638556:639167:dir] CRISPR locus-related DNA-binding protein
+	[639246:639677:dir] CRISPR-associated protein, Csa5 family
+	[639674:640639:dir] CRISPR-associated regulatory protein, Csa2 family
+	[640655:641377:dir] CRISPR-associated protein Cas5 family
+	[641361:642866:dir] CRISPR-associated helicase Cas3
+	[642863:643582:dir] CRISPR-associated HD domain protein
+	[643563:644600:dir] conserved hypothetical protein
+	[644600:645496:dir] CRISPR-associated protein Cas6
+	[645539:645839:rev] 
+	[645896:646959:dir] 
+	[647062:647530:rev] 
+	[647521:647619:rev] ORF1 in transposon ISC1048
+	[647609:647821:rev] transposase
+	[648024:648251:dir] 
+	[648293:649321:rev] Luciferase-like monooxygenase
+	[649406:650560:dir] homogentisate 12-dioxygenase
+	[650593:651240:dir] Bacterio-opsin activator HTH domain protein
+	[651237:652085:dir] beta-lactamase domain protein
+	[652385:652507:rev] 
+	[652542:653772:rev] 
+	[653744:654379:rev] DNA binding domain protein, excisionase family
+	[654471:655188:rev] 
+<END>
+<GI> CP001399:5 <COORDINATES> 784527-803429 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.508665; n0_4mer:D = 19.354937; n0_4mer:PS = 26.933853
+	[784527:785330:dir] DNA repair ATPase
+	[785352:786728:rev] amino acid permease-associated region
+	[786711:787403:dir] protein of unknown function DUF981
+	[787516:789498:dir] acetyl coenzyme A synthetase (ADP forming), alpha domain protein
+	[789555:790085:dir] conserved hypothetical protein
+	[790141:790280:rev] 
+	[790384:791447:rev] 
+	[791565:793499:dir] 5-oxoprolinase (ATP-hydrolyzing)
+	[793496:795028:dir] 5-oxoprolinase (ATP-hydrolyzing)
+	[795151:795258:dir] 
+	[795226:795708:dir] PaREP1 family protein
+	[795665:796036:dir] PaREP1 family protein
+	[796584:798008:dir] conserved hypothetical protein
+	[798735:799376:dir] ExsB family protein
+	[799587:799889:rev] Rieske (2Fe-2S) domain protein
+	[800068:800991:dir] conserved hypothetical protein
+	[800984:801707:dir] 
+	[802015:802257:dir] SirA family protein
+	[802272:803429:rev] peptidase U32
+<END>
+<GI> CP001399:6 <COORDINATES> 842270-861554 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.553472; n0_4mer:D = 19.601167; n0_4mer:PS = 23.675234
+	[842270:843745:rev] 4-hydroxyphenylacetate 3-hydroxylase
+	[843742:844689:rev] 3,4-dihydroxyphenylacetate 2,3-dioxygenase
+	[844745:845212:rev] flavin reductase domain protein FMN-binding
+	[845268:846746:rev] major facilitator superfamily MFS_1
+	[846878:847510:dir] Bacterio-opsin activator HTH domain protein
+	[847502:849370:rev] AMP-dependent synthetase and ligase
+	[849471:850586:dir] acyl-CoA dehydrogenase domain protein
+	[850650:851795:dir] acetyl-CoA acetyltransferase
+	[851792:852970:dir] Propanoyl-CoA C-acyltransferase
+	[852982:853479:dir] protein of unknown function DUF35
+	[853480:853914:dir] protein of unknown function DUF35
+	[853938:854904:rev] 
+	[854433:854588:rev] 
+	[855075:856111:dir] 
+	[856194:856718:rev] 
+	[856945:857379:rev] NUDIX hydrolase
+	[857704:858090:rev] PilT protein domain protein
+	[858083:858313:rev] transcriptional regulator, AbrB family
+	[858605:859036:dir] UspA domain protein
+	[859041:861554:dir] plasma-membrane proton-efflux P-type ATPase
+<END>
+<GI> CP001399:7 <COORDINATES> 967495-986140 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.932255; n0_4mer:D = 19.333658; n0_4mer:PS = 27.451578
+	[967495:968727:rev] transposase, IS605 OrfB family
+	[968699:969334:rev] DNA binding domain protein, excisionase family
+	[969479:969769:rev] conserved hypothetical protein
+	[970328:970582:dir] 
+	[970700:972253:rev] hypothetical protein
+	[972314:973585:rev] beta-lactamase domain-containing protein
+	[973575:976262:rev] helicase domain protein
+	[976255:976650:rev] hypothetical protein
+	[976652:979936:rev] ATPase (AAA+ superfamily)-like protein
+	[979929:982724:rev] protein of unknown function DUF1156
+	[983058:984416:dir] Thermopsin
+	[984820:985728:dir] hypothetical protein
+	[985685:986140:rev] transcriptional regulator
+<END>
+<GI> CP001399:8 <COORDINATES> 1204319-1232160 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.565426; n0_4mer:D = 34.958947; n0_4mer:PS = 34.629530
+	[1204319:1204720:rev] conserved hypothetical protein
+	[1205474:1206427:dir] formate hydrogenlyase subunit 4 (HycD)
+	[1206435:1207076:dir] conserved hypothetical protein
+	[1207082:1208404:dir] NADH dehydrogenase (quinone)
+	[1208401:1209576:dir] formate hydrogenlyase subunit 5 (HycE)
+	[1209573:1210178:dir] NADH ubiquinone oxidoreductase 20 kDa subunit
+	[1210175:1211920:dir] NADH/Ubiquinone/plastoquinone (complex I)
+	[1211930:1212118:dir] putative multiple sugar transport system substrate-binding protein
+	[1212290:1213111:rev] Rhodanese domain protein
+	[1213270:1214364:dir] high-affinity nickel-transporter
+	[1214784:1217830:rev] 23S ribosomal RNA
+	[1218015:1219509:rev] 16S ribosomal RNA
+	[1220691:1220851:dir] 
+	[1221138:1222787:dir] thiamine pyrophosphate protein TPP binding domain protein
+	[1222788:1223783:dir] FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+	[1224736:1226142:dir] amino acid permease-associated region
+	[1226211:1226840:rev] Bacterio-opsin activator HTH domain protein
+	[1226936:1228066:rev] acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+	[1228075:1228962:rev] protein of unknown function DUF1177
+	[1228959:1230194:rev] FAD linked oxidase domain protein
+	[1230386:1231360:rev] ABC transporter related
+	[1231357:1232160:rev] binding-protein-dependent transport systems inner membrane component
+<END>
+<GI> CP001399:9 <COORDINATES> 1244968-1264398 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.847122; n0_4mer:D = 18.561527; n0_4mer:PS = 36.764527
+	[1244968:1246311:dir] Alpha-amylase
+	[1246298:1247998:dir] Starch synthase
+	[1248009:1248694:dir] 
+	[1248691:1249788:dir] FAD dependent oxidoreductase
+	[1250141:1250242:dir] transposase
+	[1250280:1250390:dir] ORF2 in transposon ISC1058
+	[1250885:1251397:dir] Domain of unknown function DUF1955
+	[1251397:1252746:dir] pyruvate kinase
+	[1252735:1253070:rev] protein of unknown function DUF202
+	[1253206:1253889:dir] ribose 5-phosphate isomerase
+	[1253871:1253969:rev] tRNA-Leu2; tRNA-Leu
+	[1254018:1255403:rev] homocitrate synthase
+	[1255467:1255742:rev] conserved hypothetical protein
+	[1255748:1256428:rev] uridylate kinase
+	[1256461:1256643:rev] conserved hypothetical protein
+	[1256755:1257552:rev] short-chain dehydrogenase/reductase SDR
+	[1257580:1258449:rev] 3-hydroxyisobutyrate dehydrogenase
+	[1258473:1259585:rev] conserved hypothetical protein
+	[1259554:1260897:rev] GTP-binding signal recognition particle SRP54 G- domain protein
+	[1260900:1261295:rev] translation initiation factor eIF-5A
+	[1261640:1262809:rev] DNA topoisomerase (ATP-hydrolyzing)
+	[1262806:1264398:rev] DNA topoisomerase VI, B subunit
+<END>
+<GI> CP001399:10 <COORDINATES> 1393853-1429197 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.402605; n0_4mer:D = 19.154492; n0_4mer:PS = 36.774290
+	[1393853:1394476:dir] methylase
+	[1394448:1395161:dir] RNA methyltransferase, TrmH family, group 1
+	[1395151:1395777:dir] ribosomal protein S3Ae
+	[1395749:1396972:dir] Nucleotidyl transferase
+	[1396949:1398154:rev] GTPase of unknown function domain protein
+	[1398216:1398866:dir] Ribosomal protein L15e
+	[1398869:1399318:dir] Protein of unknown function DUF54
+	[1399284:1399844:dir] RNase P subunit p30
+	[1399819:1400250:dir] Ribonuclease P-related
+	[1400349:1401074:dir] Proteasome endopeptidase complex
+	[1401092:1401793:dir] Shwachman-Bodian-Diamond syndrome protein
+	[1401796:1402539:dir] RNA binding S1 domain protein
+	[1402505:1403242:dir] exosome complex exonuclease 1
+	[1403245:1404072:dir] 3' exoribonuclease
+	[1404079:1404300:dir] 50S ribosomal protein L37Ae
+	[1404179:1404793:dir] conserved hypothetical protein
+	[1404790:1405065:dir] conserved hypothetical protein
+	[1405022:1405402:dir] prefoldin, beta subunit
+	[1405424:1406125:dir] ERCC4 domain protein
+	[1406204:1408414:dir] translation elongation factor aEF-2
+	[1408421:1409149:dir] HAD-superfamily hydrolase, subfamily IA, variant 1
+	[1409132:1410598:rev] conserved hypothetical protein
+	[1410608:1411195:dir] protein of unknown function DUF447
+	[1411208:1412218:dir] isopropylmalate/isohomocitrate dehydrogenase
+	[1412313:1415462:dir] 
+	[1415459:1416208:dir] Protein of unknown function DUF171
+	[1416259:1417314:dir] ribosomal protein L3
+	[1417321:1418124:dir] Ribosomal protein L4/L1e
+	[1418126:1418371:dir] Ribosomal protein L25/L23
+	[1418383:1419099:dir] ribosomal protein L2
+	[1419136:1419558:dir] ribosomal protein S19
+	[1419565:1420038:dir] ribosomal protein L22
+	[1420079:1420729:dir] ribosomal protein S3
+	[1420726:1420953:dir] ribosomal protein L29
+	[1420967:1421206:dir] ribonuclease P, Rpp29
+	[1421216:1421560:dir] ribosomal protein S17
+	[1421562:1421978:dir] ribosomal protein L14b/L23e
+	[1421984:1422343:dir] ribosomal protein L24
+	[1422350:1423069:dir] Ribosomal protein S4E, central domain protein
+	[1423071:1423610:dir] ribosomal protein L5
+	[1423616:1423780:dir] ribosomal protein S14
+	[1423787:1424188:dir] ribosomal protein S8
+	[1424200:1424745:dir] ribosomal protein L6
+	[1424742:1425158:dir] Ribosomal protein L32e
+	[1425155:1425613:dir] Ribosomal protein L19e
+	[1425616:1426206:dir] ribosomal protein L18P/L5E
+	[1426199:1426852:dir] ribosomal protein S5
+	[1426859:1427335:dir] ribosomal protein L30P
+	[1427337:1427771:dir] ribosomal protein L15
+	[1427788:1429197:dir] SecY protein
+<END>
+<GI> CP001399:11 <COORDINATES> 1434707-1460580 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.070926; n0_4mer:D = 24.493591; n0_4mer:PS = 31.703390
+	[1434707:1437118:dir] conserved repeat domain protein
+	[1437115:1438377:dir] protein of unknown function DUF214
+	[1438528:1438785:rev] ORF D-335 domain protein
+	[1438539:1438614:dir] tRNA-Gly1; tRNA-Gly
+	[1439195:1441852:rev] phage/plasmid primase, P4 family
+	[1441845:1442060:rev] copy number control protein CopG
+	[1442111:1442290:rev] CopG domain protein DNA-binding domain protein
+	[1442468:1442725:rev] Cysteine--tRNA ligase
+	[1442930:1443103:dir] conserved hypothetical protein
+	[1443343:1443594:dir] hypothetical protein
+	[1443626:1444093:dir] hypothetical protein
+	[1444132:1444359:dir] hypothetical protein
+	[1444356:1448210:dir] FAD-dependent pyridine nucleotide-disulphideoxido reductase
+	[1448380:1448742:rev] 
+	[1449029:1449184:rev] 
+	[1449334:1450173:rev] 
+	[1450100:1450173:dir] tRNA-Gly2; tRNA-Gly
+	[1450540:1452684:dir] Glutamate synthase (NADPH)
+	[1452684:1454663:dir] glutamate synthase alpha subunit domain protein
+	[1454650:1455717:rev] glycosyl transferase group 1
+	[1455737:1456621:dir] glycosyl transferase family 2
+	[1456589:1457824:rev] amidohydrolase
+	[1457794:1458462:rev] ATP binding protein
+	[1458849:1459433:rev] molybdopterin-guanine dinucleotide biosynthesis protein A (MobA)
+	[1459411:1460580:rev] molybdenum cofactor synthesis domain protein
+<END>
+<GI> CP001399:12 <COORDINATES> 1482075-1509328 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.462793; n0_4mer:D = 17.664762; n0_4mer:PS = 36.740163
+	[1482075:1485230:rev] carbamoyl-phosphate synthase, large subunit
+	[1485227:1486330:rev] carbamoyl-phosphate synthase, small subunit
+	[1486314:1487693:rev] argininosuccinate lyase
+	[1487648:1488868:rev] Argininosuccinate synthase
+	[1488912:1489049:rev] conserved hypothetical protein
+	[1489142:1489597:rev] conserved hypothetical protein
+	[1489655:1490623:rev] phosphoribosylformylglycinamidine cyclo-ligase
+	[1490620:1492059:rev] phosphoribosylamine/glycine ligase
+	[1492065:1493270:rev] Amidophosphoribosyltransferase
+	[1493276:1494631:rev] amidophosphoribosyltransferase
+	[1494624:1496753:rev] phosphoribosylformylglycinamidine synthase II
+	[1496744:1497418:rev] phosphoribosylformylglycinamidine synthase I
+	[1497415:1497669:rev] phosphoribosylformylglycinamidine synthase, purS
+	[1497681:1498382:rev] phosphoribosylaminoimidazole-succinocarboxamide synthase
+	[1498480:1498836:dir] methionyl-tRNA synthetase, beta subunit
+	[1498830:1499828:dir] small GTP-binding protein
+	[1499809:1500435:dir] Radical SAM domain protein
+	[1500373:1501044:rev] Protein of unknown function DUF207
+	[1501038:1501430:dir] conserved hypothetical protein
+	[1501506:1501826:dir] regulatory protein ArsR
+	[1501866:1502372:dir] conserved hypothetical protein
+	[1502390:1503400:dir] SpoVT/AbrB domain protein
+	[1503384:1504049:rev] 
+	[1504018:1504686:rev] orotidine 5'-phosphate decarboxylase
+	[1504673:1505260:rev] orotate phosphoribosyltransferase
+	[1505324:1506235:dir] aspartate carbamoyltransferase
+	[1506228:1506707:dir] aspartate carbamoyltransferase, regulatory subunit
+	[1506704:1507306:dir] conserved hypothetical protein
+	[1507290:1508459:dir] amidohydrolase
+	[1508456:1509328:dir] dihydroorotate dehydrogenase family protein
+<END>
+<GI> CP001399:13 <COORDINATES> 1507290-1530200 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.603088; n0_4mer:D = 17.488448; n0_4mer:PS = 32.835912
+	[1507290:1508459:dir] amidohydrolase
+	[1508456:1509328:dir] dihydroorotate dehydrogenase family protein
+	[1509330:1509638:dir] conserved hypothetical protein
+	[1509625:1509936:dir] conserved hypothetical protein
+	[1509933:1510541:dir] multiple antibiotic resistance (MarC)-related protein
+	[1510584:1511069:dir] regulatory protein AsnC/Lrp family
+	[1511069:1511419:dir] DNA-directed RNA polymerase, M/15 kDa subunit
+	[1511468:1511707:dir] conserved hypothetical protein
+	[1511749:1513269:dir] Radical SAM domain protein
+	[1513270:1514643:rev] seryl-tRNA synthetase
+	[1514669:1515067:rev] protein of unknown function DUF59
+	[1515094:1515456:rev] Phosphoribosyl-AMP cyclohydrolase
+	[1515459:1516058:rev] imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+	[1516055:1516339:rev] phosphoribosyl-ATP diphosphatase
+	[1516332:1517528:rev] Histidinol dehydrogenase
+	[1517525:1518280:rev] imidazoleglycerol phosphate synthase, cyclase subunit
+	[1518277:1518858:rev] Imidazoleglycerol-phosphate dehydratase
+	[1518851:1519549:rev] phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+	[1519550:1520410:rev] ATP phosphoribosyltransferase
+	[1520388:1521518:rev] histidinol-phosphate aminotransferase
+	[1521520:1522119:dir] conserved hypothetical protein
+	[1522103:1524937:rev] leucyl-tRNA synthetase
+	[1525020:1525544:dir] ATP/cobalamin adenosyltransferase
+	[1525520:1526491:rev] PP-loop domain protein
+	[1526481:1526768:rev] protein of unknown function DUF211
+	[1526886:1527254:dir] S-adenosylmethionine decarboxylase proenzyme
+	[1527284:1528171:dir] conserved hypothetical protein
+	[1528142:1528372:rev] protein of unknown function RIO1
+	[1528402:1529226:dir] UbiA prenyltransferase
+	[1529223:1530200:rev] conserved hypothetical protein
+<END>
+<GI> CP001399:14 <COORDINATES> 1531725-1554923 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.524281; n0_4mer:D = 21.171571; n0_4mer:PS = 39.142675
+	[1531725:1533443:dir] acetolactate synthase, large subunit, biosynthetic type
+	[1533421:1533813:dir] conserved hypothetical protein
+	[1533785:1534792:dir] ketol-acid reductoisomerase
+	[1534825:1535256:dir] Resolvase, Holliday junction-type
+	[1535253:1536770:rev] Nucleotide binding protein PINc
+	[1536822:1537424:rev] SNO glutamine amidotransferase
+	[1537421:1538437:rev] Vitamin B6 biosynthesis protein
+	[1538472:1538759:rev] 30S ribosomal protein S26e
+	[1538794:1540239:rev] prolyl-tRNA synthetase
+	[1540284:1540592:rev] H+transporting two-sector ATPase C subunit
+	[1540613:1540771:rev] ATPase A1 complex epsilon subunit
+	[1540758:1541399:rev] V-type ATPase, D subunit
+	[1541396:1542787:rev] ATP synthase, B subunit
+	[1542787:1544565:rev] ATP synthase, A subunit
+	[1544568:1545152:rev] H+transporting two-sector ATPase E subunit
+	[1545158:1545460:rev] Vacuolar H+transporting two-sector ATPase F subunit
+	[1545535:1547640:dir] V-type ATPase 116 kDa subunit
+	[1547629:1549524:rev] methionyl-tRNA synthetase
+	[1549412:1550335:dir] DNA primase, large subunit
+	[1550314:1550901:rev] CDP-alcohol phosphatidyltransferase
+	[1550936:1551247:dir] conserved hypothetical protein
+	[1551275:1551760:dir] ribosomal protein L11 methyltransferase, putative
+	[1551757:1552191:dir] conserved hypothetical protein
+	[1552272:1554923:rev] DNA polymerase B region
+<END>
+<GI> CP001399:15 <COORDINATES> 1686184-1708105 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.541513; n0_4mer:D = 19.838278; n0_4mer:PS = 22.353514
+	[1686184:1689873:rev] conserved hypothetical protein
+	[1690027:1691178:dir] ORF D-335 domain protein
+	[1691353:1691580:rev] hypothetical protein
+	[1691618:1692085:rev] hypothetical protein
+	[1692117:1692353:rev] hypothetical protein
+	[1692618:1692788:rev] conserved hypothetical protein
+	[1693194:1693418:dir] hypothetical protein
+	[1693545:1693808:dir] hypothetical protein
+	[1693936:1694115:dir] plasmid copy-number control protein
+	[1694170:1694550:dir] conserved hypothetical protein
+	[1694534:1696474:dir] transcriptional regulator TrmB
+	[1696449:1696790:dir] hypothetical protein
+	[1697185:1697445:dir] ORF D-335 domain protein
+	[1697363:1697436:rev] tRNA-Ala3; tRNA-Ala
+	[1697493:1698725:dir] glycosyl transferase group 1
+	[1698844:1698919:rev] tRNA-Pro3; tRNA-Pro
+	[1698956:1699681:dir] helix-turn-helix domain protein
+	[1699647:1699997:rev] ubiquitin-associated- domain-containing protein
+	[1699765:1701324:dir] beta-lactamase domain protein
+	[1701347:1702507:dir] Threonyl-tRNA synthetase editing domain protein
+	[1702705:1703649:dir] mevalonate kinase
+	[1703690:1705465:dir] glucosamine/fructose-6-phosphate aminotransferase, isomerizing
+	[1705468:1706550:dir] Nucleotidyl transferase
+	[1706582:1708105:rev] conserved hypothetical protein
+<END>
+<GI> CP001399:16 <COORDINATES> 1725679-1744789 <STAT> n1_4mer:GRV/n1_4mer:RV = 3.368164; n0_4mer:D = 19.840305; n0_4mer:PS = 35.080400
+	[1725679:1726674:dir] protein of unknown function DUF711
+	[1726736:1727791:dir] SpoVT/AbrB domain protein
+	[1727788:1728951:rev] Quinolinate phosphoribosyl transferase
+	[1729022:1729486:dir] Ribosomal protein S19e
+	[1729499:1729855:dir] DNA-binding TFAR19-related protein
+	[1729852:1730007:dir] Ribosomal protein L39e
+	[1730011:1730277:dir] 50S ribosomal protein L31e
+	[1730274:1730945:dir] translation initiation factor eIF-6
+	[1730947:1731207:dir] Ribosomal LX protein
+	[1731214:1731657:dir] prefoldin, alpha subunit
+	[1731654:1732730:dir] 
+	[1732762:1732950:dir] preprotein translocase subunit SecE
+	[1732955:1733413:dir] ribosomal protein L24
+	[1733419:1733931:dir] ribosomal protein L11
+	[1733933:1734589:dir] ribosomal protein L1
+	[1734586:1735602:dir] ribosomal protein L10
+	[1735649:1735969:dir] ribosomal protein 60S
+	[1736190:1738892:dir] alanyl-tRNA synthetase
+	[1738902:1739543:dir] protein of unknown function DUF434
+	[1739568:1739655:dir] tRNA-Arg2; tRNA-Arg
+	[1739906:1740949:dir] conserved hypothetical protein
+	[1741044:1743410:dir] conserved hypothetical protein
+	[1743668:1744789:dir] thiamine biosynthesis/tRNA modification protein ThiI
+<END>
+<GI> CP001399:17 <COORDINATES> 1917421-1940997 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.666611; n0_4mer:D = 19.701506; n0_4mer:PS = 33.734071
+	[1917421:1918407:dir] conserved hypothetical protein
+	[1918409:1919527:rev] FAD dependent oxidoreductase
+	[1919528:1920979:rev] BFD domain protein (2Fe-2S)-binding domain protein
+	[1920930:1922576:rev] type I phosphodiesterase/nucleotide pyrophosphatase
+	[1922577:1922834:rev] conserved hypothetical protein
+	[1922827:1923531:rev] Uroporphyrinogen III synthase HEM4
+	[1923512:1924393:rev] porphobilinogen deaminase
+	[1924390:1925670:rev] glutamate-1-semialdehyde-2,1-aminomutase
+	[1925643:1926653:rev] Porphobilinogen synthase
+	[1926583:1927863:rev] glutamyl-tRNA reductase
+	[1927853:1928497:rev] siroheme synthase
+	[1928544:1929599:rev] 
+	[1929596:1929826:rev] conserved hypothetical protein
+	[1929832:1932141:rev] AAA family ATPase, CDC48 subfamily
+	[1932206:1932481:rev] translation elongation factor aEF-1 beta
+	[1932495:1932692:rev] Protein of unknown function DUF1610
+	[1932760:1933122:dir] Aminoacyl-tRNA hydrolase
+	[1933119:1934252:dir] tRNA pseudouridine synthase D TruD
+	[1934256:1935545:rev] aspartyl-tRNA synthetase
+	[1935547:1936059:rev] transcription elongation factor NusA-like protein
+	[1936122:1936292:dir] Ribosomal protein L40e
+	[1936308:1936868:rev] conserved hypothetical protein
+	[1937074:1938705:dir] thiamine pyrophosphate protein central region
+	[1938768:1939322:dir] conserved hypothetical protein
+	[1939319:1939900:dir] conserved hypothetical protein
+	[1939873:1940997:dir] ABC transporter related
+<END>
+<GI> CP001399:18 <COORDINATES> 2006323-2026831 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.328759; n0_4mer:D = 19.462549; n0_4mer:PS = 35.620965
+	[2006323:2007531:rev] TOPRIM domain protein
+	[2007551:2008636:rev] tyrosyl-tRNA synthetase
+	[2008682:2009035:rev] conserved hypothetical protein
+	[2009241:2010518:dir] AIR synthase related protein
+	[2010539:2011039:dir] ribosomal protein S13
+	[2011050:2011595:dir] ribosomal protein S4
+	[2011579:2011977:dir] ribosomal protein S11
+	[2011989:2012786:dir] RNA polymerase insert
+	[2012783:2013142:dir] ribosomal protein L15
+	[2013139:2013588:dir] ribosomal protein L13
+	[2013585:2013998:dir] ribosomal protein S9
+	[2014005:2014205:dir] RNA polymerase, N/8 Kd subunit
+	[2014209:2014898:dir] ribosomal protein S2
+	[2014895:2015749:dir] protein of unknown function DUF52
+	[2015676:2016398:dir] conserved hypothetical protein
+	[2016350:2017069:dir] aspartate/glutamate/uridylate kinase
+	[2017062:2018168:dir] isopentenyl-diphosphate delta-isomerase, type 2
+	[2018170:2019165:dir] Farnesyltranstransferase
+	[2019166:2020134:dir] glycosyl transferase family 4
+	[2020195:2020494:dir] ffs; SRP RNA; RNA component of signal recognitionparticle
+	[2020540:2020624:dir] tRNA-Ser3; tRNA-Ser
+	[2020912:2020998:rev] tRNA-Asn1; tRNA-Asn
+	[2021072:2021512:rev] conserved hypothetical protein
+	[2021531:2021606:rev] tRNA-Pro2; tRNA-Pro
+	[2021937:2022176:dir] 
+	[2022181:2022909:rev] protein of unknown function DUF1614
+	[2022906:2023400:rev] conserved hypothetical protein
+	[2023366:2024322:rev] AIR synthase related protein
+	[2024351:2025091:dir] ABC transporter related
+	[2025084:2026085:dir] ABC-2 type transporter
+	[2026082:2026831:rev] Enoyl-CoA hydratase/isomerase
+<END>
+<GI> CP001399:19 <COORDINATES> 2275276-2301598 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.548596; n0_4mer:D = 19.771401; n0_4mer:PS = 31.270557
+	[2275276:2276085:rev] Xylose isomerase domain protein TIM barrel
+	[2276510:2276674:dir] hypothetical protein
+	[2276639:2276809:rev] conserved hypothetical protein
+	[2277045:2277296:rev] conserved hypothetical protein
+	[2277792:2278703:rev] conserved hypothetical protein
+	[2278687:2279445:rev] 
+	[2279628:2280017:rev] conserved hypothetical protein
+	[2280014:2280244:rev] CopG family transcriptional regulator
+	[2280590:2281143:dir] 
+	[2281189:2281461:rev] 
+	[2281767:2284418:dir] alpha-L-rhamnosidase
+	[2284807:2285385:rev] 
+	[2284982:2285185:rev] hypothetical protein
+	[2285227:2285424:rev] 
+	[2285575:2287767:dir] Alpha-glucosidase
+	[2287800:2289578:dir] permease
+	[2289575:2291044:rev] glycoside hydrolase family 1
+	[2291065:2292198:rev] major facilitator superfamily MFS_1
+	[2292423:2293265:dir] amidohydrolase 2
+	[2293260:2294327:rev] oxidoreductase domain protein
+	[2294425:2295380:rev] 
+	[2295875:2296900:dir] aldo/keto reductase
+	[2296883:2297842:rev] oxidoreductase domain protein
+	[2297938:2300529:dir] ABC transporter related
+	[2300504:2301598:rev] oxidoreductase domain protein
+<END>
+<GI> CP001399:20 <COORDINATES> 2303096-2326548 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.945931; n0_4mer:D = 19.582928; n0_4mer:PS = 36.094530
+	[2303096:2305267:rev] aldehyde oxidase and xanthine dehydrogenase molybdopterin binding
+	[2305601:2306830:rev] oxidoreductase domain protein
+	[2306868:2308652:rev] conserved hypothetical protein
+	[2308639:2311608:dir] Alpha-mannosidase
+	[2311609:2312508:dir] short-chain dehydrogenase/reductase SDR
+	[2312503:2312625:rev] 
+	[2312781:2313881:dir] Alcohol dehydrogenase GroES domain protein
+	[2314056:2315495:dir] glycosyl transferase family 2
+	[2315597:2317204:dir] thermosome
+	[2317250:2318509:dir] Mandelate racemase/muconate lactonizing protein
+	[2318622:2319776:rev] 3-hydroxybutyryl-CoA dehydrogenase
+	[2319893:2321077:dir] manganese transporter, putative
+	[2321074:2321946:rev] hypothetical protein
+	[2321987:2322559:rev] conserved hypothetical protein
+	[2322759:2323734:rev] 
+	[2323894:2324574:dir] conserved hypothetical protein
+	[2324593:2325570:dir] diphosphomevalonate decarboxylase
+	[2325580:2326548:rev] GHMP kinase
+<END>
+<GI> CP001399:21 <COORDINATES> 2351811-2374651 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.362864; n0_4mer:D = 20.282101; n0_4mer:PS = 30.119381
+	[2351811:2352674:dir] binding-protein-dependent transport systems inner membrane component
+	[2352667:2353686:dir] oligopeptide/dipeptide ABC transporter, ATPase subunit
+	[2353661:2354599:dir] oligopeptide/dipeptide ABC transporter, ATPase subunit
+	[2354603:2354698:rev] 
+	[2355259:2356413:dir] major facilitator superfamily MFS_1
+	[2356458:2356937:dir] deoxycytidine triphosphate deaminase (dcD-2)
+	[2356934:2357539:rev] conserved hypothetical protein
+	[2357693:2358766:rev] transposase IS116/IS110/IS902 family protein
+	[2359177:2360058:rev] 
+	[2360272:2361153:dir] hypothetical protein
+	[2361452:2361889:rev] PilT protein domain protein
+	[2361874:2362107:rev] transcriptional regulator, AbrB family
+	[2362315:2362434:rev] 
+	[2362629:2363537:dir] transposase IS116/IS110/IS902 family protein
+	[2363701:2364459:rev] Protein of unknown function DUF1626
+	[2364554:2364818:rev] 
+	[2364879:2366936:rev] aldehyde oxidase and xanthine dehydrogenase molybdopterin binding
+	[2367040:2367900:dir] fumarylacetoacetate (FAA) hydrolase
+	[2368421:2368684:dir] conserved hypothetical protein
+	[2368690:2370633:dir] 5-oxoprolinase (ATP-hydrolyzing)
+	[2370630:2372168:dir] 5-oxoprolinase (ATP-hydrolyzing)
+	[2372659:2373573:dir] C4-dicarboxylate transporter/malic acid transport protein
+	[2373581:2373772:rev] membrane protein
+	[2373809:2374651:rev] protein of unknown function DUF81
+<END>
+<GI> CP001399:22 <COORDINATES> 2379709-2403577 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.157132; n0_4mer:D = 19.813959; n0_4mer:PS = 34.918991
+	[2379709:2380590:dir] Rhodanese domain protein
+	[2380587:2380838:dir] conserved hypothetical protein
+	[2380907:2382010:dir] FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+	[2382007:2382336:rev] Rieske (2Fe-2S) domain protein
+	[2382422:2383225:rev] beta-lactamase domain protein
+	[2383820:2384293:rev] Critica; conserved hypothetical protein
+	[2384387:2385301:dir] aldo/keto reductase
+	[2385360:2385797:dir] Carboxymuconolactone decarboxylase
+	[2385763:2386194:dir] hypothetical protein
+	[2386658:2386807:rev] 
+	[2387006:2387809:dir] conserved hypothetical protein
+	[2387841:2388773:dir] Alcohol dehydrogenase GroES domain protein
+	[2388957:2390159:dir] acyl-CoA dehydrogenase domain protein
+	[2390194:2391807:dir] AMP-dependent synthetase and ligase
+	[2391831:2393018:dir] Thiolase
+	[2393015:2393551:dir] protein of unknown function DUF35
+	[2393558:2394670:dir] 3-hydroxybutyryl-CoA dehydrogenase
+	[2394678:2395142:rev] GCN5-related N-acetyltransferase
+	[2395130:2396428:rev] Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))
+	[2396501:2397325:dir] protein of unknown function DUF6 transmembrane
+	[2397357:2397689:dir] protein of unknown function DUF1291
+	[2397686:2398027:dir] conserved hypothetical protein
+	[2398088:2398399:dir] Muconolactone delta-isomerase
+	[2398429:2398989:rev] GPR1/FUN34/yaaH family protein
+	[2399083:2401083:dir] acetate/CoA ligase
+	[2401158:2401601:dir] thioesterase superfamily protein
+	[2401651:2403051:dir] selenium-binding protein
+	[2403020:2403577:dir] conserved hypothetical protein
+<END>
+<GI> CP001399:23 <COORDINATES> 2426242-2446437 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.968708; n0_4mer:D = 19.948930; n0_4mer:PS = 33.023206
+	[2426242:2427180:dir] Pyruvate, water dikinase
+	[2427245:2428282:rev] 
+	[2428727:2428957:dir] transcriptional regulator, AbrB family
+	[2428941:2429324:dir] PilT protein domain protein
+	[2429833:2430054:dir] 
+	[2430265:2430654:rev] PilT protein domain protein
+	[2430641:2430910:rev] transcriptional regulator, AbrB family
+	[2431068:2431238:dir] transposase ISC1234
+	[2431267:2431638:rev] 
+	[2431656:2432628:rev] 
+	[2432862:2433149:rev] 4Fe-4S ferredoxin iron-sulfur binding domain protein
+	[2433146:2434333:rev] FAD dependent oxidoreductase
+	[2434336:2436168:rev] Electron transfer flavoprotein alpha subunit
+	[2436337:2437254:rev] pyruvate ferredoxin/flavodoxin oxidoreductase, beta subunit
+	[2437241:2439139:rev] pyruvate flavodoxin/ferredoxin oxidoreductase domain protein
+	[2439477:2439782:dir] conserved hypothetical protein
+	[2439906:2440388:dir] GCN5-related N-acetyltransferase
+	[2440788:2441582:dir] conserved hypothetical protein
+	[2441710:2441971:rev] 
+	[2442057:2443013:rev] Acetamidase/Formamidase
+	[2443053:2444573:rev] AMP-dependent synthetase and ligase
+	[2444817:2445800:dir] transposase IS116/IS110/IS902 family protein
+	[2445937:2446437:rev] hypothetical protein
+<END>
+<GI> CP001399:24 <COORDINATES> 2457385-2476732 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.501695; n0_4mer:D = 20.190905; n0_4mer:PS = 18.516263
+	[2457385:2458377:dir] Alcohol dehydrogenase GroES domain protein
+	[2458366:2459265:rev] conserved hypothetical protein
+	[2459262:2459888:rev] conserved hypothetical protein
+	[2460056:2461132:rev] Polysulphide reductase NrfD
+	[2461243:2462067:dir] Tetratricopeptide TPR_2 repeat protein
+	[2462148:2466431:dir] oxydoreductase, putative
+	[2466442:2467284:dir] 4Fe-4S ferredoxin iron-sulfur binding domain protein
+	[2467307:2467957:dir] conserved hypothetical protein
+	[2467957:2469438:dir] 4Fe-4S ferredoxin iron-sulfur binding domain protein
+	[2469435:2470007:dir] conserved hypothetical protein
+	[2470010:2470420:dir] conserved hypothetical protein
+	[2470512:2472041:dir] phosphoesterase
+	[2472615:2472689:dir] tRNA-Thr2; tRNA-Thr
+	[2472690:2472881:rev] 
+	[2473085:2473291:dir] 
+	[2473301:2473648:dir] conserved hypothetical protein
+	[2473686:2474592:dir] 
+	[2474908:2475642:dir] conserved hypothetical protein
+	[2475669:2476732:dir] 
+<END>
+<GI> CP001399:25 <COORDINATES> 2605085-2626284 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.184126; n0_4mer:D = 20.070323; n0_4mer:PS = 33.603362
+	[2605085:2606014:dir] ABC transporter related
+	[2606005:2606808:dir] ABC-2 type transporter
+	[2606876:2607298:rev] conserved hypothetical protein
+	[2607498:2608472:rev] transposase IS4 family protein
+	[2608699:2609271:rev] conserved hypothetical protein
+	[2609264:2610451:rev] protein of unknown function DUF224 cysteine-rich region domain protein
+	[2610451:2610885:rev] Rubrerythrin
+	[2610968:2611444:rev] conserved hypothetical protein
+	[2611437:2611748:rev] conserved hypothetical protein
+	[2611880:2614129:rev] aldehyde oxidase and xanthine dehydrogenase molybdopterin binding
+	[2614126:2614617:rev] (2Fe-2S)-binding domain protein
+	[2614618:2615466:rev] molybdopterin dehydrogenase FAD-binding
+	[2615672:2617066:rev] conserved hypothetical protein
+	[2617209:2617616:dir] Rhodanese domain protein
+	[2617670:2617909:dir] conserved hypothetical protein
+	[2617906:2618259:rev] conserved hypothetical protein
+	[2618329:2619453:rev] protein of unknown function DUF1641
+	[2619456:2619836:rev] conserved hypothetical protein
+	[2619838:2620995:rev] FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+	[2621008:2621241:rev] SirA family protein
+	[2621412:2621774:rev] conserved hypothetical protein
+	[2621829:2623136:rev] Phenylacetate--CoA ligase
+	[2623136:2623519:rev] protein of unknown function DUF35
+	[2623526:2624689:rev] Propanoyl-CoA C-acyltransferase
+	[2624751:2625548:dir] Enoyl-CoA hydratase/isomerase
+	[2625535:2626284:dir] Enoyl-CoA hydratase/isomerase
+<END>
+<GI> CP001399:26 <COORDINATES> 2699801-2717803 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.776255; n0_4mer:D = 19.619407; n0_4mer:PS = 37.605068
+	[2699801:2700016:dir] 
+	[2700312:2701151:rev] conserved hypothetical protein
+	[2701275:2701406:dir] 
+	[2701391:2702464:rev] 
+	[2702568:2703220:dir] 
+	[2703381:2703806:dir] conserved hypothetical protein
+	[2703919:2704284:dir] conserved hypothetical protein
+	[2704317:2706506:dir] aldehyde oxidase and xanthine dehydrogenase molybdopterin binding
+	[2706599:2707006:dir] Rhodanese domain protein
+	[2706996:2707394:rev] conserved hypothetical protein
+	[2707700:2710051:dir] Peptidase M1 membrane alanine aminopeptidase
+	[2710101:2710451:dir] conserved hypothetical protein
+	[2710480:2711310:dir] Xylose isomerase domain protein TIM barrel
+	[2711291:2711992:dir] SPP-like hydrolase
+	[2711954:2712562:rev] 
+	[2712532:2713200:rev] HAD-superfamily hydrolase, subfamily IA, variant 1
+	[2713214:2713519:rev] conserved hypothetical protein
+	[2713494:2714261:rev] dTDP-4-dehydrorhamnose reductase
+	[2714345:2717347:rev] FAD linked oxidase domain protein
+	[2717384:2717803:rev] histidine triad (HIT) protein
+<END>

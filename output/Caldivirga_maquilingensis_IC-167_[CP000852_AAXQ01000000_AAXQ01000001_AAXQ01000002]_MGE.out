@@ -1,0 +1,92 @@
+<GI> CP000852 AAXQ01000000 AAXQ01000001 AAXQ01000002:1 <COORDINATES> 117895-143792 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.990506; n0_4mer:D = 40.379909; n0_4mer:PS = 28.658332
+	[117895:118173:rev] hypothetical protein
+	[118480:118761:rev] hypothetical protein
+	[119658:120386:rev] KEGG: gvi:glr1356 hypothetical protein; membrane protein-like protein
+	[120625:121677:rev] PFAM: glycosidase PH1107-related; KEGG: tpe:Tpen_1153 glycosidase, PH1107-related; glycosidase PH1107-related
+	[121894:125040:rev] PFAM: glycoside hydrolase family 38; glycosyl hydrolase 38 domain protein; Glycoside hydrolase family 38 central region; KEGG: tpe:Tpen_1628 glycoside hydrolase, family 38; Alpha-mannosidase
+	[125107:125763:rev] PFAM: Haloacid dehalogenase domain protein hydrolase; Haloacid dehalogenase domain protein hydrolase
+	[125858:128407:rev] 23S ribosomal RNA
+	[129290:130825:rev] 16S ribosomal RNA
+	[131088:132089:dir] PFAM: molybdopterin cofactor biosynthesis MoaC region; KEGG: sai:Saci_0905 molybdenum cofactor biosynthesis protein C; molybdopterin cofactor biosynthesis MoaC region
+	[132091:132588:rev] hypothetical protein
+	[132705:133820:dir] KEGG: pab:PAB0085 hypothetical protein; conserved hypothetical protein
+	[133817:135649:rev] PFAM: TOPRIM domain protein; DNA topoisomerase type IA central domain protein; SMART: DNA topoisomerase I ATP-binding; DNA topoisomerase I DNA-binding; Toprim sub domain protein; KEGG: pai:PAE2993 DNA topoisomerase; DNA topoisomerase type IA central domain protein
+	[135708:136556:dir] KEGG: rno:685407 hypothetical protein LOC685407; hypothetical protein
+	[136590:137372:dir] PFAM: regulatory protein ArsR; regulatory protein ArsR
+	[137375:137923:rev] PFAM: helix-turn-helix domain protein; KEGG: pis:Pisl_1076 transcriptional regulator, XRE family; helix-turn-helix domain protein
+	[138035:139276:dir] TIGRFAM: acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase; PFAM: peptidase M20; peptidase dimerisation domain protein; KEGG: hbu:Hbut_0126 acetylornithine deacetylase related protein; acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+	[139313:140050:rev] PFAM: Creatininase; KEGG: tte:TTE1020 uncharacterized protein, putative amidase; Creatininase
+	[140188:140595:rev] 
+	[140661:142022:dir] PFAM: beta-lactamase; KEGG: pai:PAE3237 beta-lactamase-like protein; beta-lactamase
+	[142161:143792:dir] KEGG: sto:ST0789 hypothetical protein; hypothetical protein
+<END>
+<GI> CP000852 AAXQ01000000 AAXQ01000001 AAXQ01000002:2 <COORDINATES> 1520417-1542933 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.816054; n0_4mer:D = 32.569185; n0_4mer:PS = 44.067375
+	[1520417:1521508:dir] PFAM: glycosyl transferase group 1; KEGG: ape:APE_2066.1 glycosyl transferase, group 1; glycosyl transferase group 1
+	[1521501:1522493:dir] PFAM: glycosyl transferase family 2; KEGG: tvo:TVN0892 glycosyltransferase involved in cell wall biogenesis; glycosyl transferase family 2
+	[1522493:1523632:dir] PFAM: glycosyl transferase group 1; KEGG: pho:PH1844 hypothetical protein; glycosyl transferase group 1
+	[1523629:1524564:dir] PFAM: NAD-dependent epimerase/dehydratase; short-chain dehydrogenase/reductase SDR; 3-beta hydroxysteroid dehydrogenase/isomerase; polysaccharide biosynthesis protein CapD; dTDP-4-dehydrorhamnose reductase; Male sterility domain; KEGG: tpe:Tpen_1169 NAD-dependent epimerase/dehydratase; NAD-dependent epimerase/dehydratase
+	[1525221:1526237:dir] PFAM: glycosyl transferase group 1; KEGG: mma:MM1142 glycosyltransferase; glycosyl transferase group 1
+	[1526221:1527840:dir] hypothetical protein
+	[1527819:1528760:dir] PFAM: glycosyl transferase group 1; KEGG: sma:SAV7253 glycosyl transferase; glycosyl transferase group 1
+	[1528739:1529743:dir] PFAM: glycosyl transferase group 1; KEGG: mma:MM1138 glycosyltransferase; glycosyl transferase group 1
+	[1529802:1530347:dir] hypothetical protein
+	[1530353:1530757:dir] KEGG: tpe:Tpen_1724 glycosyl transferase, group 1; hypothetical protein
+	[1530774:1531655:dir] TIGRFAM: methyltransferase FkbM family; KEGG: pis:Pisl_1491 methyltransferase FkbM family; methyltransferase FkbM family
+	[1531659:1532264:dir] PFAM: polysaccharide deacetylase; KEGG: tbd:Tbd_0310 putative polysaccharide deacetylase; polysaccharide deacetylase
+	[1532286:1533287:dir] PFAM: glycosyl transferase group 1; KEGG: ctc:CTC00268 mannosyltransferase; glycosyl transferase group 1
+	[1533317:1534471:dir] PFAM: glycosyl transferase group 1; KEGG: pto:PTO0298 lipopolysaccharide N-acetylglucosaminyltransferase; glycosyl transferase group 1
+	[1534649:1535554:dir] PFAM: NAD-dependent epimerase/dehydratase; short-chain dehydrogenase/reductase SDR; 3-beta hydroxysteroid dehydrogenase/isomerase; polysaccharide biosynthesis protein CapD; dTDP-4-dehydrorhamnose reductase; Male sterility domain; KEGG: pab:PAB2145 UDP-glucose 4-epimerase; NAD-dependent epimerase/dehydratase
+	[1535547:1536728:dir] 
+	[1536957:1537997:dir] PFAM: glycosyl transferase group 1; KEGG: shm:Shewmr7_3985 glycosyl transferase, group 1; glycosyl transferase group 1
+	[1538033:1538350:dir] KEGG: pai:PAE0151 hypothetical protein; hypothetical protein
+	[1538836:1539471:dir] KEGG: mac:MA2176 hypothetical protein; Thymidylate kinase-like protein
+	[1539482:1540408:dir] hypothetical protein
+	[1540444:1541652:dir] PFAM: polysaccharide biosynthesis protein; KEGG: tvo:TVN0889 membrane protein involved in the export of O-antigen and teichoic acid; polysaccharide biosynthesis protein
+	[1541697:1541894:dir] hypothetical protein
+	[1542028:1542933:dir] hypothetical protein
+<END>
+<GI> CP000852 AAXQ01000000 AAXQ01000001 AAXQ01000002:3 <COORDINATES> 1595743-1617622 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.662490; n0_4mer:D = 31.706996; n0_4mer:PS = 47.872254
+	[1595743:1596591:rev] TIGRFAM: CRISPR-associated RAMP protein, Cmr6 family; PFAM: protein of unknown function DUF324; KEGG: sso:SSO1990 hypothetical protein; CRISPR-associated RAMP protein, Cmr6 family
+	[1596579:1597814:rev] TIGRFAM: CRISPR-associated RAMP protein, Cmr1 family; PFAM: protein of unknown function DUF324; CRISPR-associated RAMP protein, Cmr1 family
+	[1597811:1598287:rev] TIGRFAM: CRISPR-associated protein, Cmr5 family; CRISPR-associated protein, Cmr5 family
+	[1598284:1599237:rev] TIGRFAM: CRISPR-associated RAMP protein, Cmr4 family; PFAM: protein of unknown function DUF324; KEGG: pfu:PF1126 hypothetical protein; CRISPR-associated RAMP protein, Cmr4 family
+	[1599396:1602533:dir] KEGG: sso:SSO1729 hypothetical protein; hypothetical protein
+	[1602530:1603525:dir] KEGG: sso:SSO1730 hypothetical protein; hypothetical protein
+	[1603558:1604361:rev] TIGRFAM: CRISPR locus-related DNA-binding protein; KEGG: ape:APE_1237.1 putative transcriptional regulator; transcriptional repressor, CopY family
+	[1604425:1604793:dir] hypothetical protein
+	[1604798:1605967:dir] TIGRFAM: CRISPR-associated autoregulator DevR family; KEGG: hbu:Hbut_0644 conserved uncharacterized archaeal protein; CRISPR-associated autoregulator, DevR family
+	[1605989:1606825:dir] hypothetical protein
+	[1606822:1607853:dir] hypothetical protein
+	[1607846:1609594:dir] TIGRFAM: CRISPR-associated helicase Cas3; PFAM: helicase domain protein; SMART: DEAD-like helicases; KEGG: sto:ST2639 hypothetical protein; CRISPR-associated helicase Cas3
+	[1609595:1610359:dir] TIGRFAM: CRISPR-associated HD domain protein; CRISPR-associated HD domain protein
+	[1610497:1611264:rev] CRISPRs
+	[1612087:1612539:rev] TIGRFAM: cytidyltransferase-related domain; PFAM: cytidylyltransferase; KEGG: pis:Pisl_1145 cytidyltransferase-related domain; cytidyltransferase-related domain
+	[1612667:1612906:dir] PFAM: Like-Sm ribonucleoprotein core; SMART: Like-Sm ribonucleoprotein, eukaryotic and archaea-type, core; KEGG: pis:Pisl_1081 like-Sm ribonucleoprotein, core; Like-Sm ribonucleoprotein core
+	[1613023:1613727:dir] TIGRFAM: putative ATP binding protein; PFAM: protein of unknown function DUF71 ATP-binding region; KEGG: sto:ST2048 hypothetical protein; putative ATP binding protein
+	[1614068:1615294:dir] PFAM: protein synthesis factor GTP-binding; elongation factor Tu domain 2 protein; Initiation factor eIF2 gamma, C terminal; KEGG: pis:Pisl_0078 protein synthesis factor, GTP-binding; protein synthesis factor GTP-binding
+	[1615335:1615799:dir] PFAM: NUDIX hydrolase; KEGG: ape:APE_2080.1 ADP-ribose pyrophosphatase; NUDIX hydrolase
+	[1615856:1617622:dir] TIGRFAM: glutamyl-tRNA synthetase; PFAM: glutamyl-tRNA synthetase class Ic; KEGG: pis:Pisl_0371 glutamyl-tRNA synthetase; glutamyl-tRNA synthetase
+<END>
+<GI> CP000852 AAXQ01000000 AAXQ01000001 AAXQ01000002:4 <COORDINATES> 1893206-1913243 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.586973; n0_4mer:D = 26.648630; n0_4mer:PS = 31.782190
+	[1893206:1893997:rev] PFAM: dehydroquinase class I; KEGG: cno:NT01CX_1316 3-dehydroquinate dehydratase, type I; 3-dehydroquinate dehydratase
+	[1894003:1894374:rev] PFAM: Cupin 2 conserved barrel domain protein; KEGG: hma:rrnB0187 putative cupin; Cupin 2 conserved barrel domain protein
+	[1894522:1896309:rev] PFAM: thiamine pyrophosphate protein domain protein TPP-binding; thiamine pyrophosphate protein central region; thiamine pyrophosphate protein TPP binding domain protein; KEGG: tac:Ta0691 acetolactate synthase large subunit; thiamine pyrophosphate protein central region
+	[1896448:1897515:dir] PFAM: pyruvate carboxyltransferase; KEGG: tvo:TVN0909 2-isopropylmalate synthase; 2-isopropylmalate synthase
+	[1897505:1898623:dir] PFAM: L-carnitine dehydratase/bile acid-inducible protein F; KEGG: tvo:TVN0908 predicted carnitine dehydratase; L-carnitine dehydratase/bile acid-inducible protein F
+	[1898766:1899449:dir] PFAM: Bacterio-opsin activator HTH domain protein; KEGG: tvo:TVN0906 predicted DNA-binding protein; Bacterio-opsin activator HTH domain protein
+	[1899449:1900285:dir] PFAM: Mannonate dehydratase; HEPN domain protein; Xylose isomerase domain protein TIM barrel; KEGG: tac:Ta0753 mannonate dehydratase; Mannonate dehydratase
+	[1900370:1901685:dir] 
+	[1901689:1901853:rev] hypothetical protein
+	[1901939:1903042:dir] PFAM: protein of unknown function DUF917; KEGG: chy:CHY_1336 hypothetical protein; protein of unknown function DUF917
+	[1903039:1904610:dir] PFAM: Hydantoinase/oxoprolinase; Hydantoinaseoxoprolinase domain protein; KEGG: sso:SSO1668 N-methylhydantoinase A related protein (huyA-like); Hydantoinase/oxoprolinase
+	[1904607:1905587:rev] PFAM: protein of unknown function DUF1177; KEGG: pho:PH1050 hypothetical protein; protein of unknown function DUF1177
+	[1905602:1906273:dir] PFAM: AroM family protein; KEGG: pho:PH1049 AroM protein; AroM family protein
+	[1906684:1908051:rev] PFAM: permease for cytosine/purines uracil thiamine allantoin; KEGG: sai:Saci_2039 pyrimidine transporter; permease for cytosine/purines uracil thiamine allantoin
+	[1908503:1909333:rev] PFAM: Radical SAM domain protein; KEGG: pai:PAE2508 hypothetical protein; Radical SAM domain protein
+	[1909330:1910550:rev] PFAM: Protein of unknown function DUF650, archaea-like; Protein of unknown function DUF651, archaea-like; KEGG: sai:Saci_1142 hypothetical protein; Protein of unknown function DUF650
+	[1910631:1911224:rev] PFAM: ribosomal protein L5; KEGG: pai:PAE3575 ribosomal protein L5; ribosomal protein L5
+	[1911224:1911937:rev] PFAM: RNA-binding S4 domain protein; Ribosomal protein S4E, central; KEGG: pis:Pisl_0560 ribosomal protein S4E, central; Ribosomal protein S4E, central
+	[1911934:1912365:rev] TIGRFAM: ribosomal protein L24; PFAM: KOW domain protein; SMART: KOW (Kyrpides Ouzounis Woese) domain protein; KEGG: pai:PAE3312 ribosomal protein L24; ribosomal protein L24
+	[1912410:1912793:rev] hypothetical protein
+	[1912914:1913243:dir] KEGG: sso:SSO0507 hypothetical protein; conserved hypothetical protein
+<END>

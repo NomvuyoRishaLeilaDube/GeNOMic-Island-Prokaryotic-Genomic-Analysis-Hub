@@ -1,0 +1,219 @@
+<GI> CP003378:1 <COORDINATES> 99793-117640 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.899244; n0_4mer:D = 15.162938; n0_4mer:PS = 23.114874
+	[99793:101061:rev] PFAM: Pyridoxal-phosphate dependent enzyme; TIGRFAM: pyridoxal-phosphate dependent TrpB-like enzyme; pyridoxal-phosphate dependent TrpB-like enzyme
+	[101220:101987:dir] PFAM: Transketolase, thiamine diphosphate binding domain; transketolase, beta subunit
+	[101980:102927:dir] PFAM: Transketolase, C-terminal domain; Transketolase, pyrimidine binding domain; transketolase, alpha subunit
+	[102914:103714:dir] PFAM: DAHP synthetase I family; TIGRFAM: phospho-2-dehydro-3-deoxyheptonate aldolase; phospho-2-dehydro-3-deoxyheptonate aldolase
+	[103711:104754:dir] PFAM: 3-dehydroquinate synthase; TIGRFAM: 3-dehydroquinate synthase; 3-dehydroquinate synthase
+	[104742:105488:dir] PFAM: Shikimate dehydrogenase substrate binding domain; Shikimate / quinate 5-dehydrogenase; TIGRFAM: shikimate 5-dehydrogenase; shikimate 5-dehydrogenase
+	[105472:106602:dir] PFAM: Chorismate synthase; TIGRFAM: chorismate synthase; chorismate synthase
+	[106572:107351:dir] PFAM: GHMP kinases N terminal domain; TIGRFAM: shikimate kinase; shikimate kinase
+	[107348:108571:dir] PFAM: EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase); TIGRFAM: 3-phosphoshikimate 1-carboxyvinyltransferase; 5-enolpyruvylshikimate-3-phosphate synthase
+	[108564:109181:dir] PFAM: Type I 3-dehydroquinase; 3-dehydroquinate dehydratase
+	[109223:110344:dir] PFAM: Major Facilitator Superfamily; arabinose efflux permease family protein
+	[110337:111482:rev] PFAM: Type I phosphodiesterase / nucleotide pyrophosphatase; putative AP superfamily protein
+	[111729:112820:dir] PFAM: Amino acid kinase family; TIGRFAM: aspartate kinase; aspartokinase
+	[112817:113881:dir] PFAM: Semialdehyde dehydrogenase, dimerisation domain; Semialdehyde dehydrogenase, NAD binding domain; TIGRFAM: aspartate-semialdehyde dehydrogenase (non-peptidoglycan organisms); aspartate-semialdehyde dehydrogenase
+	[113871:114608:rev] PFAM: Endonuclease/Exonuclease/phosphatase family; TIGRFAM: exodeoxyribonuclease III; exodeoxyribonuclease III (xth); exodeoxyribonuclease III
+	[114735:116111:dir] PFAM: Amino acid permease; gamma-aminobutyrate permease-like transporter
+	[116378:117640:dir] PFAM: Amidohydrolase family; amidohydrolase, imidazolonepropionase
+<END>
+<GI> CP003378:2 <COORDINATES> 570923-594099 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.531957; n0_4mer:D = 14.302651; n0_4mer:PS = 15.068827
+	[570923:572056:dir] PFAM: Mandelate racemase / muconate lactonizing enzyme, C-terminal domain; Mandelate racemase / muconate lactonizing enzyme, N-terminal domain; TIGRFAM: o-succinylbenzoate synthase; o-succinylbenzoic acid synthetase
+	[572029:573723:rev] PFAM: TrkA-C domain; Citrate transporter; Na+/H+ antiporter NhaD-like permease
+	[573855:574361:rev] PFAM: Protein of unknown function DUF82; hypothetical protein
+	[574427:574873:rev] PFAM: CBS domain; putative signal-transduction protein containing cAMP-binding and CBS domains
+	[574935:575582:rev] PFAM: ParB-like nuclease domain; putative transcriptional regulator
+	[575754:576263:rev] PFAM: OB-fold nucleic acid binding domain; OB-fold nucleic acid binding protein
+	[576570:577481:rev] PFAM: Dihydroorotate dehydrogenase; dihydroorotate dehydrogenase
+	[577616:577894:dir] IMG reference gene:2510092692; hypothetical protein
+	[577895:578785:rev] PFAM: Metallo-beta-lactamase superfamily; Zn-dependent hydrolase, glyoxylase
+	[579052:580089:rev] PFAM: TrkA-N domain; K+ transport system, NAD-binding component
+	[580288:581343:rev] PFAM: Archaeal ATPase; putative ATPase (AAA+ superfamily)
+	[581688:582029:dir] PFAM: Uncharacterized protein conserved in archaea (DUF2258); hypothetical protein
+	[582120:583346:dir] PFAM: Calcineurin-like phosphoesterase; TIGRFAM: exonuclease SbcD; DNA repair exonuclease
+	[583348:586104:dir] IMG reference gene:2510092698; ATPase involved in DNA repair
+	[586107:587264:dir] PFAM: NurA domain; NurA domain-containing protein
+	[587277:588815:dir] PFAM: Domain of unknown function DUF87; putative ATPase
+	[588896:591580:dir] PFAM: PKD domain; Bacterial extracellular solute-binding proteins, family 5 Middle; ABC-type dipeptide transport system, periplasmic component
+	[591632:592492:dir] PFAM: Spermine/spermidine synthase; putative methyltransferase
+	[592500:592871:rev] IMG reference gene:2510092703; hypothetical protein
+	[593054:593932:rev] PFAM: Mechanosensitive ion channel; small-conductance mechanosensitive channel
+<END>
+<GI> CP003378:3 <COORDINATES> 653000-679785 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.890162; n0_4mer:D = 34.385014; n0_4mer:PS = 29.127285
+	[653092:654534:dir] PFAM: Uncharacterized protein family UPF0027; hypothetical protein
+	[654643:655680:dir] PFAM: Ribosomal protein L3; TIGRFAM: archaeal ribosomal protein L3; archaeal ribosomal protein L3
+	[655683:656504:dir] PFAM: Ribosomal protein L4/L1 family; TIGRFAM: 50S ribosomal protein L4P; 50S ribosomal protein L4P
+	[656497:656757:dir] PFAM: Ribosomal protein L23; TIGRFAM: archaeal ribosomal protein L23; archaeal ribosomal protein L23
+	[656766:657704:rev] PFAM: ParA/MinD ATPase like; ATPase involved in chromosome partitioning
+	[657764:658351:rev] PFAM: AhpC/TSA family; peroxiredoxin
+	[658415:659650:rev] PFAM: Peptidase family M20/M25/M40; Peptidase dimerisation domain; TIGRFAM: acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase; acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+	[659775:661061:dir] PFAM: Pyridoxal-phosphate dependent enzyme; TIGRFAM: pyridoxal-phosphate dependent TrpB-like enzyme; pyridoxal-phosphate dependent TrpB-like enzyme
+	[661223:661432:rev] IMG reference gene:2510092770; hypothetical protein
+	[661623:664677:rev] IMG reference gene:2510092771; 23S ribosomal RNA
+	[664985:666372:rev] IMG reference gene:2510092772; 16S ribosomal RNA
+	[666764:668143:rev] PFAM: KaiC; RecA-superfamily ATPase possibly involved in signal transduction
+	[668273:669073:rev] PFAM: Prephenate dehydrogenase; prephenate dehydrogenase
+	[669079:670137:rev] PFAM: Aminotransferase class I and II; aspartate/tyrosine/aromatic aminotransferase
+	[670130:670393:rev] IMG reference gene:2510092776
+	[670626:671837:rev] PFAM: Aminotransferase class I and II; transcriptional regulator with HTH domain and aminotransferase domain
+	[672028:672127:dir] IMG reference gene:2510092778; tRNA-Thr
+	[672178:672900:dir] PFAM: Threonyl and Alanyl tRNA synthetase second additional domain; tRNA synthetases class II (A); putative metal-dependent hydrolase related to alanyl-tRNA synthetase HxxxH domain protein
+	[672907:673692:dir] IMG reference gene:2510092780; hypothetical protein
+	[673726:675318:dir] PFAM: Starch synthase catalytic domain; Glycosyl transferases group 1; glycogen synthase
+	[675370:676785:dir] PFAM: Glycosyl hydrolase family 57; alpha-amylase/alpha-mannosidase
+	[676930:677646:dir] IMG reference gene:2510092783; hypothetical protein
+	[677753:678151:dir] PFAM: Dinitrogenase iron-molybdenum cofactor; hypothetical protein
+	[678148:679785:rev] PFAM: Binding-protein-dependent transport system inner membrane component; ABC-type anion transport system, duplicated permease component
+<END>
+<GI> CP003378:4 <COORDINATES> 1151853-1176600 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.532099; n0_4mer:D = 15.997174; n0_4mer:PS = 30.887273
+	[1151853:1153175:dir] TIGRFAM: dihydropteroate synthase-related protein; hypothetical protein
+	[1153172:1153993:rev] PFAM: Survival protein SurE; TIGRFAM: 5'/3'-nucleotidase SurE; 5''/3''-nucleotidase SurE
+	[1154254:1154607:dir] IMG reference gene:2510093242; hypothetical protein
+	[1154816:1155829:dir] PFAM: Bacterial phospho-glucose isomerase C-terminal region; SIS domain; TIGRFAM: bifunctional phosphoglucose/phosphomannose isomerase; bifunctional phosphoglucose/phosphomannose isomerase
+	[1155910:1157529:dir] PFAM: HD domain; HD superfamily phosphohydrolase
+	[1157631:1158365:rev] PFAM: Uroporphyrinogen-III synthase HemD; uroporphyrinogen-III synthase
+	[1158350:1159090:rev] PFAM: Tetrapyrrole (Corrin/Porphyrin) Methylases; TIGRFAM: uroporphyrin-III C-methyltransferase; uroporphyrin-III C-methyltransferase
+	[1159092:1159991:rev] PFAM: Porphobilinogen deaminase, C-terminal domain; Porphobilinogen deaminase, dipyromethane cofactor binding domain; TIGRFAM: porphobilinogen deaminase; porphobilinogen deaminase
+	[1159992:1161254:rev] PFAM: Aminotransferase class-III; TIGRFAM: glutamate-1-semialdehyde-2,1-aminomutase; glutamate-1-semialdehyde-2,1-aminomutase
+	[1161325:1161597:rev] IMG reference gene:2510093249; hypothetical protein
+	[1161724:1163673:rev] PFAM: Probable molybdopterin binding domain; MoeA N-terminal region (domain I and II); MoeA C-terminal region (domain IV); TIGRFAM: molybdenum cofactor synthesis domain; molybdenum cofactor synthesis domain protein
+	[1164018:1164102:dir] IMG reference gene:2510093251; tRNA-Leu
+	[1164425:1164733:rev] IMG reference gene:2510093252; DNA-directed RNA polymerase, subunit L
+	[1164735:1165340:rev] PFAM: Uncharacterized protein conserved in archaea (DUF2067); hypothetical protein
+	[1165350:1165982:rev] PFAM: Exosome component EXOSC1/CSL4; putative RNA-binding protein (consists of S1 domain and a Zn-ribbon domain)
+	[1165960:1166595:rev] PFAM: Conserved hypothetical protein 95; putative RNA methylase
+	[1166612:1167649:rev] PFAM: Putative diphthamide synthesis protein; TIGRFAM: diphthamide biosynthesis enzyme Dph2; diphthamide biosynthesis enzyme Dph1/Dph2 domain; diphthamide biosynthesis enzyme Dph2
+	[1167653:1168174:rev] PFAM: Ribosomal protein L16p/L10e; TIGRFAM: ribosomal protein L10.e; ribosomal protein L16/L10E
+	[1168335:1169375:dir] PFAM: Acyl-CoA dehydrogenase, C-terminal domain; Acyl-CoA dehydrogenase, middle domain; acyl-CoA dehydrogenase
+	[1169505:1169849:dir] PFAM: Sugar-specific transcriptional regulator TrmB; putative transcriptional regulator
+	[1169846:1170529:rev] PFAM: Thiazole biosynthesis protein ThiG; Triosephosphate isomerase; TIGRFAM: triosephosphate isomerase; triosephosphate isomerase
+	[1170611:1171768:rev] PFAM: Fructose-1,6-bisphosphatase; archaeal fructose 1,6-bisphosphatase
+	[1171873:1172385:rev] PFAM: Putative integral membrane protein DUF46; CDP-diglyceride synthetase
+	[1172376:1172954:rev] PFAM: ATPase family associated with various cellular activities (AAA); DNA replication protein
+	[1172951:1173418:rev] PFAM: Ribosomal protein L18e/L15; ribosomal protein L15
+	[1173478:1173960:rev] PFAM: Ribosomal protein L30p/L7e; TIGRFAM: 50S ribosomal protein L30P, archaeal; 50S ribosomal protein L30P, archaeal
+	[1173957:1174586:rev] PFAM: Ribosomal protein S5, N-terminal domain; Ribosomal protein S5, C-terminal domain; TIGRFAM: ribosomal protein S5(archaeal type)/S2(eukaryote cytosolic type); ribosomal protein S5/S2
+	[1174583:1175182:rev] PFAM: Ribosomal L18p/L5e family; ribosomal protein L18
+	[1175179:1175640:rev] PFAM: Ribosomal protein L19e; ribosomal protein L19E
+	[1175630:1176043:rev] PFAM: Ribosomal protein L32; ribosomal protein L32E
+	[1176043:1176600:rev] PFAM: Ribosomal protein L6; TIGRFAM: archaeal ribosomal protein L6P; archaeal ribosomal protein L6P
+<END>
+<GI> CP003378:5 <COORDINATES> 1189908-1212345 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.715720; n0_4mer:D = 18.002189; n0_4mer:PS = 32.805457
+	[1189908:1190357:rev] IMG reference gene:2510093285; hypothetical protein
+	[1190482:1191777:rev] PFAM: Serine hydroxymethyltransferase; glycine/serine hydroxymethyltransferase
+	[1192026:1192268:rev] IMG reference gene:2510093287; hypothetical protein
+	[1192369:1192689:rev] PFAM: Transcriptional regulator PadR-like family; putative transcriptional regulator
+	[1192780:1192864:dir] IMG reference gene:2510093289; tRNA-Leu
+	[1192935:1194110:dir] PFAM: Aminotransferase class I and II; aspartate/tyrosine/aromatic aminotransferase
+	[1194182:1194958:dir] IMG reference gene:2510093291; putative nucleic acid-binding protein, contains PIN domain
+	[1195106:1195675:dir] PFAM: von Willebrand factor type A domain; Mg-chelatase subunit ChlD
+	[1195724:1198384:rev] PFAM: 2Fe-2S iron-sulfur cluster binding domain; Molybdopterin oxidoreductase; Molydopterin dinucleotide binding domain; Molybdopterin oxidoreductase Fe4S4 domain; TIGRFAM: formate dehydrogenase, alpha subunit, archaeal-type; formate dehydrogenase, alpha subunit, archaeal-type
+	[1198384:1199859:rev] PFAM: NADH-ubiquinone oxidoreductase-F iron-sulfur binding region; Respiratory-chain NADH dehydrogenase 51 Kd subunit; NADH:ubiquinone oxidoreductase, NADH-binding (51 kD) subunit
+	[1200023:1200703:dir] PFAM: Amino acid kinase family; TIGRFAM: uridylate kinase, putative; uridylate kinase, putative
+	[1200704:1202098:rev] PFAM: ATP synthase alpha/beta family, beta-barrel domain; ATP synthase alpha/beta chain, C terminal domain; ATP synthase alpha/beta family, nucleotide-binding domain; TIGRFAM: ATP synthase archaeal, B subunit; ATP synthase, B subunit
+	[1202095:1203900:rev] PFAM: ATP synthase alpha/beta family, beta-barrel domain; ATP synthase alpha/beta chain, C terminal domain; ATP synthase alpha/beta family, nucleotide-binding domain; archaeal/vacuolar-type H+-ATPase subunit A
+	[1203902:1204504:rev] PFAM: ATP synthase (E/31 kDa) subunit; archaeal/vacuolar-type H+-ATPase subunit E
+	[1204511:1204822:rev] PFAM: ATP synthase (F/14-kDa) subunit; archaeal/vacuolar-type H+-ATPase subunit F
+	[1205010:1207055:dir] PFAM: V-type ATPase 116kDa subunit family; archaeal/vacuolar-type H+-ATPase subunit I
+	[1207268:1207747:dir] PFAM: Transcriptional regulator PadR-like family; putative transcriptional regulator
+	[1207764:1208600:dir] PFAM: Tetrapyrrole (Corrin/Porphyrin) Methylases; TIGRFAM: diphthine synthase; diphthine synthase
+	[1208662:1209720:dir] PFAM: Peptidase family M50; putative membrane-associated Zn-dependent protease
+	[1209770:1210126:rev] IMG reference gene:2510093304; hypothetical protein
+	[1210290:1210706:dir] IMG reference gene:2510093305; hypothetical protein
+	[1210709:1211083:rev] IMG reference gene:2510093306; hypothetical protein
+	[1211189:1211476:dir] PFAM: RNA polymerase Rpb6; DNA-directed RNA polymerase, subunit K/omega
+	[1211662:1211973:dir] PFAM: Ribosomal protein L21e; ribosomal protein L21E
+	[1211986:1212345:dir] PFAM: RNA polymerase Rpb4; hypothetical protein
+<END>
+<GI> CP003378:6 <COORDINATES> 1272850-1293801 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.877079; n0_4mer:D = 15.869204; n0_4mer:PS = 25.519552
+	[1272850:1274081:rev] IMG reference gene:2510093368
+	[1274056:1274352:rev] IMG reference gene:2510093369
+	[1274488:1274865:rev] IMG reference gene:2510093370; hypothetical protein
+	[1275023:1275325:dir] IMG reference gene:2510093371; hypothetical protein
+	[1275264:1275893:dir] IMG reference gene:2510093372; hypothetical protein
+	[1275967:1276692:dir] IMG reference gene:2510093373; hypothetical protein
+	[1276894:1278072:rev] PFAM: ATPase family associated with various cellular activities (AAA); TIGRFAM: 26S proteasome subunit P45 family; 26S proteasome subunit P45 family
+	[1278262:1279230:rev] PFAM: C-5 cytosine-specific DNA methylase; TIGRFAM: DNA-methyltransferase (dcm); DNA-methyltransferase Dcm
+	[1279205:1279801:rev] PFAM: TFIIE alpha subunit; TIGRFAM: TIGR00373 family protein; transcription initiation factor IIE, alpha subunit
+	[1279788:1280348:rev] PFAM: tRNA ribose 2'-O-methyltransferase, aTrm56; hypothetical protein
+	[1280373:1281455:rev] PFAM: GTPase of unknown function; TIGRFAM: GTP-binding protein HflX; small GTP-binding protein domain; GTP-binding protein HflX
+	[1281456:1281947:rev] PFAM: Helix-turn-helix; TIGRFAM: TIGR00270 family protein; TIGR00270 family protein
+	[1282030:1282791:rev] PFAM: Phosphoribosyl transferase domain; putative phosphoribosyltransferase
+	[1282807:1283043:rev] PFAM: Ribosomal S17; ribosomal protein S17E
+	[1283230:1284660:rev] PFAM: tRNA synthetases class I (C) catalytic domain; TIGRFAM: cysteinyl-tRNA synthetase; cysteinyl-tRNA synthetase
+	[1284758:1285669:dir] PFAM: UbiA prenyltransferase family; 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+	[1285666:1287033:rev] TIGRFAM: geranylgeranyl reductase family; geranylgeranyl reductase family protein
+	[1287267:1287608:rev] IMG reference gene:2510093385; hypothetical protein
+	[1287622:1288146:rev] PFAM: Hsp20/alpha crystallin family; molecular chaperone (small heat shock protein)
+	[1288284:1288529:dir] IMG reference gene:2510093387; hypothetical protein
+	[1288972:1289250:rev] IMG reference gene:2510093388; hypothetical protein
+	[1289534:1290118:rev] IMG reference gene:2510093389; hypothetical protein
+	[1290115:1290621:rev] PFAM: Ribosomal protein L11, RNA binding domain; Ribosomal protein L11, N-terminal domain; ribosomal protein L11
+	[1290681:1290815:rev] IMG reference gene:2510093391; hypothetical protein
+	[1290796:1291215:rev] IMG reference gene:2510093392
+	[1291363:1291743:rev] PFAM: CBS domain; putative signal-transduction protein containing cAMP-binding and CBS domains
+	[1291855:1293801:dir] PFAM: Aldehyde ferredoxin oxidoreductase, N-terminal domain; Aldehyde ferredoxin oxidoreductase, domains 2 & 3; aldehyde:ferredoxin oxidoreductase
+<END>
+<GI> CP003378:7 <COORDINATES> 1347486-1372069 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.815771; n0_4mer:D = 16.738905; n0_4mer:PS = 32.613623
+	[1347486:1349300:rev] PFAM: ABC transporter; 4Fe-4S binding domain; Possible metal-binding domain in RNase L inhibitor, RLI; putative ATPase, Rnase L inhibitor (RLI) like protein
+	[1349373:1350068:rev] IMG reference gene:2510093455; putative Zn-dependent hydrolase of beta-lactamase fold protein
+	[1350134:1351039:dir] PFAM: Metallopeptidase family M24; TIGRFAM: methionine aminopeptidase, type II; methionine aminopeptidase, type II
+	[1351164:1352279:dir] PFAM: Protein of unknown function (DUF1512); hypothetical protein
+	[1352276:1352575:dir] IMG reference gene:2510093458; hypothetical protein
+	[1352937:1353197:dir] IMG reference gene:2510093459; hypothetical protein
+	[1353216:1353590:dir] PFAM: RNA polymerases M/15 Kd subunit; Transcription factor S-II (TFIIS); TIGRFAM: transcription factor S, archaeal; transcription factor S, archaeal
+	[1353697:1355427:dir] PFAM: tRNA synthetases class I (M); Anticodon-binding domain; TIGRFAM: methionyl-tRNA synthetase; methionyl-tRNA synthetase
+	[1355491:1355730:dir] IMG reference gene:2510093462; hypothetical protein
+	[1355712:1356140:dir] PFAM: ACT domain; SpoVT / AbrB like domain; TIGRFAM: looped-hinge helix DNA binding domain, AbrB family; looped-hinge helix DNA binding domain, AbrB family
+	[1356257:1356703:dir] PFAM: Ribosomal protein S19; TIGRFAM: ribosomal protein S19(archaeal)/S15(eukaryotic); ribosomal protein S19/S15
+	[1356714:1357187:dir] PFAM: Ribosomal protein L22p/L17e; TIGRFAM: ribosomal protein L22(archaeal)/L17(eukaryotic/archaeal); ribosomal protein L22/L17
+	[1357192:1357935:dir] PFAM: KH domain; Ribosomal protein S3, C-terminal domain; TIGRFAM: ribosomal protein S3, eukaryotic/archaeal type; ribosomal protein S3, eukaryotic/archaeal type
+	[1357907:1358122:dir] PFAM: Ribosomal L29 protein; TIGRFAM: ribosomal protein L29; ribosomal protein L29
+	[1358135:1358407:dir] PFAM: Domain of unknown function UPF0086; RNase P/RNase MRP subunit p29
+	[1358621:1358974:dir] PFAM: Ribosomal protein S17; TIGRFAM: archaeal ribosomal protein S17P; archaeal ribosomal protein S17P
+	[1358993:1359415:dir] PFAM: Ribosomal protein L14p/L23e; ribosomal protein L14
+	[1359426:1359878:dir] PFAM: KOW motif; TIGRFAM: ribosomal protein L24p/L26e, archaeal/eukaryotic; ribosomal protein L24p/L26e, archaeal/eukaryotic
+	[1359871:1360629:dir] PFAM: S4 domain; KOW motif; Ribosomal family S4e; RS4NT (NUC023) domain; ribosomal protein S4E
+	[1360626:1361186:dir] PFAM: ribosomal L5P family C-terminus; Ribosomal protein L5; ribosomal protein L5
+	[1361197:1361361:dir] PFAM: Ribosomal protein S14p/S29e; ribosomal protein S14
+	[1361372:1361767:dir] PFAM: Ribosomal protein S8; ribosomal protein S8
+	[1361914:1363089:dir] IMG reference gene:2510093476; hypothetical protein
+	[1363086:1363823:rev] TIGRFAM: Glutaredoxin-like domain protein; Glutaredoxin-like domain protein
+	[1364206:1365342:dir] PFAM: Domain of unknown function (DUF373); putative membrane protein
+	[1365372:1365899:dir] PFAM: tRNA intron endonuclease, catalytic C-terminal domain; tRNA splicing endonuclease
+	[1365882:1367267:rev] IMG reference gene:2510093480; hypothetical protein
+	[1367264:1368691:rev] PFAM: Type II/IV secretion system protein; ATPase, type IV secretory pathway VirB11 component like protein
+	[1368688:1369134:rev] IMG reference gene:2510093482; hypothetical protein
+	[1369355:1370287:dir] PFAM: Deoxyhypusine synthase; TIGRFAM: deoxyhypusine synthase; deoxyhypusine synthase
+	[1370402:1372069:dir] PFAM: Topoisomerase VI B subunit, transducer; Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase; TIGRFAM: DNA topoisomerase VI, B subunit; DNA topoisomerase VI, B subunit
+<END>
+<GI> CP003378:8 <COORDINATES> 1454764-1481328 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.339549; n0_4mer:D = 17.166381; n0_4mer:PS = 34.041905
+	[1454764:1456740:rev] PFAM: Protein of unknown function (DUF460); hypothetical protein
+	[1456730:1457632:rev] PFAM: RIO1 family; Rio2, N-terminal; RIO-like serine/threonine protein kinase fused to N-terminal HTH domain protein
+	[1457887:1458246:dir] IMG reference gene:2510093582; putative transcriptional regulator
+	[1458290:1458736:rev] PFAM: ABC nitrate/sulfonate/bicarbonate family transporter, ATPase subunit; hypothetical protein
+	[1458901:1459302:dir] IMG reference gene:2510093584; hypothetical protein
+	[1459313:1459555:dir] PFAM: SirA-like protein; putative redox protein, regulator of disulfide bond formation
+	[1459581:1460768:dir] PFAM: Pyridine nucleotide-disulphide oxidoreductase; NADH dehydrogenase, FAD-containing subunit
+	[1460779:1461186:dir] PFAM: Protein of unknown function (DUF1641); Protein of unknown function (DUF1641)
+	[1461308:1462489:dir] PFAM: Pyridine nucleotide-disulphide oxidoreductase; NADH dehydrogenase, FAD-containing subunit
+	[1462500:1462940:dir] PFAM: Protein of unknown function (DUF1641); hypothetical protein
+	[1463030:1463141:dir] IMG reference gene:2510093590; tRNA-Lys
+	[1463236:1463490:dir] PFAM: RNA polymerase Rpb5, C-terminal domain; DNA-directed RNA polymerase, subunit H, RpoH/RPB5
+	[1463504:1467022:dir] PFAM: RNA polymerase Rpb2, domain 5; RNA polymerase Rpb2, domain 3; RNA polymerase Rpb2, domain 6; RNA polymerase Rpb2, domain 2; RNA polymerase beta subunit; RNA polymerase Rpb2, domain 4; RNA polymerase Rpb2, domain 7; TIGRFAM: DNA-directed RNA polymerase subunit B; DNA-directed RNA polymerase subunit B
+	[1467025:1469691:dir] PFAM: RNA polymerase Rpb1, domain 2; RNA polymerase Rpb1, domain 4; RNA polymerase Rpb1, domain 1; RNA polymerase Rpb1, domain 5; RNA polymerase Rpb1, domain 3; TIGRFAM: DNA-directed RNA polymerase subunit A'; DNA-directed RNA polymerase subunit A''
+	[1469684:1470967:dir] PFAM: RNA polymerase Rpb1, domain 5; TIGRFAM: DNA-directed RNA polymerase, subunit A''; DNA-directed RNA polymerase, subunit A''''
+	[1471002:1471310:dir] PFAM: Ribosomal protein L7Ae/L30e/S12e/Gadd45 family; ribosomal protein L30E
+	[1471312:1471761:dir] PFAM: KH domain; TIGRFAM: NusA family KH domain protein, archaeal; NusA family KH domain protein
+	[1471758:1471856:dir] IMG reference gene:2510093597; hypothetical protein
+	[1471849:1472292:dir] PFAM: Ribosomal protein S12; TIGRFAM: ribosomal protein S23 (S12); ribosomal protein S23
+	[1472312:1472815:rev] PFAM: Uncharacterised ACR, COG1259; hypothetical protein
+	[1472954:1473568:dir] PFAM: Ribosomal protein S7p/S5e; TIGRFAM: ribosomal protein S7(archaeal)/S5(eukaryotic); ribosomal protein S7/S5
+	[1473694:1475004:dir] PFAM: Elongation factor Tu domain 2; Elongation factor Tu C-terminal domain; Elongation factor Tu GTP binding domain; TIGRFAM: translation elongation factor EF-1 alpha; small GTP-binding protein domain; translation elongation factor TU; translation elongation factor EF-1 alpha
+	[1475025:1475336:dir] PFAM: Ribosomal protein S10p/S20e; TIGRFAM: ribosomal protein S10(archaeal)/S20(eukaryotic); ribosomal protein S10, bacterial/organelle; ribosomal protein S10/S20
+	[1475399:1475484:dir] IMG reference gene:2510093603; tRNA-Ser
+	[1475889:1476989:dir] PFAM: Carbamoyl-phosphate synthase small chain, CPSase domain; Glutamine amidotransferase class-I; TIGRFAM: carbamoyl-phosphate synthase, small subunit; carbamoyl-phosphate synthase, small subunit
+	[1476991:1480131:dir] PFAM: Carbamoyl-phosphate synthase L chain, ATP binding domain; Carbamoyl-phosphate synthetase large chain, oligomerisation domain; Carbamoyl-phosphate synthase L chain, N-terminal domain; TIGRFAM: carbamoyl-phosphate synthase, large subunit; carbamoylphosphate synthase large subunit
+	[1480244:1480441:dir] IMG reference gene:2510093606; hypothetical protein
+	[1480465:1481328:dir] PFAM: NAD binding domain of 6-phosphogluconate dehydrogenase; beta-hydroxyacid dehydrogenase, 3-hydroxyisobutyrate dehydrogenase
+<END>

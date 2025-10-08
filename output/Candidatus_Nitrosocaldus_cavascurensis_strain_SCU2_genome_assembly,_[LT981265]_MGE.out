@@ -1,0 +1,170 @@
+<GI> LT981265:1 <COORDINATES> 502778-528903 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.111963; n0_4mer:D = 29.234355; n0_4mer:PS = 17.206289
+	[502778:504949:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[504936:506006:dir] Oxidoreductase protein family
+	[505999:506895:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[506909:507196:dir] Evidence 5 : Unknown function; protein of unknown function
+	[507147:507302:dir] Evidence 5 : Unknown function; protein of unknown function
+	[507268:507468:dir] Evidence 5 : Unknown function; protein of unknown function
+	[507514:507804:dir] UDP-glucose 4-epimerase (fragment)
+	[507806:508975:dir] Glycosyl transferase family 2 (modular protein)
+	[509010:510134:dir] Glycosyl transferase, group 1
+	[510160:511365:dir] Evidence 3 : Putative function from multiple computational evidences; putative Glycosyltransferase
+	[511382:512356:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[512367:513575:dir] Evidence 5 : Unknown function; protein of unknown function
+	[513562:514233:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[514233:516104:dir] Evidence 5 : Unknown function; membrane protein of unknown function
+	[517549:517707:dir] Evidence 5 : Unknown function; protein of unknown function
+	[517841:518164:dir] Glycosyl transferase group 1 (fragment)
+	[518161:518277:dir] Evidence 5 : Unknown function; protein of unknown function
+	[518419:518628:dir] Evidence 5 : Unknown function; protein of unknown function
+	[518837:520150:rev] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative Glycoside hydrolase, family 5
+	[520284:520850:dir] cysC; Evidence 3 : Putative function from multiple computational evidences; putative adenylyl-sulfate kinase
+	[520874:521314:dir] Evidence 5 : Unknown function; protein of unknown function
+	[521352:521582:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[521655:522179:dir] Evidence 5 : Unknown function; exported protein of unknown function
+	[522228:527138:dir] Evidence 5 : Unknown function; protein of unknown function
+	[527245:528903:rev] Evidence 5 : Unknown function; protein of unknown function
+<END>
+<GI> LT981265:2 <COORDINATES> 706942-726944 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.575001; n0_4mer:D = 29.483828; n0_4mer:PS = 46.761177
+	[706942:707454:dir] Hit family protein (Hit)
+	[708231:709115:dir] Radical SAM domain protein
+	[709147:709635:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[709646:709921:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[710196:710272:rev] tRNA-Asn
+	[710400:710978:rev] rpl6p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L6p
+	[710968:711360:rev] rps8p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 30S ribosomal protein S8p
+	[711374:711553:rev] rps14p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 30S ribosomal protein S14p
+	[711553:712074:rev] rpl5p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L5p
+	[712115:712864:rev] RP-S4e; 30S ribosomal protein S4e
+	[712866:713237:rev] rpl24p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 30S ribosomal protein L24p
+	[713244:713678:rev] rpl14p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L14p
+	[713668:714057:rev] rps; 30S ribosomal protein S17
+	[714044:714352:rev] rnp; Ribonuclease P protein component 1
+	[714333:714449:rev] Evidence 5 : Unknown function; protein of unknown function
+	[714370:714630:rev] rpl29p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L29p
+	[714652:715359:rev] rps3p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 30S ribosomal protein S3p
+	[715359:715832:rev] rpl22p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L22p
+	[715848:716255:rev] rps19p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 30S ribosomal protein S19p
+	[716403:716666:rev] rpl23p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L23p
+	[716663:717481:rev] rpl4p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L4p
+	[717478:718464:rev] rpl3p; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type s : structure; 50S ribosomal protein L3p
+	[719208:720173:rev] Evidence 5 : Unknown function; protein of unknown function
+	[720660:721487:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[721513:722826:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[722928:723662:rev] psmA; Proteasome subunit alpha
+	[723718:724137:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[724833:725048:rev] Evidence 5 : Unknown function; protein of unknown function
+	[725111:725683:rev] purE; Evidence 2a : Function from experimental evidences in other organisms; PubMedId : 10074353, 10574791, 8117684; Product type e : enzyme; N5-carboxyaminoimidazole ribonucleotide mutase
+	[725703:726944:rev] purK; N5-carboxyaminoimidazole ribonucleotide synthase
+<END>
+<GI> LT981265:3 <COORDINATES> 872800-894295 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.680456; n0_4mer:D = 29.353946; n0_4mer:PS = 42.859592
+	[872800:875694:dir] Evidence 5 : Unknown function; protein of unknown function
+	[876332:877171:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[877244:877432:dir] Evidence 5 : Unknown function; protein of unknown function
+	[877817:877957:dir] Evidence 5 : Unknown function; protein of unknown function
+	[878120:878584:rev] Evidence 5 : Unknown function; protein of unknown function
+	[878603:879811:rev] Evidence 3 : Putative function from multiple computational evidences; putative ATPase/GTPase, AAA15 family
+	[880048:883320:dir] Evidence 5 : Unknown function; protein of unknown function
+	[883358:883858:dir] Evidence 5 : Unknown function; protein of unknown function
+	[883849:886701:rev] Evidence 3 : Putative function from multiple computational evidences; putative Adenine-specific DNA methylase, contains a Zn-ribbon domain
+	[886775:889765:dir] Evidence 5 : Unknown function; protein of unknown function
+	[889765:890262:dir] Evidence 5 : Unknown function; protein of unknown function
+	[890753:892246:dir] Evidence 5 : Unknown function; protein of unknown function
+	[892879:893295:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[893405:894295:rev] Evidence 5 : Unknown function; protein of unknown function
+<END>
+<GI> LT981265:4 <COORDINATES> 969777-992347 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.409024; n0_4mer:D = 28.696498; n0_4mer:PS = 46.613473
+	[969777:970802:dir] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative NAD-dependent alcohol dehydrogenase
+	[970886:972103:rev] Evidence 3 : Putative function from multiple computational evidences; Product type t : transporter; Major facilitator superfamily transporter MFS_1
+	[972204:973013:dir] lsrF; Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; uncharacterised aldolase LsrF
+	[973738:974154:rev] Topoisomerase
+	[974184:975320:dir] Evidence 5 : Unknown function; protein of unknown function
+	[975401:976108:dir] CoA-binding domain protein
+	[976117:978225:dir] Evidence 2a : Function from experimental evidences in other organisms; Product type e : enzyme; 3-hydroxypropionyl-CoA synthetase
+	[978438:978860:dir] eif2b; Translation initiation factor 2 subunit beta
+	[978821:979168:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[979253:979564:dir] eIF1A; Translation initiation factor 1A
+	[979582:980454:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[980414:981109:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[981106:983097:dir] top6B; Type 2 DNA topoisomerase 6 subunit B
+	[983066:984706:dir] Type 2 DNA topoisomerase 6 subunit A (modular protein)
+	[984807:985280:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[985519:985665:rev] Evidence 5 : Unknown function; protein of unknown function
+	[986049:986150:rev] Evidence 5 : Unknown function; protein of unknown function
+	[986333:986533:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[986634:987206:rev] ubiX; Evidence 2a : Function from experimental evidences in other organisms; PubMedId : 12799002, 3040734; Product type e : enzyme; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+	[987313:987663:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[987669:988052:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[988049:988414:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[989340:989468:dir] Acylphosphatase (fragment)
+	[989520:989684:dir] Acylphosphatase (fragment)
+	[989715:989912:dir] Evidence 5 : Unknown function; protein of unknown function
+	[990092:990217:dir] Evidence 5 : Unknown function; protein of unknown function
+	[990223:990405:dir] Evidence 5 : Unknown function; protein of unknown function
+	[990963:991562:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+	[991838:992347:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved membrane protein of unknown function
+<END>
+<GI> LT981265:5 <COORDINATES> 995500-1018713 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.880463; n0_4mer:D = 36.013773; n0_4mer:PS = 30.793254
+	[995531:995992:dir] Inosine monophosphate dehydrogenase
+	[996056:996574:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[997094:997591:dir] Inosine monophosphate dehydrogenase
+	[997708:998136:dir] Nucleotide-binding protein related to universal stress protein UspA
+	[998203:998883:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[998942:1000258:rev] Evidence 3 : Putative function from multiple computational evidences; Product type t : transporter; putative Na: aminoacid transporter, NSS family
+	[1000423:1001799:rev] hemL; Glutamate-1-semialdehyde 2,1-aminomutase 2
+	[1001871:1002032:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1002313:1003780:dir] ribosomal RNA 16S ribosomal RNA
+	[1003956:1006902:dir] ribosomal RNA 23S ribosomal RNA
+	[1007009:1007659:dir] Evidence 3 : Putative function from multiple computational evidences; putative ribosome biogenesis protein HGMM_F45C05C30
+	[1007662:1008543:rev] GTP-binding protein
+	[1008596:1008875:dir] RNaseP_arch
+	[1008941:1010005:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved exported protein of unknown function
+	[1010150:1010341:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1010725:1011717:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1011824:1012465:dir] cofC; 2-phospho-L-lactate guanylyltransferase
+	[1012582:1014294:dir] ilvD; Dihydroxy-acid dehydratase
+	[1014380:1014865:dir] Histidine triad protein
+	[1014931:1016178:rev] prf; Peptide chain release factor subunit 1
+	[1016363:1016584:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1016729:1017388:dir] Evidence 3 : Putative function from multiple computational evidences; Product type r : regulator; Predicted transcriptional regulator with C-terminal CBS domains
+	[1017424:1018713:rev] Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative Tubulin/FtsZ family GTPase
+<END>
+<GI> LT981265:6 <COORDINATES> 1550000-1577499 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.794921; n0_4mer:D = 30.887085; n0_4mer:PS = 28.388167
+	[1550024:1550197:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1550029:1550190:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1551216:1551362:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1551699:1551821:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1551974:1552336:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1552573:1552815:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1553760:1553927:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1554526:1554642:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1555568:1555831:rev] cas2; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type e : enzyme; CRISPR-associated protein Cas2
+	[1555954:1556583:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1556748:1557767:rev] cas1; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type e : enzyme; CRISPR-associated protein, Cas1 family
+	[1557739:1558308:rev] cas4; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type e : enzyme; CRISPR-associated exonuclease, Cas4 family
+	[1558349:1561018:rev] cas3; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type e : enzyme; CRISPR-associated nuclease/helicase Cas3
+	[1560990:1561826:rev] cas5b; Evidence 2b : Function from indirect experimental evidences (e.g. phenotypes); Product type e : enzyme; CRISPR-associated protein Cas5
+	[1561833:1562888:rev] cas7b; Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative CRISPR-associated negative autoregulator, DevR family
+	[1562860:1563246:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1563227:1564729:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1564926:1565684:rev] cas6; Evidence 3 : Putative function from multiple computational evidences; Product type e : enzyme; putative CRISPR-associated endoribonuclease, Cas6
+	[1565791:1566339:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1566416:1566562:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1566595:1567617:dir] adhP; Alcohol dehydrogenase (AdhP)
+	[1567736:1568011:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1568100:1568651:rev] Evidence 3 : Putative function from multiple computational evidences; Product type cp : cell process; putative DNA replication initiation complex subunit, GINS15 family protein
+	[1568699:1570168:dir] glnA; Glutamine synthetase
+	[1570204:1571562:dir] glyA; Serine hydroxymethyltransferase
+	[1571654:1571959:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1571940:1572194:rev] Evidence 5 : Unknown function; exported protein of unknown function
+	[1572301:1572486:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1572514:1573260:rev] Geranylgeranylglyceryl phosphate synthase
+	[1573321:1573677:dir] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1573752:1574480:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1574477:1574860:rev] Evidence 4 : Unknown function but conserved in other organisms; conserved protein of unknown function
+	[1575128:1575367:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1575418:1575924:rev] Evidence 3 : Putative function from multiple computational evidences; putative lyase
+	[1575950:1576066:rev] Evidence 5 : Unknown function; protein of unknown function
+	[1575963:1576205:dir] Evidence 5 : Unknown function; protein of unknown function
+	[1576307:1577284:dir] Evidence 3 : Putative function from multiple computational evidences; putative DHHA1 domain protein
+<END>

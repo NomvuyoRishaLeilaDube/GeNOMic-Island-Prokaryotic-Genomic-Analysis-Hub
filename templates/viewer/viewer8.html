@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ domain.title() if domain else 'All' }} Genomes</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Container for all content */
+        .content-wrapper {
+            max-width: 90%;
+            margin: 20px auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Breadcrumb styling */
+        .breadcrumb {
+            text-align: left;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .breadcrumb a {
+            text-decoration: none;
+            color: #0066cc;
+        }
+
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumb span {
+            font-weight: bold;
+            color: #000;
+        }
+
+        /* Viewing header */
+        h1 {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+
+        /* FASTA / OUT block */
+        pre {
+            background-color: #f8f8f8; /* light grey for readability */
+            color: #000;               /* black text */
+            padding: 10px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-height: 500px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin: 20px auto;
+        }
+
+        /* SVG container */
+        .svg-container {
+            background-color: rgba(255,255,255,0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        /* SVG scaling */
+        svg {
+            max-width: 90%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Filter & Reset buttons form */
+        form.buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        select, button {
+            padding: 5px 10px;
+            margin: 5px;
+            font-size: 14px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div class="content-wrapper">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a href="{{ url_for('home') }}">Home</a> &gt;
+        <a href="{{ url_for('genomes', domain=domain) }}">{{ domain.title() }} Genomes</a> &gt;
+        <a href="{{ url_for('genome', seq_id=seq_id) }}">{{ seq_id }}</a> &gt;
+        <span>{{ filename }}</span>
+    </div>
+
+    <!-- Viewing header -->
+    <h1>Viewing: {{ filename }}</h1>
+
+    {% if file_type in ['out', 'fas'] %}
+    <form method="POST" class="buttons">
+        <label for="gi_id">GI ID:</label>
+        <select name="gi_id" id="gi_id">
+            <option value="">--Select GI--</option>
+            {% for gi in gi_options %}
+            <option value="{{ gi }}">{{ gi }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="coordinates">Coordinates:</label>
+        <select name="coordinates" id="coordinates">
+            <option value="">--Select Coordinates--</option>
+            {% for coord in coord_options %}
+            <option value="{{ coord }}">{{ coord }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Filter</button>
+        <button type="submit" name="reset" value="1">Reset</button>
+    </form>
+
+    <pre>{{ selected_block }}</pre>
+
+    {% elif file_type == 'svg' %}
+    <div class="svg-container">
+        {{ svg_content | safe }}
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>

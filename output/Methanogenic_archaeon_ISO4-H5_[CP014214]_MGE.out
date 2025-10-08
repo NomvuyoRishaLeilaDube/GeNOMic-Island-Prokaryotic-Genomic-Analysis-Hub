@@ -1,0 +1,265 @@
+<GI> CP014214:1 <COORDINATES> 308983-334697 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.263714; n0_4mer:D = 44.423424; n0_4mer:PS = 24.897216
+	[308983:309267:dir] hypothetical protein
+	[309354:309470:dir] hypothetical protein
+	[309624:309842:rev] hypothetical protein
+	[310314:310508:dir] hypothetical protein
+	[310508:311020:dir] hypothetical protein
+	[311347:311643:dir] hypothetical protein
+	[311643:312089:dir] hypothetical protein
+	[312086:312382:dir] hypothetical protein
+	[312430:313197:dir] hypothetical protein
+	[313239:314096:rev] hypothetical protein
+	[314230:314523:rev] hypothetical protein
+	[314826:315512:dir] hypothetical protein
+	[315619:316611:dir] DNA-cytosine methyltransferase Dcm1
+	[316613:317701:dir] hypothetical protein
+	[317682:318065:rev] DNA mismatch endonuclease Vsr
+	[318113:319882:rev] hypothetical protein
+	[320183:320395:dir] hypothetical protein
+	[320502:321551:dir] MORN repeat-containing protein
+	[321571:321927:rev] hypothetical protein
+	[321982:322782:rev] hypothetical protein
+	[322783:323580:rev] hypothetical protein
+	[323601:325484:rev] hypothetical protein
+	[325487:325753:rev] hypothetical protein
+	[326021:326569:rev] hypothetical protein
+	[326569:327474:rev] DNA-cytosine methyltransferase Dcm2
+	[327636:328775:rev] DNA-cytosine methyltransferase Dcm3
+	[328981:329316:rev] hypothetical protein
+	[329317:329670:rev] hypothetical protein
+	[329667:329894:rev] hypothetical protein
+	[330079:331542:rev] hypothetical protein
+	[331539:332102:rev] hypothetical protein
+	[332096:332716:rev] hypothetical protein
+	[332713:333513:rev] transmembrane protein
+	[333503:333613:rev] transmembrane protein
+	[333615:333788:rev] transmembrane protein
+	[333790:334359:rev] transmembrane protein
+	[334359:334697:rev] transmembrane protein
+<END>
+<GI> CP014214:2 <COORDINATES> 393215-413693 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.758225; n0_4mer:D = 38.773711; n0_4mer:PS = 32.474114
+	[393215:394246:rev] magnesium chelatase ChlI
+	[394331:398074:rev] cobaltochelatase CobN2
+	[398189:400336:dir] adhesin-like protein
+	[400385:401452:dir] ABC transporter permease protein
+	[401454:402530:dir] ABC transporter permease protein
+	[402563:403414:dir] ABC transporter ATP-binding protein
+	[403468:404229:rev] ABC transporter permease protein
+	[404229:405137:rev] ABC transporter ATP-binding protein
+	[405390:406091:dir] precorrin-2 C20-methyltransferase CbiL
+	[406094:406858:dir] precorrin-4 C11-methyltransferase CbiF
+	[406860:407606:dir] precorrin-3B C17-methyltransferase CbiH
+	[407636:408262:dir] precorrin-8X methylmutase CbiC
+	[408283:409161:dir] ABC transporter ATP-binding protein
+	[409158:409898:dir] ABC transporter permease protein
+	[409902:410729:rev] TPR repeat-containing protein
+	[410770:411177:rev] ribonuclease H
+	[411177:411524:rev] aspartate 1-decarboxylase PanD
+	[411591:411666:rev] tRNA-Asp
+	[411868:412689:rev] ABC transporter ATP-binding protein
+	[412695:413693:rev] ABC transporter permease protein
+<END>
+<GI> CP014214:3 <COORDINATES> 525608-591337 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.296706; n0_4mer:D = 43.415749; n0_4mer:PS = 28.344703
+	[525608:526519:rev] ATPase (AAA+ superfamily)
+	[527051:528274:dir] isopropylmalate/isocitrate dehydrogenases LeuB
+	[528494:529135:dir] HTH domain-containing protein
+	[529294:530508:dir] hypothetical protein
+	[530505:531080:dir] hypothetical protein
+	[531128:531805:dir] hypothetical protein
+	[531791:532492:rev] TPR repeat-containing protein
+	[532573:533766:rev] SAM-dependent methyltransferase
+	[533859:535727:rev] transmembrane protein
+	[535984:537213:dir] polysaccharide biosynthesis protein
+	[537224:538162:rev] cell wall biosynthesis protein glycosyltransferase family
+	[538159:539082:rev] NAD-dependent epimerase/dehydratase
+	[539087:540883:rev] Thiamine pyrophosphate-requiring protein
+	[540888:541952:rev] CDP-glucose 4,6-dehydratase RfbG
+	[542067:542828:rev] phosphoglycolate/pyridoxal phosphate phosphatase family
+	[542833:544404:rev] 4-hydroxy-2-oxovalerate aldolase DmpG
+	[544649:545938:dir] Amidohydrolase family protein
+	[545970:547208:dir] S-adenosyl-L-homocysteine hydrolase AhcY1
+	[547588:548823:dir] transmembrane protein
+	[548961:549734:rev] glucose-1-phosphate cytidylyltransferase RfbF
+	[549830:551140:rev] glycosyl transferase GT2 family
+	[551165:552283:rev] UDP-galactopyranose mutase Glf
+	[552318:552390:rev] tRNA-Pro
+	[552483:553352:dir] glucose-1-phosphate thymidylyltransferase RfbA
+	[553718:554650:dir] dTDP-glucose 4,6-dehydratase RfbB
+	[554634:555215:dir] dTDP-4-dehydrorhamnose 3,5-epimerase RfbC
+	[555231:556001:dir] polysaccharide/polyol phosphate ABC transporter permease protein
+	[556002:558512:dir] polysaccharide/polyol phosphate ABC transporter ATP-binding protein
+	[558775:562653:dir] TPR repeat-containing protein
+	[562646:563662:dir] LPS biosynthesis protein LICD family
+	[563640:564767:dir] glycosyl transferase GT8 family
+	[565001:566014:dir] bifunctional phosphoglucose/phosphomannose isomerase
+	[566124:567011:rev] glycosyl transferase GT2 family
+	[567030:567578:rev] hypothetical protein
+	[567575:568735:rev] hypothetical protein
+	[568919:569056:dir] hypothetical protein
+	[569192:569863:dir] hypothetical protein
+	[570437:570550:dir] hypothetical protein
+	[570718:571794:dir] hypothetical protein
+	[572134:572373:rev] hypothetical protein
+	[572664:572927:dir] hypothetical protein
+	[573684:574466:dir] hypothetical protein
+	[574466:575269:dir] hypothetical protein
+	[575262:575837:dir] transmembrane protein
+	[575951:576496:dir] hypothetical protein
+	[576823:578421:rev] transposase
+	[578672:579187:rev] transmembrane protein
+	[579192:579863:rev] hypothetical protein
+	[580060:580485:dir] hypothetical protein
+	[581756:582298:dir] ribonuclease III Rnc
+	[582498:583664:dir] methionine adenosyltransferase MetK
+	[583804:585048:rev] transposase IS605 OrfB family
+	[585309:586241:dir] hypothetical protein
+	[586165:586713:rev] hypothetical protein
+	[586751:589366:dir] helicase SNF2 family
+	[589366:589992:dir] hypothetical protein
+	[589967:591337:rev] hypothetical protein
+<END>
+<GI> CP014214:4 <COORDINATES> 652961-681955 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.933517; n0_4mer:D = 42.726999; n0_4mer:PS = 38.256791
+	[652961:654370:dir] carbon starvation protein CstA
+	[654500:655453:dir] adhesin-like protein
+	[655688:655999:rev] hypothetical protein
+	[655989:656150:rev] hypothetical protein
+	[656173:656346:dir] hypothetical protein
+	[656445:657740:rev] phosphomethylpyrimidine kinase ThiD1
+	[657752:658204:dir] hypothetical protein
+	[658922:660295:dir] hypothetical protein
+	[660292:660882:dir] hypothetical protein
+	[661425:662105:dir] adhesin-like protein
+	[662184:663050:dir] transmembrane protein
+	[663037:663627:dir] transmembrane protein
+	[664315:669036:dir] adhesin-like protein
+	[669033:669653:dir] adhesin-like protein
+	[669955:670485:dir] transmembrane protein
+	[670494:673412:dir] adhesin-like protein
+	[673452:674303:dir] transmembrane protein
+	[674315:675649:dir] GTPase subunit of restriction endonuclease
+	[675649:676707:dir] McrBC 5-methylcytosine restriction system component
+	[676721:681955:dir] adhesin-like protein
+<END>
+<GI> CP014214:5 <COORDINATES> 909000-956604 <STAT> n1_4mer:GRV/n1_4mer:RV = 4.270331; n0_4mer:D = 55.261352; n0_4mer:PS = 18.467236
+	[909077:909652:rev] hypothetical protein
+	[909748:911310:rev] ATPase
+	[911645:911926:dir] hypothetical protein
+	[912363:913676:dir] hypothetical protein
+	[913934:914314:dir] hypothetical protein
+	[914387:914569:rev] hypothetical protein
+	[914677:915723:dir] hypothetical protein
+	[915723:915944:dir] hypothetical protein
+	[915987:916298:dir] hypothetical protein
+	[916307:917221:rev] hypothetical protein
+	[917870:918793:dir] hypothetical protein
+	[919199:920923:dir] hypothetical protein
+	[921010:923364:rev] adhesin-like protein
+	[923473:924240:rev] hypothetical protein
+	[924252:925436:rev] hypothetical protein
+	[925811:926665:dir] hypothetical protein
+	[926731:926847:dir] hypothetical protein
+	[927068:927190:rev] hypothetical protein
+	[928365:929624:dir] hypothetical protein
+	[929779:931656:dir] hypothetical protein
+	[931705:932496:dir] hypothetical protein
+	[932502:933077:dir] hypothetical protein
+	[933256:934554:dir] sulfurtransferase DndC
+	[934551:936485:dir] DNA sulfur modification protein DndD
+	[936938:938569:dir] type III restriction endonuclease
+	[938547:940406:dir] hypothetical protein
+	[940427:941410:dir] hypothetical protein
+	[941475:941891:rev] hypothetical protein
+	[942660:943550:rev] SMC domain-containing protein
+	[943605:943742:rev] SMC domain-containing protein
+	[943972:945012:dir] geranylgeranyl reductase family protein
+	[945993:947240:rev] ATPase
+	[947730:948587:rev] hypothetical protein
+	[948649:949536:rev] ATPase
+	[950263:950361:dir] hypothetical protein
+	[950491:950997:rev] hypothetical protein
+	[951146:951781:rev] TPR repeat-containing protein
+	[951807:952715:rev] TPR repeat-containing protein
+	[952870:953793:rev] ATPase
+	[954222:954848:rev] hypothetical protein
+	[954919:956604:rev] Fe-S oxidoreductase
+<END>
+<GI> CP014214:6 <COORDINATES> 1138968-1162099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.459854; n0_4mer:D = 39.372568; n0_4mer:PS = 31.983189
+	[1138968:1140341:dir] hypothetical protein
+	[1140447:1141490:dir] ATPase
+	[1141498:1142349:dir] hypothetical protein
+	[1142421:1142753:dir] small multidrug resistance protein
+	[1142756:1143106:dir] small multidrug resistance protein
+	[1143160:1143303:dir] hypothetical protein
+	[1143337:1143591:rev] exodeoxyribonuclease VII small subunit XseB
+	[1143588:1144919:rev] exodeoxyribonuclease VII large subunit XseA
+	[1145059:1145496:dir] phenylacetic acid degradation protein PaaD
+	[1145590:1145754:rev] hypothetical protein
+	[1145788:1146138:rev] hypothetical protein
+	[1146503:1148905:dir] CRISPR-associated endonuclease Cas3-HD
+	[1148889:1150418:dir] CRISPR type I-E CasA/Cse1
+	[1150415:1150894:dir] CRISPR type I-E CasB/Cse2 complex
+	[1150891:1151982:dir] CRISPR-associated protein Cas7/Cse4/CasC
+	[1151957:1152724:dir] CRISPR-associated protein Cas5/CasD
+	[1152721:1153380:dir] CRISPR-associated protein Cas6/Cse3/CasE
+	[1153377:1153874:dir] CRISPR-associated endonuclease Cas1
+	[1156058:1156174:rev] hypothetical protein
+	[1156227:1156685:rev] hypothetical protein
+	[1157121:1157456:dir] hypothetical protein
+	[1157491:1157946:dir] transcriptional regulator MarR family
+	[1157949:1158905:rev] K+-dependent Na+/Ca+ exchanger
+	[1158991:1160748:dir] ABC transporter ATP-binding protein
+	[1160800:1161390:dir] thymidylate kinase Tmk1
+	[1161377:1162000:dir] hypothetical protein
+<END>
+<GI> CP014214:7 <COORDINATES> 1628369-1658722 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.011459; n0_4mer:D = 45.518604; n0_4mer:PS = 33.587975
+	[1628369:1629691:dir] ATP-dependent DNA helicase
+	[1629786:1632506:rev] adhesin-like protein
+	[1632503:1637728:rev] cell surface leucine-rich repeat-containing protein
+	[1637738:1640332:rev] adhesin-like protein
+	[1640406:1641155:rev] hypothetical protein
+	[1641892:1642410:rev] transmembrane protein
+	[1642412:1643143:rev] hypothetical protein
+	[1643303:1644883:dir] hypothetical protein
+	[1645051:1645638:dir] transmembrane protein
+	[1645644:1646204:rev] hypothetical protein
+	[1646347:1646484:dir] hypothetical protein
+	[1646481:1646678:dir] hypothetical protein
+	[1646672:1647778:dir] phage integrase
+	[1648181:1649794:dir] virulence-associated E family protein
+	[1650281:1651414:rev] hypothetical protein
+	[1651787:1654423:dir] cell surface repeat protein
+	[1654429:1655496:dir] adhesin-like protein
+	[1655493:1656878:dir] ABC transporter substrate-binding protein
+	[1656875:1658722:dir] adhesin-like protein
+<END>
+<GI> CP014214:8 <COORDINATES> 1666472-1691099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.841672; n0_4mer:D = 42.051140; n0_4mer:PS = 29.600251
+	[1666472:1667824:rev] Atpase
+	[1667933:1668277:rev] nucleotidyltransferase
+	[1668376:1675770:rev] adhesin-like protein
+	[1675826:1677313:rev] adhesin-like protein
+	[1677600:1678631:rev] adhesin-like protein
+	[1679102:1680709:rev] transposase
+	[1681449:1682999:rev] transposase
+	[1683323:1684381:dir] hypothetical protein
+	[1684386:1684580:dir] hypothetical protein
+	[1684574:1684939:rev] death-on-curing family protein
+	[1684996:1685511:rev] hypothetical protein
+	[1685622:1685759:dir] hypothetical protein
+	[1685780:1685998:dir] hypothetical protein
+	[1686188:1687333:dir] phage integrase
+	[1687894:1688160:rev] hypothetical protein
+	[1688301:1689545:dir] hypothetical protein
+	[1689570:1689806:dir] hypothetical protein
+	[1689852:1691084:dir] transposase
+<END>
+<GI> CP014214:9 <COORDINATES> 1825341-1843828 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.638042; n0_4mer:D = 42.553316; n0_4mer:PS = 33.193370
+	[1825341:1826714:rev] ABC transporter substrate-binding protein
+	[1826778:1828568:rev] transmembrane protein
+	[1828568:1829680:rev] transmembrane protein
+	[1829673:1833887:rev] transmembrane protein
+	[1835675:1837171:rev] transmembrane protein
+	[1837182:1839386:rev] Listeria-Bacteroides repeat domain containing protein
+	[1840194:1841801:rev] transposase IS4 family
+	[1841994:1843064:rev] adhesin-like protein
+	[1843247:1843828:dir] hypothetical protein
+<END>

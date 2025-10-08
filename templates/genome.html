@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ seq_id }} - {{ data.organism }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Centered whiteish container */
+        .genome-wrapper {
+            background-color: rgba(255,255,255,0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 30px;
+            width: 80%;
+            margin: 40px auto;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        /* Genome heading with glow around black text */
+        .genome-title {
+            font-size: 28px;
+            font-weight: bold;
+            color: #000;
+            text-shadow: 0 0 8px rgba(255, 223, 0, 0.7), 0 0 12px rgba(255,223,0,0.5);
+            margin-bottom: 20px;
+        }
+
+        /* Files heading */
+        .files-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 15px;
+        }
+
+        /* File list */
+        .file-list p {
+            font-size: 18px;
+            margin: 8px 0;
+            font-weight: 500;
+        }
+
+        /* File links */
+        .file-list a {
+            text-decoration: none;
+            color: #000;
+            transition: 0.2s;
+        }
+
+        .file-list a:hover {
+            color: #444;
+            text-shadow: 0 0 5px rgba(255,223,0,0.7);
+        }
+
+        /* Breadcrumb styling */
+        .breadcrumb {
+            text-align: left;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: rgba(255,255,255,0.9);
+            border: 2px solid #000;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+
+        .breadcrumb a {
+            text-decoration: none;
+            color: #000;
+        }
+
+        .breadcrumb span {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+<div class="genome-wrapper">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a href="{{ url_for('index') }}">Home</a> &gt;
+        <a href="{{ url_for('genomes', domain=data.domain) }}">{{ data.domain.title() }} Genomes</a> &gt;
+        <span>{{ seq_id }}</span>
+    </div>
+
+    <!-- Genome heading -->
+    <div class="genome-title">{{ seq_id }} - {{ data.organism }}</div>
+
+    <!-- Files heading -->
+    <div class="files-title">Files</div>
+
+    <!-- File list with clickable links -->
+    <div class="file-list">
+        {% for f in data.files %}
+            <p>
+                <a href="{{ url_for('view_file', seq_id=seq_id, filename=f) }}">
+                    {{ f }}
+                </a>
+            </p>
+        {% endfor %}
+    </div>
+</div>
+</body>
+</html>

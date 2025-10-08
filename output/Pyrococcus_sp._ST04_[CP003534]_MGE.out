@@ -1,0 +1,297 @@
+<GI> CP003534:1 <COORDINATES> 189269-213751 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.631893; n0_4mer:D = 29.164640; n0_4mer:PS = 48.215373
+	[189269:190987:rev] hypothetical protein
+	[191107:192573:dir] COG0618; Phosphoesterase, RecJ-like protein
+	[192575:194104:dir] COG0294; putative dihydropteroate synthase
+	[194295:194795:dir] COG1374; hypothetical protein
+	[194792:195634:rev] COG0616; hypothetical protein
+	[195831:197195:dir] COG2182; putative malE-like sugar binding protein
+	[197234:198133:dir] COG1175; maltodextrin transport system permease
+	[198130:199335:dir] COG3833; malg-like sugar transport inner membrane protein
+	[199332:203417:dir] COG1449; amylopullulanase
+	[203452:203814:dir] maltdextrin ABC transporter ATPase, frameshifted
+	[203828:204580:dir] maltdextrin ABC transporter ATPase, frameshifted
+	[204581:206278:rev] COG1542; hypothetical protein
+	[206360:207220:rev] COG1318; hypothetical protein
+	[207234:207944:rev] COG0467; putative KaiC domain-containing protein
+	[208216:208638:rev] COG1586; S-adenosylmethionine decarboxylase
+	[209137:209742:dir] COG1836; hypothetical protein
+	[209803:210573:rev] COG1235; putative ATP-binding protein phnp
+	[210648:211265:dir] COG1326; Translation initiation factor IF2/IF5-like protein
+	[211290:211892:dir] COG3371; hypothetical protein
+	[211936:212541:dir] COG2452; excisionase
+	[212516:213751:dir] COG0675; putative transposase, IS605 OrfB family
+<END>
+<GI> CP003534:2 <COORDINATES> 273770-301559 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.551595; n0_4mer:D = 43.729861; n0_4mer:PS = 35.673499
+	[273770:274165:rev] COG1255; hypothetical protein
+	[274293:275321:dir] COG1378; putative Transcriptional regulator, TrmB family
+	[275332:275553:rev] COG1873; hypothetical protein
+	[275665:276999:dir] COG1061; putative DNA/RNA repair helicase
+	[276987:277829:rev] COG0421; spermidine synthase
+	[277902:279095:dir] putative ATPase, AAA superfamily protein
+	[279092:279595:dir] COG1988; hypothetical protein containing DUF457 domain
+	[279582:280190:rev] COG2095; putative Multiple antibiotic resistance (Mar)-related protein
+	[280251:281141:dir] COG5608; hypothetical protein
+	[281505:283001:dir] 16S ribosomal RNA
+	[283063:283140:dir] tRNA-Ala
+	[283275:286311:dir] 23S ribosomal RNA
+	[286428:287909:dir] COG4697; hypothetical protein
+	[287915:288478:dir] COG2029; hypothetical protein
+	[288462:289061:rev] putative membrance protein
+	[289145:290716:dir] COG1384; lysyl-tRNA synthetase
+	[290936:291655:dir] hypothetical protein
+	[291626:292309:rev] COG0500; putative methyltransferase like protein
+	[292378:293325:dir] COG1907; GHMP kinase group 1
+	[293318:294469:dir] COG2441; hypothetical protein
+	[294630:295094:dir] COG1014; indolepyruvate oxidoreductase subunit B
+	[295164:296339:rev] COG0477; putative sugar transporter protein
+	[296410:297324:dir] COG0704; Transcriptional regulator SpoVT/AbrB family, containing PhoU domain
+	[297377:298294:dir] COG1446; L-asparagine amidohydrolase
+	[298294:299454:dir] COG0477; putative quinolone resistance protein norA -like protein
+	[299447:300379:dir] COG2516; putative biotin synthase
+	[300371:300955:rev] COG3273; putative potassium channel 1
+	[300933:301559:rev] COG3273; putative potassium channel 2
+<END>
+<GI> CP003534:3 <COORDINATES> 501492-523164 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.638083; n0_4mer:D = 33.050479; n0_4mer:PS = 30.205524
+	[501492:502499:dir] COG0463; putative glycosyl transferase family 2 protein
+	[502607:503614:dir] COG0500; putative FkbM family methyltransferase
+	[503544:504914:dir] hypothetical protein
+	[505003:505302:rev] COG2244; hypothetical protein
+	[505690:506352:rev] COG0730; putative permease
+	[506437:506973:rev] COG0529; adenylylsulfate kinase
+	[507517:508920:rev] COG2804; putative Type I phosphodiesterase / nucleotide pyrophosphatase superfamily
+	[509394:510413:rev] COG0668; putative small-conductance mechanosensitive channel
+	[510415:510975:rev] COG2430; hypothetical protein
+	[511192:511590:dir] hypothetical protein
+	[511549:512736:rev] COG1520; dehydrogenase
+	[512748:513578:rev] hypothetical protein
+	[513578:514777:rev] COG1721; hypothetical protein
+	[514780:515733:rev] COG0714; methanol dehydrogenase regulatory protein
+	[515726:516547:rev] hypothetical protein
+	[516681:519539:rev] hypothetical protein
+	[519544:520635:rev] COG1814; hypothetical protein
+	[520696:521838:rev] COG1759; 5-formaminoimidazole-4-carboxamide-1-(beta)-D- ribofuranosyl 5'-monophosphate synthetase
+	[521848:523164:rev] COG0151; phosphoribosylamine-glycine ligase
+<END>
+<GI> CP003534:4 <COORDINATES> 546000-569655 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.886347; n0_4mer:D = 27.033682; n0_4mer:PS = 51.041540
+	[546038:546712:rev] hypothetical protein
+	[546725:547672:rev] COG0530; putative Na(+)/Ca(2+)-exchanging protein
+	[547720:548793:rev] hypothetical protein
+	[548849:549199:rev] COG0835; purine-binding chemotaxis protein
+	[549283:550473:rev] COG0840; methyl-accepting chemotaxis protein
+	[550769:551608:dir] COG1352; chemotaxis protein methyltransferase
+	[551601:551963:dir] COG0784; chemotaxis response regulator
+	[551986:553092:dir] COG2201; chemotaxis-specific methylesterase
+	[553190:555382:dir] COG0643; chemotaxis histidine kinase
+	[555375:556004:dir] COG1776; Chemotaxis protein CheC 1
+	[556001:556627:dir] COG1776; Chemotaxis protein CheC 2
+	[556624:557118:dir] COG1871; chemoreceptor glutamine deamidase CheD
+	[557132:559378:dir] COG0840; methyl-accepting chemotaxis protein
+	[559412:560173:dir] hypothetical protein
+	[560421:561212:dir] COG2469; hypothetical protein
+	[561187:561891:rev] hypothetical protein
+	[562050:563354:rev] COG2379; putative glycerate kinase
+	[563365:564504:rev] COG1423; putative ATP dependent DNA ligase
+	[564623:565426:dir] COG2120; putative N-acetylglucosaminylphosphatidylinositol deacetylase
+	[565419:565868:rev] COG1487; hypothetical protein containing PilT protein domain
+	[565872:566081:rev] hypothetical protein
+	[566078:567529:rev] COG2723; putative beta-galactosidase
+	[567751:569655:dir] COG0747; putative dipeptide transport protein precursor
+<END>
+<GI> CP003534:5 <COORDINATES> 586756-604681 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.592741; n0_4mer:D = 26.456104; n0_4mer:PS = 33.591180
+	[586756:587439:rev] COG1976; translation initiation factor IF-6
+	[587468:587752:rev] COG2097; RPL31, large subunit ribosomal protein L31e
+	[587763:587918:rev] COG2167; RPL39, large subunit ribosomal protein L39e
+	[588036:588851:dir] COG0647; putative sugar-catabolism phosphotransferase
+	[588848:589222:dir] COG2027; hypothetical protein
+	[589303:590031:dir] COG1475; putative parB-like nuclease
+	[590203:590991:dir] hypothetical protein
+	[591038:591391:dir] COG1382; prefoldin subunit beta
+	[591417:591758:dir] hypothetical protein
+	[591721:592707:dir] COG0618; Phosphoesterase, RecJ-like protein
+	[592707:593039:dir] hypothetical protein
+	[593039:593764:dir] COG2517; putative tRNA-binding protein
+	[593768:594109:dir] COG1917; hypothetical protein
+	[594388:595353:dir] COG2244; putative polysaccharide biosynthesis protein
+	[595411:595488:dir] tRNA-Gly
+	[595563:595640:dir] tRNA-Arg
+	[595945:596520:rev] COG1878; cyclase-related protein
+	[596703:597884:dir] COG0499; putative S-adenosyl-L-homocysteine hydrolase
+	[597894:598535:dir] COG1720; hypothetical protein
+	[598614:599300:dir] hypothetical protein
+	[599269:600267:rev] hypothetical protein
+	[600440:600766:dir] COG3373; hypothetical protein
+	[601064:601741:dir] COG0500; putative SAM-dependent methyltransferase
+	[601888:602520:dir] COG1681; Archaeal flagellin, N-terminal domain protein
+	[602535:603167:dir] COG1681; Archaeal flagellin, N-terminal domain protein
+	[603279:603890:dir] COG1681; Archaeal flagellin, N-terminal domain protein
+	[603902:604681:dir] COG1681; Archaeal flagellin, N-terminal domain protein
+<END>
+<GI> CP003534:6 <COORDINATES> 845747-868799 <STAT> n1_4mer:GRV/n1_4mer:RV = 2.067935; n0_4mer:D = 26.635457; n0_4mer:PS = 46.656109
+	[845747:846013:dir] hypothetical protein
+	[846194:847015:dir] COG0003; arsenical pump-driving ATPase
+	[847002:847298:dir] hypothetical protein
+	[847299:847946:dir] hypothetical protein
+	[847947:848432:rev] COG0105; nucleoside diphosphate kinase
+	[848392:848700:rev] hypothetical protein
+	[848690:850609:rev] COG1199; DNA repair helicase rad3
+	[850957:851343:dir] hypothetical protein
+	[851802:853406:dir] COG0028; acetolactate synthase, large subunit
+	[853418:854407:dir] COG0059; ketol-acid reductoisomerase
+	[854445:855944:dir] COG0119; 2-isopropylmalate synthase
+	[855946:857217:dir] COG0065; 3-isopropylmalate dehydratase large subunit
+	[857214:857708:dir] COG0066; 3-isopropylmalate dehydratase small subunit
+	[857705:858766:dir] COG0473; 3-isopropylmalate dehydrogenase
+	[858753:860351:dir] COG0119; alpha-isopropylmalate/homocitrate synthase family transferase
+	[860320:861975:dir] COG0129; dihydroxy-acid dehydratase
+	[862190:863374:dir] mannosyl-3-phosphoglycerate synthase
+	[863371:864102:dir] COG3769; mannosyl-3-phosphoglycerate phosphatase
+	[864099:865496:dir] COG0836; mannose-6-phosphate isomerase/mannose-1-phosphate guanylyl transferase
+	[865539:866909:dir] COG1109; phospho-sugar mutase
+	[866898:868799:rev] COG1112; putative DNA2-NAM7 helicase family protein
+<END>
+<GI> CP003534:7 <COORDINATES> 918359-940099 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.693800; n0_4mer:D = 31.554748; n0_4mer:PS = 30.795468
+	[918359:919816:dir] COG0442; prolyl-tRNA synthetase
+	[919827:920384:dir] COG0237; hypothetical protein
+	[920486:921061:dir] COG2101; transcription factor (TATA-box-binding protein)
+	[921058:921342:rev] hypothetical protein
+	[921376:921783:rev] COG1931; hypothetical protein
+	[921834:922301:rev] COG1525; putative endonuclease
+	[922414:922668:rev] COG1531; hypothetical protein
+	[922671:923354:rev] COG0491; putative hydroxyacylglutathione hydrolase (glyoxalase II)
+	[923608:924258:dir] COG0450; peroxiredoxin
+	[924890:925594:rev] permease
+	[925591:926292:rev] hypothetical protein
+	[926289:927140:rev] COG1131; multidrug ABC transporter ATPase
+	[927263:927415:rev] putative UbiE/COQ5-like methyltransferase, frameshifted
+	[927393:927884:rev] putative UbiE/COQ5-like methyltransferase, frameshifted
+	[928237:928845:dir] COG1680; hypothetical protein
+	[928867:929124:rev] putative transcription regulator, containing DNA-binding HTH domain, truncated
+	[929563:929868:rev] COG0526; Thioredoxin
+	[929879:932281:rev] COG2217; heavy-metal transporting P-type ATPase
+	[932618:932869:dir] putative transcriptional regulator, AsnC family, truncated
+	[933421:933573:dir] putative radical SAM domain-containing protein, truncated
+	[934004:934690:dir] COG1131; ABC transporter ATP-binding protein
+	[934687:935454:dir] COG0842; ABC transporter ATP-binding protein
+	[935439:936251:dir] COG0842; ABC-type multidrug transport system permease
+	[936420:937583:dir] COG1499; putative nonsense-mediated mRNA decay protein
+	[937580:937891:dir] COG1324; periplasmic divalent cation tolerance protein
+	[937943:938323:rev] hypothetical protein
+	[938450:939856:dir] COG5016; pyruvate carboxylase subunit B
+<END>
+<GI> CP003534:8 <COORDINATES> 990756-1022343 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.865700; n0_4mer:D = 38.616105; n0_4mer:PS = 40.975899
+	[990756:992930:dir] COG0143; methionyl-tRNA synthetase
+	[993278:993988:dir] COG0543; ferredoxin-NADP(+) reductase subunit alpha
+	[993989:995398:dir] COG0493; putative glutamate synthase (NADPH/NADH) small chain
+	[995429:995902:rev] hypothetical protein
+	[996506:997300:rev] hypothetical protein
+	[997318:998088:rev] hypothetical protein
+	[998354:998533:dir] COG1890; hypothetical protein
+	[998557:1012023:dir] hypothetical protein
+	[1012071:1014350:dir] COG0457; hypothetical protein
+	[1014468:1014887:rev] COG0440; putative acetolactate synthase small subunit
+	[1014989:1017307:rev] putative kinase domain protein, truncated
+	[1017548:1017958:dir] hypothetical protein, truncated
+	[1018016:1018624:dir] COG2452; putative IS element ISTsi1 orfA, resolvase
+	[1018605:1019786:dir] COG0675; putative IS element ISTsi1 orfB trasposase
+	[1019934:1021265:dir] COG2461; putative PAS/PAC sensor protein
+	[1021267:1022343:dir] COG0006; putative X-pro dipeptidase-like protein (pepQ)
+<END>
+<GI> CP003534:9 <COORDINATES> 1082000-1104937 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.658477; n0_4mer:D = 26.574660; n0_4mer:PS = 48.483372
+	[1082616:1082693:dir] tRNA-Ala
+	[1082705:1082782:dir] tRNA-Val
+	[1082915:1083895:dir] hypothetical protein
+	[1084023:1084397:dir] COG1694; nucleotide pyrophosphohydrolase
+	[1084381:1086231:dir] COG1401; putative GTPase subunit of restriction endonuclease
+	[1086231:1087505:dir] COG4268; putative McrBC 5-methylcytosine restriction system component
+	[1087527:1090040:rev] COG0464; putative cell division control protein 48, aaa family
+	[1090018:1090794:rev] putative ORFZ protein
+	[1090855:1091850:rev] COG1013; pyruvate ferredoxin oxidoreductase subunit beta
+	[1091861:1093051:rev] COG0674; pyruvate ferredoxin oxidoreductase subunit alpha
+	[1093068:1093385:rev] COG1144; pyuvate ferredoxin oxidoreductase subunit delta
+	[1093439:1094374:rev] COG1013; 2-ketoisovalerate ferredoxin oxidoreductase subunit beta
+	[1094380:1095564:rev] COG0674; 2-ketoisovalerate ferredoxin oxidoreductase subunit alpha
+	[1095576:1095902:rev] COG1144; 2-ketoisovalerate ferredoxin oxidoreductase subunit delta
+	[1095953:1096510:rev] COG1014; pyruvate/ketoisovalerate ferredoxin oxidoreductase subunit gamma
+	[1096761:1097813:dir] COG3425; putative 3-hydroxy-3-methylglutaryl CoA synthase
+	[1097824:1098990:dir] COG0183; acetyl-CoA acetyltransferase
+	[1098992:1099396:dir] COG1545; hypothetical protein
+	[1099472:1099912:dir] COG0680; hypothetical protein containing HybD-like domain
+	[1099909:1100154:dir] hypothetical protein
+	[1100151:1100744:dir] COG2431; hypothetical protein
+	[1100746:1101699:dir] COG1800; hypothetical protein
+	[1101722:1102237:dir] COG2096; cobalamin adenosyltransferase
+	[1102234:1102920:dir] COG1794; aspartate racemase
+	[1102923:1103071:rev] may contain an intron; tRNA-Trp
+	[1103156:1104388:dir] COG0477; putative multidrug-efflux transporter
+	[1104377:1104937:rev] COG1711; hypothetical protein
+<END>
+<GI> CP003534:10 <COORDINATES> 1573794-1599408 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.995147; n0_4mer:D = 27.492704; n0_4mer:PS = 47.192106
+	[1573794:1576952:rev] COG0458; carbamoyl phosphate synthase large subunit
+	[1576945:1578063:rev] COG0505; carbamoyl phosphate synthase small subunit
+	[1578153:1578656:rev] hypothetical protein
+	[1578968:1579651:dir] COG0134; indole-3-glycerol-phosphate synthase
+	[1579648:1580628:dir] COG0547; anthranilate phosphoribosyltransferase
+	[1580871:1581908:dir] COG0147; anthranilate synthase component I
+	[1581912:1582484:dir] COG0512; anthranilate synthase component II
+	[1582484:1583110:dir] COG0135; N-(5'-phosphoribosyl)anthranilate isomerase
+	[1583097:1584263:dir] COG0133; tryptophan synthase subunit beta
+	[1584256:1585017:dir] COG0159; tryptophan synthase subunit alpha
+	[1585313:1589308:dir] COG1404; putative stetterlysin
+	[1589314:1590105:rev] COG0287; Prephenate dehydrogenase (pdh)
+	[1590090:1591124:rev] COG0436; aspartate aminotransferase
+	[1591108:1591338:rev] putative chorismate mutase, truncated
+	[1591426:1592499:rev] COG0082; chorismate synthase
+	[1592496:1593704:rev] COG0128; 3-phosphoshikimate 1-carboxyvinyltransferase
+	[1593824:1594420:dir] hypothetical protein
+	[1594417:1595031:dir] hypothetical protein
+	[1595043:1596032:dir] COG1063; alcohol dehydrogenase
+	[1596022:1596930:rev] COG1079; ribose ABC transporter permease
+	[1596927:1597919:rev] COG4603; putative ribose/galactose ABC transporter
+	[1597912:1599408:rev] COG3845; ABC sugar transporter
+<END>
+<GI> CP003534:11 <COORDINATES> 1644406-1671827 <STAT> n1_4mer:GRV/n1_4mer:RV = 1.996531; n0_4mer:D = 29.210576; n0_4mer:PS = 49.818707
+	[1644406:1645833:dir] COG0446; putative sarcosine oxidase subunit alpha
+	[1645830:1646336:dir] COG1142; polyferredoxin
+	[1646333:1646593:dir] COG0446; hypothetical protein
+	[1646590:1647723:dir] COG0665; putative sarcosine oxidase subunit beta
+	[1647726:1648187:rev] COG1422; hypothetical protein
+	[1648246:1648836:rev] COG2019; adenylate kinase
+	[1648897:1650303:rev] COG0201; preprotein translocase subunit SecY
+	[1650352:1650795:rev] COG0200; rplO, large subunit ribosomal protein L15
+	[1650806:1651273:rev] COG1841; rpmD, large subunit ribosomal protein L30
+	[1651285:1651995:rev] COG0098; rpsE, small subunit ribosomal protein S5
+	[1651992:1652603:rev] COG0256; rplR, large subunit ribosomal protein L18
+	[1652614:1653066:rev] COG2147; RPL19, large subunit ribosomal protein L19e
+	[1653076:1653468:rev] COG1717; RPL32, large subunit ribosomal protein L32e
+	[1653479:1654033:rev] COG0097; rplF, large subunit ribosomal protein L6
+	[1654044:1654436:rev] COG0096; rpsH, small subunit ribosomal protein S8
+	[1654448:1654618:rev] COG0199; rpsN, small subunit ribosomal protein S14
+	[1654622:1655182:rev] COG0094; rplE, large subunit ribosomal protein L5
+	[1655194:1655925:rev] COG1471; RPS4, small subunit ribosomal protein S4e
+	[1655925:1656290:rev] COG0198; rplX, large subunit ribosomal protein L24
+	[1656301:1656726:rev] COG0093; rplN, large subunit ribosomal protein L14
+	[1656732:1657073:rev] COG0186; rpsQ, small subunit ribosomal protein S17
+	[1657070:1657276:rev] Ribonuclease P protein component 1, truncated
+	[1657336:1657632:rev] COG0023; translation initiation factor Sui1
+	[1657645:1657851:rev] COG0255; rpmC, large subunit ribosomal protein L29
+	[1657838:1658470:rev] COG0092; rpsC, small subunit ribosomal protein S3
+	[1658475:1658942:rev] COG0091; rplV, large subunit ribosomal protein L22
+	[1658953:1659351:rev] COG0185; rpsS, small subunit ribosomal protein S19
+	[1659362:1660081:rev] COG0090; rplB, large subunit ribosomal protein L2
+	[1660093:1660353:rev] COG0089; rplW, large subunit ribosomal protein L23
+	[1660360:1661127:rev] COG0088; RPL4, large subunit ribosomal protein L4e
+	[1661138:1662223:rev] COG0087; rplC, large subunit ribosomal protein L3
+	[1662226:1663002:rev] COG2106; hypothetical protein
+	[1663142:1663801:rev] COG0517; hypothetical protein
+	[1664055:1664462:rev] COG2450; hypothetical protein
+	[1664566:1665813:rev] COG1078; hypothetical protein
+	[1665916:1666317:dir] COG1804; putative regulatory protein
+	[1666528:1666734:dir] COG2036; Archaeal histone A
+	[1666812:1667612:dir] COG1469; GTP cyclohydrolase
+	[1667609:1668118:rev] COG1913; putative Zinc metallopeptidase
+	[1668283:1668756:dir] COG3371; hypothetical protein
+	[1668753:1669358:dir] COG0301; putative thiamin biosynthesis protein thiI
+	[1669355:1669657:dir] hypothetical protein
+	[1669654:1670412:rev] COG1042; putative acetyl-CoA synthetase subunit beta
+	[1670409:1671827:rev] COG1042; putative succinyl-coA synthetase subunit alpha-like protein
+<END>
