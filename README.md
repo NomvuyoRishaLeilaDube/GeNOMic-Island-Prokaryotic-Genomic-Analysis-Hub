@@ -28,22 +28,20 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 
 ```
 ├── app.py                # Main Flask application
-├── requirements.txt      # Python dependencies
-├── .gitignore            # Files/folders to ignore in Git
+├── requirements.txt      # Python dependencies         
 ├── README.md             # This file
 ├── templates/            # HTML templates
 │   ├── home.html
 │   ├── index.html
 │   ├── genome.html
 │   └── viewer.html
-├── static/               # Static assets (CSS, images)
+├── static/               # Static assets (CSS)
 │   └── style.css
 ├── output/               # Genome output files (.svg, .out, .fas)
 │   ├── Archaea/
 │   └── Bacteria/
-└── venv/                 # Python virtual environment (ignored in Git)
-```
 
+```
 ---
 
 ## Setup Instructions
