@@ -1,10 +1,10 @@
-# GeNOMic Island: Prokaryotic Genomic Analysis Hub
+<h1 align="center"> GeNOMic Island: Prokaryotic Genomic Analysis Hub </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe301491-6d45-4fb9-81af-1d737f47e3b5" alt="Project Banner" width="100%">
 </p>
 
-<h1 align="center">🧬 GeNOMic Island Viewer</h1>
+<h2 align="center">🧬 GeNOMic Island Viewer</h2>
 <p align="center">
   A Flask-based web app for analyzing and visualizing genomic island predictions.
 </p>
@@ -20,7 +20,6 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 - Browse **.svg visualizations**, **`.out` reports**, and **`.fas` sequences**.
 - Select specific GIs by **ID** or **coordinates**.
 - Lightweight web interface using **Flask**, **HTML**, and **CSS**.
-- Automatic caching to improve performance on repeated accesses.
 
 ---
 
@@ -31,10 +30,10 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 ├── requirements.txt      # Python dependencies         
 ├── README.md             # This file
 ├── templates/            # HTML templates
-│   ├── home.html
-│   ├── index.html
-│   ├── genome.html
-│   └── viewer.html
+│   ├── home.html         # Home page 
+│   ├── index.html        # Genomic Table 
+│   ├── genome.html       # Genomic data 
+│   └── viewer.html       # Genomic Interface
 ├── static/               # Static assets (CSS)
 │   └── style.css
 ├── output/               # Genome output files (.svg, .out, .fas)
@@ -46,28 +45,18 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 
 ## Setup Instructions
 
-### 1. Clone the repository
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
-```
-
-### 2. Create and activate a virtual environment
+### 1. Create and activate a virtual environment
 ```
 python3 -m venv venv
-source venv/bin/activate   # Linux/Mac
-```
-#### On Windows PowerShell:
-```
-venv\Scripts\Activate.ps1
+source venv/bin/activate   # Linux
 ```
 
-### 3. Install dependencies
+### 2. Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-### 4. Organize genome output files
+### 3. Organize genome output files
 ```
 Place your SWGIS output files in the following directories:
 - Archaea: `output/Archaea/`
@@ -81,14 +70,14 @@ File types supported:
 Order of files for each genome: `.svg`, `.out`, `.fas`
 ```
 
-### 5. Run the application
+### 4. Run the application
 ```
 python app.py
 ```
 Open your browser and navigate to:  
 http://127.0.0.1:5002
 
-### 6. Using the Web App
+### 5. Using the Web App
 ```
 1. Home Page: Displays the total number of genomes and GIs per domain (Archaea/Bacteria).  
 2. Genome Table: Lists all genomes for the selected domain with Sequence ID, Organism name, and number of GIs.  
@@ -96,10 +85,10 @@ http://127.0.0.1:5002
 4. File Viewer: Renders .svg visualizations, displays .out reports and .fas sequences, and allows filtering of genomic islands by ID or coordinates.
 ```
 
-### 7. Dependencies
+### 6. Dependencies
 ```
-- Python: 3.8+
-- Flask: ≥ 2.3  
+- Python: 3.13.3
+- Flask: 3.1.2
 
 Install all required packages via:
 pip install -r requirements.txt
