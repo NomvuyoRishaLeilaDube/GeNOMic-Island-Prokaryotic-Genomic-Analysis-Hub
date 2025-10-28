@@ -40,6 +40,7 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 │ ├── Archaea/
 │ └── Bacteria/
 
+
 ## Setup Instructions
 
 **1. Create and activate a virtual environment**  
