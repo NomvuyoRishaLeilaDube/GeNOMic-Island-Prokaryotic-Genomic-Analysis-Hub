@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, url_for, redirect
 import os, re, time
 from datetime import datetime
 
@@ -106,7 +106,6 @@ def update_cache():
             archaea_total += gi_count
         else:
             bacteria_total += gi_count
-
     # Update cache totals and timestamps
     if new_file_state != cache["last_file_state"]:
         cache["archaea_islands"] = archaea_total
@@ -206,6 +205,61 @@ def view_file(seq_id, filename):
                            gi_options=gi_options, coord_options=coord_options,
                            selected_block=selected_block, seq_id=seq_id, domain=domain)
 
+# ---------------- NEW BLAST GI ENDPOINT ----------------
+@app.route("/blast_gi", methods=["POST"])
+def blast_gi():
+    seq_id = request.form.get("seq_id")
+    fasta_block = request.form.get("fasta_block")
+    results = []
+
+    if not fasta_block:
+        return "No sequence selected for BLAST.", 400
+
+    try:
+        from Bio.Blast import NCBIWWW, NCBIXML
+
+        # Run BLAST against NCBI nt database
+        result_handle = NCBIWWW.qblast("blastn", "nt", fasta_block, hitlist_size=200)
+        xml_data = result_handle.read()
+
+        # Save XML for full results link
+        BLAST_RESULTS_DIR = os.path.join("static", "blast_results")
+        os.makedirs(BLAST_RESULTS_DIR, exist_ok=True)
+        xml_filename = f"{seq_id}_blast.xml"
+        xml_path = os.path.join(BLAST_RESULTS_DIR, xml_filename)
+        with open(xml_path, "w") as f:
+            f.write(xml_data)
+
+        # Parse XML and extract top unique hits per organism
+        from io import StringIO
+        blast_records = NCBIXML.read(StringIO(xml_data))
+        seen_organisms = set()
+        for alignment in blast_records.alignments:
+            for hsp in alignment.hsps:
+                # Extract organism name from title
+                organism = alignment.title.split(",")[0].split()[-1]
+                if organism not in seen_organisms:
+                    seen_organisms.add(organism)
+                    pct_identity = round((hsp.identities / hsp.align_length) * 100, 2)
+                    query_cov = round((hsp.align_length / blast_records.query_length) * 100, 2)
+                    results.append({
+                        "title": alignment.title,
+                        "length": alignment.length,
+                        "score": hsp.score,
+                        "e_value": hsp.expect,
+                        "identities": hsp.identities,
+                        "pct_identity": pct_identity,
+                        "query_cov": query_cov
+                    })
+                    break  # only top HSP per organism
+
+        full_results_url = url_for('static', filename=f"blast_results/{xml_filename}")
+
+    except Exception as e:
+        results = [{"error": str(e)}]
+        full_results_url = None
+
+    return render_template("blast.html", blast_results=results, full_results_url=full_results_url)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True, port=5002)
