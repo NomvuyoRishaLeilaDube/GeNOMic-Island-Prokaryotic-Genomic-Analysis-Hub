@@ -1,8 +1,0 @@
-MGE
-n1_4mer:GRV/n1_4mer:RV
-val2:0.0,val1:1.5,mode:absolute,condition:bigger than
-n0_4mer:D
-val2:0.0,val1:1.7,mode:sigmas,condition:bigger than
-n0_4mer:PS
-val2:0.0,val1:55.0,mode:absolute,condition:smaller than
-END
