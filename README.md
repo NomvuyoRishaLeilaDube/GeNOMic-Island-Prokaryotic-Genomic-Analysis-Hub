@@ -17,7 +17,7 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 
 - View **archaeal and bacterial genomes** with GI summaries.
 - Inspect **Number of Genomic Islands (GIs)** per genome.
-- Browse **.svg visualizations**, **`.out` reports**, and **`.fas` sequences**.
+- Browse **`.svg` visualizations**, **`.out` reports**, and **`.fas` sequences**.
 - Select specific GIs by **ID** or **coordinates**.
 - Lightweight web interface using **Flask**, **HTML**, and **CSS**.
 - Automatic caching to improve performance on repeated accesses.
