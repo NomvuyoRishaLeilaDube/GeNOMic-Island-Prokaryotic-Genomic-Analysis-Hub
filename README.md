@@ -91,6 +91,7 @@ http://127.0.0.1:5002
 ```text
 Python: 3.13.3
 Flask: 3.1.2
+Biopython 
 
 Install all required packages via:
 pip install -r requirements.txt
