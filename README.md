@@ -94,9 +94,19 @@ http://127.0.0.1:5002
 ```text
 Python: 3.13.3
 Flask: 3.1.2
-Biopython 1.85
+Biopython 1.8.5
 
 Install all required packages via:
 pip install -r requirements.txt
 ```
+
+## **7. "Mock Test" Example**
+
+- **STEP 1:** Download "BIF703.zip" folder 
+- **STEP 2:** Uncompress folder "BIF703.zip"
+- **STEP 3:** Open "Sniffer" folder in the terminal 
+- **STEP 4:** Create a virtual environment → python3 -m venv venv
+- **STEP 5:** Activate the virtual environment → source venv/bin/activate  
+- **STEP 6:** Install dependencies → pip install flask biopython
+- **STEP 7:** Run GeNOMic Island → python app.py
 
