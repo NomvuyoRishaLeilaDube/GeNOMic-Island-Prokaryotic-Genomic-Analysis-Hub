@@ -6,10 +6,10 @@
 
 <h2 align="center">🧬 GeNOMic Island Viewer</h2>
 <p align="center">
-  A Flask-based web app for analyzing and visualizing genomic island predictions.
+Explore genomic islands → visualize, analyze, and BLAST with Flask! 
 </p>
 
-GeNOMic Island is a **Flask-based web application** designed for the exploration, visualization, and analysis of **prokaryotic genomic islands (GIs)**. It provides a user-friendly interface for inspecting outputs from the **SeqWord Genomic Island Sniffer (SWGIS)**, including .svg visualizations, .out GI reports, and .fas sequences. The platform supports both **archaeal and bacterial genomes**, allowing researchers to quickly summarize GI counts, explore GI content, and navigate between genome-level data and individual GI annotations.
+GeNOMic Island is a **Flask-based web application** designed for the exploration, visualization, and analysis of **prokaryotic genomic islands (GIs)**. It provides a user-friendly interface for inspecting outputs from the **SeqWord Genomic Island Sniffer (SWGIS)**, including .svg visualizations, .out GI reports, and .fas sequences. The platform supports both **archaeal and bacterial genomes**, allowing researchers to quickly summarize GI counts, explore GI content, and navigate between genome-level data and individual GI annotations, and **perform BLAST searches on selected GI sequences directly from the web interface**.
 
 ---
 
@@ -19,6 +19,7 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 - Inspect **Number of Genomic Islands (GIs)** per genome.
 - Browse **`.svg` visualizations**, **`.out` reports**, and **`.fas` sequences**.
 - Select specific GIs by **ID** or **coordinates**.
+- Run **BLAST searches** on selected genomic island sequences directly from the web interface.
 - Lightweight web interface using **Flask**, **HTML**, and **CSS**.
 - Automatic caching to improve performance on repeated accesses.
 
@@ -35,6 +36,7 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 │ ├── index.html            # Genomic Table
 │ ├── genome.html           # Genomic data
 │ └── viewer.html           # Genomic Interface
+│ └── blast.html            # Blast Results
 ├── static/                 # Static assets (CSS)
 │ └── style.css
 ├── output/                 # Genome output files (.svg, .out, .fas)
@@ -84,14 +86,15 @@ http://127.0.0.1:5002
 - **Home Page**: Displays the total number of genomes and GIs per domain (Archaea/Bacteria).  
 - **Genome Table**: Lists all genomes for the selected domain with Sequence ID, Organism name, and number of GIs.  
 - **Genome Page**: Click a Sequence ID to browse .svg visualizations, view .out reports, and inspect .fas sequences.  
-- **File Viewer**: Renders .svg visualizations, displays .out reports and .fas sequences, and allows filtering of genomic islands by ID or coordinate.  
+- **File Viewer**: Renders .svg visualizations, displays .out reports and .fas sequences, and allows filtering of genomic islands by ID or coordinate.
+- **BLAST Functionality**: Select a GI sequence block from a .fas file and click "BLAST Selected GI" to run an NCBI BLAST search against the nucleotide (nt) database. The results shown in a table, as well as XML format (which can be accessed for detailed BLAST outputs).
 
 
 ## **6. Dependencies**
 ```text
 Python: 3.13.3
 Flask: 3.1.2
-Biopython 
+Biopython 1.85
 
 Install all required packages via:
 pip install -r requirements.txt
