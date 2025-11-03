@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ domain.title() if domain else 'All' }} Genomes</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Wrapper for the content */
+        .content-wrapper {
+            max-width: 90%;
+            margin: 20px auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center; /* keep headings/buttons centered */
+        }
+
+        /* Main heading */
+        h1 {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Preformatted text block */
+        pre {
+            background-color: #f8f8f8;
+            color: #000;
+            padding: 10px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-height: 500px;
+            overflow: auto;
+            width: 100%;
+            box-sizing: border-box;
+            text-align: left;
+            display: block;
+        }
+
+        /* SVG container styling */
+        .svg-container {
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid #000;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px auto;
+            width: 100%;
+            box-sizing: border-box;
+            text-align: left;
+        }
+
+        svg {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        /* Breadcrumb navigation */
+        .breadcrumb {
+            text-align: left;
+            display: block;
+            width: 100%;
+            margin-bottom: 20px;
+            padding: 10px 15px;
+            background-color: #f0f0f0;
+            border: 2px solid #000;
+            border-radius: 10px;
+            font-weight: bold;
+            box-sizing: border-box;
+        }
+        .breadcrumb a {
+            text-decoration: none;
+            color: #000;
+        }
+        .breadcrumb span {
+            color: #333;
+        }
+
+        /* GI filter + BLAST button wrapper */
+        .filter-blast-wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px auto;
+        }
+
+        /* Form panel around dropdowns/buttons */
+        .form-panel {
+            background-color: rgba(255,255,255,0.95);
+            border: 2px solid #000;
+            border-radius: 10px;
+            padding: 15px;
+            display: inline-block;
+        }
+
+        .filter-blast-wrapper form {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin: 0;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        select,
+        button {
+            padding: 5px 10px;
+            margin: 5px;
+            font-size: 14px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        /* BLAST button green */
+        .blast-button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 8px 15px;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+        }
+
+        .blast-button:hover {
+            background-color: #218838;
+        }
+
+        /* Spinner styling */
+        #spinner {
+            display: none;
+            margin: 20px auto;
+            border: 6px solid #f3f3f3;
+            border-top: 6px solid #4CAF50;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+
+    <script>
+        function showSpinner() {
+            document.getElementById('spinner').style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+<div class="content-wrapper">
+    {% if request.path != '/' %}
+    <div class="breadcrumb">
+        <a href="{{ url_for('home') }}">Home</a> &gt;
+        {% if domain %}<a href="{{ url_for('genomes', domain=domain) }}">{{ domain.title() }} Genomes</a> &gt;{% endif %}
+        {% if seq_id %}<a href="{{ url_for('genome', seq_id=seq_id) }}">{{ seq_id }}</a> &gt;{% endif %}
+        <span>{{ filename }}</span>
+    </div>
+    {% endif %}
+
+    <h1>Viewing: {{ filename }}</h1>
+
+    {% if file_type in ['out', 'fas', 'fasta'] %}
+    <div class="filter-blast-wrapper">
+        <div class="form-panel">
+            <form method="POST" class="buttons">
+                <label for="gi_id">GI ID:</label>
+                <select name="gi_id" id="gi_id">
+                    <option value="">--Select GI--</option>
+                    {% for gi in gi_options %}
+                    <option value="{{ gi }}">{{ gi }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="coordinates">Coordinates:</label>
+                <select name="coordinates" id="coordinates">
+                    <option value="">--Select Coordinates--</option>
+                    {% for coord in coord_options %}
+                    <option value="{{ coord }}">{{ coord }}</option>
+                    {% endfor %}
+                </select>
+
+                <button type="submit">Filter</button>
+                <button type="submit" name="reset" value="1">Reset</button>
+            </form>
+
+            {% if selected_block and file_type in ['fas', 'fasta'] %}
+            <form method="POST" action="{{ url_for('blast_gi') }}" onsubmit="showSpinner()">
+                <input type="hidden" name="seq_id" value="{{ seq_id }}">
+                <input type="hidden" name="fasta_block" value="{{ selected_block }}">
+                <button type="submit" class="blast-button">BLAST Selected GI</button>
+            </form>
+            {% endif %}
+        </div>
+    </div>
+
+    <div id="spinner"></div>
+    <pre>{{ selected_block }}</pre>
+
+    {% elif file_type == 'svg' %}
+    <div class="svg-container">
+        {{ svg_content | safe }}
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>
