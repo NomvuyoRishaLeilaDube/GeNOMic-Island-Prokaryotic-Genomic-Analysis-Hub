@@ -19,7 +19,7 @@ GeNOMic Island is a **Flask-based web application** designed for the exploration
 - Inspect **Number of Genomic Islands (GIs)** per genome.
 - Browse **`.svg` visualizations**, **`.out` reports**, and **`.fas` sequences**.
 - Select specific GIs by **ID** or **coordinates**.
-- Run **BLAST searches** on selected genomic island sequences directly from the web interface.
+- Run **BLAST searches** on selected GI sequences directly from the web interface.
 - Lightweight web interface using **Flask**, **HTML**, and **CSS**.
 - Automatic caching to improve performance on repeated accesses.
 
@@ -66,9 +66,9 @@ Place your SWGIS output files in the following directories:
 **Bacteria**: output/Bacteria/  
 
 File types supported:  
-**.svg** → Visual representations of genomic islands  
+**.svg** → Visual representations of GIs  
 **.out** → GI annotation reports  
-**.fas** → DNA sequences of genomic islands  
+**.fas** → DNA sequences of GIs  
 
 Order of files for each genome: **.svg, .out, .fas**
 
@@ -87,7 +87,7 @@ http://127.0.0.1:5002
 - **Genome Table**: Lists all genomes for the selected domain with Sequence ID, Organism name, and number of GIs.  
 - **Genome Page**: Click a Sequence ID to browse .svg visualizations, view .out reports, and inspect .fas sequences.  
 - **File Viewer**: Renders .svg visualizations, displays .out reports and .fas sequences, and allows filtering of genomic islands by ID or coordinate.
-- **BLAST Functionality**: Select a GI sequence block from a .fas file and click "BLAST Selected GI" to run an NCBI BLAST search against the nucleotide (nt) database. The results shown in a table, as well as XML format (which can be accessed for detailed BLAST outputs).
+- **BLAST Functionality**: Select a GI sequence block from a .fas file and click "BLAST Selected GI" to run an NCBI BLAST search against the nucleotide (nt) database. The results shown in a table, as well as XML format (which can be accessed for detailed BLAST outputs). Additionally, BLAST homolgies can be accessed on NCBI via a "Link Title". 
 
 
 ## **6. Dependencies**
