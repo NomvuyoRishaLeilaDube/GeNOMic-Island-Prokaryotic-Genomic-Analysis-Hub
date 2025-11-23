@@ -1,4 +1,4 @@
-<h1 align="center"> GeNOMic Island: Prokaryotic Genomic Analysis Hub </h1>
+<h1 align="center"> GeNOMic Island: Prokaryotic Genome Analysis Hub </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe301491-6d45-4fb9-81af-1d737f47e3b5" alt="Project Banner" width="100%">
